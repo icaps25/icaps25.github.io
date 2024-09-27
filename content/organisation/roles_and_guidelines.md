@@ -141,6 +141,18 @@ inspired from real cases of ICAPS reviews and related venues):
      as part of the camera-ready preparation process. If so, remind the reviewer gently that the reviewing panel is 
      not *just* an editorial one, and that the technical merits of the paper trump any perceived or real issues with how
      the paper is written. Negative reviews need to lean heavily on technical aspects rather than minutiae.
+ - Short reviews are acceptable for papers that are clearly going to be rejected (e.g. partially written in
+   languages other than English, making outlandish claims without any evidence or contradicting existing well-known
+   results). Other than this, check the following:
+   - *Tactic for Positive Reviews*: it is likely that the reviewer does not feel confident enough to make an assessment
+   but still has a go at it, or maybe it has been delegated. Apply firmly but kindly some pressure on the reviewer so that
+   the positive aspects are substantiated and made specific, clearly articulating why the paper should be accepted.
+   - *Tactic for Negative Reviews*: in this case it is necessary to ask directly the reviewer to put examples of each
+   negative aspect in the paper. For instance, if related work is noted as missing, then ask which are those works and
+   why they are so important, if it is expressed that experiments are incomplete then the reviewer needs to precisely
+   define what is missing, and identify what metrics and baselines must be used, giving bibliographic references if 
+   possible. Claims of lack of novelty need to be articulated in the context of the paper. Do not allow reviewers to
+   get away with a review that does not provide specific statements for the authors to reply to.
 
 ### Dealing with inappropriate reviews
 

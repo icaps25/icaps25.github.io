@@ -4,7 +4,7 @@ date: 2022-09-29T13:23:05+02:00
 draft: false
 ---
 
-# Important Dates
+# Important Dates and Events
 
 All dates for the Main Technical track have been announced. More dates related to ICAPS 2025 will appear here soon...
 
@@ -14,9 +14,10 @@ All dates for the Main Technical track have been announced. More dates related t
 - October 25, 2024 - Abstracts due
 - November 1, 2024 - Full papers due (electronic submission, PDF)
 - November 15 2024 - Desk reject notification
-- December 16, 2024 - Phase 1 author notification
+- December 16, 2024 - Phase 1 reject notification
+  - Authors receive Phase 1 reviews
 - January 27-31, 2024 - Author feedback period
-- February 28, 2025 - Phase 2 author notification
+- February 28, 2025 - Phase 2 acceptance or rejection notifications
 
 
 ## 2025

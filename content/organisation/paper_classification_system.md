@@ -33,26 +33,26 @@ find in the paper. We note that the authors of papers where contributions match 
 more than one type of contribution, we encourage authors to consider submitting additional, shorter papers to the 
 conference or its satellite workshops. 
 
-- Theoretical  
+- **Theoretical**  
   - The paper reports contributions that broaden the set of analytical tools to study problems and algorithms. 
   - Examples of contributions in this category would be, but are not limited to: complexity results, 
     expressiveness/compilations, new frameworks
-- Algorithmic 
+- **Algorithmic** 
   - The paper reports contributions that add new methodologies and algorithms to solve planning problems.
   - Examples of contributions in this category would be, but are not limited to: optimisations/specialisations of 
     existing algorithms, propagators, decompositions into sub-problems, etc.
-- Models 
+- **Models** 
   - The paper describe new representations of planning problems and their solutions. 
   - Examples of contributions in this category would be, but are not limited to: new mathematical frameworks for 
     existing problems or original descriptions of new problems, refinements in existing frameworks for knowledge 
     representation of actions, goals, states, or other rigorously defined concept that describes solutions
     planning and scheduling problems.
-- Position Paper
+- **Position Paper**
   - The paper contributes a thoughtful critique or bold new perspectives of the field.
   - Examples of contributions in this category would be: meta-analysis of research trends, descriptions of new challenge 
     problems suitable for planning and scheduling, historical perspectives and analysis of the field and technical 
     discussions of various implementation techniques.
-- Tools
+- **Tools**
   - The paper discusses a tool of interest to the community or a new version of a tool built using novel algorithmic
     and engineering techniques. 
   - Examples of contributions in this category would be, but are not limited to, planners (i.e. solvers integrating 
@@ -69,36 +69,36 @@ Specific guidelines and submission instructions are provided for [Tools](/calls/
 Topics are terms that describe the context that motivates the research questions and accompanying assumptions that are 
 addressed in the paper. ICAPS 2025 invites papers addressing the following topics:
 
-- Abstract Models
+- **Abstract Models** _of Planning and Scheduling_
   - Planning and scheduling problems are described rigorously in terms of a suitably defined axiomatic theory. The axioms
   of this theory provide the building blocks to establish the existence (or non-existence) of solutions. This topic 
   encompasses research formulated on frameworks such as, but not exclusively, PDDL, RDDL, Markov Decision Processes, Transition 
   Systems and Automata, Graph Theory, etc. and methodologies as diverse as Heuristic Search and Dynamic Programming, Boolean 
   Satisfiability, Discrete and Continuous Optimisation, etc.
-- Machine Learning 
+- **Machine Learning** _in Planning and Scheduling_
   - Applications of the theory and algorithms of Machine Learning to the representation and solution of planning and 
   scheduling problems. This is a wide-ranging topic that covers Reinforcement Learning, Representation Learning, integrations
   of or with Large Language Model technology, etc. We expect submissions to this topic to formulate their assumptions in a 
   rigorous fashion, connected to existing mathematical formulations of planning and scheduling problems. Novel formulations
   are welcome, and in that case, it will be expected that the submission contains an articulate and compelling argument
   based on capabilities that are either absent or limited in existing methodologies and formulations.
-- Robotics and Control Theory
+- _Planning and Scheduling in_ **Robotics and Control Theory** in _Planning and Scheduling_ 
   - This topic addresses approaches to planning and scheduling where the theory used to represent problems and
   reason about the existence of solutions is an "intuitive" one, that models with some degree of fidelity the constraints
   that agent(s) physical form and actions are subject to in the real world. Methodologies specific to this topic are
   (nonlinear) mathematical programming, unconstrained optimisation, model predictive control methods, geometric reasoning, 
   amongst many others. 
-- Human-aware 
+- **Human-aware** _Planning and Scheduling_
   - Submissions made to this topic discuss frameworks and algorithms that address applications of planning and scheduling 
   in which a human is in or on the loop. This requires to adopt and reason about assumptions that take into account quantitative
   or qualitative aspects of human cognition, psychology, user interface design, and other multi-disciplinary topics.
   We expect submissions to ICAPS to present these assumptions in a rigorous and mathematical fashion, connected
   with existing work on abstract models of planning problems, robotics and control theory.
-- Applications (Special Topic) 
+- **Applications** _of Planning and Scheduling_ (Special Topic) 
   - Applications of planning and scheduling technologies in Engineering, Management in enterprise environments. Submissions to 
     this topic are processed via a slightly different workflow that acknowledges the gaps
     between academic research and applied engineering in a commercial enterprise.
-- Knowledge Engineering (Community Topic)
+- **Knowledge Engineering** _in Planning and Scheduling_ (Community Topic)
   - Knowledge Engineering for Planning and Scheduling is the collection of processes involving (i) the acquisition, 
   validation, verification, and maintenance of models of planning problems, (ii) the selection and optimisation of appropriate 
   planning and scheduling technology, and (iii) the integration of (i) and (ii) to deliver automated planning and 
