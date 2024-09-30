@@ -1,14 +1,17 @@
 #baseURL = 'https://icaps25.icaps-conference.org'
 baseURL = 'https://icaps25.github.io/'
-languageCode = 'en_AU'
 title = 'ICAPS 2025'
 theme = 'mainroad'
+
+[languages.en]
+contentDir = 'content'
+languageCode = 'en_AU'
 
 [Params.logo]
   image = "img/icapslogo.png" # Logo image. Path relative to "static"
   title = "The 35th International Conference" # Logo title, otherwise will use site title
   title2 = "on Automated Planning and Scheduling"
-  subtitle = "Melbourne, Victoria, Australia, November 9-14, 2025" # Logo subtitle
+  subtitle = "Melbourne, Victoria, Australia, \nNovember 9-14, 2025" # Logo subtitle
 
 [Params.style.vars]
      highlightColor = "#f5821f"
@@ -122,7 +125,7 @@ theme = 'mainroad'
   weight = 4000
 [[menu.main]]
   identifier = "main_track"
-  name = "Call for Papers"
+  name = "Main Track"
   url = "/calls/main_track"
   parent = "calls"
   weight = 10

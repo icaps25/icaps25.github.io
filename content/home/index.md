@@ -11,10 +11,14 @@ draft: false
 <div id="ww_74a8a25ca6a11" v='1.3' loc='id' a='{"t":"responsive","lang":"en","sl_lpl":1,"ids":["wl2863"],"font":"Arial","sl_ics":"one_a","sl_sot":"celsius","cl_bkg":"image","cl_font":"#FFFFFF","cl_cloud":"#FFFFFF","cl_persp":"#81D4FA","cl_sun":"#FFC107","cl_moon":"#FFC107","cl_thund":"#FF5722"}'>More forecasts: <a href="https://oneweather.org/sydney/30_days/" id="ww_74a8a25ca6a11_u" target="_blank">Sydney 30 days weather forecast</a></div><script async src="https://app2.weatherwidget.org/js/?id=ww_74a8a25ca6a11"></script><br>
 -->
 
+<!-- Example banner image, the idea is to have images in the body rather than in the app bar. -->
+
+<!-- ![Banner image](https://images.unsplash.com/photo-1514395462725-fb4566210144?q=80&w=2671&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D) -->
+
 The [International Conference on Automated Planning and
 Scheduling](https://www.icaps-conference.org) (ICAPS) is
 the premier forum for exchanging news and research results on the theory and
-applications of intelligent and automated planning and scheduling technology. 
+applications of intelligent and automated planning and scheduling technology.
 
 **ICAPS 2025** is the 35th edition of the ICAPS conference series and will take place in Melbourne, Victoria, Australia in November 2025. The conference will be co-located with the following events:
 
@@ -34,10 +38,9 @@ to:
 - Novel tools and frameworks for analysing and verifying the properties of systems executing plans, policies or schedules;
 - Studies of applying automated planning and scheduling technologies to significant problems with deep technical insight.
 
-The following video has been prepared by the Program Committee to walk interested parties through the major changes 
+The following video has been prepared by the Program Committee to walk interested parties through the major changes
 in the organisation of the conference with respect to previous editions:
 
 <div align="center">
  <iframe width="560" height="315" src="https://www.youtube.com/embed/4H9QyvOapek?si=3O7uiKJf5nylDLgn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
-
