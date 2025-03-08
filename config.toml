@@ -171,12 +171,12 @@ languageCode = 'en_AU'
 #    url = "/calls/tutorial_call"
 #    parent = "calls"
 #    weight = 50
-#  [[menu.main]]
-#    identifier = "demos_call"
-#    name = "Call for System Demonstrations"
-#    url = "/calls/demos"
-#    parent = "calls"
-#    weight = 70
+ [[menu.main]]
+   identifier = "demos_call"
+   name = "Call for System Demonstrations"
+   url = "/calls/demos"
+   parent = "calls"
+   weight = 70
 # [[menu.main]]
 #   identifier = "dc_call"
 #   name = "Call for Doctoral Consortium"
