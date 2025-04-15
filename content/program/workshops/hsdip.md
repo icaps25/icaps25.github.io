@@ -50,23 +50,28 @@ Examples of typical topics for submissions to this workshop are:
 
 ## Submission Details
 
-Please format submissions in AAAI style (see instructions in the Author Kit at https://aaai.org/authorkit25/). Long (up to 9 pages including references) and short (up to 5 pages including references) papers are the standard category, submissions shorter than the page limit are welcome. Long papers will be allocated a longer presentation at the workshop. Authors considering submitting to the workshop papers rejected from the main conference, please ensure you do your utmost to address the comments given by ICAPS reviewers. Please do not submit papers that are already accepted for the main conference to the workshop.
+Please format submissions in AAAI style (see instructions in the Author Kit at https://aaai.org/authorkit25/). Long (up to 9 pages including references) and short (up to 5 pages including references) papers are the standard category, submissions shorter than the page limit are welcome. Long papers will be allocated a longer presentation at the workshop. 
 
-Submissions will be made through OpenReview (we will add the link here soon).
+Submissions will be made through OpenReview
+https://openreview.net/group?id=icaps-conference.org/ICAPS/2025/Workshop/HSDIP
+
 
 The following conditions apply:
 
- - Submissions will be double blind in general and single blind to the area chair.
- - The submitted papers, reviews and discussion between authors and reviewers will be public, and all anonymous.
- - Discussions between reviewers and organizers will be private.
-
-Previously published papers are only assessed based on their relevance to the workshop by a member of the organizing committee and will not receive a full review. Unpublished work will be reviewed by a member of the organizing committee, and/or external reviewers selected by the organizing committee, according to the usual criteria such as relevance to the workshop, significance of the contribution, and technical quality. There will be a brief discussion phase where author and reviewers can interactively engage and discuss the submission and the reviews.
-
-At least one author of each accepted paper must attend the workshop in order to present the paper.
+- Submissions will be *double blind* (except for two program chairs who will see author names).
+- Papers will be reviewed by a member of the organizing committee, and/or external reviewers selected by the organizing committee, according to the usual criteria such as relevance to the workshop, significance of the contribution, and technical quality.
+- Authors may send a rebuttal to the reviews which will be discussed by the reviewers before making the acceptance decision.
+- Accepted papers, reviews and discussion between authors and reviewers will be *public*, and all *anonymous*.
+- Discussions between reviewers and organizers will remain *private*.
+- At least one author of each accepted paper must attend the workshop in order to present the paper.
 
 ### Policy on Previously Published Materials
 
-Submissions sent to other conferences are allowed. It is the responsibility of the authors to ensure that those venues allow for papers submitted to be already published in "informal" ways (e.g. on proceedings or websites without associated ISSN/ISBN). In particular, we welcome submissions sent to the IJCAI conference.
+*Previously published papers* to conferences *other than ICAPS* are allowed. They will only receive a light review for relevance by a member of the organizing committee. Please do not submit papers accepted at the main conference.
+
+*Rejected papers from the main conference* are welcome if you do your utmost to address the comments given by ICAPS reviewers.
+
+*Parallel submissions* sent to other conferences are allowed from our side. It is your responsibility to ensure that those venues allow for papers submitted to be published in parallel "informal" ways (e.g. in workshop proceedings or websites without associated ISSN/ISBN).
 
 ## Workshop Committee
 
