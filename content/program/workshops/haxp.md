@@ -76,7 +76,7 @@ At least one author of each accepted paper must attend the workshop in order to 
 
 ## Steering Committee
 
-* [Jeremy Frank](https://www.nasa.gov/content/jeremy-frank) | NASA
+* [Jeremy Frank](https://www.linkedin.com/in/jeremy-frank-62141bb3/) | NASA
 * [Claudia Goldman](https://il.linkedin.com/in/claudiagoldman) | General Motors 
 * [Jörg Hoffmann](http://fai.cs.uni-saarland.de/hoffmann/)| Saarland University
 * [Subbarao Kambhampati](https://rakaposhi.eas.asu.edu/) | Arizona State University
