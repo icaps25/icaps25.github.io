@@ -12,11 +12,12 @@ November 10-11, 2025
 
 | Schedule            |          |
 |---------------------|----------|
-| Abstract Submission | TBD      |
-| Submission          | TBD      |
-| Discussion          | TBD      |
-| Notification        | TBD      |
-| Camera Ready        | TBD      |
+| Abstract Submission | May 16, 2025 |
+| Submission          | May 27, 2025 |
+| Author Feedback     | June 23 - June 27, 2025  |
+| Notification        | Juli 1, 2025|
+| Camera Ready        | Juli 21, 2025 |
+All times are _UTC-12_.
 
 ## Aim and Scope of the Workshop
 
