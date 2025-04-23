@@ -83,6 +83,6 @@ You can contact us at [hsdip@googlegroups.com](mailto:hsdip@googlegroups.com).
 - [Florian Pommerening](https://ai.dmi.unibas.ch/people/pommeren/), University of Basel, Switzerland  
 - [Devin Thomas](https://dwthomas.github.io/), University of New Hampshire, United States  
 - [Arnaud Lequen](https://mrlab.ai/arnaud-lequen/), Linköping University, Sweden  
-- [Paul Höft](https://liu.se/en/employee/pauho63), Linköping University, Sweden  
+- [Paul Höft](https://mrlab.ai/paul-hoft/), Linköping University, Sweden  
 - [Alison Paredes](https://mulab.ai/member/alison.paredes/), Queen's University, Canada  
 - [Eyal Weiss](https://sites.google.com/view/eyal-weiss), Technion, Israel
