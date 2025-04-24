@@ -49,7 +49,7 @@ The reference timezone for all deadlines is UTC-12. That is, as long as there is
 
 Two types of papers can be submitted. Full technical papers with the length up to 8 pages + 1 for references, are standard research papers. Short papers with the length between 2 and 4 pages (+1 for references) describe either a particular application or focus on open challenges. All papers must be submitted in a PDF format and must conform to the [ICAPS 2025 author kit instructions for formatting](https://icaps25.icaps-conference.org/calls/main_track/). 
 
-The submission will be done via Easychair (link TBC).
+The submission will be done via [ChairingTool](https://chairingtool.com/conferences/keps25/main-track?role=author).
 
 ### Policy on Previously Published Materials
 
