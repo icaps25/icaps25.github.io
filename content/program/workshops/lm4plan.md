@@ -63,8 +63,8 @@ main ICAPS conference to the workshop.
 Paper submissions should be made through OpenReview.
 
 Organizing Committee
-Pascal Bercher, Australian National Univeristy
-Augusto B. Corrêa, University of Oxford
-Morgan Fine-Morris, Naval Research Laboratory
-Michael Katz, IBM Research
-Sarath Sreedharan, Colorado State University
+- Pascal Bercher, Australian National Univeristy
+- Augusto B. Corrêa, University of Oxford
+- Morgan Fine-Morris, Naval Research Laboratory
+- Michael Katz, IBM Research
+- Sarath Sreedharan, Colorado State University
