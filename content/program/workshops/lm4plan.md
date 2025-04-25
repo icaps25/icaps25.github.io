@@ -38,7 +38,7 @@ We invite paper submissions on the following (not exhaustive) list of topics:
 - Planning for LLMs and VLMs.
 
 
-# Important Dates
+## Important Dates
 
 - Paper submission deadline: August 1st, AoE
 - Paper acceptance notification: August 31st, AoE
@@ -47,7 +47,7 @@ ICAPS will be in-person this year. Authors of accepted workshop papers are
 expected to register for the workshop, physically attend the conference and
 present in person.
 
-# Submission Details
+## Submission Details
 
 We solicit workshop paper submissions relevant to the above call of the following types:
 
@@ -62,7 +62,7 @@ main ICAPS conference to the workshop.
 
 Paper submissions should be made through OpenReview.
 
-Organizing Committee
+### Organizing Committee
 - Pascal Bercher, Australian National Univeristy
 - Augusto B. Corrêa, University of Oxford
 - Morgan Fine-Morris, Naval Research Laboratory
