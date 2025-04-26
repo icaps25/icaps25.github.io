@@ -37,8 +37,7 @@ Here is the list of the worskhops accepted to ICAPS 2025
  
  <div style="width: 95%; padding: 1%; border-bottom: 1px solid orange">
  	<div style="display:inline-block; width: 20%; text-align:center; vertical-align: middle;">
- 		<!-- <p><a href="/program/workshops/hplan" target="_blank">HPlan</a></p> -->
-		<p><strong>HAXP</strong></p>
+ 		<p><a href="/program/workshops/haxp" target="_blank">HAXP</a></p>
  	</div>
  	<div style="display:inline-block; width: 78%; text-align:center; vertical-align: middle;">
  		<p><strong>Workshop on Human-Aware and Explainable Planning</strong></p>
