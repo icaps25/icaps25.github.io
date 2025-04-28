@@ -12,11 +12,11 @@ November 10-11, 2025
 
 | Schedule            |          |
 |---------------------|----------|
-| Abstract Submission | May 16, 2025 |
-| Submission          | May 27, 2025 |
-| Author Feedback     | June 23 - June 27, 2025  |
-| Notification        | Juli 1, 2025|
-| Camera Ready        | Juli 21, 2025 |
+| Abstract Submission | ~~May 16~~ Juli 11,2025 |
+| Submission          | ~~May 27~~ Juli 18,2025 |
+| Author Feedback     | ~~June 23 - June 27~~ August 11 - August 15, 2025  |
+| Notification        | ~~Juli 1~~ August 19, 2025|
+| Camera Ready        | ~~Juli 21~~ September 3, 2025 |
 All times are _UTC-12_.
 
 ## Aim and Scope of the Workshop
@@ -35,23 +35,23 @@ Examples of typical topics for submissions to this workshop are:
 - formal results showing equivalence or dominance between heuristics
 - novel heuristic methods dealing with planning with numeric variables
   and effects, partial observability and non-deterministic action effects
-- heuristic estimators for domain-independent planning via procedures or 
-  suitably defined encodings of declarative descriptions of planning tasks into 
+- heuristic estimators for domain-independent planning via procedures or
+  suitably defined encodings of declarative descriptions of planning tasks into
   Satisfiability or Optimisation
-- novel search techniques for domain-independent planning that explicitly aim at 
+- novel search techniques for domain-independent planning that explicitly aim at
   exploiting effectively the properties of existing heuristics
-- empirical observations of synergies between heuristics and search in 
+- empirical observations of synergies between heuristics and search in
   domain-independent planning
-- challenging domains for existing combinations of heuristics and search 
+- challenging domains for existing combinations of heuristics and search
   algorithms
-- applications of machine learning in heuristic search, e.g., learning heuristics, 
+- applications of machine learning in heuristic search, e.g., learning heuristics,
   adaptive search strategies, or heuristic selection
-- interesting algorithmic optimizations for the calculation of a 
+- interesting algorithmic optimizations for the calculation of a
   heuristic or the execution of a search
 
 ## Submission Details
 
-Please format submissions in AAAI style (see instructions in the Author Kit at https://aaai.org/authorkit25/). Long (up to 9 pages including references) and short (up to 5 pages including references) papers are the standard category, submissions shorter than the page limit are welcome. Long papers will be allocated a longer presentation at the workshop. 
+Please format submissions in AAAI style (see instructions in the Author Kit at https://aaai.org/authorkit25/). Long (up to 9 pages including references) and short (up to 5 pages including references) papers are the standard category, submissions shorter than the page limit are welcome. Long papers will be allocated a longer presentation at the workshop.
 
 Submissions will be made through OpenReview
 https://openreview.net/group?id=icaps-conference.org/ICAPS/2025/Workshop/HSDIP
@@ -79,10 +79,10 @@ The following conditions apply:
 ### Organizing Committee
 You can contact us at [hsdip@googlegroups.com](mailto:hsdip@googlegroups.com).
 
-- [Thorsten Klößner](https://fai.cs.uni-saarland.de/kloessner/index.html), Saarland University, Germany  
-- [Florian Pommerening](https://ai.dmi.unibas.ch/people/pommeren/), University of Basel, Switzerland  
-- [Devin Thomas](https://dwthomas.github.io/), University of New Hampshire, United States  
-- [Arnaud Lequen](https://mrlab.ai/arnaud-lequen/), Linköping University, Sweden  
-- [Paul Höft](https://mrlab.ai/paul-hoft/), Linköping University, Sweden  
-- [Alison Paredes](https://mulab.ai/member/alison.paredes/), Queen's University, Canada  
+- [Thorsten Klößner](https://fai.cs.uni-saarland.de/kloessner/index.html), Saarland University, Germany
+- [Florian Pommerening](https://ai.dmi.unibas.ch/people/pommeren/), University of Basel, Switzerland
+- [Devin Thomas](https://dwthomas.github.io/), University of New Hampshire, United States
+- [Arnaud Lequen](https://mrlab.ai/arnaud-lequen/), Linköping University, Sweden
+- [Paul Höft](https://mrlab.ai/paul-hoft/), Linköping University, Sweden
+- [Alison Paredes](https://mulab.ai/member/alison.paredes/), Queen's University, Canada
 - [Eyal Weiss](https://sites.google.com/view/eyal-weiss), Technion, Israel
