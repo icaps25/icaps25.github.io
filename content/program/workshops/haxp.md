@@ -8,7 +8,7 @@ draft: false
 
 ICAPS'25 Workshop
 Melbourne, Victoria, Australia
-November 10 or 11, 2024
+November 10 or 11, 2025
 
 ## Aim and Scope of the Workshop
 
@@ -53,7 +53,7 @@ We invite submissions of the following types:
 Submissions will be hosted on [OpenReview](https://openreview.net/group?id=icaps-conference.org/ICAPS/2025/Workshop/HAXP)
 Please ensure that you have registered with OpenReview. New profiles with an institutional email will be activated immediately. However, new profiles without an institutional email may take up to two weeks to be activated.
 
-Papers must be prepared according to the instructions for ICAPS 2024 (in AAAI format) available at: [Paper template](https://icaps25.icaps-conference.org/files/icaps2025-author-kit.zip)
+Papers must be prepared according to the instructions for ICAPS 2025 (in AAAI format) available at: [Paper template](https://icaps25.icaps-conference.org/files/icaps2025-author-kit.zip)
 
 
 Authors who are considering submitting to the workshop papers rejected from the main conference, please ensure you do your utmost to address the comments given by ICAPS reviewers. Please do not submit papers that are already accepted for the main conference to the workshop.
