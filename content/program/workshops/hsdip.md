@@ -10,14 +10,14 @@ ICAPS Workshop on Heuristics and Search for Domain-independent Planning (HSDIP 2
 Melbourne, Australia \
 November 10-11, 2025
 
-| Schedule            |          |
-|---------------------|----------|
-| Abstract Submission | ~~May 16~~ Juli 11,2025 |
-| Submission          | ~~May 27~~ Juli 18,2025 |
-| Author Feedback     | ~~June 23 - June 27~~ August 11 - August 15, 2025  |
-| Notification        | ~~Juli 1~~ August 19, 2025|
-| Camera Ready        | ~~Juli 21~~ September 3, 2025 |
-All times are _UTC-12_.
+| Schedule            |          | |
+|---------------------|----------|-|
+| Abstract Submission | ~~May 16~~| July 11, 2025 |
+| Submission          | ~~May 27~~| July 18, 2025 |
+| Author Feedback     | ~~June 23 - 27~~| August 11 - 15, 2025  |
+| Notification        | ~~July 1~~| August 19, 2025|
+| Camera Ready        | ~~July 21~~| September 3, 2025 |
+All deadlines are _AoE(UTC-12)_.
 
 ## Aim and Scope of the Workshop
 
