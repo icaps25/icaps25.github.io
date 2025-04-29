@@ -77,17 +77,29 @@ languageCode = 'en_AU'
 #    url = "/calls/dc"
 #    parent = "students"
 #    weight = 200
-## ATTENDING
-#  [[menu.main]]
-#    identifier = "attending"
-#    name = "Attending"
-#    weight = 3000
-#  [[menu.main]]
-#    identifier = "venue"
-#    name = "Venue"
-#    url = "/attending/venue"
-#    parent = "attending"
-#    weight = 10
+# ATTENDING
+  [[menu.main]]
+    identifier = "attending"
+    name = "Attending"
+    weight = 3000
+  [[menu.main]]
+    identifier = "venue"
+    name = "Venue"
+    url = "/attending/venue"
+    parent = "attending"
+    weight = 10
+  [[menu.main]]
+    identifier = "visa"
+    name = "Visa"
+    url = "/attending/visa"
+    parent = "attending"
+    weight = 10
+  [[menu.main]]
+    identifier = "visit_vic"
+    name = "Visit Victoria"
+    url = "/attending/venue"
+    parent = "attending"
+    weight = 10
 #  [[menu.main]]
 #    identifier = "travel"
 #    name = "Travel Information"
