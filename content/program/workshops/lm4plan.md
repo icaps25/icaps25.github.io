@@ -40,7 +40,7 @@ We invite paper submissions on the following (not exhaustive) list of topics:
 
 ## Important Dates
 
-- Paper submission deadline: August 1st, AoE
+- Paper submission deadline: July 15th, AoE
 - Paper acceptance notification: August 31st, AoE
 
 ICAPS will be in-person this year. Authors of accepted workshop papers are
