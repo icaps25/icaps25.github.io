@@ -108,7 +108,7 @@ Here is the list of the worskhops accepted to ICAPS 2025
 		<p><strong>LM4PLan</strong></p>
  	</div>
  	<div style="display:inline-block; width: 78%; text-align:center; vertical-align: middle;">
- 		<p><strong>ICAPS 2025 Workshop Proposal Planning in The Era of Large Language Models</strong></p>
+ 		<p><strong>ICAPS 2025 Workshop on Planning in The Era of Large Language Models</strong></p>
  	</div>
  	<!-- <div style="display:inline-block; width: 28%; text-align:center; vertical-align: middle;">
  		<p>TBD</p>
