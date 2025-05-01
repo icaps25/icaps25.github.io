@@ -47,7 +47,7 @@ As written above, we are happy to check whether we can arrange an earlier submis
 
 ### Double Submissions
 
-We encourage the submission of papers that, at the time of submission, are under review at another conference (including SoCS, JELIA, and KR, for example). However, if the paper is also accepted at the respective conference, it will *not* be included in our proceedings. The paper will be included into the program, but the proceedings will only contain a link to the respective conference's version.
+We encourage the submission of papers that, at the time of submission, are under review at another conference (including JELIA, ECAI, and KR, for example). However, if the paper is also accepted at the respective conference, it will *not* be included in our proceedings. The paper will be included into the program, but the proceedings will only contain a link to the respective conference's version.
 
 ## Workshop Committee
 
