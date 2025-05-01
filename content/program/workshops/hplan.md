@@ -41,7 +41,7 @@ Technical research papers are like standard conference papers, but may be less e
 
 Authors may submit *long papers* (up to 8 pages plus up to one page of references) or *short papers* (up to 4 pages plus up to one page of references). The purpose of short papers is to encourage publications of more preliminary results; challenge papers need to be short papers. In case of acceptance, the full 9, resp. 5, pages can be used for the paper.
 
-Submissions will be done via [easychair](https://easychair.org/conferences/?conf=hplan2025).
+Submissions will be done via [easychair](https://easychair.org/conferences/?conf=hplan2025). The system doesn't allow submissions yet, we are likely going to open it early June.
 
 As written above, we are happy to check whether we can arrange an earlier submission, review, and notification date to accommodate your travel plans if required (e.g., for Visa). In this case we have to see how submissions will be done. Either way, contact the organizers at your earliest convenience in case you require this.
 
