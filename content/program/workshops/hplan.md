@@ -26,7 +26,7 @@ Topics of interests include but are not limited to:
 - Submission Deadline: June 12 (Thursday), 2025
 - Author Notification: July 18 (Friday), 2025
 - Camera-Ready Deadline: August 29 (Friday), 2025
-- ICAPS 2025 Workshops: November 10-11 (TBD), 2025
+- ICAPS 2025 Workshops: November 10-11 (TBA), 2025
 
 ## Submission Details
 
@@ -41,13 +41,13 @@ Technical research papers are like standard conference papers, but may be less e
 
 Authors may submit *long papers* (up to 8 pages plus up to one page of references) or *short papers* (up to 4 pages plus up to one page of references). The purpose of short papers is to encourage publications of more preliminary results; challenge papers need to be short papers. In case of acceptance, the full 9, resp. 5, pages can be used for the paper.
 
-Submissions will be done via [easychair](https://easychair.org/conferences/?conf=hplan2025).
+Submissions will be done via [easychair](https://easychair.org/conferences/?conf=hplan2025). The system doesn't allow submissions yet, we are likely going to open it early June.
 
 As written above, we are happy to check whether we can arrange an earlier submission, review, and notification date to accommodate your travel plans if required (e.g., for Visa). In this case we have to see how submissions will be done. Either way, contact the organizers at your earliest convenience in case you require this.
 
 ### Double Submissions
 
-We encourage the submission of papers that, at the time of submission, are under review at another conference (including SoCS, JELIA, and KR, for example). However, if the paper is also accepted at the respective conference, it will *not* be included in our proceedings. The paper will be included into the program, but the proceedings will only contain a link to the respective conference's version.
+We encourage the submission of papers that, at the time of submission, are under review at another conference (including JELIA, ECAI, and KR, for example). However, if the paper is also accepted at the respective conference, it will *not* be included in our proceedings. The paper will be included into the program, but the proceedings will only contain a link to the respective conference's version.
 
 ## Workshop Committee
 
