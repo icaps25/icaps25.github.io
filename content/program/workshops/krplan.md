@@ -49,14 +49,14 @@ from these areas, including but not limited to:
 ## Important Dates
 
 * Paper submission: July 23, 2025
-* Notification: August 28, 2025
+* Notification: August 27, 2025
 * Workshop: November 11, 2025
 
 ## Submission
 
 We invite extended abstracts of 2-5 pages on topics related to both
 KR and Automated Planning. The papers should be formatted in Springer
-LNCS Style. Further instructions on the submission process will be available soon.
+LNCS Style and submitted via [EasyChair](https://easychair.org/conferences?conf=krplan2025).
 
 The workshop will only have informal proceedings and the main
 purpose is to encourage discussions. We welcome not only papers
@@ -71,3 +71,5 @@ publications that fall within the scope of the workshop.
 - [Giuseppe De Giacomo](https://www.cs.ox.ac.uk/people/giuseppe.degiacomo/), University of Oxford, UK
 - [Patrick Koopmann](https://research.vu.nl/en/persons/patrick-koopmann), Vrije Universiteit Amsterdam, The Netherlands
 - [Gabriele Röger](https://ai.dmi.unibas.ch/people/roeger/), University of Basel, Switzerland
+
+Contact: [krplan2025@easychair.org](mailto:krplan2025@easychair.org)
