@@ -29,51 +29,28 @@ To foster discussion on and the exploration of research ideas in CSP/SAT-based p
 1. Abstracts for Presentations. The abstract (1 page, including references) reports on previously published work. The abstract should briefly summarise that work. The submission must include a link to the original publication.
 2. Extended abstracts  (5 pages + references) containing original work on CSP- or SAT-based Planning.
 
-Both types of contributions will be presented with talks. Invited talks may complement the presentations of contributed papers.
+Extended abstracts can present recent results, new research directions, challenges and perspectives.
 
-Topics of interest include (but are not limited to):
+We plan to include all papers in the Proceedings of the event, published at CEUR Workshop Proceedings. CEUR WS proceedings are archival proceedings indexed by DBLP and Scopus.
+ 
+Submitted papers should use the [CASP:ER-specific version of the CEURART LaTeX style](https://icaps25.icaps-conference.org/files/ceur-casper.zip). Authors of accepted papers will have the possibility to extend their submissions for the final camera-ready version to eight (8) pages plus references.
 
-    automata theory
-    automated reasoning
-    automated planning and scheduling
-    controller synthesis
-    formal specification languages
-    formal verification
-    game theory
-    hybrid and discrete systems
-    logics in computer science
-    neurosymbolic approaches
-    logics for neural networks
-    neural networks for logic
-    reactive synthesis
-    runtime verification and monitoring
-    satisfiability modulo theories and theorem proving
-    specification and verification of machine/deep learning systems
-    tools and applications
+Submissions must be in PDF format and will be handled via the [EasyChair Conference system](https://easychair.org/my/conference?conf=casper2025).
 
-Contributed papers can present recent results at the border of the two fields, new research directions, challenges and perspectives. Presentation of results recently published in other scientific journals or conferences is also welcome.
+## Program Committee Chairs
+ 
+- Gregor Behnke - University of Amsterdam
+- Matteo Cardellini - University of Genova
+- Nicola Gigante - Free University of Bozen-Bolzan
+- Andrea Micheli - Fondazione Bruno Kessler
 
-We plan to include all papers in the Proceedings of the event, published at CEUR Workshop Proceedings . CEUR WS proceedings are archival proceedings indexed by DBLP and Scopus.
-Submissions
+## Program Committee
 
-Submitted papers should not exceed five (5) pages plus references. Authors are asked to use the Overlay-specific CEURART LaTeX style, which will be made available soon. Authors of accepted papers will have the possibility to extend their submissions for the final camera-ready version to eight (8) pages plus references.
+- Tomas Balyo
+- Nils Froleyks
+- Gaspard Quenard - Université Grenoble Alpes
 
-Submissions must be in PDF format and will be handled via EasyChair at the following address: https://easychair.org/conferences/?conf=overlay2025 .
-Program Committee
-Chairs
 
-    Angelo Montanari • University of Udine, Italy
-    Andrea Orlandini • National Research Council of Italy, Italy
-    Nicola Saccomanno • University of Udine, Italy
-    Stefano Tonetta • Fondazione Bruno Kessler, Italy
+## Contacts
 
-PC Members
-
-TBA
-Technical Support and Website
-
-    Nicola Gigante (Chair) • Free University of Bozen-Bolzano, Italy
-
-Contacts
-
-For more information email to any of the program chairs at overlay2025@easychair.org
+For more information email to any of the program chairs at [overlay2025@easychair.org](mailto:overlay2025@easychair.org)
