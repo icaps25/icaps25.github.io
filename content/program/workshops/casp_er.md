@@ -24,9 +24,9 @@ Important dates
 
 ## Call for contributions
 
-We accept two types of contributions: both reports on previouly published work as well as original research.
+To foster discussion on and the exploration of research ideas in CSP/SAT-based planning, we accept two types of contributions: previously published work as well as original research.
 
-1. Abstracts for Presentations. The abstract (1 page) reports on previously published work. The abstract should briefly summarise that work. The submission must include a link to the original publication.
+1. Abstracts for Presentations. The abstract (1 page, including references) reports on previously published work. The abstract should briefly summarise that work. The submission must include a link to the original publication.
 2. Extended abstracts  (5 pages + references) containing original work on CSP- or SAT-based Planning.
 
 Both types of contributions will be presented with talks. Invited talks may complement the presentations of contributed papers.
