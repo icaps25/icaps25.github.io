@@ -26,7 +26,7 @@ Workshop proposals should be no more than 3 pages long and should include the fo
 - Estimated Interest: An estimate of the number of workshop speakers (including invited speakers, presenters, panel lists, etc.) and the expected number of workshop attendees. Optionally, a list of proposed attendees that have indicated potential (non-binding) interest.
 
 The organizers of accepted workshop proposals are responsible for:
--  Producing a Call for Papers (CFP) and contributing materials for setting up a web page for the workshop by 15 April . The web page and the CFP will be linked to the ICAPS 2025 website. Details on this process will be made available after notification.
+-  Producing a Call for Papers (CFP) and contributing materials for setting up a web page for the workshop by 15 April. The web page and the CFP will be linked to the ICAPS 2025 website. Details on this process will be made available after notification.
 -  Additional publicity, such as distributing the CFP to relevant newsgroups and electronic mailing lists (through liaison with the ICAPS 2025 Publicity Chair) and especially to potential audiences outside the ICAPS community.
 -  Organizing the review process for submissions and issuing invitations to participate in the workshop.
 -  Formulating a detailed technical program for the workshop and making it available to be uploaded on the ICAPS 2025 website well in advance of the conference. A list of accepted papers for the workshop should be ready to be placed on the workshop website by 21 July 2025.
@@ -40,7 +40,7 @@ Workshop proposals should be submitted by email, in plain text or PDF, to icaps2
 - Deadline for submission of workshop proposals: ~~10 March~~ 17 March 2025.
 - Notification of workshop acceptance: 31 March 2025.
 - Workshop Call for Papers and materials for the website: 15 April 2025
-- List of accepted papers on the workshop website: 21 July 2025.
+- List of accepted papers on the workshop website: ~~21 July 2025~~ 10 September 2025.
 - Workshop/Tutorial dates: 10-11 November 2025.
 
 Please direct all questions to the Workshop Program Chairs at icaps2025-workshops@googlegroups.com
