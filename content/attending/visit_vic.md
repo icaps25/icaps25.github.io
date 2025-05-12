@@ -1,25 +1,57 @@
 # Explore Melbourne in November
 
-# Explore Melbourne in November
 
 <!-- ![Melbourne Skyline](https://via.placeholder.com/800x400?text=Melbourne+Skyline) -->
 
 ## 🌟 Highlight Events
 
-- **Melbourne Cup Carnival** (2–9 November 2025)  
-  Australia's premier horse racing event at Flemington Racecourse. A week of fashion, food, and thrilling races, culminating in the iconic Melbourne Cup on 4 November.  
+- **Melbourne Cup Carnival** 
+
+  This iconic horse racing event, known as 'the race that stops the nation,' features top-tier races, fashion, and entertainment. The carnival runs from November 4 to November 11 at Flemington Racecourse in Melbourne. ​
+
+  [Learn more](https://www.visitmelbourne.com/whats-on/november)
+<figure>
+<div style="text-align:center">
+  <img
+  src="/img/venue/event_1.jpg"
+  alt="Melbourne Cup Carnival">
+  <figcaption>Melbourne Connect location.</figcaption>
+</div>
+</figure>
   <!-- ![Melbourne Cup Carnival](https://via.placeholder.com/600x300?text=Melbourne+Cup+Carnival)   -->
-  [Learn more](https://www.visitmelbourne.com/whats-on/november)
+  
 
-- **Spring Festivals and Garden Events** (throughout November)  
-  Victoria bursts into color with flower festivals, outdoor exhibitions, and food and wine celebrations across regions like the Dandenong Ranges and Yarra Valley.  
+- **Sandown 500** 
+
+  Part of the Supercars Championship, the Sandown 500 is a premier motor racing event scheduled from November 14 to November 16 at Sandown Raceway in Springvale, Victoria. ​
+
+  [Learn more](https://www.visitmelbourne.com/whats-on/november)
+  <figure>
+<div style="text-align:center">
+  <img
+  src="/img/venue/event_2.jpg"
+  alt="Sandown 500">
+  <figcaption>Melbourne Connect location.</figcaption>
+</div>
+</figure>
   <!-- ![Spring Festivals](https://via.placeholder.com/600x300?text=Spring+Festivals)   -->
-  [Learn more](https://www.visitmelbourne.com/whats-on/november)
+  
 
-- **Melbourne Music Week** (Dates to be confirmed)  
-  A celebration of Melbourne’s dynamic music scene with performances in unique venues, pop-up stages, and hidden city spaces.  
+- **Melbourne Theatre Company Performances** 
+
+  The Melbourne Theatre Company will present several productions during this period, including David Williamson's classic 'The Removalists' and the Broadway hit 'Kimberly Akimbo.' These performances offer a rich theatrical experience in the heart of Melbourne.​
+
+   [Learn more](https://www.visitmelbourne.com/whats-on/november)
+  <figure>
+<div style="text-align:center">
+  <img
+  src="/img/venue/event_3.jpg"
+  alt="Melbourne Theatre Company Performances">
+  <figcaption>Melbourne Connect location.</figcaption>
+</div>
+</figure>
   <!-- ![Live Music Melbourne](https://via.placeholder.com/600x300?text=Melbourne+Music+Week)   -->
-  [Learn more](https://www.visitmelbourne.com/whats-on/november)
+ 
 
 ---
 

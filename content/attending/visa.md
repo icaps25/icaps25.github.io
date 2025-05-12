@@ -57,7 +57,7 @@ To request a letter of invitation, please contact the secretariat.
 
 More information about visa processing times is available on the Department’s website.
 
-## 3. Health and Character Requirements
+<!-- ## 3. Health and Character Requirements
 
 ### 3.1 Health Requirements
 You may be required to undertake a medical examination, chest X-ray, and/or other health checks as part of the visa application process.
@@ -105,4 +105,4 @@ When you receive your Australian visa, you will be issued a **visa grant notice*
 
 **Important**:  
 - Your visa may be cancelled if you breach any conditions.
-- If your visa expires while you are in Australia, you become an **unlawful non-citizen**, subject to detention and removal from Australia.
+- If your visa expires while you are in Australia, you become an **unlawful non-citizen**, subject to detention and removal from Australia. -->

@@ -97,7 +97,7 @@ languageCode = 'en_AU'
   [[menu.main]]
     identifier = "visit_vic"
     name = "Visit Victoria"
-    url = "/attending/venue"
+    url = "/attending/visit_vic"
     parent = "attending"
     weight = 10
 #  [[menu.main]]
