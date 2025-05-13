@@ -59,6 +59,12 @@
 					"height": "-1",
 					"width": "280",
 					"link": "https://www.jpmorgan.com"
+				},
+				{
+					"logo": "/img/partners/gurobi.png",
+					"height": "-1",
+					"width": "280",
+					"link": "https://www.gurobi.com/academia/academic-program-and-licenses/"
 				}
 			]
 		}
