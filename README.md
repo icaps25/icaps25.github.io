@@ -10,7 +10,7 @@ https://icaps25.github.io/
 
 Here are the instructions to submit updates to the website, for example, if you are the organizer of a workshop or tutorial and you want to update your own sub-page.
 
-We follow the standard workflow of submitting updates to the upstream (original ICAPS25 website) using a Pull Request from a branch of a forked repo.
+We follow the [standard workflow](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) for submitting/proposing updates to the upstream (original ICAPS25 website) using a Pull Request from a branch of a forked repo.
 
 ### 1. Fork the upstream ICAPS web repository
 
