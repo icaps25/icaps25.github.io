@@ -8,7 +8,7 @@ https://icaps25.github.io/
 
 If you want information on how to setup and deploy a new web-page for future ICAPS, please refer to file [DEPLOYMENT.md](DEPLOYMENT.md) is useful for those setting up a new webpage for future ICAPS iterations.
 
-## Instructions for submitting updates
+## Instructions for proposing/submitting updates
 
 Here are the instructions to submit updates to the website, for example, if you are the organizer of a workshop or tutorial and you want to update your own sub-page.
 
@@ -60,9 +60,12 @@ $ git push -u origin my-feature-branch
 
 * Go to your fork on GitHub.
 * Click “Compare & pull request”.
-* Ensure the base repo is the upstream repo, and the base branch is usually main.
+* Ensure the head repo is your fork repo, and the head branch is your feature branch.
+* Ensure the base repo is the upstream repo, and the base branch is usually `main`.
 * Add a clear title and description.
 * Submit the PR to the upstream original ICAPS repo.
+
+The website maintainers will be notified and (hopefully) approve the changes to the site (step 7) or request further changes (step 6).
 
 ### 6. Respond to Review
 
@@ -70,7 +73,7 @@ Upstream maintainers may request changes. Just push updates to the same branch i
 
 ### 7. PRs is merged; sync your fork
 
-It the upstream maintainers are happy with the PR updates, they will merge the PR into the upstream `main` branch which will re-create the actual web-page.
+It the upstream maintainers are happy with the PR updates, they will merge the PR into the upstream `main` branch, and changes submitted will go "live".
 
 It is now good practice to sync your fork. You can do it from the GH interface or, since you have already setup an upstream remote:
 
@@ -95,8 +98,7 @@ If you have [hugo installed](https://gohugo.io/getting-started/installing) on yo
 This will start a webserver on http://localhost:1313.
 
 ### Creating your pull request ###
-Use https://github.com/icaps2025/icaps2025.github.io/pulls to create a "Pull request", which will notify us that your changes are ready to apply, and we'll log on to merge them into the main site.
 
-The website maintainers will be notified and (hopefully) approve the changes to the site, at which point they'll go live.
+
 
 If you have future edits to make, you can restart the process at "[Branch to Make your Edits](https://github.com/icaps2025/icaps2025.github.io#branch-to-make-your-edits)"
