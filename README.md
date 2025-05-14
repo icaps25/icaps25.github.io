@@ -2,9 +2,11 @@
 
 Website for the ICAPS 2025 conference held in Melbourne, Australia - November 9-14, 2025.
 
-This site is published via a GH Action workflow to the following GH-pages:
+This site is published automatically via a GH Action workflow to the following GH-pages:
 
 https://icaps25.github.io/
+
+If you want information on how to setup and deploy a new web-page for future ICAPS, please refer to file [DEPLOYMENT.md](DEPLOYMENT.md) is useful for those setting up a new webpage for future ICAPS iterations.
 
 ## Instructions for submitting updates
 
@@ -98,8 +100,3 @@ Use https://github.com/icaps2025/icaps2025.github.io/pulls to create a "Pull req
 The website maintainers will be notified and (hopefully) approve the changes to the site, at which point they'll go live.
 
 If you have future edits to make, you can restart the process at "[Branch to Make your Edits](https://github.com/icaps2025/icaps2025.github.io#branch-to-make-your-edits)"
-
-## Development Framework: New ICAPS website
-
-[This information on Hugo + Deployment to GH-pages via GH Actions](deployment.md) is useful for those setting up a new webpage for future ICAPS iterations.
-
