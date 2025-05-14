@@ -2,42 +2,91 @@
 
 Website for the ICAPS 2025 conference held in Melbourne, Australia - November 9-14, 2025.
 
-This site is published via a GH Action workflow to the following GH-pages: 
+This site is published via a GH Action workflow to the following GH-pages:
 
 https://icaps25.github.io/
 
 ## Instructions for submitting updates
 
-### Clone the ICAPS2024 repository and set up your local repository ###
+Here are the instructions to submit updates to the website, for example, if you are the organizer of a workshop or tutorial and you want to update your own sub-page.
+
+We follow the standard workflow of submitting updates to the upstream (original ICAPS25 website) using a Pull Request from a branch of a forked repo.
+
+### 1. Fork the upstream ICAPS web repository
+
+First you need your own forked copy of the original upstream website:
+
 1. Sign up for Github
-2. Go to https://github.com/icaps2025/icaps2025.github.io and click the 'Fork' button in the upper right.  This should create and bring you to your own copy of the ICAPS website repository.
-3. Use git to clone your repository. After successfully clonning the repository you should end up with a directory called `icaps2025.github.io`. This directory will be refered to as *website root*.
+2. Go to https://github.com/icaps2025/icaps2025.github.io and click the '`Fork`' button in the upper right. This should create and bring you to your _own_ forked copy of the ICAPS website repository.
 
-### Set up a remote tracking branch ###
-After you've cloned the ICAPS on GitHub and set it up on your local machine, you should run the following command from the *website root* to add a remote repository for tracking changes to the main site:
- ```
-$ git remote add icaps git@github.com:icaps2025/icaps2025.github.io.git
-```
-You only need to do this once for your local repository.
+### 2. Clone your fork
 
-### Branch to make your edits ###
-Use git-fetch to update the remote repository, and then create a new branch for the pull request you plan to make:
-```
-$ git fetch icaps
-$ git checkout -b <branch-name> icaps/master
-```
-Edit your files normally.
+Clone locally the just created fork. After successfully cloning the repository you should end up with a directory called `icaps2025.github.io`. This directory will be referred to as _website root_.
 
-If you add a new file or make some edits to existing files, remember to add it with `git add`.  Commit your changes with `git commit`,  and push it back to GitHub with `git push`:
+> [!NOTE]
+> You may want to setup an upstream remote to track the original repo:
+>
+> ```shell
+> $ git remote add upstream git@github.com:icaps2025/icaps2025.github.io.git
+> $ git fetch upstream
+> ```
+
+You only need to do all this once.
+
+### 3. Branch to make your edits
+
+From your local repo of yuor fork, create a new branch for the pull request you plan to make:
+
+```shell
+$ git checkout -b my-feature-branch
 ```
-$ git add <path-to-new-file>
-$ git status // optional step to verify what exactly is going to be committed
-$ git commit -am <useful but terse change description>
-$ git push origin
+
+### 4. Make Your Changes and Commit
+
+Edit your files normally, commit, and push to your remote fork:
+
+```shell
+$ git add .
+$ git commit -m "my updates"
+$ git push -u origin my-feature-branch
 ```
-You should repeat this part of the procedure for each new pull request.
+
+> [!NOTE]
+> The option `-u` set the upstream branch so that it is easier to push/pull later without specifying it explicitly every time.
+
+### 5. Create a Pull Request (PR)
+
+* Go to your fork on GitHub.
+* Click “Compare & pull request”.
+* Ensure the base repo is the upstream repo, and the base branch is usually main.
+* Add a clear title and description.
+* Submit the PR to the upstream original ICAPS repo.
+
+### 6. Respond to Review
+
+Upstream maintainers may request changes. Just push updates to the same branch in your fork and the Pull Request already created will include those new changes.
+
+### 7. PRs is merged; sync your fork
+
+It the upstream maintainers are happy with the PR updates, they will merge the PR into the upstream `main` branch which will re-create the actual web-page.
+
+It is now good practice to sync your fork. You can do it from the GH interface or, since you have already setup an upstream remote:
+
+```shell
+$ git checkout main
+$ git fetch upstream
+$ git merge upstream/main
+$ git push origin main
+```
+
+Or use `rebase` (intead of `merge`) if preferred.
+
+> [!NOTE]
+> If you want you can just delete the branch in your fork. You will hopefully create a new branch for new updates anyways 😉
+
 
 ## Testing changes
+
 The site is built with [HUGO](https://gohugo.io) framework for automated generation of static web content.
 If you have [hugo installed](https://gohugo.io/getting-started/installing) on your system, you can test your changes by running
 `hugo server` in the *website root*.
