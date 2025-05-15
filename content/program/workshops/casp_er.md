@@ -53,4 +53,4 @@ Submissions must be in PDF format and will be handled via the [EasyChair Confere
 
 ## Contacts
 
-For more information email to any of the program chairs at [overlay2025@easychair.org](mailto:overlay2025@easychair.org)
+For more information email to any of the program chairs at [casper2025@easychair.org](mailto:casper2025@easychair.org)
