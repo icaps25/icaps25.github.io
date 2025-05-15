@@ -273,42 +273,65 @@ languageCode = 'en_AU'
   url = "/program/ws_overview"
   weight = 40
 ######################### TUTORIALS
-#[[menu.main]]
-#   identifier = "tutorials"
-#   parent = "program"
-#   name = "Tutorials"
-#   url = "/program/tutorial_overview"
-#   weight = "50"
-#[[menu.main]]
-#   identifier = "2024_T01_aiopt_scheduling"
-#   name = "T01 - AI Techniques for Solving Scheduling Problems"
-#   parent = "tutorials"
-#   url = "/program/tutorials/2024_t01_aiopt_scheduling"
-#   weight = "10"
-#[[menu.main]]
-#   identifier = "2024_T02_finding_multiple_plans"
-#   name = "T02 - Finding Multiple Plans for Classical Planning Problems"
-#   parent = "tutorials"
-#   url = "/program/tutorials/2024_t02_finding_multiple_plans"
-#   weight = "20"
-#[[menu.main]]
-#  identifier = "2024_T03_scikit_decide"
-#  name = "T03 - A Hands-On Tutorial on scikit-decide, the Open-Source C++ and Python Library for Planning, Scheduling and Reinforcement Learning"
-#  parent = "tutorials"
-#  url = "/program/tutorials/2024_t03_scikit_decide"
-#  weight = "30"
-#[[menu.main]]
-#  identifier = "2024_T04_storytelling"
-#  name = "T04 - Planning for Storytelling"
-#  parent = "tutorials"
-#  url = "/program/tutorials/2024_t04_storytelling"
-#  weight = "40"
-#[[menu.main]]
-#  identifier = "2024_T05_rl_coach"
-#  name = "T05 - Orchestrating autonomous agents: Reinforcement Learning To Hierarchical Planning with COACH"
-#  parent = "tutorials"
-#  url = "/program/tutorials/2024_t05_rl_coach"
-#  weight = "50"
+[[menu.main]]
+   identifier = "tutorials"
+   parent = "program"
+   name = "Tutorials"
+   url = "/program/tutorial_overview"
+   weight = "50"
+[[menu.main]]
+   identifier = "plan_sat"
+   name = "Planning as SAT"
+   parent = "tutorials"
+   url = "/program/tutorials/plan_sat"
+   weight = "10"
+[[menu.main]]
+   identifier = "ml_plan_sat"
+   name = "Integrating Machine Learning and Planning as SAT"
+   parent = "tutorials"
+   url = "/program/tutorials/ml_plan_sat"
+   weight = "20"
+[[menu.main]]
+  identifier = "bfs_no_reopen"
+  name = "Sub-optimal Best-First Search without Node Re-openings"
+  parent = "tutorials"
+  url = "/program/tutorials/bfs_no_reopen"
+  weight = "30"
+[[menu.main]]
+  identifier = "learn_plan"
+  name = "Learning for Planning"
+  parent = "tutorials"
+  url = "/program/tutorials/learn_plan"
+  weight = "40"
+
+[[menu.main]]
+  identifier = "minizinc"
+  name = "MiniZinc - Constraint Programming for Planning"
+  parent = "tutorials"
+  url = "/program/tutorials/minizinc"
+  weight = "50"
+
+[[menu.main]]
+  identifier = "ltlf"
+  name = "LTLf Synthesis and Planning Under Unreliable Input"
+  parent = "tutorials"
+  url = "/program/tutorials/ltlf"
+  weight = "60"
+
+[[menu.main]]
+  identifier = "domain_ind_dp"
+  name = "Domain-Independent Dynamic Programming"
+  parent = "tutorials"
+  url = "/program/tutorials/domain_ind_dp"
+  weight = "70"
+
+[[menu.main]]
+  identifier = "ep"
+  name = "Epistemic Planning: Recent Advancements and Future Directions"
+  parent = "tutorials"
+  url = "/program/tutorials/ep"
+  weight = "80"
+
 ### WORKSHOPS
   [[menu.main]]
     identifier = "casp_er"
