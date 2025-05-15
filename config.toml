@@ -118,12 +118,12 @@ languageCode = 'en_AU'
 #    url = "/attending/info"
 #    parent = "attending"
 #    weight = "40"
-#  [[menu.main]]
-#    identifier = "accommodation"
-#    name = "Accommodation"
-#    url = "/attending/accommodation"
-#    parent = "attending"
-#    weight = "40"
+[[menu.main]]
+  identifier = "accommodation"
+  name = "Accommodation"
+  url = "/attending/accommodation"
+  parent = "attending"
+  weight = "40"
 #  [[menu.main]]
 #    identifier = "student-support"
 #    name = "Student Support"
