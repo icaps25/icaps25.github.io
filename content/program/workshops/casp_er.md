@@ -48,6 +48,7 @@ Submissions must be in PDF format and will be handled via the [EasyChair Confere
 
 - Tomas Balyo
 - Nils Froleyks
+- Enrico	Giunchiglia	- DIBRIS, University Genova
 - Gaspard Quenard - Université Grenoble Alpes
 
 
