@@ -106,12 +106,12 @@ languageCode = 'en_AU'
 #    url = "/attending/travel"
 #    parent = "attending"
 #    weight = 20
-#  [[menu.main]]
-#    identifier = "registration"
-#    name = "Registration"
-#    url = "/attending/registration"
-#    parent = "attending"
-#    weight = "30"
+  [[menu.main]]
+    identifier = "registration"
+    name = "Registration"
+    url = "/attending/registration"
+    parent = "attending"
+    weight = "30"
 #  [[menu.main]]
 #    identifier = "info"
 #    name = "General Info"
