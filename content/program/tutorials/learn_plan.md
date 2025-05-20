@@ -12,7 +12,7 @@ ICAPS 2025 Tutorial, Melbourne, Australia, Date: 10-11 November, 2025
 This tutorial will cover recent advances in Learning for Planning (L4P).
 L4P is the subfield of AI planning which focuses on learning knowledge that generalise and help planners solve planning problems more efficiently by leveraging symbolic models and training data.
 The overall goal of L4P is to scale up planning technology to solve problems of greater difficulty and number of objects.
-Indeed due to no free lunch, one cannot expect traditional PDDL planners which plan for each problem individually to can handle all domains well.
+Indeed due to no free lunch, one cannot expect traditional PDDL planners which plan for each problem individually to handle all domains well.
 L4P is a rapidly growing subfield of AI Planning which has garnered the attention of both learning researchers and planning researchers alike.
 For example, a [semantic analysis](https://dillonzchen.github.io/icaps.html) of published ICAPS papers shows that the total number of planning papers using learning until 2024 ranks 3rd, up from 7th in 2019.
 
