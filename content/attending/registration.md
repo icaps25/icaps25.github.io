@@ -18,46 +18,43 @@ To register, you are kindly asked to complete
 </div>
 
 Registering early will save you money, and also it will help us to organize things better!
-<!-- 
-The deadline for **early registration is March 31, 2024** and the **late registration deadline is May 22, 2024**. -->
+<!--
+The deadline for **early registration is Wednesday September 3, 2025** and the **late registration deadline is Friday October 31, 2025**. -->
 
 ## Information for Authors
 
 Each paper accepted to the main conference program (AAAI proceedings) must be accompanied by registration and payment of either regular fee or student fee. It is up to the authors to decide who will be the presenter and will pay the registration fee. **One author registration fee may cover up to 2 of their papers**.
 
-Physical attendance and in-person presentation is expected for each paper. No on-line presentations will be allowed
+Physical attendance and in-person presentation is expected for each paper. No on-line presentations will be allowed.
 
-## Registration Fees
+## Full Registration Fees
 
 {{< registration_options >}}
 
-All fees will be charged in Canadian Dollars (CAD). At the time of writing, 1.00 CAD = 0.68 EUR = 0.74 USD.
+All fees will be charged in Australian Dollars (AUD). At the time of writing, 1.00 AUD = 0.57 EUR = 0.64 USD.
 
-**Regular and Student Fees** include:
+A **full 5-days Regular and Student Fees** include:
 
-* attendance at ICAPS 2025 conference - admission to workshops and tutorials, invited talks, technical sessions, community meeting
-* attendance to CPAIOR sessions on the same days registered for ICAPS
+* attendance at ICAPS 2025 conference - admission to workshops and tutorials, invited talks, technical sessions, community meeting, poster and demo sessions
 * up to 2 papers in ICAPS conference proceedings (published by AAAI)
+* attendance to CPAIOR sessions on the same days registered for ICAPS
 * conference package
 * workshop coffee breaks
 * conference coffee breaks
-* workshop lunches 
-* conference lunches 
 * welcome reception
-* poster session 
-* conference dinner 
+* conference dinner
 
 A copy of a valid student card or a student confirmation (in English) may be requested by the organizers upon arrival.
 
 ## Confirmation
 
-You will receive email confirmation immediately after completing the online [**REGISTRATION FORM**](form_link).
+You will receive email confirmation immediately after completing the online registration form at the top of the page.
 
 ## Cancellation Policy & Refund
 
-For cancellation requests received on or before **which date**, the registration fee will be refunded less an administration charge of $100 AUD.
+For cancellation requests received on or before **September 30, 2025**, the registration fee will be refunded less an administration charge of $100 AUD.
 
-For cancellation requests received on or before **which date**, the registration fee will be refunded 50% less an administration charge of $100 AUD.
+For cancellation requests received between **1st October and 31st October **, the registration fee will be refunded 50% less an administration charge of $100 AUD.
 
 Registration fees will not be refunded in any portion if cancellation is received after **which date**.
 
