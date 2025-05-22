@@ -49,7 +49,7 @@ Confirmation of registration or a copy of your letter of invitation should accom
 
 For online Subclass 400 and Subclass 600 applications, information about required documents will be provided during the application process.
 
-To request a letter of invitation, please contact the secretariat.
+<!-- To request a letter of invitation, please contact the secretariat. -->
 
 ## 2. Cut-off Date for Lodging Paper-Based Applications
 - Apply for a visa **at least two months** before your intended departure date.
