@@ -166,6 +166,19 @@ Here is the list of the worskhops accepted to ICAPS 2025
  	</div> -->
  </div>
 
+ <div style="width: 95%; padding: 1%; border-bottom: 1px solid orange">
+ 	<div style="display:inline-block; width: 20%; text-align:center; vertical-align: middle;">
+ 		<p><a href="/program/workshops/industry_optima" target="_blank">2025 OPTIMA Industry Workshop</a></p>
+		<!-- <p><strong>Women in Computing</strong></p> -->
+ 	</div>
+ 	<div style="display:inline-block; width: 78%; text-align:center; vertical-align: middle;">
+ 		<p><strong> Workshop on Smart Logistics & Sustainable Transport: Industry Solutions for Smarter Decision-Making</strong></p>
+ 	</div>
+ 	<!-- <div style="display:inline-block; width: 28%; text-align:center; vertical-align: middle;">
+ 		<p>TBD</p>
+ 	</div> -->
+ </div>
+
 
 </div>
 
