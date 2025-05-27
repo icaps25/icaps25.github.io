@@ -25,7 +25,7 @@ The tutorial will include a hands-on lab component for participants to get famil
 coming soon...
 
 ## Authors
-[Dillon Ze Chen](https://dillonzchen.github.io/), Laboratory for Analysis and Architecture of Systems (LAAS-CNRS), Toulouse, France
+[Dillon Z. Chen](https://dillonzchen.github.io/), Laboratory for Analysis and Architecture of Systems (LAAS-CNRS), Toulouse, France
 
 [Felipe Trevizan](https://felipe.trevizan.org/), The Australian National University (ANU), Canberra, Australia
 

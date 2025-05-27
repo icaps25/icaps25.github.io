@@ -49,10 +49,10 @@ Here is the list of the tutorials accepted to ICAPS 2025
  
  <div style="width: 95%; padding: 2%; text-align:center; vertical-align:middle; border-bottom: 1px solid orange">
  	<div style="display:inline-block; width: 50%;">
- 		<p><a href="/program/tutorials/learn_plan" target="_blank">Learning for Planning</a></p>
+ 		<p><a href="/program/tutorials/learn_plan" target="_blank">Learning for Planning: An Introduction and Primer</a></p>
  	</div>
  	<div style="display:inline-block; width: 49%;">
- 		<p></p>
+ 		<p>Dillon Z. Chen and Felipe Trevizan and Sylvie Thiébaux</p>
  	</div>
  </div>
  
