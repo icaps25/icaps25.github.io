@@ -81,7 +81,7 @@ Here is the list of the tutorials accepted to ICAPS 2025
 Heuristic Search through Domain-Independent Dynamic Programming</a></p>
  	</div>
  	<div style="display:inline-block; width: 49%;">
- 		<p></p>
+		<p>Ryo Kuroiwa and J. Christopher Beck</p>
  	</div>
  </div>
 

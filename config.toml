@@ -153,12 +153,12 @@ languageCode = 'en_AU'
 #    url = "/calls/robotics_track"
 #    parent = "calls"
 #    weight = 40
-#  [[menu.main]]
-#    identifier = "previously_published_papers"
-#    name = "Previously Published Papers Track"
-#    url = "/calls/previously_published_papers"
-#    parent = "calls"
-#    weight = 45
+[[menu.main]]
+  identifier = "previously_published_papers"
+  name = "Previously Published Papers Track"
+  url = "/calls/previously_published_papers"
+  parent = "calls"
+  weight = 45
 [[menu.main]]
   identifier = "workshop_call"
   name = "Call for Workshop Proposals"
