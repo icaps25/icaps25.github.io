@@ -1,14 +1,11 @@
 ---
 title: "Registration"
-date: 2023-01-31T17:53:41+01:00
+date: 2025-05-28T17:53:41+01:00
 draft: false
 ---
 
 # Registration
 
-<!-- The registration for the **35th International Conference on Automated Planning and Scheduling (ICAPS) 2024** will be handled directly by the Banff Centre for Arts and Creativity. -->
-
-<!-- You can use the registration form to both (1) register for the conference and (2) request accommodation at the conference venue ($230 CAD for a single bed and $250 for a two-bed room).  -->
 To register, you are kindly asked to complete
 
 <div style="width: 100%; padding: 1%; text-align: center;">
@@ -54,7 +51,7 @@ You will receive email confirmation immediately after completing the online regi
 
 For cancellation requests received on or before **September 30, 2025**, the registration fee will be refunded less an administration charge of $100 AUD.
 
-For cancellation requests received between **1st October and 31st October **, the registration fee will be refunded 50% less an administration charge of $100 AUD.
+For cancellation requests received between **1st October and 31st October**, the registration fee will be refunded 50% less an administration charge of $100 AUD.
 
 Registration fees will not be refunded in any portion if cancellation is received after **which date**.
 
@@ -62,8 +59,4 @@ If you cannot attend, your registration is transferable to another participant (
 
 ## Invitation Letter & Questions?
 
-If you need a Letter of Invitation to obtain a visa, please contact <immigration@icaps2025.com>. For all other inquiries, please contact the local arrangements chair at <info@icaps2025.com>.
-
-## Support
-
-ICAPS 2025 invites individuals from underrepresented groups or regions to apply for support to attend our conference in Melbourne, Victoria, Australia. This support initiative is open to all, beyond students or specific demographics, and applications will be evaluated individually. Our aim is to diversify participation and enrich the ICAPS experience by enabling a variety of automated planning and scheduling researchers and practitioners to attend. To apply, email us at <conference@icaps2025.com> with your specific situation and needs. Funding is limited, but may increased over time.
+Please complete your registration online to receive your letter of invitation. Invitations will be issued automatically as part of the registration confirmation process.
