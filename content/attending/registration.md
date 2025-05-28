@@ -13,7 +13,7 @@ To register, you are kindly asked to complete
 
 <div style="width: 100%; padding: 1%; text-align: center;">
 
- <p><a href="form_link" target="_blank"><span style="font-weight: bold;font-size: 16px;">REGISTRATION FORM (form link not available)</span></a></p>
+ <p><a href="http://mers.cventevents.com/ICAPS-2025" target="_blank"><span style="font-weight: bold;font-size: 16px;">REGISTRATION FORM</span></a></p>
 
 </div>
 
