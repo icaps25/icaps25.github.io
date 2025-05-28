@@ -3,9 +3,27 @@
 
 <!-- ![Melbourne Skyline](https://via.placeholder.com/800x400?text=Melbourne+Skyline) -->
 
-## 🌟 Highlight Events
 
-- **Melbourne Cup Carnival** 
+{{< discover
+  img="/img/travel/victoria/151363-56.jpg"
+  alt="Melbourne Skyline"
+  title="Explore Melbourne"
+  direction="left"
+>}}
+Discover the vibrant arts scene, renowned coffee culture, and stunning cityscapes that Melbourne has to offer.
+{{< /discover >}}
+
+{{< discoverSlider
+  imgs="/img/travel/victoria/129393-56.jpg,/img/travel/victoria/131720-56.jpg,/img/travel/victoria/154372-56.jpg,/img/travel/victoria/170406-56.jpg,/img/travel/victoria/170407-56.jpg"
+  alt="Scenes from Great Ocean Road"
+  title="Explore Great Ocean Road"
+  direction="left"
+>}}
+Melbourne is full of culture, art, and incredible food. This reel shows some conference highlights and local landmarks.
+{{< /discoverSlider >}}
+
+
+<!-- - **Melbourne Cup Carnival** 
 
   This iconic horse racing event, known as 'the race that stops the nation,' features top-tier races, fashion, and entertainment. The carnival runs from November 4 to November 11 at Flemington Racecourse in Melbourne. ​
 
@@ -20,7 +38,7 @@
 </figure>
   <!-- ![Melbourne Cup Carnival](https://via.placeholder.com/600x300?text=Melbourne+Cup+Carnival)   -->
   
-
+<!-- 
 - **Sandown 500** 
 
   Part of the Supercars Championship, the Sandown 500 is a premier motor racing event scheduled from November 14 to November 16 at Sandown Raceway in Springvale, Victoria. ​
@@ -36,7 +54,7 @@
 </figure>
   <!-- ![Spring Festivals](https://via.placeholder.com/600x300?text=Spring+Festivals)   -->
   
-
+<!-- 
 - **Melbourne Theatre Company Performances** 
 
   The Melbourne Theatre Company will present several productions during this period, including David Williamson's classic 'The Removalists' and the Broadway hit 'Kimberly Akimbo.' These performances offer a rich theatrical experience in the heart of Melbourne.​
@@ -50,8 +68,8 @@
   <figcaption>Melbourne Connect location.</figcaption>
 </div>
 </figure>
-  <!-- ![Live Music Melbourne](https://via.placeholder.com/600x300?text=Melbourne+Music+Week)   -->
- 
+  ![Live Music Melbourne](https://via.placeholder.com/600x300?text=Melbourne+Music+Week)   -->
+  
 
 ---
 
