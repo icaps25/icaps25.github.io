@@ -77,41 +77,59 @@ languageCode = 'en_AU'
 #    url = "/calls/dc"
 #    parent = "students"
 #    weight = 200
-## ATTENDING
-#  [[menu.main]]
-#    identifier = "attending"
-#    name = "Attending"
-#    weight = 3000
-#  [[menu.main]]
-#    identifier = "venue"
-#    name = "Venue"
-#    url = "/attending/venue"
-#    parent = "attending"
-#    weight = 10
+# ATTENDING
+  [[menu.main]]
+    identifier = "attending"
+    name = "Attending"
+    weight = 3000
+  [[menu.main]]
+    identifier = "venue"
+    name = "Venue"
+    url = "/attending/venue"
+    parent = "attending"
+    weight = 10
+  [[menu.main]]
+    identifier = "visa"
+    name = "Visa"
+    url = "/attending/visa"
+    parent = "attending"
+    weight = 10
+  [[menu.main]]
+    identifier = "visit_vic"
+    name = "Discover Victoria"
+    url = "/attending/visit_vic"
+    parent = "attending"
+    weight = 51
+  [[menu.main]]
+    identifier = "visit_melbourne"
+    name = "Discover Melbourne"
+    url = "/attending/visit_melbourne"
+    parent = "attending"
+    weight = 50
 #  [[menu.main]]
 #    identifier = "travel"
 #    name = "Travel Information"
 #    url = "/attending/travel"
 #    parent = "attending"
 #    weight = 20
-#  [[menu.main]]
-#    identifier = "registration"
-#    name = "Registration"
-#    url = "/attending/registration"
-#    parent = "attending"
-#    weight = "30"
+  [[menu.main]]
+    identifier = "registration"
+    name = "Registration"
+    url = "/attending/registration"
+    parent = "attending"
+    weight = "30"
 #  [[menu.main]]
 #    identifier = "info"
 #    name = "General Info"
 #    url = "/attending/info"
 #    parent = "attending"
 #    weight = "40"
-#  [[menu.main]]
-#    identifier = "accommodation"
-#    name = "Accommodation"
-#    url = "/attending/accommodation"
-#    parent = "attending"
-#    weight = "40"
+[[menu.main]]
+  identifier = "accommodation"
+  name = "Accommodation"
+  url = "/attending/accommodation"
+  parent = "attending"
+  weight = "40"
 #  [[menu.main]]
 #    identifier = "student-support"
 #    name = "Student Support"

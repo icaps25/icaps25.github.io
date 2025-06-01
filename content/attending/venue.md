@@ -4,101 +4,110 @@ date: 2024-03-04T17:53:41+01:00
 draft: false
 ---
 
-# Venue
-ICAPS 2024 is being held at the Banff Centre for Arts and Creativity in beautiful Banff, Alberta, Canada. Banff is the major town in Banff National Park, nestled in the Canadian Rocky Mountains. It is one of Canada’s most popular tourist destinations. The Banff Centre will host to the Summer School, Doctoral Consortium, Workshops, Tutorials, and Technical program.
+# Conference Venue
+
+ICAPS 2025 is being held at **Melbourne Connect**, in the heart of Melbourne, Australia. Melbourne Connect is an innovation precinct located in the heart of Carlton, on the doorstep of the University of Melbourne’s Parkville campus. 
+
+Housing a hybrid of university and industry partners, as well as state-of-the-art postgraduate student accommodation and an Early Learning Centre onsite, Melbourne Connect is specifically designed for great minds to network and collaborate. 
+
+At the epicentre of Melbourne Connect is the Superfloor, a dedicated collaboration space that connects the dynamic meeting and events spaces of the precinct.
+
+Located on the former Royal Women’s Hospital site, on the corner of Swanston Street and Grattan Street, Melbourne Connect boasts smart and sustainable design and is well serviced by key transport links, bike paths and is close to green open spaces and a range of local dining, cafes and retail offerings.
+
+<!-- <figure>
+<div style="text-align:center">
+  <img
+  src="/img/venue/melbourne_city.jpg"
+  alt="Melbourne city skyline.">
+  <figcaption>Melbourne city skyline.</figcaption>
+</div>
+</figure> -->
 
 <figure>
 <div style="text-align:center">
   <img
-  src="/img/venue/banff_town.png"
-  alt="The town of Banff, in Banff National Park, Alberta, Canada">
-  <figcaption>The town of Banff, in Banff National Park, Alberta, Canada</figcaption>
-  </div>
+  src="/img/venue/melbourne_connect.jpg"
+  alt="Melbourne Connect precinct.">
+  <figcaption>Melbourne Connect precinct.</figcaption>
+</div>
 </figure>
 
-<figure>
-<div style="text-align:center">
-  <img
-  src="/img/venue/Sulphur_Mountain.jpg"
-  alt="Town of Banff, as seen from the top of Sulphur Mountain [Wikipedia].">
-  <figcaption>Town of Banff, as seen from the top of Sulphur Mountain [Wikipedia].</figcaption>
-  </div>
-</figure>
+## Melbourne Connect
 
 
-## Banff Centre for Arts and Creativity
+
+[Melbourne Connect](https://melbourneconnect.com.au/) offers detailed information about its facilities, location, and visitor information. Please refer <iframe src="/files/Melbourne Connect Venue Brochure 2024.pdf" width="80%" height="1000px"></iframe>
+
 
 <figure>
 <div style="text-align:center">
   <img
-  src="/img/venue/baff_centre.png"
-  alt="Town of Banff. The Banff Centre is #2 on the map [Banff.ca].">
-  <figcaption>Town of Banff. The Banff Centre is #2 on the map [Banff.ca].</figcaption>
+  src="/img/venue/melbourne_connect_2.jpg"
+  alt="Melbourne Connect precinct.">
+  <figcaption>Melbourne Connect location.</figcaption>
 </div>
 </figure>
 
 
-[The Banff Centre](https://www.banffcentre.ca/conferences/destination) has a great deal of information online as well as a [FAQ](https://www.banffcentre.ca/frequently-asked-questions-about-banff-centre). What follows augments and highlights information on the Banff Centre web page.
-
-The Banff Centre is located on the east side of Banff, four blocks from Banff Avenue, the main street of town. It is a 10-minute walk downhill to town. The return trip is slightly longer as it is uphill. Downtown Banff can be reached by taxi for less than $10 each way. There is no shuttle bus that runs from Banff Centre to downtown Banff.
-
-## Sally Borden Recreation Centre
-
-### Fitness Centre
-*Cardio equipment, free weights and running track*
-- Monday to Friday: 7:00 am – 8:00 pm
-- Saturday & Sunday: 8:00 am – 8:00 pm
-
-### Climbing Gym
-- Daily: 12:00 pm - 8:00 pm
-
-### Aquatic Centre
-*25m pool, hot tub, and wade pool - swim at your own risk. NO LIFEGUARD ON DUTY*
-- Monday to Friday: 7:00 am - 8:00 pm
-- Saturday & Sunday: 8:00 am - 8:00 pm
-
-## Walking to the Banff Centre
-- Walk up Ken Madsen path to Banff Centre via Wolverine Street along the north side of the historic cemetery.
-- Take a stroll along the scenic Bow River via Buffalo Street and Surprise Corner. Enjoy a spectacular view of the Fairmont Banff Springs Hotel.
-- Follow Wolf or Moose Street via St. Julien Road past the Tunnel Mountain trailhead.
-<br/>
-
-## Biking/Driving to the Banff Centre
-Via Buffalo Street
-- From Downtown, follow Buffalo Street and drive up the hill to Banff Centre
-- Turn left and follow the signs to free parking
-Via St. Julien Road
-- From downtown, follow Moose or Wolf Street
-- Turn right to St. Julien road and drive up to Banff Centre
-<br/>
-
 <figure>
 <div style="text-align:center">
-  <img
-  src="/img/venue/baff_centre_map.png"
-  alt="Banff Centre. Conference events are in the Max Bell Building (10) and the Kinnear Centre (6).">
-  <figcaption> Banff Centre. Conference events are in the Max Bell Building (10) and the Kinnear Centre (6).</figcaption>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8152.353588048064!2d144.96181347684967!3d-37.80007413325727!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad64354a5744ae3%3A0xddc00c0dca7ffa97!2sMelbourne%20Connect!5e1!3m2!1sen!2sau!4v1745666246587!5m2!1sen!2sau" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  <figcaption>Melbourne Connect location on Google Maps.</figcaption>
 </div>
 </figure>
 
+<!-- What follows highlights key points to assist conference attendees. -->
+
+
+
+<!-- Melbourne Connect is located at **700 Swanston Street, Carlton**, directly adjacent to the University of Melbourne and a short walk from Melbourne’s CBD. It is easily accessible by tram, bus, and bicycle, and is surrounded by cafes, restaurants, and cultural attractions.
+
+## Facilities
+
+### Fitness and Recreation
+
+While Melbourne Connect itself focuses on innovation and collaboration, attendees interested in fitness and recreation can access facilities at the nearby University of Melbourne Sport Centre:
+
+- **Fitness Centre**: Gym, cardio equipment, group fitness classes
+- **Swimming Pool**: 25m heated indoor pool
+- **Opening Hours**: Monday to Friday 6:00 am – 10:00 pm; Saturday & Sunday 8:00 am – 8:00 pm
+
+(*University of Melbourne Sport Centre access may require day passes or registration.*)
+
+## Getting to Melbourne Connect
+
+### Walking
+- Melbourne Connect is a 10–15 minute walk from Melbourne Central Station and many major hotels in the CBD.
+- Scenic walks through Carlton Gardens or University Square are pleasant options.
+
+### Public Transport
+- **Trams**: Routes 1, 3, 5, 6, 16, 64, 67, 72 stop nearby (corner of Swanston and Grattan Streets).
+- **Train**: Melbourne Central Station is the nearest major station, connected by tram or a short walk.
+- **Bus**: Several bus routes also service the area.
+
+### Cycling
+- Bicycle parking is available at Melbourne Connect.
+- Melbourne is a bike-friendly city with dedicated bike lanes around the precinct.
+
+### Driving
+- Limited street parking is available (metered).
+- Nearby car parks include the University Square Car Park (fee applies).
 
 ## Weather
 
-The weather in Banff at the end of May/beginning of June can range from beautiful sunny and warm to snowy. It's shoulder season. Skiing is over and hiking has started, but in a regular season higher elevations will still be snowy and possibly inaccessible.  We'll post weather forecasts closer to the date, but further information is available on the web.
+Melbourne’s weather in May and June is known for being highly variable — often referred to as "four seasons in one day." Expect cool to mild temperatures (10–18°C / 50–64°F), with a mix of sunshine, rain showers, and occasional wind. It’s recommended to bring layers and a compact umbrella.
 
 ## Poster Printing Options
 
-If you are unable to bring a poster with you, there are some places nearby that may work. It is important that you call in advance to confirm. In particular, the Banff Centre has limited capacity to print posters, and you can email them directly at (Print_Shop@banffcentre.ca) to inquire about their services.
+If you are unable to bring a poster with you, here are some local printing services:
 
-### Banff
+### Near Melbourne Connect
+* **Kwik Kopy Carlton** — full-service printing, close to Melbourne Connect
+* **Officeworks Melbourne CBD** — large-format poster printing
 
-There may be two places that could print posters ():
-* Pro Image Signs and Printing. Their phone number is +1-403-763-2010
-* The Source may have a printing service.
+### Other Options
+* **Snap Printing Melbourne**
+* **Worldwide Printing Solutions**
 
-### Canmore
-
-Canmore is not far from Banff (there is a shuttle bus between Banff and Canmore). In Canmore there is:
-* UPS Store -- they print posters
-* Canmore Printcraft
+We recommend contacting these services ahead of time to confirm pricing, file formats, and turnaround times. -->
 
