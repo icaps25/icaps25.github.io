@@ -14,7 +14,9 @@ For anyone looking for a room outside of the conference venue, there are many [h
 
 The town of Canmore is a 20 minute drive from Banff and is a nice place to stay. It has accommodation, some of which will be at a more reasonable price (it is also not in Banff National Park, which means some of the taxes do not apply). There is a regular bus service between Canmore and Banff. -->
 
-Melbourne Connect is located close to the Melbourne CBD, offering a wide range of accommodation options. Below, we list a few nearby hotels for your convenience:
+Melbourne Connect is located close to the Melbourne CBD, offering a wide range of accommodation options. Details about the conference venue will be announced soon.
+
+For your convenience, we have listed a few nearby hotels below. Please note that the prices are indicative only—refer to the hotel websites for up-to-date information and booking details.
 
 
 <figure>
