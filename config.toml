@@ -94,18 +94,18 @@ languageCode = 'en_AU'
     url = "/attending/visa"
     parent = "attending"
     weight = 10
-  [[menu.main]]
-    identifier = "visit_vic"
-    name = "Discover Victoria"
-    url = "/attending/visit_vic"
-    parent = "attending"
-    weight = 51
-  [[menu.main]]
-    identifier = "visit_melbourne"
-    name = "Discover Melbourne"
-    url = "/attending/visit_melbourne"
-    parent = "attending"
-    weight = 50
+#  [[menu.main]]
+#    identifier = "visit_vic"
+#    name = "Discover Victoria"
+#    url = "/attending/visit_vic"
+#    parent = "attending"
+#    weight = 51
+#  [[menu.main]]
+#    identifier = "visit_melbourne"
+#    name = "Discover Melbourne"
+#    url = "/attending/visit_melbourne"
+#    parent = "attending"
+#    weight = 50
 #  [[menu.main]]
 #    identifier = "travel"
 #    name = "Travel Information"
