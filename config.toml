@@ -272,12 +272,12 @@ languageCode = 'en_AU'
 #    url = "/program/dc"
 #    parent = "program"
 #    weight = 20
-# [[menu.main]]
-#   identifier = "keynotes"
-#   name = "Keynotes"
-#   url = "/program/keynotes"
-#   parent = "program"
-#   weight = "30"
+ [[menu.main]]
+   identifier = "keynotes"
+   name = "Keynotes"
+   url = "/program/keynotes"
+   parent = "program"
+   weight = "30"
 # [[menu.main]]
 #   identifier = "panel"
 #   name = "Industry Panel"
