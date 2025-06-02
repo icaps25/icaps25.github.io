@@ -1,6 +1,6 @@
 ---
 title: "Registration"
-date: 2025-05-28T17:53:41+01:00
+date: 2023-01-31T17:53:41+01:00
 draft: false
 ---
 
@@ -10,9 +10,10 @@ To register, you are kindly asked to complete
 
 <div style="width: 100%; padding: 1%; text-align: center;">
 
- <p><a href="http://mers.cventevents.com/ICAPS-2025" target="_blank"><span style="font-weight: bold;font-size: 16px;">REGISTRATION FORM</span></a></p>
+ <p><a href="http://mers.cventevents.com/ICAPS-2025" target="_lank"><span style="font-weight: bold;font-size: 20px;">*** REGISTRATION FORM ***</span></a></p>
 
 </div>
+
 
 Registering early will save you money, and also it will help us to organize things better!
 <!--
@@ -20,7 +21,7 @@ The deadline for **early registration is Wednesday September 3, 2025** and the *
 
 ## Information for Authors
 
-Each paper accepted to the main conference program (AAAI proceedings) must be accompanied by registration and payment of either regular fee or student fee. It is up to the authors to decide who will be the presenter and will pay the registration fee. **One author registration fee may cover up to 2 of their papers**.
+Each paper accepted to the main conference program (AAAI proceedings) must be accompanied by registration and payment of either regular fee or student fee. It is up to the authors to decide who will be the presenter and will pay the registration fee. **One author registration fee may cover up to 2 of their papers**. You can buy an additional third paper for $264 AUD.
 
 Physical attendance and in-person presentation is expected for each paper. No on-line presentations will be allowed.
 
@@ -53,9 +54,9 @@ For cancellation requests received on or before **September 30, 2025**, the regi
 
 For cancellation requests received between **1st October and 31st October**, the registration fee will be refunded 50% less an administration charge of $100 AUD.
 
-Registration fees will not be refunded in any portion if cancellation is received after **which date**.
+Registration fees will not be refunded in any portion if cancellation is received after **31st October**.
 
-If you cannot attend, your registration is transferable to another participant (the same type of registration fee). Please inform the local arrangements chair as soon as possible, but no later than **which date**, to whom your registration should be transferred.
+If you cannot attend, your registration is transferable to another participant (the same type of registration fee). Please inform the local arrangement team at xxxx@xxxxx as soon as possible, but no later than **3rd November**, to whom your registration should be transferred.
 
 ## Invitation Letter & Questions?
 
