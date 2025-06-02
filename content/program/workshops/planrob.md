@@ -38,7 +38,7 @@ Topics of interest include (but are not limited to):
 ## Important Dates
 
 * Paper submission: June 30, 2025
-* Notification: July 10, 2025
+* Notification: July 20, 2025
 * Workshop: November 11, 2025
 
 ## Submission
