@@ -22,7 +22,7 @@ The tutorial will include a hands-on lab component for participants to get famil
 
 ## Tutorial Website
 
-coming soon...
+Accessible [here](https://l4p-tutorial.github.io/).
 
 ## Authors
 [Dillon Z. Chen](https://dillonzchen.github.io/), Laboratory for Analysis and Architecture of Systems (LAAS-CNRS), Toulouse, France
