@@ -23,6 +23,7 @@ See below for how to locally develop the site and how to publish automatically.
 
 - [GitHub Pages](https://pages.github.com/): free service provided by GitHub that allows you to host static websites directly from a GitHub repository.
 - [HUGO](https://gohugo.io) framework for production of static web pages.
+  - A good set of tutorial videos can be found [HERE](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3).
 - [Weather Widget](https://weatherwidget.org/): for the weather widget at the conference location.
 
 ## Setup
