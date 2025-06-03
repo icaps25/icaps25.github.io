@@ -2,9 +2,9 @@
 
 Website for the ICAPS 2025 conference held in Melbourne, Australia - November 9-14, 2025.
 
-This site is published automatically via a GH Action workflow to the following GH-pages:
+This site is published automatically via a GH Action workflow to the following default GH-pages:
 
-https://icaps25.github.io/
+<https://icaps25.github.io/>
 
 If you want information on how to setup and deploy a new web-page for future ICAPS, please refer to file [DEPLOYMENT.md](DEPLOYMENT.md) is useful for those setting up a new webpage for future ICAPS iterations.
 
@@ -19,7 +19,7 @@ We follow the [standard workflow](https://docs.github.com/en/pull-requests/colla
 First you need your own forked copy of the original upstream website:
 
 1. Sign up for Github
-2. Go to https://github.com/icaps2025/icaps2025.github.io and click the '`Fork`' button in the upper right. This should create and bring you to your _own_ forked copy of the ICAPS website repository.
+2. Go to <https://github.com/icaps2025/icaps2025.github.io> and click the '`Fork`' button in the upper right. This should create and bring you to your _own_ forked copy of the ICAPS website repository.
 
 ### 2. Clone your fork
 
@@ -29,18 +29,18 @@ Clone locally the just created fork. After successfully cloning the repository y
 > You may want to setup an upstream remote to track the original repo:
 >
 > ```shell
-> $ git remote add upstream git@github.com:icaps2025/icaps2025.github.io.git
-> $ git fetch upstream
+> git remote add upstream git@github.com:icaps2025/icaps2025.github.io.git
+> git fetch upstream
 > ```
 
 You only need to do all this once.
 
 ### 3. Branch to make your edits
 
-From your local repo of yuor fork, create a new branch for the pull request you plan to make:
+From your local repo of your fork, create a new branch for the pull request you plan to make:
 
 ```shell
-$ git checkout -b my-feature-branch
+git checkout -b my-feature-branch
 ```
 
 ### 4. Make Your Changes and Commit
@@ -48,9 +48,9 @@ $ git checkout -b my-feature-branch
 Edit your files normally, commit, and push to your remote fork:
 
 ```shell
-$ git add .
-$ git commit -m "my updates"
-$ git push -u origin my-feature-branch
+git add .
+git commit -m "my updates"
+git push -u origin my-feature-branch
 ```
 
 > [!NOTE]
@@ -78,10 +78,10 @@ It the upstream maintainers are happy with the PR updates, they will merge the P
 It is now good practice to sync your fork. You can do it from the GH interface or, since you have already setup an upstream remote:
 
 ```shell
-$ git checkout main
-$ git fetch upstream
-$ git merge upstream/main
-$ git push origin main
+git checkout main
+git fetch upstream
+git merge upstream/main
+git push origin main
 ```
 
 Or use `rebase` (intead of `merge`) if preferred.
@@ -89,16 +89,27 @@ Or use `rebase` (intead of `merge`) if preferred.
 > [!NOTE]
 > If you want you can just delete the branch in your fork. You will hopefully create a new branch for new updates anyways 😉
 
-
 ## Testing changes
 
 The site is built with [HUGO](https://gohugo.io) framework for automated generation of static web content.
-If you have [hugo installed](https://gohugo.io/getting-started/installing) on your system, you can test your changes by running
-`hugo server` in the *website root*.
-This will start a webserver on http://localhost:1313.
 
-### Creating your pull request ###
+It is often convenient to develop and test locally your site _before_ pushing it to the remote repo (which kicks off the deployment workflow to re-build the site).
 
+If you have [hugo installed](https://gohugo.io/getting-started/installing) on your system, you can test  your changes by running `hugo server` in the _website root_ folder. This will start a local webserver on <http://localhost:1313>:
 
+```shell
+$ hugo server
+...
+Built in 19 ms
+Environment: "development"
+Serving pages from disk
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
+Press Ctrl+C to stop
+```
+
+The site can be accessed locally at http://localhost:1313/ and is locally produced in folder `public/` (not tracked by git).
+
+### Creating your pull request
 
 If you have future edits to make, you can restart the process at "[Branch to Make your Edits](https://github.com/icaps2025/icaps2025.github.io#branch-to-make-your-edits)"
