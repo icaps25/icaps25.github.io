@@ -1,0 +1,24 @@
+{{ $imgs := split (.Get "imgs") "," }}
+<div class="image-text-block {{ .Get "direction" }}">
+  <div class="image">
+    <div class="swiper">
+      <div class="swiper-wrapper">
+        {{ range $img := $imgs }}
+          {{ $clean := trim $img " " }}
+          {{ if $clean }}
+            <div class="swiper-slide">
+              <img src="{{ $clean }}" alt="{{ $.Get "alt" }}">
+            </div>
+          {{ end }}
+        {{ end }}
+      </div>
+      <div class="swiper-pagination"></div>
+      <div class="swiper-button-next"></div>
+      <div class="swiper-button-prev"></div>
+    </div>
+  </div>
+  <div class="text">
+    <h2>{{ .Get "title" }}</h2>
+    <p>{{ .Inner }}</p>
+  </div>
+</div>
