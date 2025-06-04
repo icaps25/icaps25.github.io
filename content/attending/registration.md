@@ -10,7 +10,7 @@ To register, you are kindly asked to complete
 
 <div style="width: 100%; padding: 1%; text-align: center;">
 
- <p><a href="http://mers.cventevents.com/ICAPS-2025" target="_lank"><span style="font-weight: bold;font-size: 20px;">*** REGISTRATION FORM ***</span></a></p>
+ <p><a href="http://mers.cventevents.com/ICAPS-2025" target="_lank"><span style="font-weight: bold;font-size: 20px;">REGISTRATION FORM</span></a></p>
 
 </div>
 
@@ -33,7 +33,7 @@ All fees will be charged in Australian Dollars (AUD). At the time of writing, 1.
 
 A **full 5-days Regular and Student Fees** include:
 
-* attendance at ICAPS 2025 conference - admission to workshops and tutorials, invited talks, technical sessions, community meeting, poster and demo sessions
+* attendance to ICAPS 2025 conference - admission to workshops and tutorials, invited talks, technical sessions, community meeting, poster and demo sessions
 * up to 2 papers in ICAPS conference proceedings (published by AAAI)
 * attendance to CPAIOR sessions on the same days registered for ICAPS
 * conference package
@@ -44,9 +44,9 @@ A **full 5-days Regular and Student Fees** include:
 
 A copy of a valid student card or a student confirmation (in English) may be requested by the organizers upon arrival.
 
-## Confirmation
+## Confirmation & Invitation Letter
 
-You will receive email confirmation immediately after completing the online registration form at the top of the page.
+You will receive email confirmation immediately after completing the online registration form at the top of the page. Invitations will be issued automatically as part of the registration confirmation process.
 
 ## Cancellation Policy & Refund
 
@@ -56,8 +56,8 @@ For cancellation requests received between **1st October and 31st October**, the
 
 Registration fees will not be refunded in any portion if cancellation is received after **31st October**.
 
-If you cannot attend, your registration is transferable to another participant (the same type of registration fee). Please inform the local arrangement team at xxxx@xxxxx as soon as possible, but no later than **3rd November**, to whom your registration should be transferred.
+If you cannot attend, your registration is transferable to another participant (the same type of registration fee). Please inform the local arrangement team at matt@mersevents.com as soon as possible, but no later than **3rd November**, to whom your registration should be transferred.
 
-## Invitation Letter & Questions?
+## Questions?
 
-Please complete your registration online to receive your letter of invitation. Invitations will be issued automatically as part of the registration confirmation process.
+Reach out to matt@mersevents.com for any questions regarding registration. Make sure to include ICAPS25 in the subject.
