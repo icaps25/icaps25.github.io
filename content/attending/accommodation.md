@@ -14,15 +14,17 @@ For anyone looking for a room outside of the conference venue, there are many [h
 
 The town of Canmore is a 20 minute drive from Banff and is a nice place to stay. It has accommodation, some of which will be at a more reasonable price (it is also not in Banff National Park, which means some of the taxes do not apply). There is a regular bus service between Canmore and Banff. -->
 
-Melbourne Connect is located close to the Melbourne CBD, offering a wide range of accommodation options. Details about the conference venue will be announced soon.
 
-For your convenience, we have listed a few nearby hotels below. Please note that the prices are indicative only—refer to the hotel websites for up-to-date information and booking details.
+
+Melbourne Connect is located close to the Melbourne CBD, offering a wide range of accommodation options. **Details about the main conference acommodation will be announced soon.**
+
+For your convenience, we have listed a few nearby hotels below. Please note that the prices are indicative only—refer to the hotel websites for up-to-date information and booking details. You may want to use booking engines such as [booking](https://www.booking.com/) or [agoda](https://www.agoda.com/). 
 
 
 <figure>
   <img src="/img/accommodation/a1.jpg" alt="Arrow on Swanston" width="300"> <img src="/img/accommodation/a2.jpg" alt="Arrow on Swanston" width="300">
   <figcaption>
-    <a href="https://www.arrowonswanston.com.au/"><strong>Arrow on Swanston</strong></a> – ~$119 per night (was $140), approx. 8-minute walk to the venue.
+    <a href="https://www.arrowonswanston.com.au/"><strong>Arrow on Swanston</strong></a> – ~$119 per night (was $140), approx. 8-minute walk to the venue. It has single rooms up to 4 bedroom apartments.
   </figcaption>
 
 </figure>
