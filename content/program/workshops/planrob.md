@@ -49,7 +49,7 @@ There are two types of submissions:
   
 Papers may have an additional page containing references. Regular papers may be scheduled with more time in the final program. A poster session may be considered to provide a further presentation opportunity.
 
-The guidelines for formatting are the same as is used for ICAPS 2025 papers (typeset in the AAAI style as described at: http://www.aaai.org/Publications/Author/author.php), but with the AAAI copyright removed. The papers must be submitted in PDF format via the EasyChair system (https://easychair.org/conferences/?conf=icapswsplanrob24).
+The guidelines for formatting are the same as is used for ICAPS 2025 papers (typeset in the AAAI style as described at: http://www.aaai.org/Publications/Author/author.php), but with the AAAI copyright removed. The papers must be submitted in PDF format via the EasyChair system (https://easychair.org/conferences/?conf=icapswsplanrob25).
 
 Please note that papers under review (e.g. which have been submitted to IJCAI-2025) are also welcome, however, in order to avoid potential conflicts, these manuscripts should be prepared as anonymous submissions for a double blind reviewing process.
 
@@ -65,3 +65,24 @@ The organisers are investigating the availability of journal editors in order to
 - [Iman Awaad](https://www.h-brs.de/en/inf/iman-awaad), Hochschule Bonn-Rhein-Sieg University of Applied Sciences, Germany
 - [Alberto Finzi](http://wpage.unina.it/alberto.finzi/), Naples University, Italy
 - [Andrea Orlandini](https://www.istc.cnr.it/people/andrea-orlandini), National Research Council of Italy, Italy
+
+### Program Committee
+- Zlatan Ajanovic,	TU Delft
+- Iman Awaad,	Bonn Rhein Sieg University of Applied Sciences	
+- Roman Barták Charles University
+- Ronen Brafman Ben-Gurion University
+- Riccardo Caccavale Università degli studi di Napoli Federico II
+- Magí Dalmau Moreno Universitat Pompeu Fabra
+- Riccardo De Benedictis CNR - National Research Council of Italy
+- Alberto Finzi Universita' di Napoli Federico II	
+- Nick Hawes University of Oxford
+- Jane Jean	Kiam Universität der Bundeswehr München
+- Senka	Krivic University of Sarajevo
+- Oscar	Lima German Research Center for Artificial Intelligence - DFKI
+- Tim	Niemueller Intrinsic Innovation GmbH
+- Andrea	Orlandini CNR	
+- Ron	Petrick Heriot-Watt University
+- Sebastian Stock German Research Center for Artificial Intellegence, DFKI
+- Elisa Tosello Fondazione Bruno Kessler
+- Alessandro Umbrico National Research Council of Italy (CNR-ISTC)
+- Pulkit	Verma Massachusetts Institute of Technology
