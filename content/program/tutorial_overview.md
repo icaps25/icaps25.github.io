@@ -71,7 +71,7 @@ Here is the list of the tutorials accepted to ICAPS 2025
  		<p><a href="/program/tutorials/ltlf" target="_blank">LTLf Synthesis and Planning Under Unreliable Input</a></p>
  	</div>
  	<div style="display:inline-block; width: 49%;">
- 		<p></p>
+ 		<p>Giuseppe De Giacomo and Shufang Zhu</p>
  	</div>
  </div>
 
