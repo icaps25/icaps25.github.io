@@ -31,7 +31,9 @@ The extended abstracts and videos for accepted demonstrations will be available 
 
 
 ## Summary of Important Dates
-- Submission Deadline: Monday, June 9th.
+- ~~Submission Deadline: Monday, June 9th.~~
+- Submission (Abstract + PDF placeholder) Deadline: Monday, June 9th, AOE.
+- Submission (Upload final PDF submission) Deadline: Monday, June 16th, AOE.
 - Notification: July 21st.
 
 ## System Demo Program Chairs
