@@ -1,6 +1,6 @@
 ---
 title: "Planning in the Era of LLMs (LM4Plan @ ICAPS 2025)"
-date: 2025-04-25T00:00+00:00
+date: 2025-04-13T00:00:00+00:00
 draft: false
 ---
 
@@ -40,8 +40,8 @@ We invite paper submissions on the following (not exhaustive) list of topics:
 
 ## Important Dates
 
-- Paper submission deadline: July 15th, AoE
-- Paper acceptance notification: August 31st, AoE
+- Paper submission deadline: July 25th, AoE
+- Paper acceptance notification: September 8th, AoE
 
 ICAPS will be in-person this year. Authors of accepted workshop papers are
 expected to register for the workshop, physically attend the conference and
