@@ -26,8 +26,7 @@ Planning and Scheduling are optimisation problems which require finding a set of
 
 - [KR-2025](https://kr.org//KR2025/): The 22nd International Conference on Principles of Knowledge Representation and Reasoning.
 - [CPAIOR-2025](https://sites.google.com/view/cpaior2025): The 22nd International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research.
-- **Planning and Optimisation Summer School 2025**, the details of which will be announced here at a future
-  date.
+- [Planning and Optimisation Summer School 2025](https://opss25.pathfinding.ai/), unlock the potential of planning and optimisation with us on 3-7th November in Melbourne, Australia.
 
 <!-- The organisers of ICAPS 2025 invite [technical paper
 submissions](/calls/main_track) from

@@ -37,11 +37,11 @@ languageCode = 'en_AU'
     name = "Home"
     url="/home"
     weight = 1000
-  [[menu.main]]
-    identifier = "news"
-    name = "News"
-    url="/news"
-    weight = 1000
+#  [[menu.main]]
+#    identifier = "news"
+#    name = "News"
+#    url="/news"
+#    weight = 1000
 # DATES
   [[menu.main]]
     identifier = "dates"
@@ -61,16 +61,16 @@ languageCode = 'en_AU'
 #    parent = "competitions"
 #    weight = 10
 # STUDENTS
-#  [[menu.main]]
-#    identifier = "students"
-#    name = "Students"
-#    weight = 4000
-#  [[menu.main]]
-#    identifier = "summerschool"
-#    name = "Summer School"
-#    url = "/summerschool"
-#    parent = "students"
-#    weight = 100
+  [[menu.main]]
+    identifier = "students"
+    name = "Students"
+    weight = 4000
+  [[menu.main]]
+    identifier = "summerschool"
+    name = "Summer School"
+    url = "/summerschool"
+    parent = "students"
+    weight = 100
 #  [[menu.main]]
 #    identifier = "dc"
 #    name = "Doctoral Consortium"
