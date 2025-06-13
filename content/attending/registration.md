@@ -6,11 +6,17 @@ draft: false
 
 # Registration
 
-To register, you are kindly asked to complete
+To register, you are kindly asked to fill the form on the link below:
 
 <div style="width: 100%; padding: 1%; text-align: center;">
-
- <p><a href="http://mers.cventevents.com/ICAPS-2025" target="_lank"><span style="font-weight: bold;font-size: 20px;">REGISTRATION FORM</span></a></p>
+<p style="text-align: center; margin: 30px 0;">
+  <a href="http://mers.cventevents.com/ICAPS-2025" target="_blank" 
+     style="background-color:rgb(220, 150, 81); color: white; padding: 15px 30px; 
+            font-size: 22px; font-weight: bold; text-decoration: none; 
+            border-radius: 8px; display: inline-block; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+    REGISTER NOW
+  </a>
+</p>
 
 </div>
 
