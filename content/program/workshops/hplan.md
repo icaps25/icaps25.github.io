@@ -23,7 +23,7 @@ Topics of interests include but are not limited to:
 
 ## Important Dates (updated!)
 
-- Submission Deadline: July 10 (Thursday), 2025
+- Submission Deadline: July 11 (Friday), 2025
 - Author Notification: August 15 (Friday), 2025
 - Camera-Ready Deadline: September 26 (Friday), 2025
 - ICAPS 2025 Workshops: November 10-11 (TBA), 2025
