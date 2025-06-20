@@ -39,7 +39,7 @@ We seek original papers ranging from experience reports to the description of ne
 
 ## Important Dates
 
--	Paper submission deadline: June 20, 2025 (UTC-12 time zone)
+-	Paper submission deadline: ~~June 20~~, June 30, 2025 (UTC-12 time zone)
 -	Notification: July 31, 2025
 -	Camera-ready paper submission: TBC
 
