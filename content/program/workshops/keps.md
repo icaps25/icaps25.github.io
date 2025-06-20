@@ -66,4 +66,23 @@ Submissions of papers being reviewed at other venues are welcome since this is a
 - Tiago Vaquero, NASA JPL
 
 ## Program Committee
-TBC
+- Lee-or Alon, Bar-Ilan University
+- Luigi Bonassi, University of Oxford
+- Sandra Castellanos, University of Huddersfield
+- Matteo Cardellini, Università degli Studi di Genova
+- Francesco Percassi, University of Huddersfield
+- Jeremy Frank, NASA
+- Sergio Jimenez Celorrio, Universitat Politècnica de València
+- Nader Karimi, ANU 
+- Andrea Orlandini, CNR
+- Lee McCluskey, University of Huddersfield
+- Susana Fernandez, Universidad Carlos III de Madrid
+- Simon Parkinson, University of Huddersfield
+- David Smith, 
+- Eva Onaindia, Universitat Politècnica de València
+- Alan Lindsay, Heriot-Watt University
+- Roman Barták, Charles University
+- Alessandro Umbrico, National Research Council of Italy (CNR-ISTC)
+- Alba Gragera, Universidad Carlos III de Madrid
+- Yaniel Carreno, BAE Systems Digital Intelligence
+- Raquel Fuentetaja, Universidad Carlos III de Madrid
