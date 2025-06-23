@@ -17,9 +17,9 @@ The objectives of the workshop are thus as follows: (i) highlight recent breakth
 ## Important Dates
 This year's first edition of CASP:ER will be held on November 10th or 11th, 2025, as a workshop co-located with ICAPS 2025.
 Important dates
- - Paper submission July 7th, 2025
- - Notification    	August 10th, 2025
- - Camera-ready    	September 7th, 2025
+ - Paper submission: July 7th, 2025
+ - Notification:    	August 10th, 2025
+ - Camera-ready:    	September 7th, 2025
  - Workshop: November 10th or 11th, 2025 (TBA)
 
 ## Call for contributions
