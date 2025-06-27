@@ -37,9 +37,9 @@ Topics of interest include (but are not limited to):
 
 ## Important Dates
 
-* Paper submission: June 30, 2025
-* Notification: July 20, 2025
-* Workshop: November 11, 2025
+* Paper submission (extended): July 11, 2025 (was June 30, 2025)
+* Notification (extended): august 1, 2025 (was July 20, 2025)
+* Workshop: November 10-11, 2025 (tbd)
 
 ## Submission
 
@@ -49,7 +49,7 @@ There are two types of submissions:
   
 Papers may have an additional page containing references. Regular papers may be scheduled with more time in the final program. A poster session may be considered to provide a further presentation opportunity.
 
-The guidelines for formatting are the same as is used for ICAPS 2025 papers (typeset in the AAAI style as described at: http://www.aaai.org/Publications/Author/author.php), but with the AAAI copyright removed. The papers must be submitted in PDF format via the EasyChair system (https://easychair.org/conferences/?conf=icapswsplanrob25).
+The guidelines for formatting are the same as is used for ICAPS 2025 papers (typeset in the AAAI style as described at: http://www.aaai.org/Publications/Author/author.php), but with the AAAI copyright removed. The papers must be submitted in PDF format via the EasyChair system ( https://easychair.org/conferences/?conf=icapswsplanrob25 ).
 
 Please note that papers under review (e.g. which have been submitted to IJCAI-2025) are also welcome, however, in order to avoid potential conflicts, these manuscripts should be prepared as anonymous submissions for a double blind reviewing process.
 
