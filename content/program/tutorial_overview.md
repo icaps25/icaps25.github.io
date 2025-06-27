@@ -90,7 +90,7 @@ Heuristic Search through Domain-Independent Dynamic Programming</a></p>
  		<p><a href="/program/tutorials/ep" target="_blank">Epistemic Planning: Recent Advancements and Future Directions</a></p>
  	</div>
  	<div style="display:inline-block; width: 49%;">
- 		<p></p>
+ 		<p>Alessandro Burigana</p>
  	</div>
  </div>
 
