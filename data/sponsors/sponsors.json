@@ -48,6 +48,11 @@
 					"height": "-1",
 					"width": "150",
 					"link": "https://aij.ijcai.org"
+				},				{
+					"logo": "/img/partners/jpmorgan.png",
+					"height": "-1",
+					"width": "280",
+					"link": "https://www.jpmorgan.com"
 				},
 				{
 					"logo": "/img/partners/LearningMachinesLogo_V2.jpg",
@@ -60,12 +65,6 @@
 		{
 			"rank": "Patron",
 			"list": [
-				{
-					"logo": "/img/partners/jpmorgan.png",
-					"height": "-1",
-					"width": "280",
-					"link": "https://www.jpmorgan.com"
-				},
 				{
 					"logo": "/img/partners/gurobi.png",
 					"height": "-1",
