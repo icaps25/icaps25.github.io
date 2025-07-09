@@ -35,20 +35,20 @@ There are plenty of hotels within a 15-minute walk of Melbourne Connect, so you�
 
 However, we have listed a few nearby hotels below. Please note that the prices are indicative only—refer to the hotel websites for up-to-date information and booking details.
 
-We suggest booking early to lock in the best spots!
+We suggest booking early to lock in the best spots! 
 
 
 <figure>
   <img src="/img/accommodation/z1.jpg" alt="Zagame's House" width="300"> <img src="/img/accommodation/z2.jpg" alt="Zagame's House" width="300">
   <figcaption>
-    <a href="https://www.zagameshouse.com.au/"><strong>Zagame's House</strong></a> – Special Discount ~$279 per night, approx. 12-minute walk to the venue. <a href=https://www.simplebooking.it/ibe2/hotel/6975?lang=EN&offer=208881=>This rate is available until the 15th of Octorber</a>.
+    <a href="https://www.zagameshouse.com.au/"><strong>Zagame's House</strong></a> – Special Discount ~AUD 279 per night, approx. 12-minute walk to the venue. <a href=https://www.simplebooking.it/ibe2/hotel/6975?lang=EN&offer=208881=>This rate is available until the 15th of Octorber</a>.
   </figcaption>
 </figure>
 
 <figure>
   <img src="/img/accommodation/b1.jpg" alt="Best Western Plus Travel Inn Hotel" width="300"> <img src="/img/accommodation/b2.jpg" alt="Best Western Plus Travel Inn Hotel" width="300">
   <figcaption>
-    <a href="https://thetravelinn.com.au/"><strong>Best Western Plus Travel Inn Hotel</strong></a> – ~$220 per night, approx. 7-minute walk to the venue.
+    <a href="https://thetravelinn.com.au/"><strong>Best Western Plus Travel Inn Hotel</strong></a> – ~AUD 220 per night, approx. 7-minute walk to the venue.
   </figcaption>
 </figure>
 
@@ -56,7 +56,7 @@ We suggest booking early to lock in the best spots!
 <figure>
   <img src="/img/accommodation/c1.jpg" alt="Essence Hotel Carlton" width="300"> <img src="/img/accommodation/c2.jpg" alt="Essence Hotel Carlton" width="300">
   <figcaption>
-    <a href="https://www.essencehotels.com.au/carlton/"><strong>Essence Hotel Carlton</strong></a> – ~$167 per night, approx. 7-minute walk to the venue.
+    <a href="https://www.essencehotels.com.au/carlton/"><strong>Essence Hotel Carlton</strong></a> – ~AUD 167 per night, approx. 7-minute walk to the venue.
   </figcaption>
 
 </figure>
@@ -65,7 +65,7 @@ We suggest booking early to lock in the best spots!
 <figure>
   <img src="/img/accommodation/d1.jpg" alt="Ibis Melbourne" width="300"> <img src="/img/accommodation/d2.jpg" alt="Ibis Melbourne" width="300">
   <figcaption>
-    <a href="https://all.accor.com/lien_externe.svlt?&destination=1564&goto=rech_resa&currency=AUD&goto=rech_resa&dayIn=09&monthIn=11&yearIn=2025&nightNb=5&adultNumber=1&preferredCode=MICEGRP&code_langue=gb"><strong>Ibis Melbourne</strong></a> – Special Discount of ~$135 per night, approx. 14-minute walk to the venue.
+    <a href="https://all.accor.com/lien_externe.svlt?&destination=1564&goto=rech_resa&currency=AUD&goto=rech_resa&dayIn=09&monthIn=11&yearIn=2025&nightNb=5&adultNumber=1&preferredCode=MICEGRP&code_langue=gb"><strong>Ibis Melbourne</strong></a> – Special Discount of ~AUD 135 per night, approx. 14-minute walk to the venue.
   </figcaption>
 
 </figure>
@@ -74,7 +74,7 @@ We suggest booking early to lock in the best spots!
 <figure>
   <img src="/img/accommodation/a1.jpg" alt="Arrow on Swanston" width="300"> <img src="/img/accommodation/a2.jpg" alt="Arrow on Swanston" width="300">
   <figcaption>
-    <a href="https://www.arrowonswanston.com.au/"><strong>Arrow on Swanston</strong></a> – ~$119 per night (was $140), approx. 8-minute walk to the venue. It has single rooms up to 4 bedroom apartments.
+    <a href="https://www.arrowonswanston.com.au/"><strong>Arrow on Swanston</strong></a> – ~AUD 119 per night (was AUD 140), approx. 8-minute walk to the venue. It has single rooms up to 4 bedroom apartments.
   </figcaption>
 
 </figure>
@@ -82,7 +82,7 @@ We suggest booking early to lock in the best spots!
 <figure>
   <img src="/img/accommodation/e1.jpg" alt="Mercure Melbourne Therry St" width="300"> <img src="/img/accommodation/e2.jpg" alt="Mercure Melbourne Therry St" width="300">
   <figcaption>
-    <a href="https://all.accor.com/hotel/9376/index.en.shtml"><strong>Mercure Melbourne Therry St</strong></a> – ~$153 per night, approx. 15-minute walk to the venue.
+    <a href="https://all.accor.com/hotel/9376/index.en.shtml"><strong>Mercure Melbourne Therry St</strong></a> – ~AUD 153 per night, approx. 15-minute walk to the venue.
   </figcaption>
 
 </figure>
@@ -90,7 +90,7 @@ We suggest booking early to lock in the best spots!
 <figure>
   <img src="/img/accommodation/f1.jpg" alt="Mercure North Melbourne" width="300"> <img src="/img/accommodation/f2.jpg" alt="Mercure North Melbourne" width="300">
   <figcaption>
-    <a href="https://all.accor.com/hotel/9270/index.en.shtml"><strong>Mercure North Melbourne</strong></a> – ~$132 per night, approx. 22-minute walk to the venue. 10% off Daily rates over event period & shoulder dates. Book directly with Gabriel Hartman (Gabriel_hartmann@mercurenorthmelbourne.com.au)
+    <a href="https://all.accor.com/hotel/9270/index.en.shtml"><strong>Mercure North Melbourne</strong></a> – ~AUD 132 per night, approx. 22-minute walk to the venue. 10% off Daily rates over event period & shoulder dates. Book directly with Gabriel Hartman (Gabriel_hartmann@mercurenorthmelbourne.com.au)
   </figcaption>
 
 </figure>
@@ -98,7 +98,7 @@ We suggest booking early to lock in the best spots!
 <figure>
   <img src="/img/accommodation/g1.jpg" alt="Crowne Plaza Melbourne Carlton" width="300"> 
   <figcaption>
-    <a href="https://www.ihg.com/crowneplaza/hotels/us/en/carlton/melcn/hoteldetail"><strong>Crowne Plaza Melbourne Carlton</strong></a> – ~$270 per night, approx. 3-minute walk to the venue.
+    <a href="https://www.ihg.com/crowneplaza/hotels/us/en/carlton/melcn/hoteldetail"><strong>Crowne Plaza Melbourne Carlton</strong></a> – ~AUD 270 per night, approx. 3-minute walk to the venue.
   </figcaption>
 
 </figure>
@@ -108,7 +108,7 @@ We suggest booking early to lock in the best spots!
 <figure>
   <img src="/img/accommodation/h1.jpg" alt="The Last Jar" width="300"> <img src="/img/accommodation/h2.jpg" alt="The Last Jar" width="300">
   <figcaption>
-    <a href="https://book-directonline.com/properties/thelastjar?locale=en&items[0][adults]=2&items[0][children]=0&items[0][infants]=0&currency=AUD&checkInDate=2025-02-19&checkOutDate=2025-02-20&trackPage=no"><strong>The Last Jar</strong></a> – ~$120 per night, approx. 13-minute walk to the venue.
+    <a href="https://book-directonline.com/properties/thelastjar?locale=en&items[0][adults]=2&items[0][children]=0&items[0][infants]=0&currency=AUD&checkInDate=2025-02-19&checkOutDate=2025-02-20&trackPage=no"><strong>The Last Jar</strong></a> – ~AUD 120 per night, approx. 13-minute walk to the venue.
   </figcaption>
 
 </figure>
@@ -116,7 +116,7 @@ We suggest booking early to lock in the best spots!
 <figure>
   <img src="/img/accommodation/i1.jpg" alt="Carlton Lygon Lodge" width="300"> <img src="/img/accommodation/i2.jpg" alt="Carlton Lygon Lodge" width="300">
   <figcaption>
-    <a href="https://www.lygonlodge.com.au/"><strong>Carlton Lygon Lodge</strong></a> – ~Twin bed $125 per night/Queen $139 per night, approx. 6-minute walk to the venue.
+    <a href="https://www.lygonlodge.com.au/"><strong>Carlton Lygon Lodge</strong></a> – ~Twin bed AUD 125 per night/Queen AUD 139 per night, approx. 6-minute walk to the venue.
   </figcaption>
 
 </figure>
