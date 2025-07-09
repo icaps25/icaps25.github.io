@@ -10,6 +10,12 @@
 					"link": "https://optima.org.au/"
 				},
 				{
+					"logo": "/img/partners/UoM.png",
+					"height": "-1",
+					"width": "150",
+					"link": "https://cis.unimelb.edu.au/"
+				},
+				{
 					"logo": "/img/partners/monash.webp",
 					"height": "-1",
 					"width": "250",
@@ -25,12 +31,6 @@
 					"height": "-1",
 					"width": "150",
 					"link": "http://psresearch.xyz"
-				},
-				{
-					"logo": "/img/partners/UoM.png",
-					"height": "-1",
-					"width": "150",
-					"link": "https://cis.unimelb.edu.au/"
 				},
 				{
 					"logo": "/img/partners/logo-desktop.svg",
