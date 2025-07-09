@@ -16,17 +16,33 @@ The town of Canmore is a 20 minute drive from Banff and is a nice place to stay.
 
 
 
-Melbourne Connect is located close to the Melbourne CBD, offering a wide range of accommodation options. **Details about the main conference acommodation will be announced soon.**
+Melbourne Connect is located close to the Melbourne CBD, offering a wide range of accommodation options.
 
-For your convenience, we have listed a few nearby hotels below. Please note that the prices are indicative only—refer to the hotel websites for up-to-date information and booking details. You may want to use booking engines such as [booking](https://www.booking.com/) or [agoda](https://www.agoda.com/). 
+There are plenty of hotels within a 15-minute walk of Melbourne Connect, so you’ll have lots of options close to the venue through hotel search engines — here’s a **[handy one](https://tinyurl.com/ypbk5e9s)** to get you started.  In many cases, the prices there are even better than what we could get with conference promo codes. Just pop in your dates and click the Walk icon at the bottom to see how far each hotel is from the venue. You may want to check also booking engines such as [booking](https://www.booking.com/) or [agoda](https://www.agoda.com/). 
+
+
+<figure style="text-align: center;">
+  <a href="https://tinyurl.com/ypbk5e9s" target="_blank">
+    <img src="/img/accommodation/gmapshotel.png" alt="Hotels near Melbourne Connect" width="600">
+  </a>
+  <figcaption>
+    Example hotel search near Melbourne Connect — showing walking distance options. Click the image to explore.
+  </figcaption>
+</figure>
+
+<!-- We secured the following discounted rate of 279 AUD for [Zagame's hotel](https://www.zagameshouse.com.au/). [This rate is available until the 15th of Octorber.](https://www.simplebooking.it/ibe2/hotel/6975?lang=EN&offer=208881). -->
+
+
+However, we have listed a few nearby hotels below. Please note that the prices are indicative only—refer to the hotel websites for up-to-date information and booking details.
+
+We suggest booking early to lock in the best spots!
 
 
 <figure>
-  <img src="/img/accommodation/a1.jpg" alt="Arrow on Swanston" width="300"> <img src="/img/accommodation/a2.jpg" alt="Arrow on Swanston" width="300">
+  <img src="/img/accommodation/z1.jpg" alt="Zagame's House" width="300"> <img src="/img/accommodation/z2.jpg" alt="Zagame's House" width="300">
   <figcaption>
-    <a href="https://www.arrowonswanston.com.au/"><strong>Arrow on Swanston</strong></a> – ~$119 per night (was $140), approx. 8-minute walk to the venue. It has single rooms up to 4 bedroom apartments.
+    <a href="https://www.zagameshouse.com.au/"><strong>Zagame's House</strong></a> – Special Discount ~$279 per night, approx. 12-minute walk to the venue. <a href=https://www.simplebooking.it/ibe2/hotel/6975?lang=EN&offer=208881=>This rate is available until the 15th of Octorber</a>.
   </figcaption>
-
 </figure>
 
 <figure>
@@ -34,7 +50,6 @@ For your convenience, we have listed a few nearby hotels below. Please note that
   <figcaption>
     <a href="https://thetravelinn.com.au/"><strong>Best Western Plus Travel Inn Hotel</strong></a> – ~$220 per night, approx. 7-minute walk to the venue.
   </figcaption>
-
 </figure>
 
 
@@ -50,11 +65,19 @@ For your convenience, we have listed a few nearby hotels below. Please note that
 <figure>
   <img src="/img/accommodation/d1.jpg" alt="Ibis Melbourne" width="300"> <img src="/img/accommodation/d2.jpg" alt="Ibis Melbourne" width="300">
   <figcaption>
-    <a href="https://all.accor.com/hotel/1564/index.en.shtml"><strong>Ibis Melbourne</strong></a> – ~$135 per night, approx. 14-minute walk to the venue.
+    <a href="https://all.accor.com/lien_externe.svlt?&destination=1564&goto=rech_resa&currency=AUD&goto=rech_resa&dayIn=09&monthIn=11&yearIn=2025&nightNb=5&adultNumber=1&preferredCode=MICEGRP&code_langue=gb"><strong>Ibis Melbourne</strong></a> – Special Discount of ~$135 per night, approx. 14-minute walk to the venue.
   </figcaption>
 
 </figure>
 
+
+<figure>
+  <img src="/img/accommodation/a1.jpg" alt="Arrow on Swanston" width="300"> <img src="/img/accommodation/a2.jpg" alt="Arrow on Swanston" width="300">
+  <figcaption>
+    <a href="https://www.arrowonswanston.com.au/"><strong>Arrow on Swanston</strong></a> – ~$119 per night (was $140), approx. 8-minute walk to the venue. It has single rooms up to 4 bedroom apartments.
+  </figcaption>
+
+</figure>
 
 <figure>
   <img src="/img/accommodation/e1.jpg" alt="Mercure Melbourne Therry St" width="300"> <img src="/img/accommodation/e2.jpg" alt="Mercure Melbourne Therry St" width="300">
@@ -67,7 +90,7 @@ For your convenience, we have listed a few nearby hotels below. Please note that
 <figure>
   <img src="/img/accommodation/f1.jpg" alt="Mercure North Melbourne" width="300"> <img src="/img/accommodation/f2.jpg" alt="Mercure North Melbourne" width="300">
   <figcaption>
-    <a href="https://all.accor.com/hotel/9270/index.en.shtml"><strong>Mercure North Melbourne</strong></a> – ~$132 per night, approx. 22-minute walk to the venue.
+    <a href="https://all.accor.com/hotel/9270/index.en.shtml"><strong>Mercure North Melbourne</strong></a> – ~$132 per night, approx. 22-minute walk to the venue. 10% off Daily rates over event period & shoulder dates. Book directly with Gabriel Hartman (Gabriel_hartmann@mercurenorthmelbourne.com.au)
   </figcaption>
 
 </figure>
@@ -93,7 +116,7 @@ For your convenience, we have listed a few nearby hotels below. Please note that
 <figure>
   <img src="/img/accommodation/i1.jpg" alt="Carlton Lygon Lodge" width="300"> <img src="/img/accommodation/i2.jpg" alt="Carlton Lygon Lodge" width="300">
   <figcaption>
-    <a href="https://www.lygonlodge.com.au/"><strong>The Last Jar</strong></a> – ~Twin bed $125 per night/Queen $139 per night, approx. 6-minute walk to the venue.
+    <a href="https://www.lygonlodge.com.au/"><strong>Carlton Lygon Lodge</strong></a> – ~Twin bed $125 per night/Queen $139 per night, approx. 6-minute walk to the venue.
   </figcaption>
 
 </figure>
