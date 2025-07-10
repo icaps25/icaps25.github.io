@@ -41,7 +41,7 @@ We suggest booking early to lock in the best spots!
 <figure>
   <img src="/img/accommodation/z1.jpg" alt="Zagame's House" width="300"> <img src="/img/accommodation/z2.jpg" alt="Zagame's House" width="300">
   <figcaption>
-    <a href="https://www.zagameshouse.com.au/"><strong>Zagame's House</strong></a> – Special Discount ~AUD 279 per night, approx. 12-minute walk to the venue. <a href=https://www.simplebooking.it/ibe2/hotel/6975?lang=EN&offer=208881=>This rate is available until the 15th of Octorber</a>.
+    <a href="https://www.zagameshouse.com.au/"><strong>Zagame's House (4 star hotel)</strong></a> – Special Discount ~AUD 279 per night from the 9-14th, approx. 12-minute walk to the venue. <a href=https://www.simplebooking.it/ibe2/hotel/6975?lang=EN&offer=208881=>Promo Code: ICAPS2025 -- This rate is available until the 15th of Octorber.</a>.
   </figcaption>
 </figure>
 
