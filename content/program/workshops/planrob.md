@@ -86,3 +86,6 @@ The organisers are investigating the availability of journal editors in order to
 - Elisa Tosello,	Fondazione Bruno Kessler
 - Alessandro Umbrico,	National Research Council of Italy (CNR-ISTC)
 - Pulkit Verma,	Massachusetts Institute of Technology
+
+### Acknowledgments
+This workshop is partially supported by [TRIFFID](https://triffid-project.eu/) whose aim is to revolutionize the landscape of emergency response by seamlessly weaving advanced robotics with the crucial work of First Responders, ensuring they’re equipped to tackle disasters with unparalleled efficiency and precision. Innovative hybrid robotic platforms aims at blend autonomous legged and aerial capabilities, enabling real-time reconnaissance even in the most challenging terrains, while our sophisticated Ground-Station interface empowers operators to visualize and analyze disaster scenarios like never before. TRIFFID has received funding from the European Union’s Horizon Europe research and innovation programme under grant agreement No.101168042.
