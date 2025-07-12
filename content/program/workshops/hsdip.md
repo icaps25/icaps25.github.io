@@ -12,8 +12,8 @@ November 10-11, 2025
 
 | Schedule            |          | |
 |---------------------|----------|-|
-| Abstract Submission | ~~May 16~~| July 11, 2025 |
-| Submission          | ~~May 27~~| July 18, 2025 |
+| Abstract Submission | ~~May 16~~| July 18, 2025 |
+| Submission          | ~~May 27~~| July 25, 2025 |
 | Author Feedback     | ~~June 23 - 27~~| August 11 - 15, 2025  |
 | Notification        | ~~July 1~~| August 19, 2025|
 | Camera Ready        | ~~July 21~~| September 3, 2025 |
