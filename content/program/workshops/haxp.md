@@ -37,8 +37,8 @@ The workshop includes - but is not limited to - the following topics:
 
 ## Important Dates
 
-* Paper submission deadline: **July 27, 2025 UTC-12**
-* Notification of acceptance: August 24, 2025 UTC-12
+* Paper submission deadline: ~~July 27, 2025 UTC-12~~ **August 10, 2025 UTC-12**
+* Notification of acceptance: August 29, 2025 UTC-12
 * Camera-ready paper submissions: TBD (after the workshop)
 * Workshop date: November 10 or 11, 2025
 
