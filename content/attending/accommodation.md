@@ -41,7 +41,7 @@ We suggest booking early to lock in the best spots!
 <figure>
   <img src="/img/accommodation/z1.jpg" alt="Zagame's House" width="300"> <img src="/img/accommodation/z2.jpg" alt="Zagame's House" width="300">
   <figcaption>
-    <a href="https://www.zagameshouse.com.au/"><strong>Zagame's House (4 star hotel)</strong></a> – Special Discount ~AUD 279 per night from the 9-14th, approx. 12-minute walk to the venue. <a href=https://www.simplebooking.it/ibe2/hotel/6975?lang=EN&offer=208881=>Promo Code: ICAPS2025 -- This rate is available until the 15th of Octorber.</a>.
+    <a href="https://www.zagameshouse.com.au/"><strong>Zagame's House (4 star hotel)</strong></a> – Special Discount ~AUD 279 per night from the 9-15th, approx. 12-minute walk to the venue. <a href=https://www.simplebooking.it/ibe2/hotel/6975?lang=EN&offer=208881=>Promo Code: ICAPS2025 --å This rate is available until the 15th of Octorber.</a>.
   </figcaption>
 </figure>
 
@@ -79,6 +79,24 @@ We suggest booking early to lock in the best spots!
 
 </figure>
 
+
+<figure>
+  <img src="/img/accommodation/i1.jpg" alt="Carlton Lygon Lodge" width="300"> <img src="/img/accommodation/i2.jpg" alt="Carlton Lygon Lodge" width="300">
+  <figcaption>
+    <a href="https://www.lygonlodge.com.au/"><strong>Carlton Lygon Lodge</strong></a> – ~Twin bed AUD 125 per night/Queen AUD 139 per night, approx. 6-minute walk to the venue.
+  </figcaption>
+
+</figure>
+
+
+<figure>
+  <img src="/img/accommodation/g1.jpg" alt="Crowne Plaza Melbourne Carlton" width="300"> 
+  <figcaption>
+    <a href="https://www.ihg.com/crowneplaza/hotels/us/en/carlton/melcn/hoteldetail"><strong>Crowne Plaza Melbourne Carlton</strong></a> – ~AUD 270 per night, approx. 3-minute walk to the venue.
+  </figcaption>
+
+</figure>
+
 <figure>
   <img src="/img/accommodation/e1.jpg" alt="Mercure Melbourne Therry St" width="300"> <img src="/img/accommodation/e2.jpg" alt="Mercure Melbourne Therry St" width="300">
   <figcaption>
@@ -95,13 +113,6 @@ We suggest booking early to lock in the best spots!
 
 </figure>
 
-<figure>
-  <img src="/img/accommodation/g1.jpg" alt="Crowne Plaza Melbourne Carlton" width="300"> 
-  <figcaption>
-    <a href="https://www.ihg.com/crowneplaza/hotels/us/en/carlton/melcn/hoteldetail"><strong>Crowne Plaza Melbourne Carlton</strong></a> – ~AUD 270 per night, approx. 3-minute walk to the venue.
-  </figcaption>
-
-</figure>
 
 
 
@@ -113,13 +124,6 @@ We suggest booking early to lock in the best spots!
 
 </figure>
 
-<figure>
-  <img src="/img/accommodation/i1.jpg" alt="Carlton Lygon Lodge" width="300"> <img src="/img/accommodation/i2.jpg" alt="Carlton Lygon Lodge" width="300">
-  <figcaption>
-    <a href="https://www.lygonlodge.com.au/"><strong>Carlton Lygon Lodge</strong></a> – ~Twin bed AUD 125 per night/Queen AUD 139 per night, approx. 6-minute walk to the venue.
-  </figcaption>
-
-</figure>
 
 
 
