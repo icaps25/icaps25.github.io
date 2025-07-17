@@ -73,3 +73,20 @@ publications that fall within the scope of the workshop.
 - [Gabriele Röger](https://ai.dmi.unibas.ch/people/roeger/), University of Basel, Switzerland
 
 Contact: [krplan2025@easychair.org](mailto:krplan2025@easychair.org)
+
+### Program Committee
+
+- Gregor Behnke, University of Amsterdam, The Netherlands
+- Sara Bernardini,	University of Oxford, UK
+- Lukáš Chrpa, Czech Technical University in Prague, Czech Republic
+- Birte Glimm, Universität Ulm, Germany
+- Alisa Kovtunova, TU Dresden, Germany
+- Gerhard Lakemeyer, RWTH Aachen University, Germany
+- Leonardo Lamanna, Fondazione Bruno Kessler, Italy
+- Christian Muise, Queen's University, Canada
+- Bernhard Nebel, Freiburg University, Germany
+- Fabio Patrizi, Sapienza University of Rome, Italy
+- Jussi Rintanen, Aalto University, Finland
+- Sasha Rubin, The University of Sydney, Australia
+- Mikhail Soutchanski, Toronto Metropolitan (formerly Ryerson) University, Canada
+- Marcel Steinmetz, LAAS-CNRS, France
