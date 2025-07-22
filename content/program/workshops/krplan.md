@@ -48,9 +48,12 @@ from these areas, including but not limited to:
 
 ## Important Dates
 
-* Paper submission: July 23, 2025
+* Abstract submission: July 23, 2025
+* Paper submission: ~~July 23, 2025~~ July 29, 2025
 * Notification: August 27, 2025
 * Workshop: November 11, 2025
+
+All deadlines are AoE (UTC-12).
 
 ## Submission
 
