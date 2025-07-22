@@ -1,31 +1,31 @@
 {
 	"keynotes": [
 		{
-			"name": "Hector Geffner",
-			"date": "June 4th",
-			"img" : "/img/keynotes/hector.geffner.jpg",
-			"title": "Learning Representations to Act and Plan",
-			"webpage" : "https://www-i6.informatik.rwth-aachen.de/~hector.geffner/",
-			"abstract": "Recent progress in deep learning and deep reinforcement learning (DRL) has been truly remarkable, yet two important problems remain: structural policy generalization and policy reuse. The first is about getting policies that generalize in a reliable way; the second is about getting policies that can be reused and combined in a flexible, goal-oriented manner. The two problems are studied in DRL but only experimentally, and the results are not clear and crisp. In our work, we have tackled these problems in a slightly different manner, developing languages for expressing general policies, and methods for learning them using combinatorial and DRL approaches. We have also developed languages for expressing and learning lifted action models, general subgoal structures (sketches), and hierarchical polices. In the talk, I'll present the main ideas and results, and open challenges. This is joint work with Blai Bonet, Simon Stahlberg, Dominik Drexler, and other members of the RLeap team at RWTH and LiU.",
-			"bio": "Hector Geffner is an Alexander von Humboldt Professor at RWTH Aachen University, Germany and a Guest Wallenberg Professor at Linköping University, Sweden. Before joining RWTH, he was an ICREA Research Professor at the Universitat Pompeu Fabra, Barcelona, Spain. Hector obtained a Ph.D. in Computer Science at UCLA in 1989 and then worked at the IBM T.J. Watson Research Center in New Work, and at the Universidad Simon Bolivar in Caracas. Distinctions for his work and the work of his team include the 1990 ACM Dissertation Award and three ICAPS Influential Paper Awards. Hector currently leads a project on representation learning for acting and planning (RLeap) funded by an ERC grant."
+			"name": "Hanna Kurniawati",
+			"date": "12th November 2025",
+			"img" : "/img/keynotes/hanna.jpg",
+			"title": "Coming soon",
+			"webpage" : "https://users.cecs.anu.edu.au/~hannakur/",
+			"abstract": "Coming soon",
+			"bio": "Coming soon"
 		},
 		{
-			"name": "Julie Shah",
-			"date": "June 5th",
-			"img" : "/img/keynotes/julie.shah.png",
-			"title": "Effective Human-Machine Partnerships in High Stakes Settings",
-			"webpage" : "https://interactive.mit.edu/about/people/julie",
-			"abstract": "Every team has top performers -- people who excel at working in a team to find the right solutions in complex, difficult situations. These top performers include nurses who run hospital floors, emergency response teams, air traffic controllers, and factory line supervisors. While they may outperform the most sophisticated optimization and scheduling algorithms, they cannot often tell us how they do it. Similarly, even when a machine can do the job better than most of us, it can’t explain how. The result is often an either/or choice between human and machine - resulting in what we call zero-sum automation. In this talk I present research case studies from industry and also share our lab's latest research effectively blending the unique decision-making strengths of humans and intelligent machines.",
-			"bio": "Julie Shah is the H.N. Slater Professor and Head of Aeronautics and Astronautics, faculty director of MIT's Industrial Performance Center, and director of the Interactive Robotics Group, which aims to imagine the future of work by designing collaborative robot teammates that enhance human capability. She is expanding the use of human cognitive models for artificial intelligence and has translated her work to manufacturing assembly lines, healthcare applications, transportation and defense. Before joining the faculty, she worked at Boeing Research and Technology on robotics applications for aerospace manufacturing. Prof. Shah has been recognized by the National Science Foundation with a Faculty Early Career Development (CAREER) award and by MIT Technology Review on its 35 Innovators Under 35 list. She was also the recipient of the 2018 IEEE RAS Academic Early Career Award for contributions to human-robot collaboration and transition of results to real world application. She has received international recognition in the form of best paper awards and nominations from the ACM/IEEE International Conference on Human-Robot Interaction, the American Institute of Aeronautics and Astronautics, the Human Factors and Ergonomics Society, the International Conference on Automated Planning and Scheduling, and the International Symposium on Robotics. She earned degrees in aeronautics and astronautics and in autonomous systems from MIT and is co-author of the book, What to Expect When You're Expecting Robots: The Future of Human-Robot Collaboration (Basic Books, 2020)."
+			"name": "Bistra Dilkina",
+			"date": "13th November 2025",
+			"img" : "/img/keynotes/bistra.png",
+			"title": "Coming soon",
+			"webpage" : "https://viterbi.usc.edu/directory/faculty/Dilkina/Bistra",
+			"abstract": "Coming soon",
+			"bio": "Coming soon"
 		},
 		{
-			"name": "Dale Schuurmans",
-			"date": "June 6th",
-			"img" : "/img/keynotes/dale.schuurmans.jpg",
-			"title": "Computing and Planning with Large Generative Models",
-			"webpage": "https://webdocs.cs.ualberta.ca/~dale/",
-			"abstract": "The ability of large generative models to respond naturally to text, image and audio inputs has created significant excitement.  Particularly interesting is the ability of such models to generate outputs that resemble coherent reasoning and computational sequences.  I will first discuss the inherent computational properties of large language models, showing how they can be proved Turing complete in natural deployments.  The co-existence of informal and formal computational systems in the same model does not change what is computable, but does provide new means for eliciting desired behaviour.  I will then consider non-deterministic computation, which captures planning and theorem proving as special cases.  Finally, I will discuss some recent progress in leveraging large text-video models as real world simulators that enable planning for real environments. Leveraging large generative models jointly as simulators and agents has led to advances in several application areas.",
-			"bio": "Dale Schuurmans is a Research Director at Google DeepMind, Professor of Computing Science at the University of Alberta, a Canada CIFAR AI Chair, and a Fellow of AAAI.  He has served as an Associate Editor-in-Chief for IEEE TPAMI, an Associate Editor for JMLR, AIJ, JAIR and MLJ, and as a Program Co-chair for AAAI-2016, NeurIPS-2008 and ICML-2004. He has published over 250 papers in machine learning and artificial intelligence, and received paper awards at NeurIPS, ICML, IJCAI, and AAAI."
+			"name": "Son Tran",
+			"date": "14th November 2025",
+			"img" : "/img/keynotes/son.png",
+			"title": "Coming soon",
+			"webpage": "https://computerscience.nmsu.edu/facultydirectory/individual-bio-pages/son-tran.html",
+			"abstract": "Coming soon",
+			"bio": "Coming soon"
 		}
 	]
 }

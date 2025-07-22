@@ -38,9 +38,9 @@ If all applications cannot be supported, selection will be based on the above ma
 
 ## Important Dates for the LaunchPad Program
 
-- **Submission deadline**: Monday, June 23rd, 2025.
+- **Submission deadline**: July 18, 2025.
 - **Notification date**: July 2025
-- **Pioneers Workshop**: November 9th, 2025
+- **Pioneers Workshop**: November 9, 2025
 
 * Students who require an early decision due to visa application are encouraged to reach out to the workshop chairs by email (given below) after submitting their application.
 

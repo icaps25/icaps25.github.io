@@ -28,7 +28,7 @@ All dates for the Main Technical track have been announced. More dates related t
 - **27 April 2025** - Tutorial proposals due
 - 11 May 2025 - Tutorial acceptance notification
 - June/July, 2025 - Proceedings are available online
-- 21 July 2025 - Workshop accepted papers online
+- ~~21 July 2025~~ 10 September 2025 - Workshop accepted papers online
 </br>
 </br>
 ...

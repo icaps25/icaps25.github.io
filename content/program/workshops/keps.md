@@ -39,7 +39,7 @@ We seek original papers ranging from experience reports to the description of ne
 
 ## Important Dates
 
--	Paper submission deadline: June 20, 2025 (UTC-12 time zone)
+-	Paper submission deadline: ~~June 20~~, June 30, 2025 (UTC-12 time zone)
 -	Notification: July 31, 2025
 -	Camera-ready paper submission: TBC
 
@@ -66,4 +66,23 @@ Submissions of papers being reviewed at other venues are welcome since this is a
 - Tiago Vaquero, NASA JPL
 
 ## Program Committee
-TBC
+- Lee-or Alon, Bar-Ilan University
+- Luigi Bonassi, University of Oxford
+- Sandra Castellanos, University of Huddersfield
+- Matteo Cardellini, Università degli Studi di Genova
+- Francesco Percassi, University of Huddersfield
+- Jeremy Frank, NASA
+- Sergio Jimenez Celorrio, Universitat Politècnica de València
+- Nader Karimi, ANU 
+- Andrea Orlandini, CNR
+- Lee McCluskey, University of Huddersfield
+- Susana Fernandez, Universidad Carlos III de Madrid
+- Simon Parkinson, University of Huddersfield
+- David Smith, 
+- Eva Onaindia, Universitat Politècnica de València
+- Alan Lindsay, Heriot-Watt University
+- Roman Barták, Charles University
+- Alessandro Umbrico, National Research Council of Italy (CNR-ISTC)
+- Alba Gragera, Universidad Carlos III de Madrid
+- Yaniel Carreno, BAE Systems Digital Intelligence
+- Raquel Fuentetaja, Universidad Carlos III de Madrid

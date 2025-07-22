@@ -9,8 +9,10 @@ draft: false
 ICAPS'25 Workshop on Reliability In Planning and Learning (RIPL)
 Melbourne, Victoria, Australia
 
+
 > [!IMPORTANT]
 > <ins>**Submission Deadline extended to August 1, 2025 (UTC-12)**</ins>
+
  
 ## Aim and Scope of the Workshop
 
@@ -32,6 +34,7 @@ The workshop welcomes contributions to any topic that roughly falls into the fol
 3. Methodologies include any issue relating to robustness in: learning or generating artefacts as per (1); planning and scheduling algorithms in the presence of such learned artifacts; analyzing such artifacts (e.g., reasoning, verification, testing, etc.); making such analyses amenable to human users (e.g., visualization, interaction); and potentially others as relevant to the workshop objectives.
 
 
+
 ## Important Dates
 
  - Submission Deadline: ~~July 25~~ **August 1, 2025 (UTC-12)**
@@ -40,10 +43,9 @@ The workshop welcomes contributions to any topic that roughly falls into the fol
  - ICAPS 2025 Workshops: November TBD, 2025
 
 
-
 ## Submission Details
 
-All papers must be formatted like at the main conference [(ICAPS author kit)](https://icaps25.icaps-conference.org/files/icaps2025-author-kit.zip). Submitted papers should be *anonymous* for double-blind reviewing. Paper submission is via [EasyChair](https://easychair.org/conferences/?conf=ripl25).
+All papers must be formatted like at the main conference [(ICAPS author kit)](https://icaps25.icaps-conference.org/files/icaps2025-author-kit.zip). Submitted papers should be *anonymous* for double-blind reviewing. Paper submission is via [EasyChair](https://easychair.org/conferences/?conf=ripl2025).
 
 We call for two kinds of submissions:
 
