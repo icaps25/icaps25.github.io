@@ -10,7 +10,6 @@ ICAPS'25 Workshop on Reliability In Planning and Learning (RIPL)
 Melbourne, Victoria, Australia
 
 
-> [!IMPORTANT]
 > <ins>**Submission Deadline extended to August 1, 2025 (UTC-12)**</ins>
 
  
@@ -49,8 +48,8 @@ All papers must be formatted like at the main conference [(ICAPS author kit)](ht
 
 We call for two kinds of submissions:
 
-- Technical papers, of length up to 8 pages plus references. The workshop is meant to be an open and inclusive forum, and we encourage papers that report on work in progress.
-- Position papers, of length up to 4 pages plus references. Given that reliability of data-driven planning and scheduling is rather new at ICAPS, we encourage authors to submit positions on what they believe are important challenges, questions to be considered, approaches that may be promising. We will include any position relevant to discussing the workshop topic. We expect to group position paper presentations into a dedicated session, followed by an open discussion.
+- Technical papers, of length up to 8 pages plus unlimited references and appendices. The workshop is meant to be an open and inclusive forum, and we encourage papers that report on work in progress.
+- Position papers, of length up to 4 pages plus unlimited references and appendices. Given that reliability of data-driven planning and scheduling is rather new at ICAPS, we encourage authors to submit positions on what they believe are important challenges, questions to be considered, approaches that may be promising. We will include any position relevant to discussing the workshop topic. We expect to group position paper presentations into a dedicated session, followed by an open discussion.
 
 Every submission will be reviewed by members of the program committee according to the usual criteria such as relevance to the workshop, significance of the contribution, and technical quality.
 
