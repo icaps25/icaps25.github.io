@@ -48,7 +48,7 @@ We invite submissions at the intersection of AI Planning and (reinforcement) Lea
 
 Please refer to the [PRL workshop website](https://prl-theworkshop.github.io/prl2025-icaps/) for the latest information.
 
-* Paper submission deadline: August 1, AOE
+* Paper submission deadline: ~~August 1~~August 8, AOE
 * Paper acceptance notification: August 31, AOE
 
 ICAPS will be **in-person** this year. Authors of accepted workshop papers are expected to physically attend the conference and present in person.
