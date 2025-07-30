@@ -73,7 +73,6 @@ Submissions of papers being reviewed at other venues are welcome since this is a
 - Francesco Percassi, University of Huddersfield
 - Jeremy Frank, NASA
 - Sergio Jimenez Celorrio, Universitat Politècnica de València
-- Nader Karimi, ANU 
 - Andrea Orlandini, CNR
 - Lee McCluskey, University of Huddersfield
 - Susana Fernandez, Universidad Carlos III de Madrid
