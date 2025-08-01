@@ -38,7 +38,7 @@ If all applications cannot be supported, selection will be based on the above ma
 
 ## Important Dates for the LaunchPad Program
 
-- **Submission deadline**: July 18, 2025.
+- **Submission deadline**: ~~July 18~~ August 10, 2025.
 - **Notification date**: July 2025
 - **Pioneers Workshop**: November 9, 2025
 

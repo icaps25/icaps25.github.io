@@ -38,7 +38,7 @@ If all applications cannot be supported, selection will be based on the above ma
 
 ## Important Dates for the Mentoring Program
 
-- **Submission deadline**: Monday, June 9th, 2025.
+- **Submission deadline**: ~~June 9th~~ August 10th, 2025.
 - **Notification date**: July 2025
 - **Doctoral Consortium**: November 9th, 2025
 
