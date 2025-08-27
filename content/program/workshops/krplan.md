@@ -10,6 +10,8 @@ Joint workshop at [KR 2025](https://kr.org/KR2025) and [ICAPS 2025](https://icap
 Melbourne, Australia\
 November 11, 2025
 
+Registration is possible through either ICAPS or KR (full or workshop registration).
+
 ## Description
 
 Traditionally, the areas of Knowledge Representation and Reasoning
