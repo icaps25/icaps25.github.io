@@ -109,6 +109,18 @@ Many planning applications require not only a single solution but benefit substa
 <div style="margin:0; padding: 0; padding-left: 2%">
 <p>
 Developing intelligent Unmanned Aerial Vehicles (UAVs)
+entails more than ensuring safe navigation; it also involves
+equipping them with high-level decision-making abilities
+through AI planning. Simulation-based testing is a necessary
+gateway in transitioning research works into operational real-world
+UAV missions.We demonstrate Dynamic REAP, a simulation
+environment that considers accurate physics of the vehicle,
+while providing georeferenced semantic segmentation
+and tools to include dynamic background characters, removing
+thereby the assumption of a static world when used for
+validating planning and acting methods. A system demonstration
+based on a Search and Rescue (SAR) scenario can be
+found at: <a href="https://www.youtube.com/watch?v=mthOS7hksZQ">https://www.youtube.com/watch?v=mthOS7hksZQ</a>
 </p>
 <b>Authors:</b> Kai Sommer, Björn Döschl, Jane Jean Kiam.
 <br><br>
