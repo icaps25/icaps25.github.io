@@ -2,113 +2,134 @@
 {{ $data := getJSON $file }}
 
 <style>
+    .paper-row {
+        margin:0;
+        padding: 0;
+        margin-bottom: 1%;
+    }
 
-	.paper-row {
-		margin:0;
-		padding: 0;
-		margin-bottom: 1%;
-	}
+    .paper {
+        width: 85%;
+        display: inline-block;
+        padding: 1%;
+        margin-left: 1%;
+        vertical-align: middle;
+        border: solid white;
+    }
 
-	.paper {
-		width: 85%;
-		display: inline-block;
-		padding: 1%;
-		margin-left: 1%;
-		vertical-align: middle;
-		border: solid white;
-	}
+    .paper:hover {
+        width: 85%;
+        display: inline-block;
+        padding: 1%;
+        margin-left: 1%;
+        vertical-align: middle;
+        border: solid orange;
+        border-radius: 3%;
+    }
 
-	.paper:hover {
+    .shortcut {
+        margin-bottom: 2%;
+        margin-left: 4%;
+        padding: 1%;
+        display: inline-block;
+        width: 15%;
+        border: white solid;
+        text-align: center;
+        vertical-align: middle;
+    }
 
-		width: 85%;
-		display: inline-block;
-		padding: 1%;
-		margin-left: 1%;
-		vertical-align: middle;
-		border: solid orange;
-		border-radius: 3%;
-
-	}
-
-	.shortcut {
-
-		margin-bottom: 2%;
-		margin-left: 4%;
-		padding: 1%;
-		display: inline-block;
-		width: 15%;
-		border: white solid;
-		text-align: center;
-		vertical-align: middle;
-	}
-
-	.shortcut:hover {
-
-		margin-bottom: 2%;
-		margin-left: 4%;
-		padding: 1%;
-		display: inline-block;
-		width: 15%;
-		border: orange solid;
-		border-radius: 3%;
-		text-align: center;
-		vertical-align: middle;
-
-	}
-
+    .shortcut:hover {
+        margin-bottom: 2%;
+        margin-left: 4%;
+        padding: 1%;
+        display: inline-block;
+        width: 15%;
+        border: orange solid;
+        border-radius: 3%;
+        text-align: center;
+        vertical-align: middle;
+    }
 </style>
 
 <hr />
 
 <div>
-
-	{{ range $track := $data.tracks }}
-
-	<div class="shortcut">
-
-		<a href="#{{ $track.name }}">{{ print $track.name }}</a>
-
-	</div>
-
-	{{ end  }}
-
+    {{ range $track := $data.tracks }}
+    <div class="shortcut">
+        <a href="#{{ $track.name }}">{{ print $track.name }}</a>
+    </div>
+    {{ end  }}
 </div>
 
 <hr />
 
 <style>
-	.category-btn {
-        /* General button styling */
-		background-color: lightgray;
-		color: black;
+    .category-btn {
+        background-color: lightgray;
+        color: black;
         margin: 5px;
-        padding: 5px;
+        padding: 8px 12px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        cursor: pointer;
+        font-size: 14px;
     }
     .category-btn.selected {
-        /* Styling for selected buttons */
-        background-color: darkblue;
+        background-color: #007cba;
         color: white;
+        border-color: #005a87;
+    }
+    .category-btn:hover {
+        background-color: #e0e0e0;
+    }
+    .category-btn.selected:hover {
+        background-color: #005a87;
+    }
+    .control-btn {
+        background-color: #28a745;
+        color: white;
+        margin: 5px;
+        padding: 8px 12px;
+        border: 1px solid #1e7e34;
+        border-radius: 4px;
+        cursor: pointer;
+        font-size: 14px;
+        font-weight: bold;
+    }
+    .control-btn:hover {
+        background-color: #218838;
+    }
+    .control-btn.none {
+        background-color: #dc3545;
+        border-color: #c82333;
+    }
+    .control-btn.none:hover {
+        background-color: #c82333;
     }
 </style>
 
-
-
-<h2>Primary Keywords</h2>
+<h2>Filter by Keywords</h2>
 
 <div>
-	<button class="btn" onclick="$('.category-btn').addClass('selected'); update_categories(this)">All</button>
+    <button class="control-btn" onclick="selectAll()">All</button>
+    <button class="control-btn none" onclick="selectNone()">None</button>
 </div>
 <br />
 <div>
-	<button class="btn category-btn selected" data-category="applications" onclick="update_categories(this)">Applications</button>
-	<button class="btn category-btn selected" data-category="human-aware-planning-and-scheduling" onclick="update_categories(this)">Human-aware Planning and Scheduling</button>
-	<button class="btn category-btn selected" data-category="knowledge-representation-engineering" onclick="update_categories(this)">Knowledge Representation & Engineering</button>
-	<button class="btn category-btn selected" data-category="learning" onclick="update_categories(this)">Learning</button>
-	<button class="btn category-btn selected" data-category="multi-agent-planning" onclick="update_categories(this)">Multi-Agent Planning</button>
-	<button class="btn category-btn selected" data-category="robotics" onclick="update_categories(this)">Robotics</button>
-	<button class="btn category-btn selected" data-category="temporal-planning" onclick="update_categories(this)">Temporal Planning</button>
-	<button class="btn category-btn selected" data-category="theory" onclick="update_categories(this)">Theory</button>
-	<button class="btn category-btn selected" data-category="no-category" onclick="update_categories(this)">No Keyword</button>
+    <button class="btn category-btn selected" data-category="applications" onclick="update_categories(this)">Applications</button>
+    <button class="btn category-btn selected" data-category="learning" onclick="update_categories(this)">Learning</button>
+    <button class="btn category-btn selected" data-category="planning-llm" onclick="update_categories(this)">Planning with LLMs</button>
+    <button class="btn category-btn selected" data-category="classical-planning" onclick="update_categories(this)">Classical Planning</button>
+    <button class="btn category-btn selected" data-category="htn-planning" onclick="update_categories(this)">HTN Planning</button>
+    <button class="btn category-btn selected" data-category="mdp-pomdp" onclick="update_categories(this)">MDP/POMDP</button>
+    <button class="btn category-btn selected" data-category="search" onclick="update_categories(this)">Search</button>
+    <button class="btn category-btn selected" data-category="robotics" onclick="update_categories(this)">Robotics</button>
+    <button class="btn category-btn selected" data-category="scheduling" onclick="update_categories(this)">Scheduling</button>
+    <button class="btn category-btn selected" data-category="temporal-planning" onclick="update_categories(this)">Temporal Planning</button>
+    <button class="btn category-btn selected" data-category="multi-agent" onclick="update_categories(this)">Multi-Agent</button>
+    <button class="btn category-btn selected" data-category="uncertainty" onclick="update_categories(this)">Planning Under Uncertainty</button>
+    <button class="btn category-btn selected" data-category="mixed-planning" onclick="update_categories(this)">Mixed/Continuous Planning</button>
+    <button class="btn category-btn selected" data-category="sat-smt" onclick="update_categories(this)">SAT/SMT/CP</button>
 </div>
 <br />
 
@@ -116,40 +137,63 @@
 
 {{ range $track := $data.tracks }}
 
-
 <div style="width: 95%;  padding-left: 2%;">
 
-	<div>
-		<h2 style="color: orange"><a name="{{ print $track.name }}">{{ print $track.name }}</a></h2>
-	</div>
+    <div>
+        <h2 style="color: orange"><a name="{{ print $track.name }}">{{ print $track.name }}</a></h2>
+    </div>
 
-	<!--p>Find below the list of the <strong>{{ len $track.papers }} papers</strong> accepted to the <strong>{{ print $track.name }} Track</strong></p-->
+    {{ range $index, $paper := $track.papers }}
+    {{ $categories := slice }}
+    {{ if and (isset $paper "keywords") (ne (len $paper.keywords) 0) }}
+        {{ range $paper.keywords }}
+            {{ if eq . "PS: Applications" }}{{ $categories = $categories | append "applications" }}{{ end }}
+            {{ if eq . "PS: Learning for planning and scheduling" }}{{ $categories = $categories | append "learning" }}{{ end }}
+            {{ if eq . "PS: Planning with large language models" }}{{ $categories = $categories | append "planning-llm" }}{{ end }}
+            {{ if eq . "PS: Classical (fully-observable, deterministic) planning" }}{{ $categories = $categories | append "classical-planning" }}{{ end }}
+            {{ if eq . "PS: Planning with Hierarchical Task Networks (HTN)" }}{{ $categories = $categories | append "htn-planning" }}{{ end }}
+            {{ if eq . "PS: Planning with Markov decision process models (MDPs, POMDPs)" }}{{ $categories = $categories | append "mdp-pomdp" }}{{ end }}
+            {{ if eq . "PS: Search in planning and scheduling" }}{{ $categories = $categories | append "search" }}{{ end }}
+            {{ if eq . "ROB: Motion and path planning" }}{{ $categories = $categories | append "robotics" }}{{ end }}
+            {{ if findRE "^ROB:" . }}{{ $categories = $categories | append "robotics" }}{{ end }}
+            {{ if eq . "PS: Scheduling" }}{{ $categories = $categories | append "scheduling" }}{{ end }}
+            {{ if eq . "PS: Temporal planning" }}{{ $categories = $categories | append "temporal-planning" }}{{ end }}
+            {{ if eq . "PS: Distributed and multi-agent planning" }}{{ $categories = $categories | append "multi-agent" }}{{ end }}
+            {{ if eq . "PS: Multi-agent path-finding" }}{{ $categories = $categories | append "multi-agent" }}{{ end }}
+            {{ if eq . "PS: Planning under uncertainty" }}{{ $categories = $categories | append "uncertainty" }}{{ end }}
+            {{ if eq . "PS: Partially observable planning" }}{{ $categories = $categories | append "uncertainty" }}{{ end }}
+            {{ if eq . "PS: Mixed discrete/continuous planning" }}{{ $categories = $categories | append "mixed-planning" }}{{ end }}
+            {{ if eq . "PS: SAT, SMT and CP" }}{{ $categories = $categories | append "sat-smt" }}{{ end }}
+            {{ if eq . "PS: Fully observable non-deterministic planning" }}{{ $categories = $categories | append "uncertainty" }}{{ end }}
+        {{ end }}
+    {{ end }}
 
+    {{ if eq (len $categories) 0 }}{{ $categories = $categories | append "no-category" }}{{ end }}
 
-	{{ range $index, $paper := $track.papers }}
+    <div class="paper-row {{ delimit ($categories | uniq) " " }}">
 
-	<div class="paper-row{{ if and (isset $paper "primary_keywords") (ne (len $paper.primary_keywords) 0) }}{{ range $paper.primary_keywords }}{{ $keyword := . | lower }}{{ $keyword := replace $keyword "/" "-" }}{{ $keyword := replace $keyword " " "-" }} {{ print $keyword }}{{ end }}{{ else }} no-category{{ end }}">
+        <div style="width: 10%; padding: 2%; display: inline-block; text-align: center; vertical-align: baseline; border: solid 1px orange; border-radius: 3%;">
+            {{ $counter := add $index 1 }}
+            {{ print $counter  }}
+        </div>
 
-		<div style="width: 10%; padding: 2%; display: inline-block; text-align: center; vertical-align: baseline; border: solid 1px orange; border-radius: 3%;">
-			{{ $counter := add $index 1 }}
-			{{ print $counter  }}
-		</div>
+        <div class="paper">
+            <div><strong>{{ print $paper.title }}</strong></div>
+            <div style="padding: 1%">{{ range $i, $author := $paper.authors }}{{ if $i }}, {{ end }}{{ $author }}{{ end }}</div>
+            
+            {{ if $paper.keywords }}
+            <div style="padding: 1%; font-size: 12px; color: #666;">
+                <strong>Keywords:</strong> {{ range $i, $keyword := $paper.keywords }}{{ if $i }}, {{ end }}{{ $keyword }}{{ end }}
+            </div>
+            {{ end }}
 
-		<div class="paper">
+            {{ with $paper.journal }}
+            <div style="padding: 2%"><strong>{{ print $paper.journal }}</strong></div>
+            {{ end }}
+        </div>
+    </div>
 
-			<div><strong><a href="{{ print $paper.url }}" target="_blank">{{ print $paper.title }}</a></strong></div>
-			<div style="padding: 1%">{{ print $paper.authors }}</div>
-
-			{{ with $paper.journal }}
-
-			<div style="padding: 2%"><strong>{{ print $paper.journal }}</strong> -  <a href="{{ $paper.url }}" target="_blank">{{ print $paper.url }}</a></div>
-
-			{{ end }}
-
-		</div>
-	</div>
-
-	{{ end }}
+    {{ end }}
 
 </div>
 
@@ -157,29 +201,47 @@
 
 {{ end }}
 
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script>
-	function update_categories(clickedButton) {
+    function selectAll() {
+        $('.category-btn').addClass('selected');
+        $('.paper-row').show();
+    }
 
-		var $clickedButton = $(clickedButton);
-        var category = $clickedButton.data('category');
+    function selectNone() {
+        $('.category-btn').removeClass('selected');
+        $('.paper-row').hide();
+    }
 
+    function update_categories(clickedButton) {
+        var $clickedButton = $(clickedButton);
+        
         // Toggle the 'selected' class for the clicked button
         $clickedButton.toggleClass('selected');
 
-		// Determine which categories are selected
-		var selectedCategories = $('.category-btn.selected').map(function() {
-			return $(this).data('category');
-		}).get();
+        // Get all selected categories
+        var selectedCategories = $('.category-btn.selected').map(function() {
+            return $(this).data('category');
+        }).get();
 
-		// Show/hide papers based on selection
-		if (selectedCategories.includes('all')) {
-			$('.paper-row').show();
-		} else {
-			$('.paper-row').hide();
-			selectedCategories.forEach(function(cat) {
-				$('.' + cat).show();
-			});
-		}
-	};
+        // If no categories are selected, hide all papers
+        if (selectedCategories.length === 0) {
+            $('.paper-row').hide();
+            return;
+        }
+
+        // Hide all papers first
+        $('.paper-row').hide();
+
+        // Show papers that match any of the selected categories
+        selectedCategories.forEach(function(category) {
+            $('.paper-row').each(function() {
+                var classes = $(this).attr('class').split(' ');
+                if (classes.includes(category)) {
+                    $(this).show();
+                }
+            });
+        });
+    }
 </script>
 
