@@ -31,6 +31,8 @@ Each paper accepted to the main conference program (AAAI proceedings) must be ac
 
 Physical attendance and in-person presentation is expected for each paper. No on-line presentations will be allowed.
 
+When asked to introduce an ID for a paper in the registration form, use the openreview ID. There's no need to correct this information if you already registered and used the ID in the accepted papers from our website.
+
 ## Full Registration Fees
 
 {{< registration_options >}}
