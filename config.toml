@@ -236,12 +236,12 @@ languageCode = 'en_AU'
 #   identifier = "program"
 #   name = "Program"
 #   weight = 7000
-# [[menu.main]]
-#   identifier = "overview"
-#   name = "Overview"
-#   url = "/program/overview"
-#   parent = "program"
-#   weight = 10
+[[menu.main]]
+  identifier = "overview"
+  name = "Overview"
+  url = "/program/overview"
+  parent = "program"
+  weight = 10
 # [[menu.main]]
 #   identifier = "schedule"
 #   name = "Schedule"
