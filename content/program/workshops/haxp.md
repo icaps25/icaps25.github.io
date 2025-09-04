@@ -84,7 +84,7 @@ At least one author of each accepted paper must attend the workshop in order to 
 * [Stylianos Loukas Vasileiou](https://thestlucas.com/) | New Mexico State University, USA
 * [Pulkit Verma](https://pulkitverma.net) | Massachusetts Institute of Technology, USA
 
-## Program Committee
+## Extended Program Committee
 
 * [Pascal Bercher](https://comp.anu.edu.au/people/pascal-bercher/) | Australian National University, Australia
 * [Daniel Fišer](https://danfis.cz/) | Aalborg University, Denmark
