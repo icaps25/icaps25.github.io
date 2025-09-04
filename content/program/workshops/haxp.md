@@ -84,6 +84,20 @@ At least one author of each accepted paper must attend the workshop in order to 
 * [Stylianos Loukas Vasileiou](https://thestlucas.com/) | New Mexico State University
 * [Pulkit Verma](https://pulkitverma.net) | MIT
 
+## Program Committee
+
+* [Pascal Bercher](https://comp.anu.edu.au/people/pascal-bercher/) | Australian National University, Australia
+* [Daniel Fišer](https://danfis.cz/) | Aalborg University, Denmark
+* [Daniel Gnad](https://mrlab.ai/daniel-gnad/)| Heidelberg University, Germany and Linköping University, Sweden
+* [Alban Grastien](http://www.grastien.net/ban/) | Australian National University, Australia
+* [Akkamahadevi Hanni](https://scholar.google.com/citations?user=sDZ4u1oAAAAJ&hl=en) | Arizona State University, USA
+* [Rohan R Paleja](https://www.rohanpaleja.com/) | Purdue University, USA
+* [Shashank Shekhar](https://shekharsai.github.io/) | University of Caen Normandy, France
+* [Emile Siboulet](https://scholar.google.com/citations?user=6gf1iZcAAAAJ) | LAAS-CNRS, France and Safran Electronics & Defense, France
+* [Ho Chit Siu](https://www.ll.mit.edu/biographies/ho-chit-siu) | MIT Lincoln Laboratory, USA
+* [Christabel Wayllace](https://www.cwayllace.com/) | New Mexico State University, USA
+* [Mohammad Yousefi](https://yousefi.ai/) | Australian National University, Australia
+
 ## Steering Committee
 
 * [Jeremy Frank](https://www.linkedin.com/in/jeremy-frank-62141bb3/) | NASA
