@@ -76,13 +76,13 @@ At least one author of each accepted paper must attend the workshop in order to 
 
 ## Organizing Committee
 
-* [Rebecca Eifler](https://www.linkedin.com/in/rebecca-eifler-b56652144/) | LAAS-CNRS
-* [Benjamin Krarup](https://scholar.google.co.uk/citations?user=yEjXNsQAAAAJ&hl=en) | King’s College London 
-* [Alan Lindsay](https://researchportal.hw.ac.uk/en/persons/alan-lindsay)| Heriot-Watt University
-* [Lindsay Sanneman](https://www.lindsaysanneman.com/) | Arizona State University 
-* [Silvia Tulli](https://silviatulli.com/) | Sorbonne University
-* [Stylianos Loukas Vasileiou](https://thestlucas.com/) | New Mexico State University
-* [Pulkit Verma](https://pulkitverma.net) | MIT
+* [Rebecca Eifler](https://www.linkedin.com/in/rebecca-eifler-b56652144/) | LAAS-CNRS, France
+* [Benjamin Krarup](https://scholar.google.co.uk/citations?user=yEjXNsQAAAAJ&hl=en) | King’s College London, UK
+* [Alan Lindsay](https://researchportal.hw.ac.uk/en/persons/alan-lindsay)| Heriot-Watt University, UK
+* [Lindsay Sanneman](https://www.lindsaysanneman.com/) | Arizona State University, USA
+* [Silvia Tulli](https://silviatulli.com/) | Sorbonne University, France
+* [Stylianos Loukas Vasileiou](https://thestlucas.com/) | New Mexico State University, USA
+* [Pulkit Verma](https://pulkitverma.net) | Massachusetts Institute of Technology, USA
 
 ## Program Committee
 
@@ -100,9 +100,9 @@ At least one author of each accepted paper must attend the workshop in order to 
 
 ## Steering Committee
 
-* [Jeremy Frank](https://www.linkedin.com/in/jeremy-frank-62141bb3/) | NASA
-* [Claudia Goldman](https://il.linkedin.com/in/claudiagoldman) | General Motors 
-* [Jörg Hoffmann](http://fai.cs.uni-saarland.de/hoffmann/)| Saarland University
-* [Subbarao Kambhampati](https://rakaposhi.eas.asu.edu/) | Arizona State University
-* [David Smith](http://psresearch.xyz/) | PS Research
-* [William Yeoh](https://sites.wustl.edu/wyeoh/) | Washington University in St. Louis
+* [Jeremy Frank](https://www.linkedin.com/in/jeremy-frank-62141bb3/) | NASA Ames Research Center, USA
+* [Claudia Goldman](https://il.linkedin.com/in/claudiagoldman) | The Hebrew University of Jerusalem, Israel
+* [Jörg Hoffmann](http://fai.cs.uni-saarland.de/hoffmann/)| Saarland University, Germany
+* [Subbarao Kambhampati](https://rakaposhi.eas.asu.edu/) | Arizona State University, USA
+* [David Smith](http://psresearch.xyz/) | PS Research, USA
+* [William Yeoh](https://sites.wustl.edu/wyeoh/) | Washington University in St. Louis, USA
