@@ -38,7 +38,7 @@ The workshop includes - but is not limited to - the following topics:
 * **Finding Semantically Guided Repairs in PDDL Domains Using LLMs** by Nader Karimi Bavandpour and Pascal Bercher
 * **A Collaborative Numeric Task Planning Framework based on Constraint Translations using LLMs** by Anthony Favier, Ngoc La, Pulkit Verma, and Julie A. Shah
 * **How Humans Explain the Difference in the Quality of Plans -- A User Study** by Benjamin Krarup, Amanda Jane Coles, Dancheng Gao, Derek Long, and David E. Smith
-* **Explainable Planning via Counterfactual Task Analysis for the Beluga Challenge and Beyond** by Elliot Gestrin, Paul Höft, Mauricio Salerno, Jendrik Seipp, and Daniel Gnad
+* **Explainable Planning via Counterfactual Task Analysis for the Beluga Challenge and Beyond** by Elliot Gestrin, Gustaf Söderholm, Paul Höft, Mauricio Salerno, Jendrik Seipp, and Daniel Gnad
 * **Plan Explanation through Recommendations** by Sarath Sreedharan, Trisha Ghali, and David E. Smith
 * **Revisiting Action Failures Through the Lens of Cooperative Games** by Sarath Sreedharan and David E. Smith
 * **When Humans Revise Their Beliefs, Explanations Matter: Evidence from User Studies and What It Means for AI Alignment** by Stylianos Loukas Vasileiou, Antonio Rago, Maria Vanina Martinez, and William Yeoh
