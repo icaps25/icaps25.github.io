@@ -37,9 +37,9 @@ Topics of interest include (but are not limited to):
 
 ## Important Dates
 
-* Paper submission: July 23, 2025
-* Notification: August 28, 2025
-* Workshop: November 11, 2025
+* Paper submission (extended): July 11, 2025 (was June 30, 2025)
+* Notification (extended): august 1, 2025 (was July 20, 2025)
+* Workshop: November 10-11, 2025 (tbd)
 
 ## Submission
 
@@ -49,9 +49,9 @@ There are two types of submissions:
   
 Papers may have an additional page containing references. Regular papers may be scheduled with more time in the final program. A poster session may be considered to provide a further presentation opportunity.
 
-The guidelines for formatting are the same as is used for ICAPS 2024 papers (typeset in the AAAI style as described at: http://www.aaai.org/Publications/Author/author.php), but with the AAAI copyright removed. The papers must be submitted in PDF format via the EasyChair system (https://easychair.org/conferences/?conf=icapswsplanrob24).
+The guidelines for formatting are the same as is used for ICAPS 2025 papers (typeset in the AAAI style as described at: http://www.aaai.org/Publications/Author/author.php), but with the AAAI copyright removed. The papers must be submitted in PDF format via the EasyChair system ( https://easychair.org/conferences/?conf=icapswsplanrob25 ).
 
-Please note that papers under review (e.g. which have been submitted to IJCAI-2024) are also welcome, however, in order to avoid potential conflicts, these manuscripts should be prepared as anonymous submissions for a double blind reviewing process.
+Please note that papers under review (e.g. which have been submitted to IJCAI-2025) are also welcome, however, in order to avoid potential conflicts, these manuscripts should be prepared as anonymous submissions for a double blind reviewing process.
 
 Accepted papers will be published on the workshop’s website.
 
@@ -61,7 +61,31 @@ The organisers are investigating the availability of journal editors in order to
 
 ### Organizing Committee
 
-- [Zlatan Ajanović](https://zlatanajanovic.com/), Delft University of Technology, Netherlands
+- [Zlatan Ajanović](https://zlatanajanovic.com/), RWTH Aachen University, Germany
 - [Iman Awaad](https://www.h-brs.de/en/inf/iman-awaad), Hochschule Bonn-Rhein-Sieg University of Applied Sciences, Germany
 - [Alberto Finzi](http://wpage.unina.it/alberto.finzi/), Naples University, Italy
 - [Andrea Orlandini](https://www.istc.cnr.it/people/andrea-orlandini), National Research Council of Italy, Italy
+
+### Program Committee
+- Zlatan Ajanovic,	RWTH Aachen University
+- Iman Awaad,	Bonn Rhein Sieg University of Applied Sciences	
+- Roman Barták,	Charles University
+- Ronen Brafman,	Ben-Gurion University
+- Riccardo Caccavale,	Università degli studi di Napoli Federico II
+- Magí Dalmau Moreno,	Universitat Pompeu Fabra
+- Riccardo De Benedictis,	CNR - National Research Council of Italy
+- Alberto Finzi,	Universita' di Napoli Federico II	
+- Nick Hawes,	University of Oxford
+- Jane Jean	Kiam,	Universität der Bundeswehr München
+- Senka	Krivic,	University of Sarajevo
+- Oscar	Lima,	German Research Center for Artificial Intelligence - DFKI
+- Tim Niemueller,	Intrinsic Innovation GmbH
+- Andrea Orlandini,	CNR	
+- Ron Petrick,	Heriot-Watt University
+- Sebastian Stock,	German Research Center for Artificial Intellegence, DFKI
+- Elisa Tosello,	Fondazione Bruno Kessler
+- Alessandro Umbrico,	National Research Council of Italy (CNR-ISTC)
+- Pulkit Verma,	Massachusetts Institute of Technology
+
+### Acknowledgments
+This workshop is partially supported by [TRIFFID](https://triffid-project.eu/) whose aim is to revolutionize the landscape of emergency response by seamlessly weaving advanced robotics with the crucial work of First Responders, ensuring they’re equipped to tackle disasters with unparalleled efficiency and precision. Innovative hybrid robotic platforms aims at blend autonomous legged and aerial capabilities, enabling real-time reconnaissance even in the most challenging terrains, while our sophisticated Ground-Station interface empowers operators to visualize and analyze disaster scenarios like never before. TRIFFID has received funding from the European Union’s Horizon Europe research and innovation programme under grant agreement No.101168042.

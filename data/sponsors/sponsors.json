@@ -6,8 +6,20 @@
 				{
 					"logo": "/img/partners/OPTIMA-land.svg",
 					"height": "-1",
-					"width": "550",
+					"width": "500",
 					"link": "https://optima.org.au/"
+				},
+				{
+					"logo": "/img/partners/UoM.png",
+					"height": "-1",
+					"width": "150",
+					"link": "https://cis.unimelb.edu.au/"
+				},
+				{
+					"logo": "/img/partners/monash.webp",
+					"height": "-1",
+					"width": "250",
+					"link": "https://www.monash.edu/"
 				}
 			]
 		},
@@ -19,12 +31,6 @@
 					"height": "-1",
 					"width": "150",
 					"link": "http://psresearch.xyz"
-				},
-				{
-					"logo": "/img/partners/UoM.png",
-					"height": "-1",
-					"width": "150",
-					"link": "https://cis.unimelb.edu.au/"
 				},
 				{
 					"logo": "/img/partners/logo-desktop.svg",
@@ -42,6 +48,11 @@
 					"height": "-1",
 					"width": "150",
 					"link": "https://aij.ijcai.org"
+				},				{
+					"logo": "/img/partners/jpmorgan.png",
+					"height": "-1",
+					"width": "280",
+					"link": "https://www.jpmorgan.com"
 				},
 				{
 					"logo": "/img/partners/LearningMachinesLogo_V2.jpg",
@@ -55,10 +66,10 @@
 			"rank": "Patron",
 			"list": [
 				{
-					"logo": "/img/partners/jpmorgan.png",
+					"logo": "/img/partners/gurobi.png",
 					"height": "-1",
 					"width": "280",
-					"link": "https://www.jpmorgan.com"
+					"link": "https://www.gurobi.com/academia/academic-program-and-licenses/"
 				}
 			]
 		}
