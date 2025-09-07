@@ -49,7 +49,27 @@ As written above, we are happy to check whether we can arrange an earlier submis
 
 We encourage the submission of papers that, at the time of submission, are under review at another conference (including JELIA, ECAI, and KR, for example). However, if the paper is also accepted at the respective conference, it will *not* be included in our proceedings. The paper will be included into the program, but the proceedings will only contain a link to the respective conference's version.
 
+
+## Accepted Papers
+
+<script src="https://bibbase.org/show?bib=https://icaps25.icaps-conference.org/program/workshops/hplan/hplan.bib&theme=default&fullnames=1&jsonp=1&hidemenu=1"></script>
+
 ## Workshop Committee
+
+- Ron Alford, MITRE
+- Gregor Behnke, University of Amsterdam
+- Pascal Bercher, the Australian National University (ANU)
+- Maurice Dekker, University of Amsterdam
+- Humbert Fiorino, Université Grenoble Alpes (UGA)
+- Birte Glimm, Ulm University
+- Daniel Höller, Saarland University
+- Ugur Kuter, Smart Information Flow Technologies (SIFT)
+- Alexander Lodemann, Ulm University
+- Mario Schmautz, independent researcher
+- Mauro Vallati, University of Huddersfield
+- Michael Welt, Ulm University
+- Mohammad Yousefi, the Australian National University (ANU)
+- Yifan Zhang, the Australian National University (ANU)
 
 ### Organizing Committee
 
@@ -57,7 +77,6 @@ We encourage the submission of papers that, at the time of submission, are under
 - Mauro Vallati, m.vallati@hud.ac.uk, https://www.mvallati.net/
 - Conny Olz, conny.olz@alumni.uni-ulm.de, https://www.uni-ulm.de/en/in/ki/inst/alumni/dr-conny-olz/
 - Ron Alford, ronwalf@volus.net, https://www.volus.net/
-
 
 ## Further Information
 
