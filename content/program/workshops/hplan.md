@@ -23,10 +23,11 @@ Topics of interests include but are not limited to:
 
 ## Important Dates (updated!)
 
-- Submission Deadline: July 11 (Friday), 2025
-- Author Notification: August 15 (Friday), 2025
+- Submission Deadline: <del>July 11 (Friday), 2025</del>
+- Author Notification: <del>August 15 (Friday), 2025</del>
 - Camera-Ready Deadline: September 26 (Friday), 2025
 - ICAPS 2025 Workshops: November 10-11 (TBA), 2025
+
 
 ## Submission Details
 
@@ -52,7 +53,15 @@ We encourage the submission of papers that, at the time of submission, are under
 
 ## Accepted Papers
 
+Once the final versions of all papers have been submitted, and once our invited speaker is confirmed, we will also make a proceedings available.
+
 <script src="https://bibbase.org/show?bib=https://icaps25.icaps-conference.org/program/workshops/hplan/hplan.bib&theme=default&fullnames=1&jsonp=1&hidemenu=1"></script>
+
+
+<!-- Just for testing before the bibtex was put online.
+<script src="https://bibbase.org/show?bib=https://bercher.net/bibtex/hplan.bib&theme=default&fullnames=1&jsonp=1&hidemenu=1"></script>
+-->
+<br/>
 
 ## Workshop Committee
 
@@ -80,7 +89,7 @@ We encourage the submission of papers that, at the time of submission, are under
 
 ## Further Information
 
-- Are you interested in presenting your already published work? Reach out to us!
-- Do you want to join our team of reviewers? Please reach out to us!
+- **Are you interested in presenting your already published work?** Reach out to us!
+- Do you want to join our team of reviewers? (Maybe even next year?) Please reach out to us!
 - On the HPlan website [hplan.hierarchical-task.net](https://hplan.hierarchical-task.net) you find, among others, a list of bibtex entries for all accepted papers in all HPlan editions. Individual workshop pages of past editions are available by adding the respective year, e.g., you may use [hplan2024.hierarchical-task.net](https://hplan2024.hierarchical-task.net) for last year's edition (or [hplan2025.hierarchical-task.net](https://hplan2025.hierarchical-task.net) for this exact page).
 - We have a mailing list (via google groups) for hierarchical planning with currently approx. 70 subscribers. The list is almost zero traffic (in some years it *is* literally zero), moderated, and only allows mails related to hierarchical planning! Interested? Drop Pascal an email.
