@@ -1,5 +1,5 @@
 {{ $file := .Get 0 }}
-{{ $data := getJSON $file }}
+{{ $data := (resources.Get $file | transform.Unmarshal) }}
 
 <table style="width: 100%">
 {{ range $item := $data.items }}
