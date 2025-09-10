@@ -10,6 +10,8 @@ Joint workshop at [KR 2025](https://kr.org/KR2025) and [ICAPS 2025](https://icap
 Melbourne, Australia\
 November 11, 2025
 
+Registration is possible through either ICAPS or KR (full or workshop registration).
+
 ## Description
 
 Traditionally, the areas of Knowledge Representation and Reasoning
@@ -46,11 +48,30 @@ from these areas, including but not limited to:
  * Answer set planning
  * Knowledge engineering
 
+## Accepted Papers
+
+* Stefan Borgwardt, Duy Nhu and Gabriele Röger  
+  *Automated Planning with Ontologies under Coherence Update Semantics (Extended Abstract)*
+* Shenghui Chen, Shufang Zhu, Giuseppe De Giacomo and Ufuk Topcu  
+  *Learning to Coordinate without Communication under Incomplete Information*
+* Siqi Cheng and Patrik Haslum  
+  *From Words to Action: Creating a General Narrative Planning Domain from VerbNet*
+* Claudia Grundke and Gabriele Röger  
+  *Eliminating Negative Occurrences of Derived Predicates from PDDL Axioms*
+* Guang Hu, Weijia Li and Yangmengfei Xu  
+  *Beyond Static Assumptions: the Predictive Justified Perspective Model for Epistemic Planning*
+* Guang Hu, Tim Miller and Nir Lipovetzky  
+  *Where Common Knowledge Cannot Be Formed, Common Belief Can -- Planning with Multi-Agent Belief Using Group Justified Perspectives*
+* Mikhail Soutchanski  
+  *Bounded Proper Planning*
+* David Wang and Mohammad Abdulaziz  
+  *Verified Certification of Unsolvability of Temporal Planning Problems*
+
 ## Important Dates
 
-* Abstract submission: July 23, 2025
-* Paper submission: ~~July 23, 2025~~ July 29, 2025
-* Notification: August 27, 2025
+* ~~Abstract submission: July 23, 2025~~
+* ~~Paper submission: ~~July 23, 2025~~ July 29, 2025~~
+* ~~Notification: August 27, 2025~~
 * Workshop: November 11, 2025
 
 All deadlines are AoE (UTC-12).

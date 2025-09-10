@@ -23,10 +23,11 @@ Topics of interests include but are not limited to:
 
 ## Important Dates (updated!)
 
-- Submission Deadline: July 11 (Friday), 2025
-- Author Notification: August 15 (Friday), 2025
+- Submission Deadline: <del>July 11 (Friday), 2025</del>
+- Author Notification: <del>August 15 (Friday), 2025</del>
 - Camera-Ready Deadline: September 26 (Friday), 2025
 - ICAPS 2025 Workshops: November 10-11 (TBA), 2025
+
 
 ## Submission Details
 
@@ -49,7 +50,35 @@ As written above, we are happy to check whether we can arrange an earlier submis
 
 We encourage the submission of papers that, at the time of submission, are under review at another conference (including JELIA, ECAI, and KR, for example). However, if the paper is also accepted at the respective conference, it will *not* be included in our proceedings. The paper will be included into the program, but the proceedings will only contain a link to the respective conference's version.
 
+
+## Accepted Papers
+
+Once the final versions of all papers have been submitted, and once our invited speaker is confirmed, we will also make a proceedings available.
+
+<script src="https://bibbase.org/show?bib=https://icaps25.icaps-conference.org/program/workshops/hplan/hplan.bib&theme=default&fullnames=1&jsonp=1&hidemenu=1"></script>
+
+
+<!-- Just for testing before the bibtex was put online.
+<script src="https://bibbase.org/show?bib=https://bercher.net/bibtex/hplan.bib&theme=default&fullnames=1&jsonp=1&hidemenu=1"></script>
+-->
+<br/>
+
 ## Workshop Committee
+
+- Ron Alford, MITRE
+- Gregor Behnke, University of Amsterdam
+- Pascal Bercher, the Australian National University (ANU)
+- Maurice Dekker, University of Amsterdam
+- Humbert Fiorino, Université Grenoble Alpes (UGA)
+- Birte Glimm, Ulm University
+- Daniel Höller, Saarland University
+- Ugur Kuter, Smart Information Flow Technologies (SIFT)
+- Alexander Lodemann, Ulm University
+- Mario Schmautz, independent researcher
+- Mauro Vallati, University of Huddersfield
+- Michael Welt, Ulm University
+- Mohammad Yousefi, the Australian National University (ANU)
+- Yifan Zhang, the Australian National University (ANU)
 
 ### Organizing Committee
 
@@ -58,10 +87,9 @@ We encourage the submission of papers that, at the time of submission, are under
 - Conny Olz, conny.olz@alumni.uni-ulm.de, https://www.uni-ulm.de/en/in/ki/inst/alumni/dr-conny-olz/
 - Ron Alford, ronwalf@volus.net, https://www.volus.net/
 
-
 ## Further Information
 
-- Are you interested in presenting your already published work? Reach out to us!
-- Do you want to join our team of reviewers? Please reach out to us!
+- **Are you interested in presenting your already published work?** Reach out to us!
+- Do you want to join our team of reviewers? (Maybe even next year?) Please reach out to us!
 - On the HPlan website [hplan.hierarchical-task.net](https://hplan.hierarchical-task.net) you find, among others, a list of bibtex entries for all accepted papers in all HPlan editions. Individual workshop pages of past editions are available by adding the respective year, e.g., you may use [hplan2024.hierarchical-task.net](https://hplan2024.hierarchical-task.net) for last year's edition (or [hplan2025.hierarchical-task.net](https://hplan2025.hierarchical-task.net) for this exact page).
 - We have a mailing list (via google groups) for hierarchical planning with currently approx. 70 subscribers. The list is almost zero traffic (in some years it *is* literally zero), moderated, and only allows mails related to hierarchical planning! Interested? Drop Pascal an email.

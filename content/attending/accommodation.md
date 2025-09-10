@@ -14,12 +14,9 @@ For anyone looking for a room outside of the conference venue, there are many [h
 
 The town of Canmore is a 20 minute drive from Banff and is a nice place to stay. It has accommodation, some of which will be at a more reasonable price (it is also not in Banff National Park, which means some of the taxes do not apply). There is a regular bus service between Canmore and Banff. -->
 
-
-
 Melbourne Connect is located close to the Melbourne CBD, offering a wide range of accommodation options.
 
 There are plenty of hotels within a 15-minute walk of Melbourne Connect, so you’ll have lots of options close to the venue through hotel search engines — here’s a **[handy one](https://tinyurl.com/ypbk5e9s)** to get you started.  In many cases, the prices there are even better than what we could get with conference promo codes. Just pop in your dates and click the Walk icon at the bottom to see how far each hotel is from the venue. You may want to check also booking engines such as [booking](https://www.booking.com/) or [agoda](https://www.agoda.com/). 
-
 
 <figure style="text-align: center;">
   <a href="https://tinyurl.com/ypbk5e9s" target="_blank">
@@ -32,16 +29,14 @@ There are plenty of hotels within a 15-minute walk of Melbourne Connect, so you�
 
 <!-- We secured the following discounted rate of 279 AUD for [Zagame's hotel](https://www.zagameshouse.com.au/). [This rate is available until the 15th of Octorber.](https://www.simplebooking.it/ibe2/hotel/6975?lang=EN&offer=208881). -->
 
-
 However, we have listed a few nearby hotels below. Please note that the prices are indicative only—refer to the hotel websites for up-to-date information and booking details.
 
 We suggest booking early to lock in the best spots! 
 
-
 <figure>
   <img src="/img/accommodation/z1.jpg" alt="Zagame's House" width="300"> <img src="/img/accommodation/z2.jpg" alt="Zagame's House" width="300">
   <figcaption>
-    <a href="https://www.zagameshouse.com.au/"><strong>Zagame's House (4 star hotel)</strong></a> – Special Discount ~AUD 279 per night from the 9-15th, approx. 12-minute walk to the venue. <a href=https://www.simplebooking.it/ibe2/hotel/6975?lang=EN&offer=208881=>Promo Code: ICAPS2025 --å This rate is available until the 15th of Octorber.</a>.
+    <a href="https://www.zagameshouse.com.au/"><strong>Zagame's House (4 star hotel)</strong></a> – Special Discount ~AUD 279 per night from the 9-15th, approx. 12-minute walk to the venue. <a href=https://www.simplebooking.it/ibe2/hotel/6975?lang=EN&offer=208881>Use promo Code: ICAPS2025 -- This rate is available until the 15th of October.</a>.
   </figcaption>
 </figure>
 
@@ -52,7 +47,6 @@ We suggest booking early to lock in the best spots!
   </figcaption>
 </figure>
 
-
 <figure>
   <img src="/img/accommodation/c1.jpg" alt="Essence Hotel Carlton" width="300"> <img src="/img/accommodation/c2.jpg" alt="Essence Hotel Carlton" width="300">
   <figcaption>
@@ -60,7 +54,6 @@ We suggest booking early to lock in the best spots!
   </figcaption>
 
 </figure>
-
 
 <figure>
   <img src="/img/accommodation/d1.jpg" alt="Ibis Melbourne" width="300"> <img src="/img/accommodation/d2.jpg" alt="Ibis Melbourne" width="300">
@@ -70,7 +63,6 @@ We suggest booking early to lock in the best spots!
 
 </figure>
 
-
 <figure>
   <img src="/img/accommodation/a1.jpg" alt="Arrow on Swanston" width="300"> <img src="/img/accommodation/a2.jpg" alt="Arrow on Swanston" width="300">
   <figcaption>
@@ -79,7 +71,6 @@ We suggest booking early to lock in the best spots!
 
 </figure>
 
-
 <figure>
   <img src="/img/accommodation/i1.jpg" alt="Carlton Lygon Lodge" width="300"> <img src="/img/accommodation/i2.jpg" alt="Carlton Lygon Lodge" width="300">
   <figcaption>
@@ -87,7 +78,6 @@ We suggest booking early to lock in the best spots!
   </figcaption>
 
 </figure>
-
 
 <figure>
   <img src="/img/accommodation/g1.jpg" alt="Crowne Plaza Melbourne Carlton" width="300"> 
@@ -113,9 +103,6 @@ We suggest booking early to lock in the best spots!
 
 </figure>
 
-
-
-
 <figure>
   <img src="/img/accommodation/h1.jpg" alt="The Last Jar" width="300"> <img src="/img/accommodation/h2.jpg" alt="The Last Jar" width="300">
   <figcaption>
@@ -123,8 +110,3 @@ We suggest booking early to lock in the best spots!
   </figcaption>
 
 </figure>
-
-
-
-
-
