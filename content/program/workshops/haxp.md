@@ -35,13 +35,20 @@ The workshop includes - but is not limited to - the following topics:
 
 ## Accepted Papers
 
-* **Finding Semantically Guided Repairs in PDDL Domains Using LLMs** by Nader Karimi Bavandpour and Pascal Bercher
-* **A Collaborative Numeric Task Planning Framework based on Constraint Translations using LLMs** by Anthony Favier, Ngoc La, Pulkit Verma, and Julie A. Shah
-* **How Humans Explain the Difference in the Quality of Plans -- A User Study** by Benjamin Krarup, Amanda Jane Coles, Dancheng Gao, Derek Long, and David E. Smith
-* **Explainable Planning via Counterfactual Task Analysis for the Beluga Challenge and Beyond** by Elliot Gestrin, Gustaf Söderholm, Paul Höft, Mauricio Salerno, Jendrik Seipp, and Daniel Gnad
-* **Plan Explanation through Recommendations** by Sarath Sreedharan, Trisha Ghali, and David E. Smith
-* **Revisiting Action Failures Through the Lens of Cooperative Games** by Sarath Sreedharan and David E. Smith
-* **When Humans Revise Their Beliefs, Explanations Matter: Evidence from User Studies and What It Means for AI Alignment** by Stylianos Loukas Vasileiou, Antonio Rago, Maria Vanina Martinez, and William Yeoh
+* **<a href="https://openreview.net/pdf?id=Zj8UqVxClT">Finding Semantically Guided Repairs in PDDL Domains Using LLMs</a>** <br>
+Nader Karimi Bavandpour and Pascal Bercher
+* **<a href="https://openreview.net/pdf?id=rRjEMmavbR">A Collaborative Numeric Task Planning Framework based on Constraint Translations using LLMs</a>**<br>
+Anthony Favier, Ngoc La, Pulkit Verma, and Julie A. Shah
+* **<a href="https://openreview.net/pdf?id=5tR1k4LwtL">How Humans Explain the Difference in the Quality of Plans -- A User Study</a>**<br>
+Benjamin Krarup, Amanda Jane Coles, Dancheng Gao, Derek Long, and David E. Smith
+* **<a href="https://openreview.net/pdf?id=d4BMCAsHC2">Explainable Planning via Counterfactual Task Analysis for the Beluga Challenge and Beyond</a>**<br>
+Elliot Gestrin, Gustaf Söderholm, Paul Höft, Mauricio Salerno, Jendrik Seipp, and Daniel Gnad
+* **<a href="https://openreview.net/pdf?id=qfgi8aPbTU">Plan Explanation through Recommendations</a>**<br>
+Sarath Sreedharan, Trisha Ghali, and David E. Smith
+* **<a href="https://openreview.net/pdf?id=YVD85eTdDa">Revisiting Action Failures Through the Lens of Cooperative Games</a>**<br>
+Sarath Sreedharan and David E. Smith
+* **<a href="https://openreview.net/pdf?id=mLtxlPOizm">When Humans Revise Their Beliefs, Explanations Matter: Evidence from User Studies and What It Means for AI Alignment</a>**<br>
+Stylianos Loukas Vasileiou, Antonio Rago, Maria Vanina Martinez, and William Yeoh
 
 
 
