@@ -14,7 +14,7 @@
         <span class="menu__text">
           {{ .Name }}</span>
         <input type="checkbox" id="{{ .Name }}">
-        <span class="drop-icon">▾</span>
+        <span class="drop-icon">›</span>
         {{ .Post }}
         </a>
         <ul class="submenu__list">
@@ -27,10 +27,11 @@
                 <span class="menu__text">
                   {{ .Name }}</span>
                 <input type="checkbox" id="{{ .Name }}">
-                <span class="drop-icon">▾</span>
+                <span class="drop-icon">›</span>
                 {{ .Post }}
                 </a>
                 <ul class="submenu__list">
+          <ul class="'submenu__listwrapper">
                   {{ range .Children }}
                   <li class="menu__item{{ if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }} menu__item--active{{ end }}">
                     <a class="menu__link" href="{{ .URL }}">
@@ -40,7 +41,7 @@
                       {{ .Post }}
                     </a>
                   </li>
-                  {{ end }}
+                  {{ end }}</ul>
                 </ul>
             </li>
             {{- else }}
