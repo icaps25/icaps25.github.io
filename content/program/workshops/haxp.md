@@ -55,8 +55,8 @@ Stylianos Loukas Vasileiou, Antonio Rago, Maria Vanina Martinez, and William Yeo
 ## Important Dates
 
 * Paper submission deadline: ~~July 27, 2025 UTC-12~~ **August 13, 2025 UTC-12**
-* Notification of acceptance: August 29, 2025 UTC-12
-* Camera-ready paper submissions: TBD (after the workshop)
+* Notification of acceptance: ~~August 29, 2025 UTC-12~~ **September 02, 2025 UTC-12**
+* Camera-ready paper submissions: November 30, 2025 UTC-12
 * Workshop date: November 10 or 11, 2025
 
 ## Submission Details
