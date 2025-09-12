@@ -1,7 +1,9 @@
-{{ $file := .Get 0 }}
-{{ $sessions := getJSON $file }}
-{{ $file := .Get 1 }}
-{{ $papers := getJSON $file }}
+{{ $sessionsFile := .Get 0 }}
+{{ $sessionsContent := os.ReadFile (strings.TrimPrefix "/" $sessionsFile) }}
+{{ $sessions := transform.Unmarshal $sessionsContent }}
+{{ $papersFile := .Get 1 }}
+{{ $papersContent := os.ReadFile (strings.TrimPrefix "/" $papersFile) }}
+{{ $papers := transform.Unmarshal $papersContent }}
 
 <style>
 

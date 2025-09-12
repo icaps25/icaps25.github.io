@@ -1,5 +1,6 @@
 {{ $file := .Get 0 }}
-{{ $data := getJSON $file }}
+{{ $fileContent := os.ReadFile (strings.TrimPrefix "/" $file) }}
+{{ $data := transform.Unmarshal $fileContent }}
 
 {{ range $option := $data.options }}
 
