@@ -1,7 +1,7 @@
 {{ $file := .Get 0 }}
-{{ $sessions := (resources.Get $file | transform.Unmarshal) }}
+{{ $sessions := getJSON $file }}
 {{ $file := .Get 1 }}
-{{ $papers := (resources.Get $file | transform.Unmarshal) }}
+{{ $papers := getJSON $file }}
 
 <style>
 
