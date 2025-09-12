@@ -1,5 +1,5 @@
 {{ $file := .Get 0 }}
-{{ $data := getJSON $file }}
+{{ $data := (resources.Get $file | transform.Unmarshal) }}
 
 {{ range $option := $data.options }}
 
