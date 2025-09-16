@@ -1,0 +1,36 @@
+Hey everybody,
+
+a piece of advice by Pascal:
+If you are interested in an easy way of how to put the list of accepted papers online, 
+you could use a free external service called bibbase. All you need to do is to:
+(a) put your bibtex file anywhere online,
+(b) include a one-liner script that calls that file.
+
+To see examples, how that looks like, see, e.g.,:
+- hplan2025.hierarchical-task.net
+- hplan2024.hierarchical-task.net
+- hplan2023.hierarchical-task.net
+- hplan2022.hierarchical-task.net
+You can see how that publication list inherits the style of the 'surrounding' webpage!
+Compare, e.g,. the years 2022 and 2023, which both use different styles.
+
+Concrete instructions:
+
+(a) storing the file: 
+    - out your bibtex file (e.g., hplan2024.bib) into the (ICAPS) folder "static/bib"
+    - it will be hosted on https://icaps25.icaps-conference.org/bib/ 
+      (e.g., the file https://icaps25.icaps-conference.org/bib/hplan2025.bib)
+(b) embed the script:
+    <script src="https://bibbase.org/show?bib=URL&theme=default&fullnames=1&jsonp=1&hidemenu=1"></script>
+    where URL is of course the bibtex URL, e.g.,
+    <script src="https://bibbase.org/show?bib=https://icaps25.icaps-conference.org/bib/hplan2025.bib&theme=default&fullnames=1&jsonp=1&hidemenu=1"></script>
+    Note that that there are several options that determine the navigation, appearance, and more. 
+    The full manual can be found on https://bibbase.org/ (but the options above are simple and work)
+
+One piece of advice that is hopefully useful:
+bibase supports all the standard bibtex fields and publication categories (again, see manual), but
+it's useful to know that you can use the generic field url_whatever = {...some URL...}, which will 
+create the text "whatever" under the bibtex entry as clickable link. (This gives lots of flexibility!)
+
+I hope that some find this helpful. :) 
+  -- Pascal

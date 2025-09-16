@@ -55,7 +55,7 @@ We encourage the submission of papers that, at the time of submission, are under
 
 Once the final versions of all papers have been submitted, and once our invited speaker is confirmed, we will also make a proceedings available.
 
-<script src="https://bibbase.org/show?bib=https://icaps25.icaps-conference.org/program/workshops/hplan/hplan.bib&theme=default&fullnames=1&jsonp=1&hidemenu=1"></script>
+<script src="https://bibbase.org/show?bib=https://icaps25.icaps-conference.org/bib/hplan2025.bib&theme=default&fullnames=1&jsonp=1&hidemenu=1"></script>
 
 
 <!-- Just for testing before the bibtex was put online.
