@@ -49,6 +49,7 @@ A **full 5-days Regular and Student Fees** include:
 * conference coffee breaks
 * welcome reception
 * conference dinner
+* If you are registering for both ICAPS and KR, we can provide a discount of $300 AUD for the second registration. Please register for ICAPS first, then submit your registration to the KR registration team (events@deakin.edu.au) and they will issue a discount code for you.
 
 A copy of a valid student card or a student confirmation (in English) may be requested by the organizers upon arrival.
 
