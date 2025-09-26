@@ -12,8 +12,8 @@ November 10-11, 2025
 
 | Schedule            |          | |
 |---------------------|----------|-|
-| Abstract Submission | ~~May 16~~| July 11, 2025 |
-| Submission          | ~~May 27~~| July 18, 2025 |
+| Abstract Submission | ~~May 16~~| July 18, 2025 |
+| Submission          | ~~May 27~~| July 25, 2025 |
 | Author Feedback     | ~~June 23 - 27~~| August 11 - 15, 2025  |
 | Notification        | ~~July 1~~| August 19, 2025|
 | Camera Ready        | ~~July 21~~| September 3, 2025 |
@@ -26,6 +26,37 @@ Heuristics and search algorithms are the two key components of heuristic search,
 The HSDIP workshop has always been welcoming of multidisciplinary work, for example, drawing inspiration from operations research (like row and column generation algorithms), convex optimization (like gradient optimization for hybrid planning), constraint programming, or satisfiability.
 
 The workshop is meant to be an open and inclusive forum, and we encourage papers that report on work in progress or that do not fit the mold of a typical conference paper. Non-trivial negative results are welcome to the workshop, but we expect the authors to argue for the significance of the presented results.
+
+## Accepted Papers
+
+* **Finding Plans and Heuristics with Spectral Graph Theory**
+[(pdf)](https://openreview.net/forum?id=uocKlL1oKV)<br>
+*Johannes Schmalz*
+
+* **Planning as Goal Recognition: Deriving Heuristics from Intention Models**
+[(pdf)](https://openreview.net/forum?id=bAL6bpW4Dm)<br>
+*Giacomo Rosa, Nir Lipovetzky, Sebastian Sardina, Jean Honorio*
+
+* **Conditional Dominance Analysis for Classical Planning**
+[(pdf)](https://openreview.net/forum?id=UN8OUhaRzp)<br>
+*Anna Wilhelm, Alvaro Torralba*
+
+* **On the Complexity of Computing the Planning Width**
+[(pdf)](https://openreview.net/forum?id=08m7x0f9EM)<br>
+*Jiajia Song, Nir Lipovetzky, Sebastian Sardina, Seeun William Umboh*
+
+* **Search Algorithm Portfolios with Multithreaded Components**
+[(pdf)](https://openreview.net/forum?id=VSMc1rHKLk)<br>
+*Takumi Shimoda, Alex S. Fukunaga*
+
+* **Landmark-Assisted Monte Carlo Planning**
+[(pdf)](https://openreview.net/forum?id=CfvZnoqc4z)<br>
+*David Chan, Mak Roberts, Dana S. Nau*
+
+* **Symmetry-Invariant Novelty Heuristics via Unsupervised Weisfeiler-Leman Features**
+[(pdf)](https://openreview.net/forum?id=dgDs7iyKfI)<br>
+*Dillon Ze Chen*
+
 
 ## Topics of Interest
 

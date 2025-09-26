@@ -1,4 +1,4 @@
-# icaps2025.github.io
+# icaps25.github.io
 
 Website for the ICAPS 2025 conference held in Melbourne, Australia - November 9-14, 2025.
 
@@ -19,17 +19,17 @@ We follow the [standard workflow](https://docs.github.com/en/pull-requests/colla
 First you need your own forked copy of the original upstream website:
 
 1. Sign up for Github
-2. Go to <https://github.com/icaps2025/icaps2025.github.io> and click the '`Fork`' button in the upper right. This should create and bring you to your _own_ forked copy of the ICAPS website repository.
+2. Go to <https://github.com/icaps25/icaps25.github.io> and click the '`Fork`' button in the upper right. This should create and bring you to your _own_ forked copy of the ICAPS website repository.
 
 ### 2. Clone your fork
 
-Clone locally the just created fork. After successfully cloning the repository you should end up with a directory called `icaps2025.github.io`. This directory will be referred to as _website root_.
+Clone locally the just created fork. After successfully cloning the repository you should end up with a directory called `icaps25.github.io`. This directory will be referred to as _website root_.
 
 > [!NOTE]
 > You may want to setup an upstream remote to track the original repo:
 >
 > ```shell
-> git remote add upstream git@github.com:icaps2025/icaps2025.github.io.git
+> git remote add upstream git@github.com:icaps25/icaps25.github.io.git
 > git fetch upstream
 > ```
 
@@ -112,4 +112,4 @@ The site can be accessed locally at http://localhost:1313/ and is locally produc
 
 ### Creating your pull request
 
-If you have future edits to make, you can restart the process at "[Branch to Make your Edits](https://github.com/icaps2025/icaps2025.github.io#branch-to-make-your-edits)"
+If you have future edits to make, you can restart the process at "[Branch to Make your Edits](https://github.com/icaps25/icaps25.github.io#branch-to-make-your-edits)"

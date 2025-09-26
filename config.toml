@@ -130,12 +130,12 @@ languageCode = 'en_AU'
   url = "/attending/accommodation"
   parent = "attending"
   weight = "40"
-#  [[menu.main]]
-#    identifier = "student-support"
-#    name = "Student Support"
-#    url = "/attending/students"
-#    parent = "attending"
-#    weight = "50"
+[[menu.main]]
+  identifier = "attendance-support"
+  name = "Attendance Support"
+  url = "/attending/support"
+  parent = "attending"
+  weight = "50"
 # CALLS
 [[menu.main]]
   identifier = "calls"
@@ -236,12 +236,12 @@ languageCode = 'en_AU'
 #   identifier = "program"
 #   name = "Program"
 #   weight = 7000
-# [[menu.main]]
-#   identifier = "overview"
-#   name = "Overview"
-#   url = "/program/overview"
-#   parent = "program"
-#   weight = 10
+[[menu.main]]
+  identifier = "overview"
+  name = "Overview"
+  url = "/program/overview"
+  parent = "program"
+  weight = 10
 # [[menu.main]]
 #   identifier = "schedule"
 #   name = "Schedule"
@@ -260,12 +260,12 @@ languageCode = 'en_AU'
 #    url = "/program/awards"
 #    parent = "program"
 #    weight = 20
-# [[menu.main]]
-#   identifier = "demos"
-#    name = "Demos"
-#    url = "/program/demos"
-#    parent = "program"
-#    weight = 20
+[[menu.main]]
+  identifier = "demos"
+   name = "Demos"
+   url = "/program/demos"
+   parent = "program"
+   weight = 20
 #  [[menu.main]]
 #    identifier = "doctoral-consortium"
 #    name = "Doctoral Consortium"

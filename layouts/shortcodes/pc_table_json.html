@@ -1,5 +1,6 @@
 {{ $file := .Get 0 }}
-{{ $data := getJSON $file }}
+{{ $fileContent := os.ReadFile (strings.TrimPrefix "/" $file) }}
+{{ $data := transform.Unmarshal $fileContent }}
 
 <table style="width: 100%">
 {{ range $item := $data.items }}
@@ -10,19 +11,13 @@
 	 <td style="vertical-align: top; width: 70%">
 		 {{ range $person := $item.people }}
 		 <p>
-			 {{ print $person.name}}
-			 <b>
-				 {{ if $person.topic }}
-				 	{{ print ", " $person.topic}}
-				 {{end}}
-			 </b>
-			 	{{ if $person.institution }}
-			 		{{ print ", " $person.institution }}
-			 	{{ end }}
+             {{ print $person.name ", "}}
+             {{ if $person.institution }}
+                {{ print " " $person.institution }}
+             {{ end }}
 		 </p>
 		 {{ end}}
 	 </td>
-      </td>
    </tr>
 {{ end }}
 </table>

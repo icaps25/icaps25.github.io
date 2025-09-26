@@ -43,7 +43,7 @@ Here is the list of the tutorials accepted to ICAPS 2025
  		<p><a href="/program/tutorials/bfs_no_reopen" target="_blank">The Theory and Practice of sub-optimal Best-First Search without Node Re-openings</a></p>
  	</div>
  	<div style="display:inline-block; width: 49%;">
- 		<p></p>
+ 		<p>Nathan R. Sturtevant</p>
  	</div>
  </div>
  
@@ -90,7 +90,7 @@ Heuristic Search through Domain-Independent Dynamic Programming</a></p>
  		<p><a href="/program/tutorials/ep" target="_blank">Epistemic Planning: Recent Advancements and Future Directions</a></p>
  	</div>
  	<div style="display:inline-block; width: 49%;">
- 		<p></p>
+ 		<p>Alessandro Burigana</p>
  	</div>
  </div>
 

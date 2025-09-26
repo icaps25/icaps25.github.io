@@ -48,7 +48,7 @@ We invite submissions at the intersection of AI Planning and (reinforcement) Lea
 
 Please refer to the [PRL workshop website](https://prl-theworkshop.github.io/prl2025-icaps/) for the latest information.
 
-* Paper submission deadline: August 1, AOE
+* Paper submission deadline: ~~August 1~~August 8, AOE
 * Paper acceptance notification: August 31, AOE
 
 ICAPS will be **in-person** this year. Authors of accepted workshop papers are expected to physically attend the conference and present in person.
@@ -96,7 +96,7 @@ We do not insist on papers being submitted anonymously initially; this decision 
 
 
 ## Organizing Committee
-* [Zlatan Ajanović](https://zlatanajanovic.com), Delft University of Technology, Delft, Netherlands.
+* [Zlatan Ajanović](https://zlatanajanovic.com), RWTH Aachen University, Aachen, Germany.
 * [Forest Agostinelli](https://cse.sc.edu/%7Eforesta/), University of South Carolina, Columbia, USA.
 * [Dillon Ze Chen](https://dillonzchen.github.io), Laboratory for Analysis and Architecture of Systems (LAAS-CNRS), Toulouse, France.
 * [Floris den Hengst](https://florisdh.nl), Vrije Universiteit, Amsterdam, Netherlands.

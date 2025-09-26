@@ -31,6 +31,8 @@ Each paper accepted to the main conference program (AAAI proceedings) must be ac
 
 Physical attendance and in-person presentation is expected for each paper. No on-line presentations will be allowed.
 
+When asked to introduce an ID for a paper in the registration form, use the openreview ID. There's no need to correct this information if you already registered and used the ID in the accepted papers from our website.
+
 ## Full Registration Fees
 
 {{< registration_options >}}
@@ -47,6 +49,7 @@ A **full 5-days Regular and Student Fees** include:
 * conference coffee breaks
 * welcome reception
 * conference dinner
+* If you are registering for both ICAPS and KR, we can provide a discount of $300 AUD for the second registration. Please register for ICAPS first, then submit your registration to the KR registration team (events@deakin.edu.au) and they will issue a discount code for you.
 
 A copy of a valid student card or a student confirmation (in English) may be requested by the organizers upon arrival.
 

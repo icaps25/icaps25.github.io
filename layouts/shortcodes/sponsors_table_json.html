@@ -1,5 +1,6 @@
 {{ $file := .Get 0 }}
-{{ $data := getJSON $file }}
+{{ $fileContent := os.ReadFile (strings.TrimPrefix "/" $file) }}
+{{ $data := transform.Unmarshal $fileContent }}
 
 <h4 style="color:#f5821f">ICAPS is kindly supported by:</h4>
 
@@ -13,10 +14,10 @@
                 <figure style="padding: 10px; flex: 0 1 auto; margin: 10px; display: flex; align-items: center;">
                     <a href="{{ print $org.link }}">
                         {{ if gt $org.width 0 }}
-                        <img title="{{ with $org.title }}{{ . }}{{ end }}" src="{{ print $org.logo }}" width="{{ $org.width }}">
+                        <img title="{{ with $org.title }}{{ . }}{{ end }}" src="{{ absURL (print $org.logo) }}" width="{{ $org.width }}">
                         {{ end }}
                         {{ if gt $org.height 0 }}
-                        <img title="{{ with $org.title }}{{ . }}{{ end }}" src="{{ print $org.logo }}" height="{{ $org.height }}">
+                        <img title="{{ with $org.title }}{{ . }}{{ end }}" src="{{ absURL (print $org.logo) }}" height="{{ $org.height }}">
                         {{ end }}
                     </a>
                 </figure>
