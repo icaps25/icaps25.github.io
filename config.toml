@@ -96,7 +96,7 @@ languageCode = 'en_AU'
     weight = 10
 [[menu.main]]
   identifier = "visit_vic"
-  name = "Discover Melbounre & Victoria"
+  name = "Discover Melbourne & Victoria"
   url = "/attending/visit_vic"
   parent = "attending"
   weight = 51
