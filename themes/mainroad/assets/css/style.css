@@ -434,14 +434,14 @@ select {
 
 .logo__img {
 	max-height: 256px;
-	background-color: rgba(255, 255, 255, 0.75);
+	background-color: rgba(255, 255, 255, 0.6);
 }
 
 .logo__text {
 	/* text-transform: uppercase; */
 	/* [ddh] adds a coloured element behind the logo;
          * makes the logo text readable */
-	background-color: rgba(255, 255, 255, 0.75);
+	background-color: rgba(255, 255, 255, 0.6);
 }
 
 .logo--mixed .logo__item {
@@ -449,8 +449,8 @@ select {
 }
 
 .logo--mixed .logo__img {
-	max-width: 140px;
-	max-height: 140px;
+	max-width: 250px;
+	max-height: 250px;
 	padding: 1.5px;
 }
 
@@ -463,7 +463,8 @@ select {
 	font-size: 1.8rem;
 	font-weight: 700;
 	line-height: 1;
-	color: rgba(35, 31, 32, 1);
+	color: rgb(168, 98, 6);
+	/* rgba(35, 31, 32, 1) */
 	/*rgba(245,130,31,0.85);*/
 }
 
@@ -596,7 +597,7 @@ button:not(:-moz-focusring):focus > .menu__btn-title {
 }
 
 #banner-main {
-	background-image: url("/img/banner_crop.jpg");
+	background-image: url("/img/banner_final.jpg");
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	background-position: center 0em;
@@ -1768,11 +1769,6 @@ highlightColor .menu__list--transition {
 	.menu__item.menu__dropdown input[type="checkbox"] ~ .submenu__list > * {
 		overflow-y: hidden;
 	}
-<<<<<<< Updated upstream
-	.menu__item.menu__dropdown input[type="checkbox"] ~ .submenu__list > * > * {
-		padding-left: 20px;
-	}
-=======
 	.menu__item.menu__dropdown > label {
 		cursor: pointer;
 	}
@@ -1796,7 +1792,6 @@ highlightColor .menu__list--transition {
 	> *
 	.menu__text {
 	padding-left: 40px;
->>>>>>> Stashed changes
 }
 
 @media screen and (max-width: 620px) {
