@@ -47,6 +47,10 @@
       flex: 1 1 100%;
       padding: 0;
     }
+    
+    .swiper-slide img {
+      max-height: 300px;
+    }
   }
 
   .image-text-block {
@@ -96,6 +100,8 @@
     height: auto;
     display: block;
     border-radius: 12px;
+    max-height: 400px;
+    object-fit: contain;
   }
   .swiper-button-next,
   .swiper-button-prev {
@@ -105,4 +111,27 @@
     border-radius: 50%;
     width: 2rem;
     height: 2rem;
+  }
+
+  /* Ensure navigation menus stay on top of slider content */
+  .menu__list,
+  .menu__item,
+  .menu__link,
+  nav,
+  .nav,
+  .navbar,
+  .header,
+  .main-nav,
+  .menu-item-has-children > .sub-menu,
+  .dropdown-menu {
+    z-index: 9999 !important;
+  }
+
+  /* Ensure swiper content has lower z-index */
+  .swiper,
+  .swiper-container,
+  .swiper-wrapper,
+  .swiper-slide {
+    z-index: 1;
+    position: relative;
   }

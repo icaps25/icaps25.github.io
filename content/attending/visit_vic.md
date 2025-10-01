@@ -1,17 +1,27 @@
-# Explore Victoria
+# Explore Melbourne & Victoria
 
 
 <!-- ![Melbourne Skyline](https://via.placeholder.com/800x400?text=Melbourne+Skyline) -->
 
 
-{{< discover
-  img="/img/travel/victoria/151363-56.jpg"
+{{< discoverSlider
+  imgs="/img/travel/melbourne/165179-56.jpg,/img/travel/melbourne/170394-19.jpg,/img/travel/melbourne/147757-56.jpg,/img/travel/melbourne/152497-56.jpg,/img/travel/melbourne/167317-19.jpg,/img/travel/melbourne/167318-19.jpg,/img/travel/melbourne/167426-19.jpg" 
   alt="Melbourne Skyline"
   title="Explore Melbourne"
   direction="left"
 >}}
-Discover the vibrant arts scene, renowned coffee culture, and stunning cityscapes that Melbourne has to offer.
-{{< /discover >}}
+Discover laneway cafes, vibrant street art, food culture, shopping arcades like Royal Arcade, and institutions like the National Gallery of Victoria. <a href="https://www.visitmelbourne.com/regions/melbourne">Discover more</a></br></br>
+
+<strong>Local Insights:</strong>
+<ul>
+<li><a href="https://www.broadsheet.com.au/melbourne">What's on in Melbourne?</a></li>
+<li><a href="https://www.broadsheet.com.au/melbourne/search/things-to-do">Things to do</a></li>
+<li><a href="https://www.broadsheet.com.au/melbourne/guides/best-hidden-bars">Best hidden bars (not so secret anymore!)</a></li>
+<li><a href="https://www.broadsheet.com.au/melbourne/directory">Restaurant and cafe directory</a> - Browse by suburbs! The conference venue is located in <a href="https://www.broadsheet.com.au/melbourne/carlton">Carlton</a>, but check out the amazing scene and alternative culture in suburbs like <a href="https://www.broadsheet.com.au/melbourne/fitzroy">Fitzroy</a>, <a href="https://www.broadsheet.com.au/melbourne/collingwood">Collingwood</a>, and <a href="https://www.broadsheet.com.au/melbourne/brunswick">Brunswick</a></li>
+<li>You'll be <a href="https://www.broadsheet.com.au/melbourne/melbourne">spoiled by choice in Melbourne</a></li>
+</ul>
+
+{{< /discoverSlider >}}
 
 {{< discoverSlider
   imgs="/img/travel/victoria/129393-56.jpg,/img/travel/victoria/131720-56.jpg,/img/travel/victoria/154372-56.jpg,/img/travel/victoria/170406-56.jpg,/img/travel/victoria/170407-56.jpg"
@@ -19,88 +29,49 @@ Discover the vibrant arts scene, renowned coffee culture, and stunning cityscape
   title="Explore Great Ocean Road"
   direction="left"
 >}}
-Melbourne is full of culture, art, and incredible food. This reel shows some conference highlights and local landmarks.
+
+One of the world’s most stunning coastal drives — dramatic cliffs, surfing beaches, and the Twelve Apostles.  
+<!-- ![Great Ocean Road](https://via.placeholder.com/600x300?text=Great+Ocean+Road)   -->
+<a href="https://www.visitmelbourne.com/regions/great-ocean-road">Discover more</a>
 {{< /discoverSlider >}}
 
 
-<!-- - **Melbourne Cup Carnival** 
+{{< discoverSlider
+  imgs="/img/travel/victoria/151363-56.jpg,/img/travel/victoria/159099-56.jpg,/img/travel/victoria/170392-19.jpg,/img/travel/victoria/168771-56.jpg"
+  alt="Scenes from Yarra Valley & Dandenong Ranges"
+  title="Explore Yarra Valley & Dandenong Ranges"
+  direction="left"
+>}}
 
-  This iconic horse racing event, known as 'the race that stops the nation,' features top-tier races, fashion, and entertainment. The carnival runs from November 4 to November 11 at Flemington Racecourse in Melbourne. ​
-
-  [Learn more](https://www.visitmelbourne.com/whats-on/november)
-<figure>
-<div style="text-align:center">
-  <img
-  src="/img/venue/event_1.jpg"
-  alt="Melbourne Cup Carnival">
-  <figcaption>Melbourne Connect location.</figcaption>
-</div>
-</figure>
-  <!-- ![Melbourne Cup Carnival](https://via.placeholder.com/600x300?text=Melbourne+Cup+Carnival)   -->
-  
-<!-- 
-- **Sandown 500** 
-
-  Part of the Supercars Championship, the Sandown 500 is a premier motor racing event scheduled from November 14 to November 16 at Sandown Raceway in Springvale, Victoria. ​
-
-  [Learn more](https://www.visitmelbourne.com/whats-on/november)
-  <figure>
-<div style="text-align:center">
-  <img
-  src="/img/venue/event_2.jpg"
-  alt="Sandown 500">
-  <figcaption>Melbourne Connect location.</figcaption>
-</div>
-</figure>
-  <!-- ![Spring Festivals](https://via.placeholder.com/600x300?text=Spring+Festivals)   -->
-  
-<!-- 
-- **Melbourne Theatre Company Performances** 
-
-  The Melbourne Theatre Company will present several productions during this period, including David Williamson's classic 'The Removalists' and the Broadway hit 'Kimberly Akimbo.' These performances offer a rich theatrical experience in the heart of Melbourne.​
-
-   [Learn more](https://www.visitmelbourne.com/whats-on/november)
-  <figure>
-<div style="text-align:center">
-  <img
-  src="/img/venue/event_3.jpg"
-  alt="Melbourne Theatre Company Performances">
-  <figcaption>Melbourne Connect location.</figcaption>
-</div>
-</figure>
-  ![Live Music Melbourne](https://via.placeholder.com/600x300?text=Melbourne+Music+Week)   -->
-  
-
----
-
-# 🏞️ Must-Visit Attractions
-
-## Great Ocean Road  
-One of the world’s most stunning coastal drives — dramatic cliffs, surfing beaches, and the Twelve Apostles.  
-<!-- ![Great Ocean Road](https://via.placeholder.com/600x300?text=Great+Ocean+Road)   -->
-[Discover more](https://www.visitmelbourne.com/regions/great-ocean-road)
-
-## Yarra Valley & Dandenong Ranges  
 Taste fine wines, wander through lush gardens, and ride the historic Puffing Billy steam train under towering trees.  
-<!-- ![Yarra Valley and Dandenong](https://via.placeholder.com/600x300?text=Yarra+Valley+%26+Dandenong)   -->
-[Discover more](https://www.visitmelbourne.com/regions/yarra-valley-and-dandenong-ranges)
+<a href="https://www.visitmelbourne.com/regions/yarra-valley-and-dandenong-ranges">Discover more</a>
+{{< /discoverSlider >}}
 
-## Phillip Island  
-See the adorable Penguin Parade at sunset and explore rugged coastlines, pristine beaches, and wildlife parks.  
-<!-- ![Phillip Island Penguins](https://via.placeholder.com/600x300?text=Phillip+Island+Penguins)   -->
-[Discover more](https://www.visitmelbourne.com/regions/phillip-island)
+{{< discoverSlider
+  imgs="/img/travel/victoria/154577-56.jpg,/img/travel/victoria/154563-56.jpg,/img/travel/victoria/154536-56.jpg"
+  alt="Scenes from Wilsons Promontory"
+  title="Explore Wilsons Promontory"
+  direction="left"
+>}}
 
-## Mornington Peninsula  
-Relax in hot springs, tour award-winning wineries, and hike along spectacular seaside trails.  
-<!-- ![Mornington Peninsula](https://via.placeholder.com/600x300?text=Mornington+Peninsula)   -->
-[Discover more](https://www.visitmelbourne.com/regions/mornington-peninsula)
+Fondly known as ‘The Prom’, Wilsons Promontory is one of Victoria’s best loved national parks.
 
-## Melbourne City Centre  
-Discover laneway cafes, vibrant street art, shopping arcades like Royal Arcade, and institutions like the National Gallery of Victoria.  
-<!-- ![Melbourne Laneways](https://via.placeholder.com/600x300?text=Melbourne+Laneways)   -->
-[Discover more](https://www.visitmelbourne.com/regions/melbourne)
+Situated at the southernmost tip of mainland Australia, you will find spectacular scenery of granite mountains, native forests, rainforest, sweeping beaches and coastlines. <a href="https://www.visitvictoria.com/regions/gippsland/see-and-do/nature-and-wildlife/national-parks-and-reserves/wilsons-promontory-national-park">Discover more</a>
+{{< /discoverSlider >}}
 
----
+{{< discoverSlider
+  imgs="/img/travel/victoria/164959-56.jpg,/img/travel/victoria/172850-19.jpg,/img/travel/victoria/131857-56.jpg"
+  alt="Scenes from Other Attractions"
+  title="Other Must-Visit Attractions"
+  direction="left"
+>}}
 
-For full event and travel guides:  
-👉 [Visit Melbourne's Official Site](https://www.visitmelbourne.com/)
+See the adorable Penguin Parade at sunset and explore rugged coastlines of Phillip Island. </br></br>
+
+Relax in hot springs, tour award-winning wineries, and hike along spectacular seaside trails of the Mornington Peninsula. </br></br>
+
+
+For full event and travel guides: <a href="https://www.visitmelbourne.com/">Visit Melbourne's Official Site</a>
+{{< /discoverSlider >}}
+
+
