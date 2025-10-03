@@ -243,7 +243,7 @@ draft: false
 <div class="parallel-session">
 
 **Room 1 (80 capacity)**  
-[LM4Plan](/program/workshops/lm4plan) - Large Models for Planning
+[LM4Plan](/program/workshops/lm4plan) - Planning in the Era of LLMs
 
 </div>
 <div class="parallel-session">
@@ -292,7 +292,7 @@ draft: false
 <div class="parallel-session">
 
 **Room 1 (80 capacity)**  
-[LM4Plan](/program/workshops/lm4plan) - Large Models for Planning
+[LM4Plan](/program/workshops/lm4plan) - Planning in the Era of LLMs
 
 </div>
 <div class="parallel-session">
@@ -341,7 +341,7 @@ draft: false
 <div class="parallel-session">
 
 **Room 1 (80 capacity)**  
-[LM4Plan](/program/workshops/lm4plan) - Large Models for Planning
+[LM4Plan](/program/workshops/lm4plan) - Planning in the Era of LLMs
 
 </div>
 <div class="parallel-session">
@@ -378,7 +378,7 @@ draft: false
 <div class="parallel-session">
 
 **Room 1 (80 capacity)**  
-[LM4Plan](/program/workshops/lm4plan) - Large Models for Planning
+[LM4Plan](/program/workshops/lm4plan) - Planning in the Era of LLMs
 
 </div>
 <div class="parallel-session">
