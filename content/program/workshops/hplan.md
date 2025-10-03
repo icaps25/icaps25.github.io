@@ -55,13 +55,24 @@ We encourage the submission of papers that, at the time of submission, are under
 
 Once the final versions of all papers have been submitted, and once our invited speaker is confirmed, we will also make a proceedings available.
 
-<script src="https://bibbase.org/show?bib=https://icaps25.icaps-conference.org/bib/hplan2025.bib&theme=default&fullnames=1&jsonp=1&hidemenu=1"></script>
+#### Accepted at HPlan and included in proceedings
 
+<script src="https://bibbase.org/show?bib=https://icaps25.icaps-conference.org/bib/hplan2025.bib&theme=default&fullnames=1&jsonp=1&hidemenu=1&filter=key:^(?!Pantuckova2025TOHTNPlanning$).*$"></script>
 
-<!-- Just for testing before the bibtex was put online.
-<script src="https://bibbase.org/show?bib=https://bercher.net/bibtex/hplan.bib&theme=default&fullnames=1&jsonp=1&hidemenu=1"></script>
--->
-<br/>
+<br>
+
+#### Accepted at HPlan and another venue
+
+The following publication is excluded from the proceedings to prevent copyright issues. We will provide a link instead.
+<script src="https://bibbase.org/show?bib=https://icaps25.icaps-conference.org/bib/hplan2025.bib&theme=default&fullnames=1&jsonp=1&hidemenu=1&filter=key:Pantuckova2025TOHTNPlanning"></script>
+
+<br>
+
+#### Presentations of papers from other venues
+
+The following previously published papers are presented in the program but were not submitted to HPlan. (See "Policy on Previously Published Material", where we offer to give you a forum to present work that was accepted at another venue already.)
+
+<script src="https://bibbase.org/show?bib=https://icaps25.icaps-conference.org/bib/hplan2025.bib&theme=default&fullnames=1&jsonp=1&hidemenu=1&filter=key:Hoeller2025LearningHTNHeuristics"></script>
 
 ## Workshop Committee
 
