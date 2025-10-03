@@ -1,5 +1,6 @@
 {{ $file := .Get 0 }}
-{{ $data := getJSON $file }}
+{{ $fileContent := os.ReadFile (strings.TrimPrefix "/" $file) }}
+{{ $data := transform.Unmarshal $fileContent }}
 
 <style>
     .paper-row {
@@ -25,6 +26,17 @@
         vertical-align: middle;
         border: solid orange;
         border-radius: 3%;
+    }
+
+    .paper-title-link {
+        color: #007cba !important;
+        text-decoration: none !important;
+        transition: color 0.2s ease;
+    }
+
+    .paper-title-link:hover {
+        color: #ff6600 !important;
+        text-decoration: underline !important;
     }
 
     .shortcut {
@@ -178,7 +190,13 @@
         </div>
 
         <div class="paper">
-            <div><strong>{{ print $paper.title }}</strong></div>
+            <div>
+                {{ if $paper.proceedings_url }}
+                    <strong><a href="{{ $paper.proceedings_url }}" target="_blank" class="paper-title-link">{{ print $paper.title }} <span style="font-size: 0.8em;">🔗</span></a></strong>
+                {{ else }}
+                    <strong>{{ print $paper.title }}</strong>
+                {{ end }}
+            </div>
             <div style="padding: 1%">{{ range $i, $author := $paper.authors }}{{ if $i }}, {{ end }}{{ $author }}{{ end }}</div>
             
             {{ if $paper.keywords }}

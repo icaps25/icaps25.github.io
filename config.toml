@@ -94,24 +94,18 @@ languageCode = 'en_AU'
     url = "/attending/visa"
     parent = "attending"
     weight = 10
-#  [[menu.main]]
-#    identifier = "visit_vic"
-#    name = "Discover Victoria"
-#    url = "/attending/visit_vic"
-#    parent = "attending"
-#    weight = 51
-#  [[menu.main]]
-#    identifier = "visit_melbourne"
-#    name = "Discover Melbourne"
-#    url = "/attending/visit_melbourne"
-#    parent = "attending"
-#    weight = 50
-#  [[menu.main]]
-#    identifier = "travel"
-#    name = "Travel Information"
-#    url = "/attending/travel"
-#    parent = "attending"
-#    weight = 20
+[[menu.main]]
+  identifier = "visit_vic"
+  name = "Discover Melbourne & Victoria"
+  url = "/attending/visit_vic"
+  parent = "attending"
+  weight = 51
+#[[menu.main]]
+#  identifier = "travel"
+#  name = "Travel Information"
+#  url = "/attending/travel"
+#  parent = "attending"
+#  weight = 20
   [[menu.main]]
     identifier = "registration"
     name = "Registration"
@@ -242,12 +236,12 @@ languageCode = 'en_AU'
   url = "/program/overview"
   parent = "program"
   weight = 10
-# [[menu.main]]
-#   identifier = "schedule"
-#   name = "Schedule"
-#   url = "/program/schedule"
-#   parent = "program"
-#   weight = 13
+[[menu.main]]
+  identifier = "schedule"
+  name = "Schedule"
+  url = "/program/schedule"
+  parent = "program"
+  weight = 13
 [[menu.main]]
   identifier = "accepted-papers"
   name = "Accepted Papers"

@@ -1,1452 +1,1508 @@
 {
-    "tracks": [
+  "tracks": [
+    {
+      "number": 1,
+      "name": "Applications",
+      "papers": [
         {
-            "number": 1,
-            "name": "Applications",
-            "papers": [
-                {
-                    "id": "yIqUtW3qq9",
-                    "number": 194,
-                    "url": "https://openreview.net/forum?id=yIqUtW3qq9",
-                    "title": "Revisiting LLMs in Planning from Literature Review: a Semi-Automated Analysis Approach and  Evolving Categories Representing  Shifting Perspectives",
-                    "long": false,
-                    "authors": [
-                        "Vishal Pallagani",
-                        "Nitin Gupta",
-                        "Bharath Chandra Muppasani",
-                        "Biplav Srivastava"
-                    ],
-                    "type_of_contribution": [
-                        "Position Paper"
-                    ],
-                    "topic": [
-                        "Applications"
-                    ],
-                    "keywords": [
-                        "PS: Applications"
-                    ],
-                    "tldr": "A position paper capturing the category and thematic drifts for LLMs in Planning from the last foundational survey done by Pallagani et al (2024) and providing an automated tool for literature evolution and organization.",
-                    "pdf": "https://openreview.net/pdf/7afa30c1bd6a618db245159f5f11cea5f01cbab9.pdf",
-                    "bibtex": "@inproceedings{\npallagani2025revisiting,\ntitle={Revisiting {LLM}s in Planning from Literature Review: a Semi-Automated Analysis Approach and  Evolving Categories Representing  Shifting Perspectives},\nauthor={Vishal Pallagani and Nitin Gupta and Bharath Chandra Muppasani and Biplav Srivastava},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=yIqUtW3qq9}\n}"
-                },
-                {
-                    "id": "gd615M6alZ",
-                    "number": 63,
-                    "url": "https://openreview.net/forum?id=gd615M6alZ",
-                    "title": "Rack Position Optimization in Large-Scale Heterogeneous Data Centers",
-                    "long": true,
-                    "authors": [
-                        "Chang-Lin Chen",
-                        "Jiayu Chen",
-                        "Tian Lan",
-                        "Zhaoxia Zhao",
-                        "Hongbo Dong",
-                        "Vaneet Aggarwal"
-                    ],
-                    "type_of_contribution": [
-                        "Models and Representations"
-                    ],
-                    "topic": [
-                        "Machine Learning",
-                        "Applications"
-                    ],
-                    "keywords": [
-                        "PS: Applications",
-                        "PS: Learning for planning and scheduling"
-                    ],
-                    "pdf": "https://openreview.net/pdf/51b7dc2b3c5e0c25e0dcf90506fb5e801d11709b.pdf",
-                    "bibtex": "@inproceedings{\nchen2025rack,\ntitle={Rack Position Optimization in Large-Scale Heterogeneous Data Centers},\nauthor={Chang-Lin Chen and Jiayu Chen and Tian Lan and Zhaoxia Zhao and Hongbo Dong and Vaneet Aggarwal},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=gd615M6alZ}\n}"
-                },
-                {
-                    "id": "fEoLEqSr4o",
-                    "number": 173,
-                    "url": "https://openreview.net/forum?id=fEoLEqSr4o",
-                    "title": "A Flow Based Planning Method for Multi-Agent Progression with Deployable Agents and Communication Constraints",
-                    "long": true,
-                    "authors": [
-                        "Emile Siboulet",
-                        "Roland Godet",
-                        "Arthur Bit-Monnot",
-                        "Marc-Emmanuel Coupvent des Graviers",
-                        "Christophe GUETTIER",
-                        "Simon Lacroix"
-                    ],
-                    "type_of_contribution": [
-                        "Models and Representations"
-                    ],
-                    "topic": [
-                        "Applications"
-                    ],
-                    "keywords": [
-                        "PS: SAT, SMT and CP",
-                        "PS: Routing",
-                        "PS: Temporal planning",
-                        "PS: Applications",
-                        "PS: Optimization of spatio-temporal systems"
-                    ],
-                    "pdf": "https://openreview.net/pdf/36b72e9755ab5faf1c5d9323529ca3bae25e6fb7.pdf",
-                    "bibtex": "@inproceedings{\nsiboulet2025a,\ntitle={A Flow Based Planning Method for Multi-Agent Progression with Deployable Agents and Communication Constraints},\nauthor={Emile Siboulet and Roland Godet and Arthur Bit-Monnot and Marc-Emmanuel Coupvent des Graviers and Christophe GUETTIER and Simon Lacroix},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=fEoLEqSr4o}\n}"
-                },
-                {
-                    "id": "dO2VlYpTrv",
-                    "number": 60,
-                    "url": "https://openreview.net/forum?id=dO2VlYpTrv",
-                    "title": "Posthoc: The Visualisation Platform for Search",
-                    "long": true,
-                    "authors": [
-                        "Kevin Zheng",
-                        "Daniel Harabor",
-                        "Michael Wybrow"
-                    ],
-                    "type_of_contribution": [
-                        "Tools"
-                    ],
-                    "topic": [
-                        "Applications"
-                    ],
-                    "keywords": [
-                        "PS: Applications"
-                    ],
-                    "pdf": "https://openreview.net/pdf/bc34c2cc878c7a0710bef0cebd6a44258a0c067d.pdf",
-                    "bibtex": "@inproceedings{\nzheng2025posthoc,\ntitle={Posthoc: The Visualisation Platform for Search},\nauthor={Kevin Zheng and Daniel Harabor and Michael Wybrow},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=dO2VlYpTrv}\n}"
-                },
-                {
-                    "id": "UxQbDkjnyp",
-                    "number": 180,
-                    "url": "https://openreview.net/forum?id=UxQbDkjnyp",
-                    "title": "Analyzing Launch Operations using the Spaceport Throughput Analysis Resource (STAR)",
-                    "long": true,
-                    "authors": [
-                        "Jeremy Frank",
-                        "Richard Levinson",
-                        "Vijayakumar Baskaran",
-                        "Jeffrey S Brink"
-                    ],
-                    "type_of_contribution": [
-                        "Tools"
-                    ],
-                    "topic": [
-                        "Applications"
-                    ],
-                    "keywords": [
-                        "PS: Applications",
-                        "PS: Scheduling",
-                        "PS: SAT, SMT and CP"
-                    ],
-                    "tldr": "A application that integrates simulation and limited rescheduling, using a constraint programming model to check constraints and reschedule events.",
-                    "pdf": "https://openreview.net/pdf/6c168ab25a5dfd9de43f7b7165963d38cc6c9d65.pdf",
-                    "bibtex": "@inproceedings{\nfrank2025analyzing,\ntitle={Analyzing Launch Operations using the Spaceport Throughput Analysis Resource ({STAR})},\nauthor={Jeremy Frank and Richard Levinson and Vijayakumar Baskaran and Jeffrey S Brink},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=UxQbDkjnyp}\n}"
-                },
-                {
-                    "id": "P8mmHYfmqu",
-                    "number": 49,
-                    "url": "https://openreview.net/forum?id=P8mmHYfmqu",
-                    "title": "DynTaskMAS: A Dynamic Task Graph-driven Framework for Asynchronous and Parallel LLM-based Multi-Agent Systems",
-                    "long": true,
-                    "authors": [
-                        "Junwei Yu",
-                        "Yepeng Ding",
-                        "Hiroyuki Sato"
-                    ],
-                    "type_of_contribution": [
-                        "Algorithms",
-                        "Tools"
-                    ],
-                    "topic": [
-                        "Applications"
-                    ],
-                    "keywords": [
-                        "PS: Planning with large language models",
-                        "PS: Distributed and multi-agent planning",
-                        "PS: Plan execution and monitoring",
-                        "PS: Scheduling"
-                    ],
-                    "tldr": "DynTaskMAS introduces a framework that enables asynchronous and parallel operations in LLM-based multi-agent systems through dynamic task graphs, improving efficiency while maintaining coherence in complex tasks.",
-                    "pdf": "https://openreview.net/pdf/f203d9a5d02bfaad86a3b32f8e5e1f983d176bfd.pdf",
-                    "bibtex": "@inproceedings{\nyu2025dyntaskmas,\ntitle={DynTask{MAS}: A Dynamic Task Graph-driven Framework for Asynchronous and Parallel {LLM}-based Multi-Agent Systems},\nauthor={Junwei Yu and Yepeng Ding and Hiroyuki Sato},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=P8mmHYfmqu}\n}"
-                },
-                {
-                    "id": "7qrfgtLcNb",
-                    "number": 178,
-                    "url": "https://openreview.net/forum?id=7qrfgtLcNb",
-                    "title": "HDDLGym: A Tool for Studying Multi-Agent Hierarchical Problems Defined in HDDL with OpenAI Gym",
-                    "long": true,
-                    "authors": [
-                        "Ngoc La",
-                        "Ruaridh Mon-Williams",
-                        "Julie Shah"
-                    ],
-                    "type_of_contribution": [
-                        "Tools"
-                    ],
-                    "topic": [
-                        "Machine Learning",
-                        "Applications"
-                    ],
-                    "keywords": [
-                        "PS: Planning with Hierarchical Task Networks (HTN)",
-                        "PS: Planning with Markov decision process models (MDPs, POMDPs)",
-                        "PS: Multi-agent path-finding"
-                    ],
-                    "tldr": "This paper presents the design, implementation, and demonstration of HDDLgym, a Python tool that integrates HDDL and Gym to support research on reinforcement learning in hierarchical planning, with an emphasis on multi-agent environments.",
-                    "pdf": "https://openreview.net/pdf/3148a7f11ca0f739dcb7e17bc14108245f226aed.pdf",
-                    "bibtex": "@inproceedings{\nla2025hddlgym,\ntitle={{HDDLG}ym: A Tool for Studying Multi-Agent Hierarchical Problems Defined in {HDDL} with Open{AI} Gym},\nauthor={Ngoc La and Ruaridh Mon-Williams and Julie Shah},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=7qrfgtLcNb}\n}"
-                }
-            ]
+          "id": "yIqUtW3qq9",
+          "number": 194,
+          "url": "https://openreview.net/forum?id=yIqUtW3qq9",
+          "title": "Revisiting LLMs in Planning from Literature Review: a Semi-Automated Analysis Approach and  Evolving Categories Representing  Shifting Perspectives",
+          "long": false,
+          "authors": [
+            "Vishal Pallagani",
+            "Nitin Gupta",
+            "Bharath Chandra Muppasani",
+            "Biplav Srivastava"
+          ],
+          "type_of_contribution": [
+            "Position Paper"
+          ],
+          "topic": [
+            "Applications"
+          ],
+          "keywords": [
+            "PS: Applications"
+          ],
+          "tldr": "A position paper capturing the category and thematic drifts for LLMs in Planning from the last foundational survey done by Pallagani et al (2024) and providing an automated tool for literature evolution and organization.",
+          "pdf": "https://openreview.net/pdf/7afa30c1bd6a618db245159f5f11cea5f01cbab9.pdf",
+          "bibtex": "@inproceedings{\npallagani2025revisiting,\ntitle={Revisiting {LLM}s in Planning from Literature Review: a Semi-Automated Analysis Approach and  Evolving Categories Representing  Shifting Perspectives},\nauthor={Vishal Pallagani and Nitin Gupta and Bharath Chandra Muppasani and Biplav Srivastava},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=yIqUtW3qq9}\n}",
+          "proceedings_url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36141"
         },
         {
-            "number": 2,
-            "name": "Robotics and Control Theory",
-            "papers": [
-                {
-                    "id": "zR4CmmnPDX",
-                    "number": 192,
-                    "url": "https://openreview.net/forum?id=zR4CmmnPDX",
-                    "title": "A* for Bounding Shortest Paths in the Graphs of Convex Sets",
-                    "long": true,
-                    "authors": [
-                        "Kaarthik Sundar",
-                        "Sivakumar Rathinam"
-                    ],
-                    "type_of_contribution": [
-                        "Algorithms"
-                    ],
-                    "topic": [
-                        "Robotics and Control Theory"
-                    ],
-                    "keywords": [
-                        "PS: Mixed discrete/continuous planning",
-                        "ROB: Motion and path planning"
-                    ],
-                    "tldr": "We present an A*-inspired method to find bounds for the shortest path problem in a graph composed of convex sets. The proposed method outperforms the existing approach, which relies on solving a convex program on the entire graph.",
-                    "pdf": "https://openreview.net/pdf/b9c78200767673baca763971b04fcfa78b2782c8.pdf",
-                    "bibtex": "@inproceedings{\nsundar2025a,\ntitle={A* for Bounding Shortest Paths in the Graphs of Convex Sets},\nauthor={Kaarthik Sundar and Sivakumar Rathinam},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=zR4CmmnPDX}\n}"
-                },
-                {
-                    "id": "f2QLOK1XYQ",
-                    "number": 153,
-                    "url": "https://openreview.net/forum?id=f2QLOK1XYQ",
-                    "title": "Safe Interval Randomized Path Planinng For Manipulators",
-                    "long": false,
-                    "authors": [
-                        "Nuraddin Kerimov",
-                        "Aleksandr Onegin",
-                        "Konstantin Yakovlev"
-                    ],
-                    "type_of_contribution": [
-                        "Algorithms"
-                    ],
-                    "topic": [
-                        "Robotics and Control Theory"
-                    ],
-                    "keywords": [
-                        "PS: Search in planning and scheduling",
-                        "ROB: Motion and path planning"
-                    ],
-                    "tldr": "We suggest an efficent combination of safe-interval path planning and rapidly-exploring random trees  for high-dimensional planning.",
-                    "pdf": "https://openreview.net/pdf/eea6d248a31531cfd4b03c0c8e55bc77bf109403.pdf",
-                    "bibtex": "@inproceedings{\nkerimov2025safe,\ntitle={Safe Interval Randomized Path Planinng For Manipulators},\nauthor={Nuraddin Kerimov and Aleksandr Onegin and Konstantin Yakovlev},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=f2QLOK1XYQ}\n}"
-                }
-            ]
+          "id": "gd615M6alZ",
+          "number": 63,
+          "url": "https://openreview.net/forum?id=gd615M6alZ",
+          "title": "Rack Position Optimization in Large-Scale Heterogeneous Data Centers",
+          "long": true,
+          "authors": [
+            "Chang-Lin Chen",
+            "Jiayu Chen",
+            "Tian Lan",
+            "Zhaoxia Zhao",
+            "Hongbo Dong",
+            "Vaneet Aggarwal"
+          ],
+          "type_of_contribution": [
+            "Models and Representations"
+          ],
+          "topic": [
+            "Machine Learning",
+            "Applications"
+          ],
+          "keywords": [
+            "PS: Applications",
+            "PS: Learning for planning and scheduling"
+          ],
+          "pdf": "https://openreview.net/pdf/51b7dc2b3c5e0c25e0dcf90506fb5e801d11709b.pdf",
+          "bibtex": "@inproceedings{\nchen2025rack,\ntitle={Rack Position Optimization in Large-Scale Heterogeneous Data Centers},\nauthor={Chang-Lin Chen and Jiayu Chen and Tian Lan and Zhaoxia Zhao and Hongbo Dong and Vaneet Aggarwal},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=gd615M6alZ}\n}",
+          "proceedings_url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36133"
         },
         {
-            "number": 3,
-            "name": "Abstract Models",
-            "papers": [
-                {
-                    "id": "yCS0swF5xk",
-                    "number": 124,
-                    "url": "https://openreview.net/forum?id=yCS0swF5xk",
-                    "title": "New Exact Methods for Solving Quadratic Traveling Salesman Problem",
-                    "long": true,
-                    "authors": [
-                        "Yuxiao Chen",
-                        "Anubhav Singh",
-                        "Ryo Kuroiwa",
-                        "Chris Beck"
-                    ],
-                    "type_of_contribution": [
-                        "Models and Representations"
-                    ],
-                    "topic": [
-                        "Abstract Models"
-                    ],
-                    "keywords": [
-                        "PS: Routing",
-                        "PS: Mathematical programming",
-                        "PS: Search in planning and scheduling"
-                    ],
-                    "pdf": "https://openreview.net/pdf/496a82a0274599108ce6e89741df19fdb14c5500.pdf",
-                    "bibtex": "@inproceedings{\nchen2025new,\ntitle={New Exact Methods for Solving Quadratic Traveling Salesman Problem},\nauthor={Yuxiao Chen and Anubhav Singh and Ryo Kuroiwa and Chris Beck},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=yCS0swF5xk}\n}"
-                },
-                {
-                    "id": "qVvw2ot7Nn",
-                    "number": 253,
-                    "url": "https://openreview.net/forum?id=qVvw2ot7Nn",
-                    "title": "How Good is Perfect? On the Incompleteness of A* for Total-Order HTN Planning",
-                    "long": true,
-                    "authors": [
-                        "Mohammad Yousefi",
-                        "Mario Schmautz",
-                        "Patrik Haslum",
-                        "Pascal Tobias Bercher"
-                    ],
-                    "type_of_contribution": [
-                        "Theory"
-                    ],
-                    "topic": [
-                        "Abstract Models"
-                    ],
-                    "keywords": [
-                        "PS: Planning with Hierarchical Task Networks (HTN)",
-                        "PS: Search in planning and scheduling"
-                    ],
-                    "pdf": "https://openreview.net/pdf/101975a5f5f3a9d0ccbcf5b3056e972b1f474ef3.pdf",
-                    "bibtex": "@inproceedings{\nyousefi2025how,\ntitle={How Good is Perfect? On the Incompleteness of A* for Total-Order {HTN} Planning},\nauthor={Mohammad Yousefi and Mario Schmautz and Patrik Haslum and Pascal Tobias Bercher},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=qVvw2ot7Nn}\n}"
-                },
-                {
-                    "id": "qTXrS8LT6K",
-                    "number": 167,
-                    "url": "https://openreview.net/forum?id=qTXrS8LT6K",
-                    "title": "A Formalism for Optimal Search with Dynamic Heuristics",
-                    "long": true,
-                    "authors": [
-                        "Remo Christen",
-                        "Florian Pommerening",
-                        "Clemens B\u00fcchner",
-                        "Malte Helmert"
-                    ],
-                    "type_of_contribution": [
-                        "Theory"
-                    ],
-                    "topic": [
-                        "Abstract Models"
-                    ],
-                    "keywords": [
-                        "PS: Classical (fully-observable, deterministic) planning",
-                        "PS: Search in planning and scheduling",
-                        "PS: Theoretical foundations of planning"
-                    ],
-                    "tldr": "Defines a formal framework to reason about the optimality of search using heuristics that are refined as the search progresses.",
-                    "pdf": "https://openreview.net/pdf/be51945002b20342a606fcf41a0564a0e294f56d.pdf",
-                    "bibtex": "@inproceedings{\nchristen2025a,\ntitle={A Formalism for Optimal Search with Dynamic Heuristics},\nauthor={Remo Christen and Florian Pommerening and Clemens B{\\\"u}chner and Malte Helmert},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=qTXrS8LT6K}\n}"
-                },
-                {
-                    "id": "pxQxMgRFyO",
-                    "number": 39,
-                    "url": "https://openreview.net/forum?id=pxQxMgRFyO",
-                    "title": "Pseudo-Boolean Proof Logging for Optimal Classical Planning",
-                    "long": true,
-                    "authors": [
-                        "Simon Dold",
-                        "Malte Helmert",
-                        "Jakob Nordstr\u00f6m",
-                        "Gabriele R\u00f6ger",
-                        "Tanja Schindler"
-                    ],
-                    "type_of_contribution": [
-                        "Theory"
-                    ],
-                    "topic": [
-                        "Abstract Models"
-                    ],
-                    "keywords": [
-                        "PS: Classical (fully-observable, deterministic) planning",
-                        "PS: Theoretical foundations of planning"
-                    ],
-                    "tldr": "We introduce certificates to prove bounded unsolvability of planning tasks based on pseudo-Boolean constraints. As a case study we explain how proof logging is possible in A* with h^max/h^pdb.",
-                    "pdf": "https://openreview.net/pdf/3853935ef5b2103ecdca1c9512cccb5031d6a38c.pdf",
-                    "bibtex": "@inproceedings{\ndold2025pseudoboolean,\ntitle={Pseudo-Boolean Proof Logging for Optimal Classical Planning},\nauthor={Simon Dold and Malte Helmert and Jakob Nordstr{\\\"o}m and Gabriele R{\\\"o}ger and Tanja Schindler},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=pxQxMgRFyO}\n}"
-                },
-                {
-                    "id": "kytGi83sfa",
-                    "number": 93,
-                    "url": "https://openreview.net/forum?id=kytGi83sfa",
-                    "title": "Delete-Free Planning with Object Creation is Undecidable",
-                    "long": false,
-                    "authors": [
-                        "Augusto B. Corr\u00eaa"
-                    ],
-                    "type_of_contribution": [
-                        "Theory"
-                    ],
-                    "topic": [
-                        "Abstract Models"
-                    ],
-                    "keywords": [
-                        "PS: Classical (fully-observable, deterministic) planning",
-                        "PS: Theoretical foundations of planning"
-                    ],
-                    "tldr": "We prove that delete-free planning with object creation as action effect is undecidable. We reduce from the problem of checking whether an atom can be reached by the oblivious chase procedure in a Datalog+- program (a.k.a., TGDs).",
-                    "pdf": "https://openreview.net/pdf/bd929ab2d073b9a738b343acd20cd2a4224961de.pdf",
-                    "bibtex": "@inproceedings{\ncorrea2025deletefree,\ntitle={Delete-Free Planning with Object Creation is Undecidable},\nauthor={Augusto B. Corr{\\^e}a},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=kytGi83sfa}\n}"
-                },
-                {
-                    "id": "iloz8S5eRk",
-                    "number": 184,
-                    "url": "https://openreview.net/forum?id=iloz8S5eRk",
-                    "title": "Cost-Optimal FOND Planning as Bi-Objective Best-First Search",
-                    "long": true,
-                    "authors": [
-                        "Diego Aineto",
-                        "Enrico Scala"
-                    ],
-                    "type_of_contribution": [
-                        "Algorithms",
-                        "Models and Representations"
-                    ],
-                    "topic": [
-                        "Abstract Models"
-                    ],
-                    "keywords": [
-                        "PS: Fully observable non-deterministic planning"
-                    ],
-                    "tldr": "We define bi-objective FOND Planning and present a heuristic search algorithm to compute Pareto-optimal policies. We instantiate this with policy-cost metrics to compute cost-optimal solutions in FOND.",
-                    "pdf": "https://openreview.net/pdf/6ec5fbbb72d5e26ac6ceb506aa801a069923342c.pdf",
-                    "bibtex": "@inproceedings{\naineto2025costoptimal,\ntitle={Cost-Optimal {FOND} Planning as Bi-Objective Best-First Search},\nauthor={Diego Aineto and Enrico Scala},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=iloz8S5eRk}\n}"
-                },
-                {
-                    "id": "fQnLuBk8td",
-                    "number": 13,
-                    "url": "https://openreview.net/forum?id=fQnLuBk8td",
-                    "title": "Parallelizing Multi-objective A* Search",
-                    "long": true,
-                    "authors": [
-                        "Saman Ahmadi",
-                        "Nathan R. Sturtevant",
-                        "Andrea Raith",
-                        "Daniel Harabor",
-                        "Mahdi Jalili"
-                    ],
-                    "type_of_contribution": [
-                        "Algorithms"
-                    ],
-                    "topic": [
-                        "Abstract Models"
-                    ],
-                    "keywords": [
-                        "PS: Search in planning and scheduling"
-                    ],
-                    "tldr": "The paper introduces a novel framework that enables efficient parallelization of Multi-Objective A* search.",
-                    "pdf": "https://openreview.net/pdf/0c0090cf05575bc4f026351eb68284590d299f4b.pdf",
-                    "bibtex": "@inproceedings{\nahmadi2025parallelizing,\ntitle={Parallelizing Multi-objective A* Search},\nauthor={Saman Ahmadi and Nathan R. Sturtevant and Andrea Raith and Daniel Harabor and Mahdi Jalili},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=fQnLuBk8td}\n}"
-                },
-                {
-                    "id": "aFoobYtyFO",
-                    "number": 4,
-                    "url": "https://openreview.net/forum?id=aFoobYtyFO",
-                    "title": "Partially Observable Monte-Carlo Graph Search",
-                    "long": true,
-                    "authors": [
-                        "YANG YOU",
-                        "Vincent Thomas",
-                        "Alex Schutz",
-                        "Robert Skilton",
-                        "Nick Hawes",
-                        "Olivier Buffet"
-                    ],
-                    "type_of_contribution": [
-                        "Algorithms"
-                    ],
-                    "topic": [
-                        "Abstract Models"
-                    ],
-                    "keywords": [
-                        "PS: Planning with Markov decision process models (MDPs, POMDPs)",
-                        "PS: Planning under uncertainty",
-                        "PS: Partially observable planning"
-                    ],
-                    "pdf": "https://openreview.net/pdf/02ba7c99164f6747a408c9a349aab4eac0fe3b1d.pdf",
-                    "bibtex": "@inproceedings{\nyou2025partially,\ntitle={Partially Observable Monte-Carlo Graph Search},\nauthor={YANG YOU and Vincent Thomas and Alex Schutz and Robert Skilton and Nick Hawes and Olivier Buffet},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=aFoobYtyFO}\n}"
-                },
-                {
-                    "id": "YnDB9MsXbn",
-                    "number": 147,
-                    "url": "https://openreview.net/forum?id=YnDB9MsXbn",
-                    "title": "Howard's Policy Iteration is Subexponential for Deterministic Markov Decision Problems with Rewards of Fixed Bit-size and Arbitrary Discount Factor",
-                    "long": true,
-                    "authors": [
-                        "Dibyangshu Mukherjee",
-                        "Shivaram Kalyanakrishnan"
-                    ],
-                    "type_of_contribution": [
-                        "Theory"
-                    ],
-                    "topic": [
-                        "Abstract Models"
-                    ],
-                    "keywords": [
-                        "PS: Planning with Markov decision process models (MDPs, POMDPs)",
-                        "PS: Infinite-horizon optimal control problems",
-                        "PS: Theoretical foundations of planning"
-                    ],
-                    "tldr": "We provide a subexponential upper bound on the running time of Howard's Policy Iteration on deterministic Markov Decision Problems, parameterised by the bit-size of the rewards.",
-                    "pdf": "https://openreview.net/pdf/1ebbc6ed4a68763a9c213fbeb1549cb49dc9283c.pdf",
-                    "bibtex": "@inproceedings{\nmukherjee2025howards,\ntitle={Howard's Policy Iteration is Subexponential for Deterministic Markov Decision Problems with Rewards of Fixed Bit-size and Arbitrary Discount Factor},\nauthor={Dibyangshu Mukherjee and Shivaram Kalyanakrishnan},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=YnDB9MsXbn}\n}"
-                },
-                {
-                    "id": "SAyqd9vBnh",
-                    "number": 243,
-                    "url": "https://openreview.net/forum?id=SAyqd9vBnh",
-                    "title": "Strategies to Improve Goal Selection in Satisficing Oversubscription Planning",
-                    "long": false,
-                    "authors": [
-                        "Angel Garcia Olaya",
-                        "Patricia J. Riddle",
-                        "Mike Barley"
-                    ],
-                    "type_of_contribution": [
-                        "Algorithms"
-                    ],
-                    "topic": [
-                        "Abstract Models"
-                    ],
-                    "keywords": [
-                        "PS: Classical (fully-observable, deterministic) planning"
-                    ],
-                    "tldr": "We present two different techniques to improve goal selection in satisficing oversubscription planning. One aims to reduce the number of estimations needed to select the goals. The second one aims to improve the accuracy of those estimations.",
-                    "pdf": "https://openreview.net/pdf/4401689d6ca8f340c17b4d69453a41081672c0cd.pdf",
-                    "bibtex": "@inproceedings{\nolaya2025strategies,\ntitle={Strategies to Improve Goal Selection in Satisficing Oversubscription Planning},\nauthor={Angel Garcia Olaya and Patricia J. Riddle and Mike Barley},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=SAyqd9vBnh}\n}"
-                },
-                {
-                    "id": "R8ipEjZG4Z",
-                    "number": 8,
-                    "url": "https://openreview.net/forum?id=R8ipEjZG4Z",
-                    "title": "Going Topological in Multi-risk Extended Markov Ratio Decision Processes",
-                    "long": true,
-                    "authors": [
-                        "Alexander Zadorojniy",
-                        "Orit Davidovich",
-                        "Takayuki Osogami"
-                    ],
-                    "type_of_contribution": [
-                        "Theory"
-                    ],
-                    "topic": [
-                        "Abstract Models"
-                    ],
-                    "keywords": [
-                        "PS: Planning with Markov decision process models (MDPs, POMDPs)",
-                        "PS: Mathematical programming",
-                        "PS: Theoretical foundations of planning"
-                    ],
-                    "tldr": "We provide a new framework and an algorithm that extends single-risk Extended Markov Ratio Decision Processes (EMRDPs) to the multi-risk setting. We show that the algorithm is strongly polynomial under a monotonicity assumption.",
-                    "pdf": "https://openreview.net/pdf/b177015e77d26b747f4d8ddf76f986c78cc19a43.pdf",
-                    "bibtex": "@inproceedings{\nzadorojniy2025going,\ntitle={Going Topological in Multi-risk Extended Markov Ratio Decision Processes},\nauthor={Alexander Zadorojniy and Orit Davidovich and Takayuki Osogami},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=R8ipEjZG4Z}\n}"
-                },
-                {
-                    "id": "PzU8R7wvVq",
-                    "number": 174,
-                    "url": "https://openreview.net/forum?id=PzU8R7wvVq",
-                    "title": "On Using Lazy Greedy Best-First Search with Subgoaling Relaxation in Numeric Planning Problems",
-                    "long": false,
-                    "authors": [
-                        "Enrico Scala",
-                        "Luigi Bonassi"
-                    ],
-                    "type_of_contribution": [
-                        "Algorithms"
-                    ],
-                    "topic": [
-                        "Abstract Models"
-                    ],
-                    "keywords": [
-                        "PS: Mixed discrete/continuous planning"
-                    ],
-                    "pdf": "https://openreview.net/pdf/c247becc4e265b2956c03050fbf956448dfde422.pdf",
-                    "bibtex": "@inproceedings{\nscala2025on,\ntitle={On Using Lazy Greedy Best-First Search with Subgoaling Relaxation in Numeric Planning Problems},\nauthor={Enrico Scala and Luigi Bonassi},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=PzU8R7wvVq}\n}"
-                },
-                {
-                    "id": "PubXu0TCnE",
-                    "number": 99,
-                    "url": "https://openreview.net/forum?id=PubXu0TCnE",
-                    "title": "On Generating Robust Plans and Linear Execution Strategies in Planning Against Nature",
-                    "long": true,
-                    "authors": [
-                        "Lukas Chrpa",
-                        "Erez Karpas"
-                    ],
-                    "type_of_contribution": [
-                        "Algorithms"
-                    ],
-                    "topic": [
-                        "Abstract Models"
-                    ],
-                    "keywords": [
-                        "PS: Planning under uncertainty",
-                        "PS: Search in planning and scheduling"
-                    ],
-                    "tldr": "We propose a method that generates linear execution strategies that are guaranteed to achieve the goal despite occurrence exogenous events",
-                    "pdf": "https://openreview.net/pdf/7b7cf7e813142231a18ad774b09ca069fd1bc32f.pdf",
-                    "bibtex": "@inproceedings{\nchrpa2025on,\ntitle={On Generating Robust Plans and Linear Execution Strategies in Planning Against Nature},\nauthor={Lukas Chrpa and Erez Karpas},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=PubXu0TCnE}\n}"
-                },
-                {
-                    "id": "Onjy5CUs4X",
-                    "number": 87,
-                    "url": "https://openreview.net/forum?id=Onjy5CUs4X",
-                    "title": "Automating the Generation of Prompts for LLM-based Action Choice in PDDL Planning",
-                    "long": true,
-                    "authors": [
-                        "Katharina Stein",
-                        "Daniel Fi\u0161er",
-                        "J\u00f6rg Hoffmann",
-                        "Alexander Koller"
-                    ],
-                    "type_of_contribution": [
-                        "Algorithms"
-                    ],
-                    "topic": [
-                        "Abstract Models",
-                        "Machine Learning"
-                    ],
-                    "keywords": [
-                        "PS: Planning with large language models"
-                    ],
-                    "pdf": "https://openreview.net/pdf/39162c9902a2367abe93b34118dd50ad53c60eee.pdf",
-                    "bibtex": "@inproceedings{\nstein2025automating,\ntitle={Automating the Generation of Prompts for {LLM}-based Action Choice in {PDDL} Planning},\nauthor={Katharina Stein and Daniel Fi{\\v{s}}er and J{\\\"o}rg Hoffmann and Alexander Koller},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=Onjy5CUs4X}\n}"
-                },
-                {
-                    "id": "MQmQaZBZf7",
-                    "number": 59,
-                    "url": "https://openreview.net/forum?id=MQmQaZBZf7",
-                    "title": "On Picking Good Policies: Leveraging Action-Policy Testing in Policy Training",
-                    "long": false,
-                    "authors": [
-                        "Jan Eisenhut",
-                        "Daniel Fi\u0161er",
-                        "Isabel Valera",
-                        "J\u00f6rg Hoffmann"
-                    ],
-                    "type_of_contribution": [
-                        "Algorithms"
-                    ],
-                    "topic": [
-                        "Abstract Models",
-                        "Machine Learning"
-                    ],
-                    "keywords": [
-                        "PS: Learning for planning and scheduling",
-                        "PS: Classical (fully-observable, deterministic) planning"
-                    ],
-                    "pdf": "https://openreview.net/pdf/cd610afe88e3cd9498619ee572f5a758d4ee85cf.pdf",
-                    "bibtex": "@inproceedings{\neisenhut2025on,\ntitle={On Picking Good Policies: Leveraging Action-Policy Testing in Policy Training},\nauthor={Jan Eisenhut and Daniel Fi{\\v{s}}er and Isabel Valera and J{\\\"o}rg Hoffmann},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=MQmQaZBZf7}\n}"
-                },
-                {
-                    "id": "LZjA4rFCrd",
-                    "number": 170,
-                    "url": "https://openreview.net/forum?id=LZjA4rFCrd",
-                    "title": "Platform-Aware Mission Planning",
-                    "long": true,
-                    "authors": [
-                        "Stefan Panjkovic",
-                        "Alessandro Cimatti",
-                        "Andrea Micheli",
-                        "Stefano Tonetta"
-                    ],
-                    "type_of_contribution": [
-                        "Theory",
-                        "Algorithms",
-                        "Models and Representations"
-                    ],
-                    "topic": [
-                        "Abstract Models"
-                    ],
-                    "keywords": [
-                        "PS: Temporal planning",
-                        "PS: SAT, SMT and CP",
-                        "PS: Plan execution and monitoring",
-                        "PS: Model checking for trust, safety and robustness"
-                    ],
-                    "pdf": "https://openreview.net/pdf/c3682bce677d1675f090c4abe3a2799f2e7cc51c.pdf",
-                    "bibtex": "@inproceedings{\npanjkovic2025platformaware,\ntitle={Platform-Aware Mission Planning},\nauthor={Stefan Panjkovic and Alessandro Cimatti and Andrea Micheli and Stefano Tonetta},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=LZjA4rFCrd}\n}"
-                },
-                {
-                    "id": "LZgGskBGM3",
-                    "number": 17,
-                    "url": "https://openreview.net/forum?id=LZgGskBGM3",
-                    "title": "Potential Heuristics: Weakening Consistency Constraints",
-                    "long": false,
-                    "authors": [
-                        "Pascal Lauer",
-                        "Daniel Fi\u0161er"
-                    ],
-                    "type_of_contribution": [
-                        "Algorithms"
-                    ],
-                    "topic": [
-                        "Abstract Models"
-                    ],
-                    "keywords": [
-                        "PS: Classical (fully-observable, deterministic) planning"
-                    ],
-                    "tldr": "We propose a new type of consistency constraint for inference of potential heuristics that widens the range of possible potential heuristics.",
-                    "pdf": "https://openreview.net/pdf/eb25e0ac52885821eea3f4921b5a44105ef3db8f.pdf",
-                    "bibtex": "@inproceedings{\nlauer2025potential,\ntitle={Potential Heuristics: Weakening Consistency Constraints},\nauthor={Pascal Lauer and Daniel Fi{\\v{s}}er},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=LZgGskBGM3}\n}"
-                },
-                {
-                    "id": "KxxxyuOFg2",
-                    "number": 117,
-                    "url": "https://openreview.net/forum?id=KxxxyuOFg2",
-                    "title": "Observation Adaptation via Annealed Importance Resampling for Partially Observable Markov Decision Processes",
-                    "long": true,
-                    "authors": [
-                        "Yunuo Zhang",
-                        "Baiting Luo",
-                        "Ayan Mukhopadhyay",
-                        "Abhishek Dubey"
-                    ],
-                    "type_of_contribution": [
-                        "Algorithms"
-                    ],
-                    "topic": [
-                        "Abstract Models"
-                    ],
-                    "keywords": [
-                        "PS: Planning under uncertainty",
-                        "PS: Planning with Markov decision process models (MDPs, POMDPs)",
-                        "PS: Partially observable planning"
-                    ],
-                    "tldr": "We propose a novel algorithmic approach for online planning in POMDPs under noisy observations",
-                    "pdf": "https://openreview.net/pdf/1be76417e7ae123360e02f757c28548bf185da69.pdf",
-                    "bibtex": "@inproceedings{\nzhang2025observation,\ntitle={Observation Adaptation via Annealed Importance Resampling for Partially Observable Markov Decision Processes},\nauthor={Yunuo Zhang and Baiting Luo and Ayan Mukhopadhyay and Abhishek Dubey},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=KxxxyuOFg2}\n}"
-                },
-                {
-                    "id": "KKN4NlIHnK",
-                    "number": 28,
-                    "url": "https://openreview.net/forum?id=KKN4NlIHnK",
-                    "title": "Tight Bounds for Lifted HTN Plan Verification and Bounded Plan Existence",
-                    "long": true,
-                    "authors": [
-                        "Pascal Lauer",
-                        "S.T. Lin",
-                        "Pascal Tobias Bercher"
-                    ],
-                    "type_of_contribution": [
-                        "Theory"
-                    ],
-                    "topic": [
-                        "Abstract Models"
-                    ],
-                    "keywords": [
-                        "PS: Planning with Hierarchical Task Networks (HTN)"
-                    ],
-                    "pdf": "https://openreview.net/pdf/28e1d621a27aa98bd1014379ac9171a416b6ce82.pdf",
-                    "bibtex": "@inproceedings{\nlauer2025tight,\ntitle={Tight Bounds for Lifted {HTN} Plan Verification and Bounded Plan Existence},\nauthor={Pascal Lauer and S.T. Lin and Pascal Tobias Bercher},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=KKN4NlIHnK}\n}"
-                },
-                {
-                    "id": "K7OTf3x7YZ",
-                    "number": 149,
-                    "url": "https://openreview.net/forum?id=K7OTf3x7YZ",
-                    "title": "Alternation-Based Novelty Search",
-                    "long": false,
-                    "authors": [
-                        "Augusto B. Corr\u00eaa",
-                        "Jendrik Seipp"
-                    ],
-                    "type_of_contribution": [
-                        "Algorithms"
-                    ],
-                    "topic": [
-                        "Abstract Models"
-                    ],
-                    "keywords": [
-                        "PS: Classical (fully-observable, deterministic) planning"
-                    ],
-                    "pdf": "https://openreview.net/pdf/c6e66d9fc2f673eb7a271c2a74fdedd34c7113b9.pdf",
-                    "bibtex": "@inproceedings{\ncorrea2025alternationbased,\ntitle={Alternation-Based Novelty Search},\nauthor={Augusto B. Corr{\\^e}a and Jendrik Seipp},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=K7OTf3x7YZ}\n}"
-                },
-                {
-                    "id": "Fw0dMQVS9l",
-                    "number": 100,
-                    "url": "https://openreview.net/forum?id=Fw0dMQVS9l",
-                    "title": "Landmark Generation in HTN Planning Revisited",
-                    "long": true,
-                    "authors": [
-                        "Victor Scherer Putrich",
-                        "Felipe Meneguzzi",
-                        "Andr\u00e9 Grahl Pereira"
-                    ],
-                    "type_of_contribution": [
-                        "Algorithms"
-                    ],
-                    "topic": [
-                        "Abstract Models"
-                    ],
-                    "keywords": [
-                        "PS: Planning with Hierarchical Task Networks (HTN)"
-                    ],
-                    "tldr": "The paper presents a new method for generating landmarks in HTN planning using a reformulated AND/OR graph that captures more task hierarchical dependencies among tasks and methods.",
-                    "pdf": "https://openreview.net/pdf/cd59b9b19a8e22a6bf55f4c59d131092b9004e53.pdf",
-                    "bibtex": "@inproceedings{\nputrich2025landmark,\ntitle={Landmark Generation in {HTN} Planning Revisited},\nauthor={Victor Scherer Putrich and Felipe Meneguzzi and Andr{\\'e} Grahl Pereira},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=Fw0dMQVS9l}\n}"
-                },
-                {
-                    "id": "AJESbF9qBI",
-                    "number": 27,
-                    "url": "https://openreview.net/forum?id=AJESbF9qBI",
-                    "title": "Continuing the Quest for Polynomial Time Heuristics in PDDL Input Size: Tractable Cases for Lifted $h^{add}$",
-                    "long": true,
-                    "authors": [
-                        "Pascal Lauer",
-                        "Alvaro Torralba",
-                        "Daniel H\u00f6ller",
-                        "J\u00f6rg Hoffmann"
-                    ],
-                    "type_of_contribution": [
-                        "Theory"
-                    ],
-                    "topic": [
-                        "Abstract Models"
-                    ],
-                    "keywords": [
-                        "PS: Model-based reasoning",
-                        "PS: Classical (fully-observable, deterministic) planning"
-                    ],
-                    "pdf": "https://openreview.net/pdf/ec74566e4a9749abdfc2f1543ca19feaa2afbec4.pdf",
-                    "bibtex": "@inproceedings{\nlauer2025continuing,\ntitle={Continuing the Quest for Polynomial Time Heuristics in {PDDL} Input Size: Tractable Cases for Lifted \\$h{\\textasciicircum}\\{add\\}\\$},\nauthor={Pascal Lauer and Alvaro Torralba and Daniel H{\\\"o}ller and J{\\\"o}rg Hoffmann},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=AJESbF9qBI}\n}"
-                },
-                {
-                    "id": "5ro5Tknkd9",
-                    "number": 19,
-                    "url": "https://openreview.net/forum?id=5ro5Tknkd9",
-                    "title": "Hardness of Chosen Length Planning Games and Regular Fixed Methods FOND HTN Planning",
-                    "long": true,
-                    "authors": [
-                        "P. Maurice Dekker",
-                        "Gregor Behnke"
-                    ],
-                    "type_of_contribution": [
-                        "Theory"
-                    ],
-                    "topic": [
-                        "Abstract Models"
-                    ],
-                    "keywords": [
-                        "PS: Fully observable non-deterministic planning",
-                        "PS: Planning with Hierarchical Task Networks (HTN)"
-                    ],
-                    "tldr": "We prove EXPSPACE-hardness of a class of FOND HTN problems, solving an open problem from Chen and Bercher (2021).",
-                    "pdf": "https://openreview.net/pdf/d6c15e9ace67f81896ac97e80ddec1695fe20967.pdf",
-                    "bibtex": "@inproceedings{\ndekker2025hardness,\ntitle={Hardness of Chosen Length Planning Games and Regular Fixed Methods {FOND} {HTN} Planning},\nauthor={P. Maurice Dekker and Gregor Behnke},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=5ro5Tknkd9}\n}"
-                },
-                {
-                    "id": "5hlH3Ez9yV",
-                    "number": 144,
-                    "url": "https://openreview.net/forum?id=5hlH3Ez9yV",
-                    "title": "On the Notion of Plan Quality for PDDL+",
-                    "long": true,
-                    "authors": [
-                        "Francesco Percassi",
-                        "Enrico Scala",
-                        "Mauro Vallati"
-                    ],
-                    "type_of_contribution": [
-                        "Theory"
-                    ],
-                    "topic": [
-                        "Abstract Models"
-                    ],
-                    "keywords": [
-                        "PS: Mixed discrete/continuous planning"
-                    ],
-                    "pdf": "https://openreview.net/pdf/aca8717e38ef5553c69f38c4a93efac757069e7f.pdf",
-                    "bibtex": "@inproceedings{\npercassi2025on,\ntitle={On the Notion of Plan Quality for {PDDL}+},\nauthor={Francesco Percassi and Enrico Scala and Mauro Vallati},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=5hlH3Ez9yV}\n}"
-                },
-                {
-                    "id": "42y3xOy957",
-                    "number": 26,
-                    "url": "https://openreview.net/forum?id=42y3xOy957",
-                    "title": "An Improved Lower Bound on the Length of Locally-Improving Policy Sequences in MDPs with Large Action Sets",
-                    "long": true,
-                    "authors": [
-                        "Pratyush Agarwal",
-                        "Mulinti Shaik Wajid",
-                        "Shivaram Kalyanakrishnan"
-                    ],
-                    "type_of_contribution": [
-                        "Theory"
-                    ],
-                    "topic": [
-                        "Abstract Models"
-                    ],
-                    "keywords": [
-                        "PS: Planning with Markov decision process models (MDPs, POMDPs)",
-                        "PS: Infinite-horizon optimal control problems"
-                    ],
-                    "tldr": "The paper provides an improved lower bound on the number of steps that policy iteration can perform on MDPs with 6 or more actions per state.",
-                    "pdf": "https://openreview.net/pdf/132c831c65a5b60507428ccbf758a91e35fb2aa6.pdf",
-                    "bibtex": "@inproceedings{\nagarwal2025an,\ntitle={An Improved Lower Bound on the Length of Locally-Improving Policy Sequences in {MDP}s with Large Action Sets},\nauthor={Pratyush Agarwal and Mulinti Shaik Wajid and Shivaram Kalyanakrishnan},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=42y3xOy957}\n}"
-                },
-                {
-                    "id": "3DzguMY0mb",
-                    "number": 123,
-                    "url": "https://openreview.net/forum?id=3DzguMY0mb",
-                    "title": "Agent Planning Programs as Non-deterministic Planning under Fairness",
-                    "long": true,
-                    "authors": [
-                        "Nitin Yadav",
-                        "Sebastian Sardina",
-                        "Hector Geffner"
-                    ],
-                    "type_of_contribution": [
-                        "Models and Representations",
-                        "Algorithms"
-                    ],
-                    "topic": [
-                        "Abstract Models"
-                    ],
-                    "keywords": [
-                        "PS: Fully observable non-deterministic planning"
-                    ],
-                    "pdf": "https://openreview.net/pdf/df4988f858e8b00ac66a44a5074839ed20faac2f.pdf",
-                    "bibtex": "@inproceedings{\nyadav2025agent,\ntitle={Agent Planning Programs as Non-deterministic Planning under Fairness},\nauthor={Nitin Yadav and Sebastian Sardina and Hector Geffner},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=3DzguMY0mb}\n}"
-                },
-                {
-                    "id": "2QA1LgiGO3",
-                    "number": 68,
-                    "url": "https://openreview.net/forum?id=2QA1LgiGO3",
-                    "title": "A Sampling Approach to Planning with Infinite Domain Control Variables",
-                    "long": false,
-                    "authors": [
-                        "\u00c1ngel Aso-Mollar",
-                        "Diego Aineto",
-                        "Enrico Scala",
-                        "Eva Onaindia"
-                    ],
-                    "type_of_contribution": [
-                        "Algorithms"
-                    ],
-                    "topic": [
-                        "Abstract Models"
-                    ],
-                    "keywords": [
-                        "PS: Classical (fully-observable, deterministic) planning",
-                        "PS: Search in planning and scheduling"
-                    ],
-                    "pdf": "https://openreview.net/pdf/7850ebd2c001090f728ff8f670e0a4b8edfec342.pdf",
-                    "bibtex": "@inproceedings{\naso-mollar2025a,\ntitle={A Sampling Approach to Planning with Infinite Domain Control Variables},\nauthor={{\\'A}ngel Aso-Mollar and Diego Aineto and Enrico Scala and Eva Onaindia},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=2QA1LgiGO3}\n}"
-                },
-                {
-                    "id": "0XuHITptMz",
-                    "number": 97,
-                    "url": "https://openreview.net/forum?id=0XuHITptMz",
-                    "title": "Initial Condition Retrieving for Hybrid and Numeric Planning Problems",
-                    "long": true,
-                    "authors": [
-                        "Matteo Cardellini",
-                        "Francesco Percassi",
-                        "Marco Maratea",
-                        "Mauro Vallati"
-                    ],
-                    "type_of_contribution": [
-                        "Theory"
-                    ],
-                    "topic": [
-                        "Abstract Models",
-                        "Knowledge Engineering"
-                    ],
-                    "keywords": [
-                        "PS: Mixed discrete/continuous planning"
-                    ],
-                    "pdf": "https://openreview.net/pdf/e8b0b7628029051d495a581ebfd633eb698848a8.pdf",
-                    "bibtex": "@inproceedings{\ncardellini2025initial,\ntitle={Initial Condition Retrieving for Hybrid and Numeric Planning Problems},\nauthor={Matteo Cardellini and Francesco Percassi and Marco Maratea and Mauro Vallati},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=0XuHITptMz}\n}"
-                },
-                {
-                    "id": "0LT45ENZaE",
-                    "number": 260,
-                    "url": "https://openreview.net/forum?id=0LT45ENZaE",
-                    "title": "SibylSatOpt: a MaxSAT-based Greedy Optimal Search for TOHTN Planning",
-                    "long": true,
-                    "authors": [
-                        "Gaspard Quenard",
-                        "Damien Pellier",
-                        "Humbert FIORINO"
-                    ],
-                    "type_of_contribution": [
-                        "Algorithms"
-                    ],
-                    "topic": [
-                        "Abstract Models"
-                    ],
-                    "keywords": [
-                        "PS: Planning with Hierarchical Task Networks (HTN)",
-                        "PS: SAT, SMT and CP"
-                    ],
-                    "tldr": "A novel MaxSAT-based TOHTN planner that uses greedy best-first search with an admissible heuristic to find optimal solutions.",
-                    "pdf": "https://openreview.net/pdf/d09d298387c01b647c18ecb1a2a07de87088cbfb.pdf",
-                    "bibtex": "@inproceedings{\nquenard2025sibylsatopt,\ntitle={SibylSatOpt: a Max{SAT}-based Greedy Optimal Search for {TOHTN} Planning},\nauthor={Gaspard Quenard and Damien Pellier and Humbert FIORINO},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=0LT45ENZaE}\n}"
-                }
-            ]
+          "id": "fEoLEqSr4o",
+          "number": 173,
+          "url": "https://openreview.net/forum?id=fEoLEqSr4o",
+          "title": "A Flow Based Planning Method for Multi-Agent Progression with Deployable Agents and Communication Constraints",
+          "long": true,
+          "authors": [
+            "Emile Siboulet",
+            "Roland Godet",
+            "Arthur Bit-Monnot",
+            "Marc-Emmanuel Coupvent des Graviers",
+            "Christophe GUETTIER",
+            "Simon Lacroix"
+          ],
+          "type_of_contribution": [
+            "Models and Representations"
+          ],
+          "topic": [
+            "Applications"
+          ],
+          "keywords": [
+            "PS: SAT, SMT and CP",
+            "PS: Routing",
+            "PS: Temporal planning",
+            "PS: Applications",
+            "PS: Optimization of spatio-temporal systems"
+          ],
+          "pdf": "https://openreview.net/pdf/36b72e9755ab5faf1c5d9323529ca3bae25e6fb7.pdf",
+          "bibtex": "@inproceedings{\nsiboulet2025a,\ntitle={A Flow Based Planning Method for Multi-Agent Progression with Deployable Agents and Communication Constraints},\nauthor={Emile Siboulet and Roland Godet and Arthur Bit-Monnot and Marc-Emmanuel Coupvent des Graviers and Christophe GUETTIER and Simon Lacroix},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=fEoLEqSr4o}\n}",
+          "proceedings_url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36137"
         },
         {
-            "number": 4,
-            "name": "Machine Learning",
-            "papers": [
-                {
-                    "id": "t8Th52M2Tv",
-                    "number": 224,
-                    "url": "https://openreview.net/forum?id=t8Th52M2Tv",
-                    "title": "Leveraging Action Relational Structures for Integrated Learning and Planning",
-                    "long": true,
-                    "authors": [
-                        "Ryan Xiao Wang",
-                        "Felipe Trevizan"
-                    ],
-                    "type_of_contribution": [
-                        "Algorithms"
-                    ],
-                    "topic": [
-                        "Machine Learning"
-                    ],
-                    "keywords": [
-                        "PS: Learning for planning and scheduling",
-                        "PS: Classical (fully-observable, deterministic) planning",
-                        "PS: Search in planning and scheduling"
-                    ],
-                    "pdf": "https://openreview.net/pdf/a500cf79b21c043d43240c40e7e304e92e281a9e.pdf",
-                    "bibtex": "@inproceedings{\nwang2025leveraging,\ntitle={Leveraging Action Relational Structures for Integrated Learning and Planning},\nauthor={Ryan Xiao Wang and Felipe Trevizan},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=t8Th52M2Tv}\n}"
-                },
-                {
-                    "id": "mvUngFs3ec",
-                    "number": 166,
-                    "url": "https://openreview.net/forum?id=mvUngFs3ec",
-                    "title": "Per-Domain Generalizing Policies: On Validation Instances and Scaling Behavior",
-                    "long": false,
-                    "authors": [
-                        "Timo P. Gros",
-                        "Nicola J. M\u00fcller",
-                        "Daniel Fi\u0161er",
-                        "Isabel Valera",
-                        "Verena Wolf",
-                        "J\u00f6rg Hoffmann"
-                    ],
-                    "type_of_contribution": [
-                        "Algorithms"
-                    ],
-                    "topic": [
-                        "Machine Learning"
-                    ],
-                    "keywords": [
-                        "PS: Generalized planning"
-                    ],
-                    "tldr": "We introduce a dynamic validation method to improve the scaling behavior of GNN-based action policies, enabling them to generalize effectively across larger instances and validating performance across 9 domains",
-                    "pdf": "https://openreview.net/pdf/f89b1eeae66c86f06c1613b6c49444a8fcfc3d6f.pdf",
-                    "bibtex": "@inproceedings{\ngros2025perdomain,\ntitle={Per-Domain Generalizing Policies: On Validation Instances and Scaling Behavior},\nauthor={Timo P. Gros and Nicola J. M{\\\"u}ller and Daniel Fi{\\v{s}}er and Isabel Valera and Verena Wolf and J{\\\"o}rg Hoffmann},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=mvUngFs3ec}\n}"
-                },
-                {
-                    "id": "gd615M6alZ",
-                    "number": 63,
-                    "url": "https://openreview.net/forum?id=gd615M6alZ",
-                    "title": "Rack Position Optimization in Large-Scale Heterogeneous Data Centers",
-                    "long": true,
-                    "authors": [
-                        "Chang-Lin Chen",
-                        "Jiayu Chen",
-                        "Tian Lan",
-                        "Zhaoxia Zhao",
-                        "Hongbo Dong",
-                        "Vaneet Aggarwal"
-                    ],
-                    "type_of_contribution": [
-                        "Models and Representations"
-                    ],
-                    "topic": [
-                        "Machine Learning",
-                        "Applications"
-                    ],
-                    "keywords": [
-                        "PS: Applications",
-                        "PS: Learning for planning and scheduling"
-                    ],
-                    "pdf": "https://openreview.net/pdf/51b7dc2b3c5e0c25e0dcf90506fb5e801d11709b.pdf",
-                    "bibtex": "@inproceedings{\nchen2025rack,\ntitle={Rack Position Optimization in Large-Scale Heterogeneous Data Centers},\nauthor={Chang-Lin Chen and Jiayu Chen and Tian Lan and Zhaoxia Zhao and Hongbo Dong and Vaneet Aggarwal},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=gd615M6alZ}\n}"
-                },
-                {
-                    "id": "cUmrgNVh0d",
-                    "number": 74,
-                    "url": "https://openreview.net/forum?id=cUmrgNVh0d",
-                    "title": "Learning Lifted STRIPS Models from Action Traces alone: A Simple, General, and Scalable Solution",
-                    "long": true,
-                    "authors": [
-                        "Jonas G\u00f6sgens",
-                        "Niklas Jansen",
-                        "Hector Geffner"
-                    ],
-                    "type_of_contribution": [
-                        "Algorithms"
-                    ],
-                    "topic": [
-                        "Machine Learning"
-                    ],
-                    "keywords": [
-                        "PS: Learning for planning and scheduling"
-                    ],
-                    "tldr": "We introduce a new method for learning lifted STRIPS models from traces alone, including the predicates, that is simple, general, and scalable",
-                    "pdf": "https://openreview.net/pdf/0aae562f0fb773159605a9ff845c9ff3019a91be.pdf",
-                    "bibtex": "@inproceedings{\ngosgens2025learning,\ntitle={Learning Lifted {STRIPS} Models from Action Traces alone: A Simple, General, and Scalable Solution},\nauthor={Jonas G{\\\"o}sgens and Niklas Jansen and Hector Geffner},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=cUmrgNVh0d}\n}"
-                },
-                {
-                    "id": "RJMyXbDdzx",
-                    "number": 85,
-                    "url": "https://openreview.net/forum?id=RJMyXbDdzx",
-                    "title": "Chasing Progress, Not Perfection: Revisiting Strategies for End-to-End LLM Plan Generation",
-                    "long": true,
-                    "authors": [
-                        "Sukai Huang",
-                        "Nir Lipovetzky"
-                    ],
-                    "type_of_contribution": [
-                        "Algorithms"
-                    ],
-                    "topic": [
-                        "Machine Learning"
-                    ],
-                    "keywords": [
-                        "PS: Planning with large language models"
-                    ],
-                    "tldr": "Our study challenges prevailing views on LLMs' planning abilities. While fine-tuning on planning data alone doesn't yield robust skills, strategies to enhance LLM reasoning indeed made progress towards better plan quality.",
-                    "pdf": "https://openreview.net/pdf/bd9f5e46bda3f9c33d405d313eec9bd5ceb1fa91.pdf",
-                    "bibtex": "@inproceedings{\nhuang2025chasing,\ntitle={Chasing Progress, Not Perfection: Revisiting Strategies for End-to-End {LLM} Plan Generation},\nauthor={Sukai Huang and Nir Lipovetzky},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=RJMyXbDdzx}\n}"
-                },
-                {
-                    "id": "Onjy5CUs4X",
-                    "number": 87,
-                    "url": "https://openreview.net/forum?id=Onjy5CUs4X",
-                    "title": "Automating the Generation of Prompts for LLM-based Action Choice in PDDL Planning",
-                    "long": true,
-                    "authors": [
-                        "Katharina Stein",
-                        "Daniel Fi\u0161er",
-                        "J\u00f6rg Hoffmann",
-                        "Alexander Koller"
-                    ],
-                    "type_of_contribution": [
-                        "Algorithms"
-                    ],
-                    "topic": [
-                        "Abstract Models",
-                        "Machine Learning"
-                    ],
-                    "keywords": [
-                        "PS: Planning with large language models"
-                    ],
-                    "pdf": "https://openreview.net/pdf/39162c9902a2367abe93b34118dd50ad53c60eee.pdf",
-                    "bibtex": "@inproceedings{\nstein2025automating,\ntitle={Automating the Generation of Prompts for {LLM}-based Action Choice in {PDDL} Planning},\nauthor={Katharina Stein and Daniel Fi{\\v{s}}er and J{\\\"o}rg Hoffmann and Alexander Koller},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=Onjy5CUs4X}\n}"
-                },
-                {
-                    "id": "MUuHzfH4Jv",
-                    "number": 98,
-                    "url": "https://openreview.net/forum?id=MUuHzfH4Jv",
-                    "title": "Instance-based Approximation Guarantees for Graph-based Nearest Neighbor Search",
-                    "long": true,
-                    "authors": [
-                        "Yannick Bosch",
-                        "Sabine Storandt"
-                    ],
-                    "type_of_contribution": [
-                        "Algorithms",
-                        "Theory"
-                    ],
-                    "topic": [
-                        "Machine Learning"
-                    ],
-                    "keywords": [
-                        "PS: Search in planning and scheduling",
-                        "PS: Routing"
-                    ],
-                    "pdf": "https://openreview.net/pdf/1a69075a5690283c07898576391f3b8fc995bc63.pdf",
-                    "bibtex": "@inproceedings{\nbosch2025instancebased,\ntitle={Instance-based Approximation Guarantees for Graph-based Nearest Neighbor Search},\nauthor={Yannick Bosch and Sabine Storandt},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=MUuHzfH4Jv}\n}"
-                },
-                {
-                    "id": "MQmQaZBZf7",
-                    "number": 59,
-                    "url": "https://openreview.net/forum?id=MQmQaZBZf7",
-                    "title": "On Picking Good Policies: Leveraging Action-Policy Testing in Policy Training",
-                    "long": false,
-                    "authors": [
-                        "Jan Eisenhut",
-                        "Daniel Fi\u0161er",
-                        "Isabel Valera",
-                        "J\u00f6rg Hoffmann"
-                    ],
-                    "type_of_contribution": [
-                        "Algorithms"
-                    ],
-                    "topic": [
-                        "Abstract Models",
-                        "Machine Learning"
-                    ],
-                    "keywords": [
-                        "PS: Learning for planning and scheduling",
-                        "PS: Classical (fully-observable, deterministic) planning"
-                    ],
-                    "pdf": "https://openreview.net/pdf/cd610afe88e3cd9498619ee572f5a758d4ee85cf.pdf",
-                    "bibtex": "@inproceedings{\neisenhut2025on,\ntitle={On Picking Good Policies: Leveraging Action-Policy Testing in Policy Training},\nauthor={Jan Eisenhut and Daniel Fi{\\v{s}}er and Isabel Valera and J{\\\"o}rg Hoffmann},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=MQmQaZBZf7}\n}"
-                },
-                {
-                    "id": "F7m9hfqLox",
-                    "number": 133,
-                    "url": "https://openreview.net/forum?id=F7m9hfqLox",
-                    "title": "Learning Efficiency Meets Symmetry Breaking",
-                    "long": false,
-                    "authors": [
-                        "Yingbin Bai",
-                        "Sylvie Thiebaux",
-                        "Felipe Trevizan"
-                    ],
-                    "type_of_contribution": [
-                        "Algorithms",
-                        "Models and Representations"
-                    ],
-                    "topic": [
-                        "Machine Learning"
-                    ],
-                    "keywords": [
-                        "PS: Learning for planning and scheduling"
-                    ],
-                    "pdf": "https://openreview.net/pdf/e7189f936df4d5fef446a850e6c79142762f0b31.pdf",
-                    "bibtex": "@inproceedings{\nbai2025learning,\ntitle={Learning Efficiency Meets Symmetry Breaking},\nauthor={Yingbin Bai and Sylvie Thiebaux and Felipe Trevizan},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=F7m9hfqLox}\n}"
-                },
-                {
-                    "id": "BfjOv8IZJI",
-                    "number": 142,
-                    "url": "https://openreview.net/forum?id=BfjOv8IZJI",
-                    "title": "On Planning Through LLMs",
-                    "long": true,
-                    "authors": [
-                        "Mattia Chiari",
-                        "Luca Putelli",
-                        "Nicholas Rossetti",
-                        "Ivan Serina",
-                        "Alfonso Gerevini"
-                    ],
-                    "type_of_contribution": [
-                        "Position Paper"
-                    ],
-                    "topic": [
-                        "Machine Learning"
-                    ],
-                    "keywords": [
-                        "PS: Learning for planning and scheduling"
-                    ],
-                    "tldr": "This survey reviews studies on LLMs in automated planning, where LLMs generate plans from a problem and a domain. It covers different models, approaches, and challenges, highlighting trends and key findings in evaluating LLMs planning capabilities.",
-                    "pdf": "https://openreview.net/pdf/83dcf1eb5995f3fa805b143358375be9da3681cf.pdf",
-                    "bibtex": "@inproceedings{\nchiari2025on,\ntitle={On Planning Through {LLM}s},\nauthor={Mattia Chiari and Luca Putelli and Nicholas Rossetti and Ivan Serina and Alfonso Gerevini},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=BfjOv8IZJI}\n}"
-                },
-                {
-                    "id": "7qrfgtLcNb",
-                    "number": 178,
-                    "url": "https://openreview.net/forum?id=7qrfgtLcNb",
-                    "title": "HDDLGym: A Tool for Studying Multi-Agent Hierarchical Problems Defined in HDDL with OpenAI Gym",
-                    "long": true,
-                    "authors": [
-                        "Ngoc La",
-                        "Ruaridh Mon-Williams",
-                        "Julie Shah"
-                    ],
-                    "type_of_contribution": [
-                        "Tools"
-                    ],
-                    "topic": [
-                        "Machine Learning",
-                        "Applications"
-                    ],
-                    "keywords": [
-                        "PS: Planning with Hierarchical Task Networks (HTN)",
-                        "PS: Planning with Markov decision process models (MDPs, POMDPs)",
-                        "PS: Multi-agent path-finding"
-                    ],
-                    "tldr": "This paper presents the design, implementation, and demonstration of HDDLgym, a Python tool that integrates HDDL and Gym to support research on reinforcement learning in hierarchical planning, with an emphasis on multi-agent environments.",
-                    "pdf": "https://openreview.net/pdf/3148a7f11ca0f739dcb7e17bc14108245f226aed.pdf",
-                    "bibtex": "@inproceedings{\nla2025hddlgym,\ntitle={{HDDLG}ym: A Tool for Studying Multi-Agent Hierarchical Problems Defined in {HDDL} with Open{AI} Gym},\nauthor={Ngoc La and Ruaridh Mon-Williams and Julie Shah},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=7qrfgtLcNb}\n}"
-                }
-            ]
+          "id": "dO2VlYpTrv",
+          "number": 60,
+          "url": "https://openreview.net/forum?id=dO2VlYpTrv",
+          "title": "Posthoc: The Visualisation Platform for Search",
+          "long": true,
+          "authors": [
+            "Kevin Zheng",
+            "Daniel Harabor",
+            "Michael Wybrow"
+          ],
+          "type_of_contribution": [
+            "Tools"
+          ],
+          "topic": [
+            "Applications"
+          ],
+          "keywords": [
+            "PS: Applications"
+          ],
+          "pdf": "https://openreview.net/pdf/bc34c2cc878c7a0710bef0cebd6a44258a0c067d.pdf",
+          "bibtex": "@inproceedings{\nzheng2025posthoc,\ntitle={Posthoc: The Visualisation Platform for Search},\nauthor={Kevin Zheng and Daniel Harabor and Michael Wybrow},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=dO2VlYpTrv}\n}",
+          "proceedings_url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36145"
         },
         {
-            "number": 5,
-            "name": "Knowledge Engineering",
-            "papers": [
-                {
-                    "id": "xLMCRZjWGU",
-                    "number": 197,
-                    "url": "https://openreview.net/forum?id=xLMCRZjWGU",
-                    "title": "Quality Diversity for Variational Quantum Circuit Optimization",
-                    "long": true,
-                    "authors": [
-                        "Maximilian Zorn",
-                        "Jonas Stein",
-                        "Maximilian Balthasar Mansky",
-                        "Philipp Altmann",
-                        "Michael K\u00f6lle",
-                        "Claudia Linnhoff-Popien"
-                    ],
-                    "type_of_contribution": [
-                        "Models and Representations"
-                    ],
-                    "topic": [
-                        "Knowledge Engineering"
-                    ],
-                    "keywords": [
-                        "PS: Local search and evolutionary programming",
-                        "PS: Sub-modular and gradient-free optimization"
-                    ],
-                    "tldr": "We introduce a lightweight circuit representation for optimization of variational quantum circuits using the quality diversity method covariance matrix adaptation.",
-                    "pdf": "https://openreview.net/pdf/d6f23f66f2934d1cccefe24fb5dbfdeddad81df3.pdf",
-                    "bibtex": "@inproceedings{\nzorn2025quality,\ntitle={Quality Diversity for Variational Quantum Circuit Optimization},\nauthor={Maximilian Zorn and Jonas Stein and Maximilian Balthasar Mansky and Philipp Altmann and Michael K{\\\"o}lle and Claudia Linnhoff-Popien},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=xLMCRZjWGU}\n}"
-                },
-                {
-                    "id": "om81nNmEcY",
-                    "number": 171,
-                    "url": "https://openreview.net/forum?id=om81nNmEcY",
-                    "title": "On the Gains from Using Action Observations in Domain Repair",
-                    "long": false,
-                    "authors": [
-                        "Alba Gragera",
-                        "Raquel Fuentetaja",
-                        "Angel Garcia Olaya",
-                        "Fernando Fern\u00e1ndez"
-                    ],
-                    "type_of_contribution": [
-                        "Models and Representations"
-                    ],
-                    "topic": [
-                        "Knowledge Engineering"
-                    ],
-                    "keywords": [
-                        "PS: Planning with incomplete models"
-                    ],
-                    "tldr": "We extend a domain repair approach to accept action observations (partial or complete plans) as input, and examine their impact on improving the quality of resulting models",
-                    "pdf": "https://openreview.net/pdf/09c4b0a9044617ec05d4b6fabab2fb1a7f01b915.pdf",
-                    "bibtex": "@inproceedings{\ngragera2025on,\ntitle={On the Gains from Using Action Observations in Domain Repair},\nauthor={Alba Gragera and Raquel Fuentetaja and Angel Garcia Olaya and Fernando Fern{\\'a}ndez},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=om81nNmEcY}\n}"
-                },
-                {
-                    "id": "euTg3gstm3",
-                    "number": 20,
-                    "url": "https://openreview.net/forum?id=euTg3gstm3",
-                    "title": "Is This Plan Necessarily Redundant? On the Computational Complexity of Unobserved Domain Learning",
-                    "long": true,
-                    "authors": [
-                        "Pascal Bachor",
-                        "P. Maurice Dekker",
-                        "Gregor Behnke"
-                    ],
-                    "type_of_contribution": [
-                        "Theory"
-                    ],
-                    "topic": [
-                        "Knowledge Engineering"
-                    ],
-                    "keywords": [
-                        "PS: Learning for planning and scheduling",
-                        "PS: Partially observable planning",
-                        "PS: Theoretical foundations of planning"
-                    ],
-                    "tldr": "We study the computational complexity of domain learning in an unobservable environment assuming plans are non-redundant.",
-                    "pdf": "https://openreview.net/pdf/ec62b715440f1975373c8de27cbcaf2bece8997f.pdf",
-                    "bibtex": "@inproceedings{\nbachor2025is,\ntitle={Is This Plan Necessarily Redundant? On the Computational Complexity of Unobserved Domain Learning},\nauthor={Pascal Bachor and P. Maurice Dekker and Gregor Behnke},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=euTg3gstm3}\n}"
-                },
-                {
-                    "id": "c2SgKP28RN",
-                    "number": 145,
-                    "url": "https://openreview.net/forum?id=c2SgKP28RN",
-                    "title": "Knowledge Engineering for Planning and Scheduling in the LLM Era",
-                    "long": false,
-                    "authors": [
-                        "Mauro Vallati",
-                        "Roman Bart\u00e1k",
-                        "Lukas Chrpa",
-                        "Thomas Leo McCluskey",
-                        "Ron Petrick"
-                    ],
-                    "type_of_contribution": [
-                        "Position Paper"
-                    ],
-                    "topic": [
-                        "Knowledge Engineering"
-                    ],
-                    "keywords": [
-                        "PS: Applications"
-                    ],
-                    "pdf": "https://openreview.net/pdf/8d59bd09107ade4cb92c5d36c40c9a5b7b4924c5.pdf",
-                    "bibtex": "@inproceedings{\nvallati2025knowledge,\ntitle={Knowledge Engineering for Planning and Scheduling in the {LLM} Era},\nauthor={Mauro Vallati and Roman Bart{\\'a}k and Lukas Chrpa and Thomas Leo McCluskey and Ron Petrick},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=c2SgKP28RN}\n}"
-                },
-                {
-                    "id": "ZYhAROP2ji",
-                    "number": 114,
-                    "url": "https://openreview.net/forum?id=ZYhAROP2ji",
-                    "title": "HTN Plan Repair Algorithms Compared: Strengths and Weaknesses of Different Methods",
-                    "long": true,
-                    "authors": [
-                        "Paul Zaidins",
-                        "Robert P. Goldman",
-                        "Ugur Kuter",
-                        "Dana S. Nau",
-                        "Mark Roberts"
-                    ],
-                    "type_of_contribution": [
-                        "Algorithms"
-                    ],
-                    "topic": [
-                        "Knowledge Engineering"
-                    ],
-                    "keywords": [
-                        "PS: Planning with Hierarchical Task Networks (HTN)",
-                        "PS: Plan execution and monitoring"
-                    ],
-                    "tldr": "We compare three recent hierarchical plan-repair algorithms both theoretically and empirically, and show that their differing definitions of plan repair cause differences in the problems they can solve and the repairs they can make.",
-                    "pdf": "https://openreview.net/pdf/9ef9a3dc89245f49dccd6ce07b96facc39c3ec66.pdf",
-                    "bibtex": "@inproceedings{\nzaidins2025htn,\ntitle={{HTN} Plan Repair Algorithms Compared: Strengths and Weaknesses of Different Methods},\nauthor={Paul Zaidins and Robert P. Goldman and Ugur Kuter and Dana S. Nau and Mark Roberts},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=ZYhAROP2ji}\n}"
-                },
-                {
-                    "id": "OPSJ6Ky48N",
-                    "number": 38,
-                    "url": "https://openreview.net/forum?id=OPSJ6Ky48N",
-                    "title": "LTLf Adaptive Synthesis for Multi-Tier Goals in Nondeterministic Domains",
-                    "long": true,
-                    "authors": [
-                        "Giuseppe De Giacomo",
-                        "Gianmarco Parretti",
-                        "Shufang Zhu"
-                    ],
-                    "type_of_contribution": [
-                        "Models and Representations"
-                    ],
-                    "topic": [
-                        "Knowledge Engineering"
-                    ],
-                    "keywords": [
-                        "PS: Model-based reasoning",
-                        "PS: Fully observable non-deterministic planning"
-                    ],
-                    "tldr": "We present a technique to solve adaptive synthesis for LTLf multi-tier goals in nondeterministic planning, maximizing the number of objectives to achieve.",
-                    "pdf": "https://openreview.net/pdf/2717717e68edd84089c0d133b6082b5a882dec2d.pdf",
-                    "bibtex": "@inproceedings{\ngiacomo2025ltlf,\ntitle={{LTL}f Adaptive Synthesis for Multi-Tier Goals in Nondeterministic Domains},\nauthor={Giuseppe De Giacomo and Gianmarco Parretti and Shufang Zhu},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=OPSJ6Ky48N}\n}"
-                },
-                {
-                    "id": "0XuHITptMz",
-                    "number": 97,
-                    "url": "https://openreview.net/forum?id=0XuHITptMz",
-                    "title": "Initial Condition Retrieving for Hybrid and Numeric Planning Problems",
-                    "long": true,
-                    "authors": [
-                        "Matteo Cardellini",
-                        "Francesco Percassi",
-                        "Marco Maratea",
-                        "Mauro Vallati"
-                    ],
-                    "type_of_contribution": [
-                        "Theory"
-                    ],
-                    "topic": [
-                        "Abstract Models",
-                        "Knowledge Engineering"
-                    ],
-                    "keywords": [
-                        "PS: Mixed discrete/continuous planning"
-                    ],
-                    "pdf": "https://openreview.net/pdf/e8b0b7628029051d495a581ebfd633eb698848a8.pdf",
-                    "bibtex": "@inproceedings{\ncardellini2025initial,\ntitle={Initial Condition Retrieving for Hybrid and Numeric Planning Problems},\nauthor={Matteo Cardellini and Francesco Percassi and Marco Maratea and Mauro Vallati},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=0XuHITptMz}\n}"
-                }
-            ]
+          "id": "UxQbDkjnyp",
+          "number": 180,
+          "url": "https://openreview.net/forum?id=UxQbDkjnyp",
+          "title": "Analyzing Launch Operations using the Spaceport Throughput Analysis Resource (STAR)",
+          "long": true,
+          "authors": [
+            "Jeremy Frank",
+            "Richard Levinson",
+            "Vijayakumar Baskaran",
+            "Jeffrey S Brink"
+          ],
+          "type_of_contribution": [
+            "Tools"
+          ],
+          "topic": [
+            "Applications"
+          ],
+          "keywords": [
+            "PS: Applications",
+            "PS: Scheduling",
+            "PS: SAT, SMT and CP"
+          ],
+          "tldr": "A application that integrates simulation and limited rescheduling, using a constraint programming model to check constraints and reschedule events.",
+          "pdf": "https://openreview.net/pdf/6c168ab25a5dfd9de43f7b7165963d38cc6c9d65.pdf",
+          "bibtex": "@inproceedings{\nfrank2025analyzing,\ntitle={Analyzing Launch Operations using the Spaceport Throughput Analysis Resource ({STAR})},\nauthor={Jeremy Frank and Richard Levinson and Vijayakumar Baskaran and Jeffrey S Brink},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=UxQbDkjnyp}\n}",
+          "proceedings_url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36144"
+        },
+        {
+          "id": "P8mmHYfmqu",
+          "number": 49,
+          "url": "https://openreview.net/forum?id=P8mmHYfmqu",
+          "title": "DynTaskMAS: A Dynamic Task Graph-driven Framework for Asynchronous and Parallel LLM-based Multi-Agent Systems",
+          "long": true,
+          "authors": [
+            "Junwei Yu",
+            "Yepeng Ding",
+            "Hiroyuki Sato"
+          ],
+          "type_of_contribution": [
+            "Algorithms",
+            "Tools"
+          ],
+          "topic": [
+            "Applications"
+          ],
+          "keywords": [
+            "PS: Planning with large language models",
+            "PS: Distributed and multi-agent planning",
+            "PS: Plan execution and monitoring",
+            "PS: Scheduling"
+          ],
+          "tldr": "DynTaskMAS introduces a framework that enables asynchronous and parallel operations in LLM-based multi-agent systems through dynamic task graphs, improving efficiency while maintaining coherence in complex tasks.",
+          "pdf": "https://openreview.net/pdf/f203d9a5d02bfaad86a3b32f8e5e1f983d176bfd.pdf",
+          "bibtex": "@inproceedings{\nyu2025dyntaskmas,\ntitle={DynTask{MAS}: A Dynamic Task Graph-driven Framework for Asynchronous and Parallel {LLM}-based Multi-Agent Systems},\nauthor={Junwei Yu and Yepeng Ding and Hiroyuki Sato},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=P8mmHYfmqu}\n}",
+          "proceedings_url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36130"
+        },
+        {
+          "id": "7qrfgtLcNb",
+          "number": 178,
+          "url": "https://openreview.net/forum?id=7qrfgtLcNb",
+          "title": "HDDLGym: A Tool for Studying Multi-Agent Hierarchical Problems Defined in HDDL with OpenAI Gym",
+          "long": true,
+          "authors": [
+            "Ngoc La",
+            "Ruaridh Mon-Williams",
+            "Julie Shah"
+          ],
+          "type_of_contribution": [
+            "Tools"
+          ],
+          "topic": [
+            "Machine Learning",
+            "Applications"
+          ],
+          "keywords": [
+            "PS: Planning with Hierarchical Task Networks (HTN)",
+            "PS: Planning with Markov decision process models (MDPs, POMDPs)",
+            "PS: Multi-agent path-finding"
+          ],
+          "tldr": "This paper presents the design, implementation, and demonstration of HDDLgym, a Python tool that integrates HDDL and Gym to support research on reinforcement learning in hierarchical planning, with an emphasis on multi-agent environments.",
+          "pdf": "https://openreview.net/pdf/3148a7f11ca0f739dcb7e17bc14108245f226aed.pdf",
+          "bibtex": "@inproceedings{\nla2025hddlgym,\ntitle={{HDDLG}ym: A Tool for Studying Multi-Agent Hierarchical Problems Defined in {HDDL} with Open{AI} Gym},\nauthor={Ngoc La and Ruaridh Mon-Williams and Julie Shah},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=7qrfgtLcNb}\n}",
+          "proceedings_url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36143"
         }
-    ]
+      ]
+    },
+    {
+      "number": 2,
+      "name": "Robotics and Control Theory",
+      "papers": [
+        {
+          "id": "zR4CmmnPDX",
+          "number": 192,
+          "url": "https://openreview.net/forum?id=zR4CmmnPDX",
+          "title": "A* for Bounding Shortest Paths in the Graphs of Convex Sets",
+          "long": true,
+          "authors": [
+            "Kaarthik Sundar",
+            "Sivakumar Rathinam"
+          ],
+          "type_of_contribution": [
+            "Algorithms"
+          ],
+          "topic": [
+            "Robotics and Control Theory"
+          ],
+          "keywords": [
+            "PS: Mixed discrete/continuous planning",
+            "ROB: Motion and path planning"
+          ],
+          "tldr": "We present an A*-inspired method to find bounds for the shortest path problem in a graph composed of convex sets. The proposed method outperforms the existing approach, which relies on solving a convex program on the entire graph.",
+          "pdf": "https://openreview.net/pdf/b9c78200767673baca763971b04fcfa78b2782c8.pdf",
+          "bibtex": "@inproceedings{\nsundar2025a,\ntitle={A* for Bounding Shortest Paths in the Graphs of Convex Sets},\nauthor={Kaarthik Sundar and Sivakumar Rathinam},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=zR4CmmnPDX}\n}",
+          "proceedings_url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36127"
+        },
+        {
+          "id": "f2QLOK1XYQ",
+          "number": 153,
+          "url": "https://openreview.net/forum?id=f2QLOK1XYQ",
+          "title": "Safe Interval Randomized Path Planinng For Manipulators",
+          "long": false,
+          "authors": [
+            "Nuraddin Kerimov",
+            "Aleksandr Onegin",
+            "Konstantin Yakovlev"
+          ],
+          "type_of_contribution": [
+            "Algorithms"
+          ],
+          "topic": [
+            "Robotics and Control Theory"
+          ],
+          "keywords": [
+            "PS: Search in planning and scheduling",
+            "ROB: Motion and path planning"
+          ],
+          "tldr": "We suggest an efficent combination of safe-interval path planning and rapidly-exploring random trees  for high-dimensional planning.",
+          "pdf": "https://openreview.net/pdf/eea6d248a31531cfd4b03c0c8e55bc77bf109403.pdf",
+          "bibtex": "@inproceedings{\nkerimov2025safe,\ntitle={Safe Interval Randomized Path Planinng For Manipulators},\nauthor={Nuraddin Kerimov and Aleksandr Onegin and Konstantin Yakovlev},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=f2QLOK1XYQ}\n}",
+          "proceedings_url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36120"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "name": "Abstract Models",
+      "papers": [
+        {
+          "id": "yCS0swF5xk",
+          "number": 124,
+          "url": "https://openreview.net/forum?id=yCS0swF5xk",
+          "title": "New Exact Methods for Solving Quadratic Traveling Salesman Problem",
+          "long": true,
+          "authors": [
+            "Yuxiao Chen",
+            "Anubhav Singh",
+            "Ryo Kuroiwa",
+            "Chris Beck"
+          ],
+          "type_of_contribution": [
+            "Models and Representations"
+          ],
+          "topic": [
+            "Abstract Models"
+          ],
+          "keywords": [
+            "PS: Routing",
+            "PS: Mathematical programming",
+            "PS: Search in planning and scheduling"
+          ],
+          "pdf": "https://openreview.net/pdf/496a82a0274599108ce6e89741df19fdb14c5500.pdf",
+          "bibtex": "@inproceedings{\nchen2025new,\ntitle={New Exact Methods for Solving Quadratic Traveling Salesman Problem},\nauthor={Yuxiao Chen and Anubhav Singh and Ryo Kuroiwa and Chris Beck},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=yCS0swF5xk}\n}",
+          "proceedings_url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36134"
+        },
+        {
+          "id": "qVvw2ot7Nn",
+          "number": 253,
+          "url": "https://openreview.net/forum?id=qVvw2ot7Nn",
+          "title": "How Good is Perfect? On the Incompleteness of A* for Total-Order HTN Planning",
+          "long": true,
+          "authors": [
+            "Mohammad Yousefi",
+            "Mario Schmautz",
+            "Patrik Haslum",
+            "Pascal Tobias Bercher"
+          ],
+          "type_of_contribution": [
+            "Theory"
+          ],
+          "topic": [
+            "Abstract Models"
+          ],
+          "keywords": [
+            "PS: Planning with Hierarchical Task Networks (HTN)",
+            "PS: Search in planning and scheduling"
+          ],
+          "pdf": "https://openreview.net/pdf/101975a5f5f3a9d0ccbcf5b3056e972b1f474ef3.pdf",
+          "bibtex": "@inproceedings{\nyousefi2025how,\ntitle={How Good is Perfect? On the Incompleteness of A* for Total-Order {HTN} Planning},\nauthor={Mohammad Yousefi and Mario Schmautz and Patrik Haslum and Pascal Tobias Bercher},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=qVvw2ot7Nn}\n}",
+          "proceedings_url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36107"
+        },
+        {
+          "id": "qTXrS8LT6K",
+          "number": 167,
+          "url": "https://openreview.net/forum?id=qTXrS8LT6K",
+          "title": "A Formalism for Optimal Search with Dynamic Heuristics",
+          "long": true,
+          "authors": [
+            "Remo Christen",
+            "Florian Pommerening",
+            "Clemens B\u00fcchner",
+            "Malte Helmert"
+          ],
+          "type_of_contribution": [
+            "Theory"
+          ],
+          "topic": [
+            "Abstract Models"
+          ],
+          "keywords": [
+            "PS: Classical (fully-observable, deterministic) planning",
+            "PS: Search in planning and scheduling",
+            "PS: Theoretical foundations of planning"
+          ],
+          "tldr": "Defines a formal framework to reason about the optimality of search using heuristics that are refined as the search progresses.",
+          "pdf": "https://openreview.net/pdf/be51945002b20342a606fcf41a0564a0e294f56d.pdf",
+          "bibtex": "@inproceedings{\nchristen2025a,\ntitle={A Formalism for Optimal Search with Dynamic Heuristics},\nauthor={Remo Christen and Florian Pommerening and Clemens B{\\\"u}chner and Malte Helmert},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=qTXrS8LT6K}\n}",
+          "proceedings_url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36098"
+        },
+        {
+          "id": "pxQxMgRFyO",
+          "number": 39,
+          "url": "https://openreview.net/forum?id=pxQxMgRFyO",
+          "title": "Pseudo-Boolean Proof Logging for Optimal Classical Planning",
+          "long": true,
+          "authors": [
+            "Simon Dold",
+            "Malte Helmert",
+            "Jakob Nordstr\u00f6m",
+            "Gabriele R\u00f6ger",
+            "Tanja Schindler"
+          ],
+          "type_of_contribution": [
+            "Theory"
+          ],
+          "topic": [
+            "Abstract Models"
+          ],
+          "keywords": [
+            "PS: Classical (fully-observable, deterministic) planning",
+            "PS: Theoretical foundations of planning"
+          ],
+          "tldr": "We introduce certificates to prove bounded unsolvability of planning tasks based on pseudo-Boolean constraints. As a case study we explain how proof logging is possible in A* with h^max/h^pdb.",
+          "pdf": "https://openreview.net/pdf/3853935ef5b2103ecdca1c9512cccb5031d6a38c.pdf",
+          "bibtex": "@inproceedings{\ndold2025pseudoboolean,\ntitle={Pseudo-Boolean Proof Logging for Optimal Classical Planning},\nauthor={Simon Dold and Malte Helmert and Jakob Nordstr{\\\"o}m and Gabriele R{\\\"o}ger and Tanja Schindler},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=pxQxMgRFyO}\n}",
+          "proceedings_url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36101"
+        },
+        {
+          "id": "kytGi83sfa",
+          "number": 93,
+          "url": "https://openreview.net/forum?id=kytGi83sfa",
+          "title": "Delete-Free Planning with Object Creation is Undecidable",
+          "long": false,
+          "authors": [
+            "Augusto B. Corr\u00eaa"
+          ],
+          "type_of_contribution": [
+            "Theory"
+          ],
+          "topic": [
+            "Abstract Models"
+          ],
+          "keywords": [
+            "PS: Classical (fully-observable, deterministic) planning",
+            "PS: Theoretical foundations of planning"
+          ],
+          "tldr": "We prove that delete-free planning with object creation as action effect is undecidable. We reduce from the problem of checking whether an atom can be reached by the oblivious chase procedure in a Datalog+- program (a.k.a., TGDs).",
+          "pdf": "https://openreview.net/pdf/bd929ab2d073b9a738b343acd20cd2a4224961de.pdf",
+          "bibtex": "@inproceedings{\ncorrea2025deletefree,\ntitle={Delete-Free Planning with Object Creation is Undecidable},\nauthor={Augusto B. Corr{\\^e}a},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=kytGi83sfa}\n}",
+          "proceedings_url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36099"
+        },
+        {
+          "id": "iloz8S5eRk",
+          "number": 184,
+          "url": "https://openreview.net/forum?id=iloz8S5eRk",
+          "title": "Cost-Optimal FOND Planning as Bi-Objective Best-First Search",
+          "long": true,
+          "authors": [
+            "Diego Aineto",
+            "Enrico Scala"
+          ],
+          "type_of_contribution": [
+            "Algorithms",
+            "Models and Representations"
+          ],
+          "topic": [
+            "Abstract Models"
+          ],
+          "keywords": [
+            "PS: Fully observable non-deterministic planning"
+          ],
+          "tldr": "We define bi-objective FOND Planning and present a heuristic search algorithm to compute Pareto-optimal policies. We instantiate this with policy-cost metrics to compute cost-optimal solutions in FOND.",
+          "pdf": "https://openreview.net/pdf/6ec5fbbb72d5e26ac6ceb506aa801a069923342c.pdf",
+          "bibtex": "@inproceedings{\naineto2025costoptimal,\ntitle={Cost-Optimal {FOND} Planning as Bi-Objective Best-First Search},\nauthor={Diego Aineto and Enrico Scala},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=iloz8S5eRk}\n}",
+          "proceedings_url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36110"
+        },
+        {
+          "id": "fQnLuBk8td",
+          "number": 13,
+          "url": "https://openreview.net/forum?id=fQnLuBk8td",
+          "title": "Parallelizing Multi-objective A* Search",
+          "long": true,
+          "authors": [
+            "Saman Ahmadi",
+            "Nathan R. Sturtevant",
+            "Andrea Raith",
+            "Daniel Harabor",
+            "Mahdi Jalili"
+          ],
+          "type_of_contribution": [
+            "Algorithms"
+          ],
+          "topic": [
+            "Abstract Models"
+          ],
+          "keywords": [
+            "PS: Search in planning and scheduling"
+          ],
+          "tldr": "The paper introduces a novel framework that enables efficient parallelization of Multi-Objective A* search.",
+          "pdf": "https://openreview.net/pdf/0c0090cf05575bc4f026351eb68284590d299f4b.pdf",
+          "bibtex": "@inproceedings{\nahmadi2025parallelizing,\ntitle={Parallelizing Multi-objective A* Search},\nauthor={Saman Ahmadi and Nathan R. Sturtevant and Andrea Raith and Daniel Harabor and Mahdi Jalili},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=fQnLuBk8td}\n}",
+          "proceedings_url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36109"
+        },
+        {
+          "id": "aFoobYtyFO",
+          "number": 4,
+          "url": "https://openreview.net/forum?id=aFoobYtyFO",
+          "title": "Partially Observable Monte-Carlo Graph Search",
+          "long": true,
+          "authors": [
+            "YANG YOU",
+            "Vincent Thomas",
+            "Alex Schutz",
+            "Robert Skilton",
+            "Nick Hawes",
+            "Olivier Buffet"
+          ],
+          "type_of_contribution": [
+            "Algorithms"
+          ],
+          "topic": [
+            "Abstract Models"
+          ],
+          "keywords": [
+            "PS: Planning with Markov decision process models (MDPs, POMDPs)",
+            "PS: Planning under uncertainty",
+            "PS: Partially observable planning"
+          ],
+          "pdf": "https://openreview.net/pdf/02ba7c99164f6747a408c9a349aab4eac0fe3b1d.pdf",
+          "bibtex": "@inproceedings{\nyou2025partially,\ntitle={Partially Observable Monte-Carlo Graph Search},\nauthor={YANG YOU and Vincent Thomas and Alex Schutz and Robert Skilton and Nick Hawes and Olivier Buffet},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=aFoobYtyFO}\n}",
+          "proceedings_url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36129"
+        },
+        {
+          "id": "YnDB9MsXbn",
+          "number": 147,
+          "url": "https://openreview.net/forum?id=YnDB9MsXbn",
+          "title": "Howard's Policy Iteration is Subexponential for Deterministic Markov Decision Problems with Rewards of Fixed Bit-size and Arbitrary Discount Factor",
+          "long": true,
+          "authors": [
+            "Dibyangshu Mukherjee",
+            "Shivaram Kalyanakrishnan"
+          ],
+          "type_of_contribution": [
+            "Theory"
+          ],
+          "topic": [
+            "Abstract Models"
+          ],
+          "keywords": [
+            "PS: Planning with Markov decision process models (MDPs, POMDPs)",
+            "PS: Infinite-horizon optimal control problems",
+            "PS: Theoretical foundations of planning"
+          ],
+          "tldr": "We provide a subexponential upper bound on the running time of Howard's Policy Iteration on deterministic Markov Decision Problems, parameterised by the bit-size of the rewards.",
+          "pdf": "https://openreview.net/pdf/1ebbc6ed4a68763a9c213fbeb1549cb49dc9283c.pdf",
+          "bibtex": "@inproceedings{\nmukherjee2025howards,\ntitle={Howard's Policy Iteration is Subexponential for Deterministic Markov Decision Problems with Rewards of Fixed Bit-size and Arbitrary Discount Factor},\nauthor={Dibyangshu Mukherjee and Shivaram Kalyanakrishnan},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=YnDB9MsXbn}\n}",
+          "proceedings_url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36104"
+        },
+        {
+          "id": "SAyqd9vBnh",
+          "number": 243,
+          "url": "https://openreview.net/forum?id=SAyqd9vBnh",
+          "title": "Strategies to Improve Goal Selection in Satisficing Oversubscription Planning",
+          "long": false,
+          "authors": [
+            "Angel Garcia Olaya",
+            "Patricia J. Riddle",
+            "Mike Barley"
+          ],
+          "type_of_contribution": [
+            "Algorithms"
+          ],
+          "topic": [
+            "Abstract Models"
+          ],
+          "keywords": [
+            "PS: Classical (fully-observable, deterministic) planning"
+          ],
+          "tldr": "We present two different techniques to improve goal selection in satisficing oversubscription planning. One aims to reduce the number of estimations needed to select the goals. The second one aims to improve the accuracy of those estimations.",
+          "pdf": "https://openreview.net/pdf/4401689d6ca8f340c17b4d69453a41081672c0cd.pdf",
+          "bibtex": "@inproceedings{\nolaya2025strategies,\ntitle={Strategies to Improve Goal Selection in Satisficing Oversubscription Planning},\nauthor={Angel Garcia Olaya and Patricia J. Riddle and Mike Barley},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=SAyqd9vBnh}\n}",
+          "proceedings_url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36122"
+        },
+        {
+          "id": "R8ipEjZG4Z",
+          "number": 8,
+          "url": "https://openreview.net/forum?id=R8ipEjZG4Z",
+          "title": "Going Topological in Multi-risk Extended Markov Ratio Decision Processes",
+          "long": true,
+          "authors": [
+            "Alexander Zadorojniy",
+            "Orit Davidovich",
+            "Takayuki Osogami"
+          ],
+          "type_of_contribution": [
+            "Theory"
+          ],
+          "topic": [
+            "Abstract Models"
+          ],
+          "keywords": [
+            "PS: Planning with Markov decision process models (MDPs, POMDPs)",
+            "PS: Mathematical programming",
+            "PS: Theoretical foundations of planning"
+          ],
+          "tldr": "We provide a new framework and an algorithm that extends single-risk Extended Markov Ratio Decision Processes (EMRDPs) to the multi-risk setting. We show that the algorithm is strongly polynomial under a monotonicity assumption.",
+          "pdf": "https://openreview.net/pdf/b177015e77d26b747f4d8ddf76f986c78cc19a43.pdf",
+          "bibtex": "@inproceedings{\nzadorojniy2025going,\ntitle={Going Topological in Multi-risk Extended Markov Ratio Decision Processes},\nauthor={Alexander Zadorojniy and Orit Davidovich and Takayuki Osogami},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=R8ipEjZG4Z}\n}",
+          "proceedings_url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36108"
+        },
+        {
+          "id": "PzU8R7wvVq",
+          "number": 174,
+          "url": "https://openreview.net/forum?id=PzU8R7wvVq",
+          "title": "On Using Lazy Greedy Best-First Search with Subgoaling Relaxation in Numeric Planning Problems",
+          "long": false,
+          "authors": [
+            "Enrico Scala",
+            "Luigi Bonassi"
+          ],
+          "type_of_contribution": [
+            "Algorithms"
+          ],
+          "topic": [
+            "Abstract Models"
+          ],
+          "keywords": [
+            "PS: Mixed discrete/continuous planning"
+          ],
+          "pdf": "https://openreview.net/pdf/c247becc4e265b2956c03050fbf956448dfde422.pdf",
+          "bibtex": "@inproceedings{\nscala2025on,\ntitle={On Using Lazy Greedy Best-First Search with Subgoaling Relaxation in Numeric Planning Problems},\nauthor={Enrico Scala and Luigi Bonassi},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=PzU8R7wvVq}\n}",
+          "proceedings_url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36125"
+        },
+        {
+          "id": "PubXu0TCnE",
+          "number": 99,
+          "url": "https://openreview.net/forum?id=PubXu0TCnE",
+          "title": "On Generating Robust Plans and Linear Execution Strategies in Planning Against Nature",
+          "long": true,
+          "authors": [
+            "Lukas Chrpa",
+            "Erez Karpas"
+          ],
+          "type_of_contribution": [
+            "Algorithms"
+          ],
+          "topic": [
+            "Abstract Models"
+          ],
+          "keywords": [
+            "PS: Planning under uncertainty",
+            "PS: Search in planning and scheduling"
+          ],
+          "tldr": "We propose a method that generates linear execution strategies that are guaranteed to achieve the goal despite occurrence exogenous events",
+          "pdf": "https://openreview.net/pdf/7b7cf7e813142231a18ad774b09ca069fd1bc32f.pdf",
+          "bibtex": "@inproceedings{\nchrpa2025on,\ntitle={On Generating Robust Plans and Linear Execution Strategies in Planning Against Nature},\nauthor={Lukas Chrpa and Erez Karpas},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=PubXu0TCnE}\n}",
+          "proceedings_url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36114"
+        },
+        {
+          "id": "Onjy5CUs4X",
+          "number": 87,
+          "url": "https://openreview.net/forum?id=Onjy5CUs4X",
+          "title": "Automating the Generation of Prompts for LLM-based Action Choice in PDDL Planning",
+          "long": true,
+          "authors": [
+            "Katharina Stein",
+            "Daniel Fi\u0161er",
+            "J\u00f6rg Hoffmann",
+            "Alexander Koller"
+          ],
+          "type_of_contribution": [
+            "Algorithms"
+          ],
+          "topic": [
+            "Abstract Models",
+            "Machine Learning"
+          ],
+          "keywords": [
+            "PS: Planning with large language models"
+          ],
+          "pdf": "https://openreview.net/pdf/39162c9902a2367abe93b34118dd50ad53c60eee.pdf",
+          "bibtex": "@inproceedings{\nstein2025automating,\ntitle={Automating the Generation of Prompts for {LLM}-based Action Choice in {PDDL} Planning},\nauthor={Katharina Stein and Daniel Fi{\\v{s}}er and J{\\\"o}rg Hoffmann and Alexander Koller},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=Onjy5CUs4X}\n}",
+          "proceedings_url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36126"
+        },
+        {
+          "id": "MQmQaZBZf7",
+          "number": 59,
+          "url": "https://openreview.net/forum?id=MQmQaZBZf7",
+          "title": "On Picking Good Policies: Leveraging Action-Policy Testing in Policy Training",
+          "long": false,
+          "authors": [
+            "Jan Eisenhut",
+            "Daniel Fi\u0161er",
+            "Isabel Valera",
+            "J\u00f6rg Hoffmann"
+          ],
+          "type_of_contribution": [
+            "Algorithms"
+          ],
+          "topic": [
+            "Abstract Models",
+            "Machine Learning"
+          ],
+          "keywords": [
+            "PS: Learning for planning and scheduling",
+            "PS: Classical (fully-observable, deterministic) planning"
+          ],
+          "pdf": "https://openreview.net/pdf/cd610afe88e3cd9498619ee572f5a758d4ee85cf.pdf",
+          "bibtex": "@inproceedings{\neisenhut2025on,\ntitle={On Picking Good Policies: Leveraging Action-Policy Testing in Policy Training},\nauthor={Jan Eisenhut and Daniel Fi{\\v{s}}er and Isabel Valera and J{\\\"o}rg Hoffmann},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=MQmQaZBZf7}\n}",
+          "proceedings_url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36116"
+        },
+        {
+          "id": "LZjA4rFCrd",
+          "number": 170,
+          "url": "https://openreview.net/forum?id=LZjA4rFCrd",
+          "title": "Platform-Aware Mission Planning",
+          "long": true,
+          "authors": [
+            "Stefan Panjkovic",
+            "Alessandro Cimatti",
+            "Andrea Micheli",
+            "Stefano Tonetta"
+          ],
+          "type_of_contribution": [
+            "Theory",
+            "Algorithms",
+            "Models and Representations"
+          ],
+          "topic": [
+            "Abstract Models"
+          ],
+          "keywords": [
+            "PS: Temporal planning",
+            "PS: SAT, SMT and CP",
+            "PS: Plan execution and monitoring",
+            "PS: Model checking for trust, safety and robustness"
+          ],
+          "pdf": "https://openreview.net/pdf/c3682bce677d1675f090c4abe3a2799f2e7cc51c.pdf",
+          "bibtex": "@inproceedings{\npanjkovic2025platformaware,\ntitle={Platform-Aware Mission Planning},\nauthor={Stefan Panjkovic and Alessandro Cimatti and Andrea Micheli and Stefano Tonetta},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=LZjA4rFCrd}\n}",
+          "proceedings_url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36105"
+        },
+        {
+          "id": "LZgGskBGM3",
+          "number": 17,
+          "url": "https://openreview.net/forum?id=LZgGskBGM3",
+          "title": "Potential Heuristics: Weakening Consistency Constraints",
+          "long": false,
+          "authors": [
+            "Pascal Lauer",
+            "Daniel Fi\u0161er"
+          ],
+          "type_of_contribution": [
+            "Algorithms"
+          ],
+          "topic": [
+            "Abstract Models"
+          ],
+          "keywords": [
+            "PS: Classical (fully-observable, deterministic) planning"
+          ],
+          "tldr": "We propose a new type of consistency constraint for inference of potential heuristics that widens the range of possible potential heuristics.",
+          "pdf": "https://openreview.net/pdf/eb25e0ac52885821eea3f4921b5a44105ef3db8f.pdf",
+          "bibtex": "@inproceedings{\nlauer2025potential,\ntitle={Potential Heuristics: Weakening Consistency Constraints},\nauthor={Pascal Lauer and Daniel Fi{\\v{s}}er},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=LZgGskBGM3}\n}",
+          "proceedings_url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36121"
+        },
+        {
+          "id": "KxxxyuOFg2",
+          "number": 117,
+          "url": "https://openreview.net/forum?id=KxxxyuOFg2",
+          "title": "Observation Adaptation via Annealed Importance Resampling for Partially Observable Markov Decision Processes",
+          "long": true,
+          "authors": [
+            "Yunuo Zhang",
+            "Baiting Luo",
+            "Ayan Mukhopadhyay",
+            "Abhishek Dubey"
+          ],
+          "type_of_contribution": [
+            "Algorithms"
+          ],
+          "topic": [
+            "Abstract Models"
+          ],
+          "keywords": [
+            "PS: Planning under uncertainty",
+            "PS: Planning with Markov decision process models (MDPs, POMDPs)",
+            "PS: Partially observable planning"
+          ],
+          "tldr": "We propose a novel algorithmic approach for online planning in POMDPs under noisy observations",
+          "pdf": "https://openreview.net/pdf/1be76417e7ae123360e02f757c28548bf185da69.pdf",
+          "bibtex": "@inproceedings{\nzhang2025observation,\ntitle={Observation Adaptation via Annealed Importance Resampling for Partially Observable Markov Decision Processes},\nauthor={Yunuo Zhang and Baiting Luo and Ayan Mukhopadhyay and Abhishek Dubey},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=KxxxyuOFg2}\n}",
+          "proceedings_url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36132"
+        },
+        {
+          "id": "KKN4NlIHnK",
+          "number": 28,
+          "url": "https://openreview.net/forum?id=KKN4NlIHnK",
+          "title": "Tight Bounds for Lifted HTN Plan Verification and Bounded Plan Existence",
+          "long": true,
+          "authors": [
+            "Pascal Lauer",
+            "S.T. Lin",
+            "Pascal Tobias Bercher"
+          ],
+          "type_of_contribution": [
+            "Theory"
+          ],
+          "topic": [
+            "Abstract Models"
+          ],
+          "keywords": [
+            "PS: Planning with Hierarchical Task Networks (HTN)"
+          ],
+          "pdf": "https://openreview.net/pdf/28e1d621a27aa98bd1014379ac9171a416b6ce82.pdf",
+          "bibtex": "@inproceedings{\nlauer2025tight,\ntitle={Tight Bounds for Lifted {HTN} Plan Verification and Bounded Plan Existence},\nauthor={Pascal Lauer and S.T. Lin and Pascal Tobias Bercher},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=KKN4NlIHnK}\n}",
+          "proceedings_url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36102"
+        },
+        {
+          "id": "K7OTf3x7YZ",
+          "number": 149,
+          "url": "https://openreview.net/forum?id=K7OTf3x7YZ",
+          "title": "Alternation-Based Novelty Search",
+          "long": false,
+          "authors": [
+            "Augusto B. Corr\u00eaa",
+            "Jendrik Seipp"
+          ],
+          "type_of_contribution": [
+            "Algorithms"
+          ],
+          "topic": [
+            "Abstract Models"
+          ],
+          "keywords": [
+            "PS: Classical (fully-observable, deterministic) planning"
+          ],
+          "pdf": "https://openreview.net/pdf/c6e66d9fc2f673eb7a271c2a74fdedd34c7113b9.pdf",
+          "bibtex": "@inproceedings{\ncorrea2025alternationbased,\ntitle={Alternation-Based Novelty Search},\nauthor={Augusto B. Corr{\\^e}a and Jendrik Seipp},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=K7OTf3x7YZ}\n}",
+          "proceedings_url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36115"
+        },
+        {
+          "id": "Fw0dMQVS9l",
+          "number": 100,
+          "url": "https://openreview.net/forum?id=Fw0dMQVS9l",
+          "title": "Landmark Generation in HTN Planning Revisited",
+          "long": true,
+          "authors": [
+            "Victor Scherer Putrich",
+            "Felipe Meneguzzi",
+            "Andr\u00e9 Grahl Pereira"
+          ],
+          "type_of_contribution": [
+            "Algorithms"
+          ],
+          "topic": [
+            "Abstract Models"
+          ],
+          "keywords": [
+            "PS: Planning with Hierarchical Task Networks (HTN)"
+          ],
+          "tldr": "The paper presents a new method for generating landmarks in HTN planning using a reformulated AND/OR graph that captures more task hierarchical dependencies among tasks and methods.",
+          "pdf": "https://openreview.net/pdf/cd59b9b19a8e22a6bf55f4c59d131092b9004e53.pdf",
+          "bibtex": "@inproceedings{\nputrich2025landmark,\ntitle={Landmark Generation in {HTN} Planning Revisited},\nauthor={Victor Scherer Putrich and Felipe Meneguzzi and Andr{\\'e} Grahl Pereira},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=Fw0dMQVS9l}\n}",
+          "proceedings_url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36123"
+        },
+        {
+          "id": "AJESbF9qBI",
+          "number": 27,
+          "url": "https://openreview.net/forum?id=AJESbF9qBI",
+          "title": "Continuing the Quest for Polynomial Time Heuristics in PDDL Input Size: Tractable Cases for Lifted $h^{add}$",
+          "long": true,
+          "authors": [
+            "Pascal Lauer",
+            "Alvaro Torralba",
+            "Daniel H\u00f6ller",
+            "J\u00f6rg Hoffmann"
+          ],
+          "type_of_contribution": [
+            "Theory"
+          ],
+          "topic": [
+            "Abstract Models"
+          ],
+          "keywords": [
+            "PS: Model-based reasoning",
+            "PS: Classical (fully-observable, deterministic) planning"
+          ],
+          "pdf": "https://openreview.net/pdf/ec74566e4a9749abdfc2f1543ca19feaa2afbec4.pdf",
+          "bibtex": "@inproceedings{\nlauer2025continuing,\ntitle={Continuing the Quest for Polynomial Time Heuristics in {PDDL} Input Size: Tractable Cases for Lifted \\$h{\\textasciicircum}\\{add\\}\\$},\nauthor={Pascal Lauer and Alvaro Torralba and Daniel H{\\\"o}ller and J{\\\"o}rg Hoffmann},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=AJESbF9qBI}\n}",
+          "proceedings_url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36103"
+        },
+        {
+          "id": "5ro5Tknkd9",
+          "number": 19,
+          "url": "https://openreview.net/forum?id=5ro5Tknkd9",
+          "title": "Hardness of Chosen Length Planning Games and Regular Fixed Methods FOND HTN Planning",
+          "long": true,
+          "authors": [
+            "P. Maurice Dekker",
+            "Gregor Behnke"
+          ],
+          "type_of_contribution": [
+            "Theory"
+          ],
+          "topic": [
+            "Abstract Models"
+          ],
+          "keywords": [
+            "PS: Fully observable non-deterministic planning",
+            "PS: Planning with Hierarchical Task Networks (HTN)"
+          ],
+          "tldr": "We prove EXPSPACE-hardness of a class of FOND HTN problems, solving an open problem from Chen and Bercher (2021).",
+          "pdf": "https://openreview.net/pdf/d6c15e9ace67f81896ac97e80ddec1695fe20967.pdf",
+          "bibtex": "@inproceedings{\ndekker2025hardness,\ntitle={Hardness of Chosen Length Planning Games and Regular Fixed Methods {FOND} {HTN} Planning},\nauthor={P. Maurice Dekker and Gregor Behnke},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=5ro5Tknkd9}\n}",
+          "proceedings_url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36100"
+        },
+        {
+          "id": "5hlH3Ez9yV",
+          "number": 144,
+          "url": "https://openreview.net/forum?id=5hlH3Ez9yV",
+          "title": "On the Notion of Plan Quality for PDDL+",
+          "long": true,
+          "authors": [
+            "Francesco Percassi",
+            "Enrico Scala",
+            "Mauro Vallati"
+          ],
+          "type_of_contribution": [
+            "Theory"
+          ],
+          "topic": [
+            "Abstract Models"
+          ],
+          "keywords": [
+            "PS: Mixed discrete/continuous planning"
+          ],
+          "pdf": "https://openreview.net/pdf/aca8717e38ef5553c69f38c4a93efac757069e7f.pdf",
+          "bibtex": "@inproceedings{\npercassi2025on,\ntitle={On the Notion of Plan Quality for {PDDL}+},\nauthor={Francesco Percassi and Enrico Scala and Mauro Vallati},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=5hlH3Ez9yV}\n}",
+          "proceedings_url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36106"
+        },
+        {
+          "id": "42y3xOy957",
+          "number": 26,
+          "url": "https://openreview.net/forum?id=42y3xOy957",
+          "title": "An Improved Lower Bound on the Length of Locally-Improving Policy Sequences in MDPs with Large Action Sets",
+          "long": true,
+          "authors": [
+            "Pratyush Agarwal",
+            "Mulinti Shaik Wajid",
+            "Shivaram Kalyanakrishnan"
+          ],
+          "type_of_contribution": [
+            "Theory"
+          ],
+          "topic": [
+            "Abstract Models"
+          ],
+          "keywords": [
+            "PS: Planning with Markov decision process models (MDPs, POMDPs)",
+            "PS: Infinite-horizon optimal control problems"
+          ],
+          "tldr": "The paper provides an improved lower bound on the number of steps that policy iteration can perform on MDPs with 6 or more actions per state.",
+          "pdf": "https://openreview.net/pdf/132c831c65a5b60507428ccbf758a91e35fb2aa6.pdf",
+          "bibtex": "@inproceedings{\nagarwal2025an,\ntitle={An Improved Lower Bound on the Length of Locally-Improving Policy Sequences in {MDP}s with Large Action Sets},\nauthor={Pratyush Agarwal and Mulinti Shaik Wajid and Shivaram Kalyanakrishnan},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=42y3xOy957}\n}",
+          "proceedings_url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36095"
+        },
+        {
+          "id": "3DzguMY0mb",
+          "number": 123,
+          "url": "https://openreview.net/forum?id=3DzguMY0mb",
+          "title": "Agent Planning Programs as Non-deterministic Planning under Fairness",
+          "long": true,
+          "authors": [
+            "Nitin Yadav",
+            "Sebastian Sardina",
+            "Hector Geffner"
+          ],
+          "type_of_contribution": [
+            "Models and Representations",
+            "Algorithms"
+          ],
+          "topic": [
+            "Abstract Models"
+          ],
+          "keywords": [
+            "PS: Fully observable non-deterministic planning"
+          ],
+          "pdf": "https://openreview.net/pdf/df4988f858e8b00ac66a44a5074839ed20faac2f.pdf",
+          "bibtex": "@inproceedings{\nyadav2025agent,\ntitle={Agent Planning Programs as Non-deterministic Planning under Fairness},\nauthor={Nitin Yadav and Sebastian Sardina and Hector Geffner},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=3DzguMY0mb}\n}",
+          "proceedings_url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36138"
+        },
+        {
+          "id": "2QA1LgiGO3",
+          "number": 68,
+          "url": "https://openreview.net/forum?id=2QA1LgiGO3",
+          "title": "A Sampling Approach to Planning with Infinite Domain Control Variables",
+          "long": false,
+          "authors": [
+            "\u00c1ngel Aso-Mollar",
+            "Diego Aineto",
+            "Enrico Scala",
+            "Eva Onaindia"
+          ],
+          "type_of_contribution": [
+            "Algorithms"
+          ],
+          "topic": [
+            "Abstract Models"
+          ],
+          "keywords": [
+            "PS: Classical (fully-observable, deterministic) planning",
+            "PS: Search in planning and scheduling"
+          ],
+          "pdf": "https://openreview.net/pdf/7850ebd2c001090f728ff8f670e0a4b8edfec342.pdf",
+          "bibtex": "@inproceedings{\naso-mollar2025a,\ntitle={A Sampling Approach to Planning with Infinite Domain Control Variables},\nauthor={{\\'A}ngel Aso-Mollar and Diego Aineto and Enrico Scala and Eva Onaindia},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=2QA1LgiGO3}\n}",
+          "proceedings_url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36111"
+        },
+        {
+          "id": "0XuHITptMz",
+          "number": 97,
+          "url": "https://openreview.net/forum?id=0XuHITptMz",
+          "title": "Initial Condition Retrieving for Hybrid and Numeric Planning Problems",
+          "long": true,
+          "authors": [
+            "Matteo Cardellini",
+            "Francesco Percassi",
+            "Marco Maratea",
+            "Mauro Vallati"
+          ],
+          "type_of_contribution": [
+            "Theory"
+          ],
+          "topic": [
+            "Abstract Models",
+            "Knowledge Engineering"
+          ],
+          "keywords": [
+            "PS: Mixed discrete/continuous planning"
+          ],
+          "pdf": "https://openreview.net/pdf/e8b0b7628029051d495a581ebfd633eb698848a8.pdf",
+          "bibtex": "@inproceedings{\ncardellini2025initial,\ntitle={Initial Condition Retrieving for Hybrid and Numeric Planning Problems},\nauthor={Matteo Cardellini and Francesco Percassi and Marco Maratea and Mauro Vallati},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=0XuHITptMz}\n}",
+          "proceedings_url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36097"
+        },
+        {
+          "id": "0LT45ENZaE",
+          "number": 260,
+          "url": "https://openreview.net/forum?id=0LT45ENZaE",
+          "title": "SibylSatOpt: a MaxSAT-based Greedy Optimal Search for TOHTN Planning",
+          "long": true,
+          "authors": [
+            "Gaspard Quenard",
+            "Damien Pellier",
+            "Humbert FIORINO"
+          ],
+          "type_of_contribution": [
+            "Algorithms"
+          ],
+          "topic": [
+            "Abstract Models"
+          ],
+          "keywords": [
+            "PS: Planning with Hierarchical Task Networks (HTN)",
+            "PS: SAT, SMT and CP"
+          ],
+          "tldr": "A novel MaxSAT-based TOHTN planner that uses greedy best-first search with an admissible heuristic to find optimal solutions.",
+          "pdf": "https://openreview.net/pdf/d09d298387c01b647c18ecb1a2a07de87088cbfb.pdf",
+          "bibtex": "@inproceedings{\nquenard2025sibylsatopt,\ntitle={SibylSatOpt: a Max{SAT}-based Greedy Optimal Search for {TOHTN} Planning},\nauthor={Gaspard Quenard and Damien Pellier and Humbert FIORINO},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=0LT45ENZaE}\n}",
+          "proceedings_url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36124"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "name": "Machine Learning",
+      "papers": [
+        {
+          "id": "t8Th52M2Tv",
+          "number": 224,
+          "url": "https://openreview.net/forum?id=t8Th52M2Tv",
+          "title": "Leveraging Action Relational Structures for Integrated Learning and Planning",
+          "long": true,
+          "authors": [
+            "Ryan Xiao Wang",
+            "Felipe Trevizan"
+          ],
+          "type_of_contribution": [
+            "Algorithms"
+          ],
+          "topic": [
+            "Machine Learning"
+          ],
+          "keywords": [
+            "PS: Learning for planning and scheduling",
+            "PS: Classical (fully-observable, deterministic) planning",
+            "PS: Search in planning and scheduling"
+          ],
+          "pdf": "https://openreview.net/pdf/a500cf79b21c043d43240c40e7e304e92e281a9e.pdf",
+          "bibtex": "@inproceedings{\nwang2025leveraging,\ntitle={Leveraging Action Relational Structures for Integrated Learning and Planning},\nauthor={Ryan Xiao Wang and Felipe Trevizan},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=t8Th52M2Tv}\n}",
+          "proceedings_url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36128"
+        },
+        {
+          "id": "mvUngFs3ec",
+          "number": 166,
+          "url": "https://openreview.net/forum?id=mvUngFs3ec",
+          "title": "Per-Domain Generalizing Policies: On Validation Instances and Scaling Behavior",
+          "long": false,
+          "authors": [
+            "Timo P. Gros",
+            "Nicola J. M\u00fcller",
+            "Daniel Fi\u0161er",
+            "Isabel Valera",
+            "Verena Wolf",
+            "J\u00f6rg Hoffmann"
+          ],
+          "type_of_contribution": [
+            "Algorithms"
+          ],
+          "topic": [
+            "Machine Learning"
+          ],
+          "keywords": [
+            "PS: Generalized planning"
+          ],
+          "tldr": "We introduce a dynamic validation method to improve the scaling behavior of GNN-based action policies, enabling them to generalize effectively across larger instances and validating performance across 9 domains",
+          "pdf": "https://openreview.net/pdf/f89b1eeae66c86f06c1613b6c49444a8fcfc3d6f.pdf",
+          "bibtex": "@inproceedings{\ngros2025perdomain,\ntitle={Per-Domain Generalizing Policies: On Validation Instances and Scaling Behavior},\nauthor={Timo P. Gros and Nicola J. M{\\\"u}ller and Daniel Fi{\\v{s}}er and Isabel Valera and Verena Wolf and J{\\\"o}rg Hoffmann},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=mvUngFs3ec}\n}",
+          "proceedings_url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36118"
+        },
+        {
+          "id": "gd615M6alZ",
+          "number": 63,
+          "url": "https://openreview.net/forum?id=gd615M6alZ",
+          "title": "Rack Position Optimization in Large-Scale Heterogeneous Data Centers",
+          "long": true,
+          "authors": [
+            "Chang-Lin Chen",
+            "Jiayu Chen",
+            "Tian Lan",
+            "Zhaoxia Zhao",
+            "Hongbo Dong",
+            "Vaneet Aggarwal"
+          ],
+          "type_of_contribution": [
+            "Models and Representations"
+          ],
+          "topic": [
+            "Machine Learning",
+            "Applications"
+          ],
+          "keywords": [
+            "PS: Applications",
+            "PS: Learning for planning and scheduling"
+          ],
+          "pdf": "https://openreview.net/pdf/51b7dc2b3c5e0c25e0dcf90506fb5e801d11709b.pdf",
+          "bibtex": "@inproceedings{\nchen2025rack,\ntitle={Rack Position Optimization in Large-Scale Heterogeneous Data Centers},\nauthor={Chang-Lin Chen and Jiayu Chen and Tian Lan and Zhaoxia Zhao and Hongbo Dong and Vaneet Aggarwal},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=gd615M6alZ}\n}",
+          "proceedings_url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36133"
+        },
+        {
+          "id": "cUmrgNVh0d",
+          "number": 74,
+          "url": "https://openreview.net/forum?id=cUmrgNVh0d",
+          "title": "Learning Lifted STRIPS Models from Action Traces alone: A Simple, General, and Scalable Solution",
+          "long": true,
+          "authors": [
+            "Jonas G\u00f6sgens",
+            "Niklas Jansen",
+            "Hector Geffner"
+          ],
+          "type_of_contribution": [
+            "Algorithms"
+          ],
+          "topic": [
+            "Machine Learning"
+          ],
+          "keywords": [
+            "PS: Learning for planning and scheduling"
+          ],
+          "tldr": "We introduce a new method for learning lifted STRIPS models from traces alone, including the predicates, that is simple, general, and scalable",
+          "pdf": "https://openreview.net/pdf/0aae562f0fb773159605a9ff845c9ff3019a91be.pdf",
+          "bibtex": "@inproceedings{\ngosgens2025learning,\ntitle={Learning Lifted {STRIPS} Models from Action Traces alone: A Simple, General, and Scalable Solution},\nauthor={Jonas G{\\\"o}sgens and Niklas Jansen and Hector Geffner},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=cUmrgNVh0d}\n}",
+          "proceedings_url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36117"
+        },
+        {
+          "id": "RJMyXbDdzx",
+          "number": 85,
+          "url": "https://openreview.net/forum?id=RJMyXbDdzx",
+          "title": "Chasing Progress, Not Perfection: Revisiting Strategies for End-to-End LLM Plan Generation",
+          "long": true,
+          "authors": [
+            "Sukai Huang",
+            "Nir Lipovetzky"
+          ],
+          "type_of_contribution": [
+            "Algorithms"
+          ],
+          "topic": [
+            "Machine Learning"
+          ],
+          "keywords": [
+            "PS: Planning with large language models"
+          ],
+          "tldr": "Our study challenges prevailing views on LLMs' planning abilities. While fine-tuning on planning data alone doesn't yield robust skills, strategies to enhance LLM reasoning indeed made progress towards better plan quality.",
+          "pdf": "https://openreview.net/pdf/bd9f5e46bda3f9c33d405d313eec9bd5ceb1fa91.pdf",
+          "bibtex": "@inproceedings{\nhuang2025chasing,\ntitle={Chasing Progress, Not Perfection: Revisiting Strategies for End-to-End {LLM} Plan Generation},\nauthor={Sukai Huang and Nir Lipovetzky},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=RJMyXbDdzx}\n}",
+          "proceedings_url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36119"
+        },
+        {
+          "id": "Onjy5CUs4X",
+          "number": 87,
+          "url": "https://openreview.net/forum?id=Onjy5CUs4X",
+          "title": "Automating the Generation of Prompts for LLM-based Action Choice in PDDL Planning",
+          "long": true,
+          "authors": [
+            "Katharina Stein",
+            "Daniel Fi\u0161er",
+            "J\u00f6rg Hoffmann",
+            "Alexander Koller"
+          ],
+          "type_of_contribution": [
+            "Algorithms"
+          ],
+          "topic": [
+            "Abstract Models",
+            "Machine Learning"
+          ],
+          "keywords": [
+            "PS: Planning with large language models"
+          ],
+          "pdf": "https://openreview.net/pdf/39162c9902a2367abe93b34118dd50ad53c60eee.pdf",
+          "bibtex": "@inproceedings{\nstein2025automating,\ntitle={Automating the Generation of Prompts for {LLM}-based Action Choice in {PDDL} Planning},\nauthor={Katharina Stein and Daniel Fi{\\v{s}}er and J{\\\"o}rg Hoffmann and Alexander Koller},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=Onjy5CUs4X}\n}",
+          "proceedings_url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36126"
+        },
+        {
+          "id": "MUuHzfH4Jv",
+          "number": 98,
+          "url": "https://openreview.net/forum?id=MUuHzfH4Jv",
+          "title": "Instance-based Approximation Guarantees for Graph-based Nearest Neighbor Search",
+          "long": true,
+          "authors": [
+            "Yannick Bosch",
+            "Sabine Storandt"
+          ],
+          "type_of_contribution": [
+            "Algorithms",
+            "Theory"
+          ],
+          "topic": [
+            "Machine Learning"
+          ],
+          "keywords": [
+            "PS: Search in planning and scheduling",
+            "PS: Routing"
+          ],
+          "pdf": "https://openreview.net/pdf/1a69075a5690283c07898576391f3b8fc995bc63.pdf",
+          "bibtex": "@inproceedings{\nbosch2025instancebased,\ntitle={Instance-based Approximation Guarantees for Graph-based Nearest Neighbor Search},\nauthor={Yannick Bosch and Sabine Storandt},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=MUuHzfH4Jv}\n}",
+          "proceedings_url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36113"
+        },
+        {
+          "id": "MQmQaZBZf7",
+          "number": 59,
+          "url": "https://openreview.net/forum?id=MQmQaZBZf7",
+          "title": "On Picking Good Policies: Leveraging Action-Policy Testing in Policy Training",
+          "long": false,
+          "authors": [
+            "Jan Eisenhut",
+            "Daniel Fi\u0161er",
+            "Isabel Valera",
+            "J\u00f6rg Hoffmann"
+          ],
+          "type_of_contribution": [
+            "Algorithms"
+          ],
+          "topic": [
+            "Abstract Models",
+            "Machine Learning"
+          ],
+          "keywords": [
+            "PS: Learning for planning and scheduling",
+            "PS: Classical (fully-observable, deterministic) planning"
+          ],
+          "pdf": "https://openreview.net/pdf/cd610afe88e3cd9498619ee572f5a758d4ee85cf.pdf",
+          "bibtex": "@inproceedings{\neisenhut2025on,\ntitle={On Picking Good Policies: Leveraging Action-Policy Testing in Policy Training},\nauthor={Jan Eisenhut and Daniel Fi{\\v{s}}er and Isabel Valera and J{\\\"o}rg Hoffmann},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=MQmQaZBZf7}\n}",
+          "proceedings_url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36116"
+        },
+        {
+          "id": "F7m9hfqLox",
+          "number": 133,
+          "url": "https://openreview.net/forum?id=F7m9hfqLox",
+          "title": "Learning Efficiency Meets Symmetry Breaking",
+          "long": false,
+          "authors": [
+            "Yingbin Bai",
+            "Sylvie Thiebaux",
+            "Felipe Trevizan"
+          ],
+          "type_of_contribution": [
+            "Algorithms",
+            "Models and Representations"
+          ],
+          "topic": [
+            "Machine Learning"
+          ],
+          "keywords": [
+            "PS: Learning for planning and scheduling"
+          ],
+          "pdf": "https://openreview.net/pdf/e7189f936df4d5fef446a850e6c79142762f0b31.pdf",
+          "bibtex": "@inproceedings{\nbai2025learning,\ntitle={Learning Efficiency Meets Symmetry Breaking},\nauthor={Yingbin Bai and Sylvie Thiebaux and Felipe Trevizan},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=F7m9hfqLox}\n}",
+          "proceedings_url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36112"
+        },
+        {
+          "id": "BfjOv8IZJI",
+          "number": 142,
+          "url": "https://openreview.net/forum?id=BfjOv8IZJI",
+          "title": "On Planning Through LLMs",
+          "long": true,
+          "authors": [
+            "Mattia Chiari",
+            "Luca Putelli",
+            "Nicholas Rossetti",
+            "Ivan Serina",
+            "Alfonso Gerevini"
+          ],
+          "type_of_contribution": [
+            "Position Paper"
+          ],
+          "topic": [
+            "Machine Learning"
+          ],
+          "keywords": [
+            "PS: Learning for planning and scheduling"
+          ],
+          "tldr": "This survey reviews studies on LLMs in automated planning, where LLMs generate plans from a problem and a domain. It covers different models, approaches, and challenges, highlighting trends and key findings in evaluating LLMs planning capabilities.",
+          "pdf": "https://openreview.net/pdf/83dcf1eb5995f3fa805b143358375be9da3681cf.pdf",
+          "bibtex": "@inproceedings{\nchiari2025on,\ntitle={On Planning Through {LLM}s},\nauthor={Mattia Chiari and Luca Putelli and Nicholas Rossetti and Ivan Serina and Alfonso Gerevini},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=BfjOv8IZJI}\n}",
+          "proceedings_url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36140"
+        },
+        {
+          "id": "7qrfgtLcNb",
+          "number": 178,
+          "url": "https://openreview.net/forum?id=7qrfgtLcNb",
+          "title": "HDDLGym: A Tool for Studying Multi-Agent Hierarchical Problems Defined in HDDL with OpenAI Gym",
+          "long": true,
+          "authors": [
+            "Ngoc La",
+            "Ruaridh Mon-Williams",
+            "Julie Shah"
+          ],
+          "type_of_contribution": [
+            "Tools"
+          ],
+          "topic": [
+            "Machine Learning",
+            "Applications"
+          ],
+          "keywords": [
+            "PS: Planning with Hierarchical Task Networks (HTN)",
+            "PS: Planning with Markov decision process models (MDPs, POMDPs)",
+            "PS: Multi-agent path-finding"
+          ],
+          "tldr": "This paper presents the design, implementation, and demonstration of HDDLgym, a Python tool that integrates HDDL and Gym to support research on reinforcement learning in hierarchical planning, with an emphasis on multi-agent environments.",
+          "pdf": "https://openreview.net/pdf/3148a7f11ca0f739dcb7e17bc14108245f226aed.pdf",
+          "bibtex": "@inproceedings{\nla2025hddlgym,\ntitle={{HDDLG}ym: A Tool for Studying Multi-Agent Hierarchical Problems Defined in {HDDL} with Open{AI} Gym},\nauthor={Ngoc La and Ruaridh Mon-Williams and Julie Shah},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=7qrfgtLcNb}\n}",
+          "proceedings_url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36143"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "name": "Knowledge Engineering",
+      "papers": [
+        {
+          "id": "xLMCRZjWGU",
+          "number": 197,
+          "url": "https://openreview.net/forum?id=xLMCRZjWGU",
+          "title": "Quality Diversity for Variational Quantum Circuit Optimization",
+          "long": true,
+          "authors": [
+            "Maximilian Zorn",
+            "Jonas Stein",
+            "Maximilian Balthasar Mansky",
+            "Philipp Altmann",
+            "Michael K\u00f6lle",
+            "Claudia Linnhoff-Popien"
+          ],
+          "type_of_contribution": [
+            "Models and Representations"
+          ],
+          "topic": [
+            "Knowledge Engineering"
+          ],
+          "keywords": [
+            "PS: Local search and evolutionary programming",
+            "PS: Sub-modular and gradient-free optimization"
+          ],
+          "tldr": "We introduce a lightweight circuit representation for optimization of variational quantum circuits using the quality diversity method covariance matrix adaptation.",
+          "pdf": "https://openreview.net/pdf/d6f23f66f2934d1cccefe24fb5dbfdeddad81df3.pdf",
+          "bibtex": "@inproceedings{\nzorn2025quality,\ntitle={Quality Diversity for Variational Quantum Circuit Optimization},\nauthor={Maximilian Zorn and Jonas Stein and Maximilian Balthasar Mansky and Philipp Altmann and Michael K{\\\"o}lle and Claudia Linnhoff-Popien},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=xLMCRZjWGU}\n}",
+          "proceedings_url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36139"
+        },
+        {
+          "id": "om81nNmEcY",
+          "number": 171,
+          "url": "https://openreview.net/forum?id=om81nNmEcY",
+          "title": "On the Gains from Using Action Observations in Domain Repair",
+          "long": false,
+          "authors": [
+            "Alba Gragera",
+            "Raquel Fuentetaja",
+            "Angel Garcia Olaya",
+            "Fernando Fern\u00e1ndez"
+          ],
+          "type_of_contribution": [
+            "Models and Representations"
+          ],
+          "topic": [
+            "Knowledge Engineering"
+          ],
+          "keywords": [
+            "PS: Planning with incomplete models"
+          ],
+          "tldr": "We extend a domain repair approach to accept action observations (partial or complete plans) as input, and examine their impact on improving the quality of resulting models",
+          "pdf": "https://openreview.net/pdf/09c4b0a9044617ec05d4b6fabab2fb1a7f01b915.pdf",
+          "bibtex": "@inproceedings{\ngragera2025on,\ntitle={On the Gains from Using Action Observations in Domain Repair},\nauthor={Alba Gragera and Raquel Fuentetaja and Angel Garcia Olaya and Fernando Fern{\\'a}ndez},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=om81nNmEcY}\n}",
+          "proceedings_url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36136"
+        },
+        {
+          "id": "euTg3gstm3",
+          "number": 20,
+          "url": "https://openreview.net/forum?id=euTg3gstm3",
+          "title": "Is This Plan Necessarily Redundant? On the Computational Complexity of Unobserved Domain Learning",
+          "long": true,
+          "authors": [
+            "Pascal Bachor",
+            "P. Maurice Dekker",
+            "Gregor Behnke"
+          ],
+          "type_of_contribution": [
+            "Theory"
+          ],
+          "topic": [
+            "Knowledge Engineering"
+          ],
+          "keywords": [
+            "PS: Learning for planning and scheduling",
+            "PS: Partially observable planning",
+            "PS: Theoretical foundations of planning"
+          ],
+          "tldr": "We study the computational complexity of domain learning in an unobservable environment assuming plans are non-redundant.",
+          "pdf": "https://openreview.net/pdf/ec62b715440f1975373c8de27cbcaf2bece8997f.pdf",
+          "bibtex": "@inproceedings{\nbachor2025is,\ntitle={Is This Plan Necessarily Redundant? On the Computational Complexity of Unobserved Domain Learning},\nauthor={Pascal Bachor and P. Maurice Dekker and Gregor Behnke},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=euTg3gstm3}\n}",
+          "proceedings_url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36096"
+        },
+        {
+          "id": "c2SgKP28RN",
+          "number": 145,
+          "url": "https://openreview.net/forum?id=c2SgKP28RN",
+          "title": "Knowledge Engineering for Planning and Scheduling in the LLM Era",
+          "long": false,
+          "authors": [
+            "Mauro Vallati",
+            "Roman Bart\u00e1k",
+            "Lukas Chrpa",
+            "Thomas Leo McCluskey",
+            "Ron Petrick"
+          ],
+          "type_of_contribution": [
+            "Position Paper"
+          ],
+          "topic": [
+            "Knowledge Engineering"
+          ],
+          "keywords": [
+            "PS: Applications"
+          ],
+          "pdf": "https://openreview.net/pdf/8d59bd09107ade4cb92c5d36c40c9a5b7b4924c5.pdf",
+          "bibtex": "@inproceedings{\nvallati2025knowledge,\ntitle={Knowledge Engineering for Planning and Scheduling in the {LLM} Era},\nauthor={Mauro Vallati and Roman Bart{\\'a}k and Lukas Chrpa and Thomas Leo McCluskey and Ron Petrick},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=c2SgKP28RN}\n}",
+          "proceedings_url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36142"
+        },
+        {
+          "id": "ZYhAROP2ji",
+          "number": 114,
+          "url": "https://openreview.net/forum?id=ZYhAROP2ji",
+          "title": "HTN Plan Repair Algorithms Compared: Strengths and Weaknesses of Different Methods",
+          "long": true,
+          "authors": [
+            "Paul Zaidins",
+            "Robert P. Goldman",
+            "Ugur Kuter",
+            "Dana S. Nau",
+            "Mark Roberts"
+          ],
+          "type_of_contribution": [
+            "Algorithms"
+          ],
+          "topic": [
+            "Knowledge Engineering"
+          ],
+          "keywords": [
+            "PS: Planning with Hierarchical Task Networks (HTN)",
+            "PS: Plan execution and monitoring"
+          ],
+          "tldr": "We compare three recent hierarchical plan-repair algorithms both theoretically and empirically, and show that their differing definitions of plan repair cause differences in the problems they can solve and the repairs they can make.",
+          "pdf": "https://openreview.net/pdf/9ef9a3dc89245f49dccd6ce07b96facc39c3ec66.pdf",
+          "bibtex": "@inproceedings{\nzaidins2025htn,\ntitle={{HTN} Plan Repair Algorithms Compared: Strengths and Weaknesses of Different Methods},\nauthor={Paul Zaidins and Robert P. Goldman and Ugur Kuter and Dana S. Nau and Mark Roberts},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=ZYhAROP2ji}\n}",
+          "proceedings_url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36131"
+        },
+        {
+          "id": "OPSJ6Ky48N",
+          "number": 38,
+          "url": "https://openreview.net/forum?id=OPSJ6Ky48N",
+          "title": "LTLf Adaptive Synthesis for Multi-Tier Goals in Nondeterministic Domains",
+          "long": true,
+          "authors": [
+            "Giuseppe De Giacomo",
+            "Gianmarco Parretti",
+            "Shufang Zhu"
+          ],
+          "type_of_contribution": [
+            "Models and Representations"
+          ],
+          "topic": [
+            "Knowledge Engineering"
+          ],
+          "keywords": [
+            "PS: Model-based reasoning",
+            "PS: Fully observable non-deterministic planning"
+          ],
+          "tldr": "We present a technique to solve adaptive synthesis for LTLf multi-tier goals in nondeterministic planning, maximizing the number of objectives to achieve.",
+          "pdf": "https://openreview.net/pdf/2717717e68edd84089c0d133b6082b5a882dec2d.pdf",
+          "bibtex": "@inproceedings{\ngiacomo2025ltlf,\ntitle={{LTL}f Adaptive Synthesis for Multi-Tier Goals in Nondeterministic Domains},\nauthor={Giuseppe De Giacomo and Gianmarco Parretti and Shufang Zhu},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=OPSJ6Ky48N}\n}",
+          "proceedings_url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36135"
+        },
+        {
+          "id": "0XuHITptMz",
+          "number": 97,
+          "url": "https://openreview.net/forum?id=0XuHITptMz",
+          "title": "Initial Condition Retrieving for Hybrid and Numeric Planning Problems",
+          "long": true,
+          "authors": [
+            "Matteo Cardellini",
+            "Francesco Percassi",
+            "Marco Maratea",
+            "Mauro Vallati"
+          ],
+          "type_of_contribution": [
+            "Theory"
+          ],
+          "topic": [
+            "Abstract Models",
+            "Knowledge Engineering"
+          ],
+          "keywords": [
+            "PS: Mixed discrete/continuous planning"
+          ],
+          "pdf": "https://openreview.net/pdf/e8b0b7628029051d495a581ebfd633eb698848a8.pdf",
+          "bibtex": "@inproceedings{\ncardellini2025initial,\ntitle={Initial Condition Retrieving for Hybrid and Numeric Planning Problems},\nauthor={Matteo Cardellini and Francesco Percassi and Marco Maratea and Mauro Vallati},\nbooktitle={ICAPS 2025},\nyear={2025},\nurl={https://openreview.net/forum?id=0XuHITptMz}\n}",
+          "proceedings_url": "https://ojs.aaai.org/index.php/ICAPS/article/view/36097"
+        }
+      ]
+    }
+  ]
 }
