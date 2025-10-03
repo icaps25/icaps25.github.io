@@ -103,9 +103,9 @@ draft: false
 **Legend:** [W] = Workshop | [T] = Tutorial
 
 **Workshops:**
-- **[PRL](../workshops/prl)** - Planning, Reasoning and Learning
+- **[PRL](../workshops/prl)** - Bridging the Gap Between AI Planning and Reinforcement Learning
 - **[OPTIMA](../workshops/industry_optima)** - Industry Workshop: Smarter Decision-Making in Action
-- **[HPlan](../workshops/hplan)** - Heuristics and Search for Domain-independent Planning
+- **[HPlan](../workshops/hplan)** - Hierarchical Planning
 - **[PlanRob](../workshops/planrob)** - Planning and Robotics
 - **[HAXP](../workshops/haxp)** - Human-Aware and Explainable Planning
 - **[KEPS](../workshops/keps)** - Knowledge Engineering for Planning and Scheduling
@@ -183,9 +183,9 @@ draft: false
 **Legend:** [W] = Workshop | [T] = Tutorial
 
 **Workshops:**
-- **[LM4Plan](../workshops/lm4plan)** - Large Models for Planning
+- **[LM4Plan](../workshops/lm4plan)** - Planning in the Era of LLMs
 - **[HSDIP](../workshops/hsdip)** - Heuristics and Search for Domain-Independent Planning
-- **[RIPL](../workshops/ripl)** - Robot Integrated Planning and Learning
+- **[RIPL](../workshops/ripl)** - Reliability In Planning and Learning
 - **[WiC](../workshops/women_computing)** - Women in ICAPS
 - **[CASP](../workshops/casp_er)** - Constraint Answer Set Programming
 
