@@ -236,12 +236,12 @@ languageCode = 'en_AU'
   url = "/program/overview"
   parent = "program"
   weight = 10
-# [[menu.main]]
-#   identifier = "schedule"
-#   name = "Schedule"
-#   url = "/program/schedule"
-#   parent = "program"
-#   weight = 13
+[[menu.main]]
+  identifier = "schedule"
+  name = "Schedule"
+  url = "/program/schedule"
+  parent = "program"
+  weight = 13
 [[menu.main]]
   identifier = "accepted-papers"
   name = "Accepted Papers"
