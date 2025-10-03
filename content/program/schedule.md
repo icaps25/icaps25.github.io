@@ -108,7 +108,7 @@ draft: false
 </div>
 
 **Room 6 (25 capacity)**  
-[HAXP](/program/workshops/haxp) - Heuristic and Approximate Planning with Explainability
+[HAXP](/program/workshops/haxp) - Human-Aware and Explainable Planning
 
 <div class="break-slot">Coffee Break (10:00 - 10:30)</div>
 
@@ -145,7 +145,7 @@ draft: false
 </div>
 
 **Room 6 (25 capacity)**  
-[HAXP](/program/workshops/haxp) - Heuristic and Approximate Planning with Explainability
+[HAXP](/program/workshops/haxp) - Human-Aware and Explainable Planning
 
 <div class="break-slot">Lunch Break (12:00 - 13:30)</div>
 
@@ -191,7 +191,7 @@ draft: false
 <div class="parallel-session">
 
 **Room 6 (25 capacity)**  
-[HAXP](/program/workshops/haxp) - Heuristic and Approximate Planning with Explainability
+[HAXP](/program/workshops/haxp) - Human-Aware and Explainable Planning
 
 </div>
 </div>
@@ -231,7 +231,7 @@ draft: false
 </div>
 
 **Room 6 (25 capacity)**  
-[HAXP](/program/workshops/haxp) - Heuristic and Approximate Planning with Explainability
+[HAXP](/program/workshops/haxp) - Human-Aware and Explainable Planning
 
 ---
 

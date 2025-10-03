@@ -107,7 +107,7 @@ draft: false
 - **[OPTIMA](../workshops/industry_optima)** - Industry Workshop: Smarter Decision-Making in Action
 - **[HPlan](../workshops/hplan)** - Heuristics and Search for Domain-independent Planning
 - **[PlanRob](../workshops/planrob)** - Planning and Robotics
-- **[HAXP](../workshops/haxp)** - Heuristic and Approximate Planning with Explainability
+- **[HAXP](../workshops/haxp)** - Human-Aware and Explainable Planning
 - **[KEPS](../workshops/keps)** - Knowledge Engineering for Planning and Scheduling
 
 **Tutorials:**
