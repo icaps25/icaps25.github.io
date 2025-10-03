@@ -7,8 +7,9 @@ draft: false
 # HAXP: Human-Aware and Explainable Planning
 
 ICAPS'25 Workshop
+Room 6, Melbourne Connect,
 Melbourne, Victoria, Australia
-November 10 or 11, 2025
+November 10, 2025
 
 ## Aim and Scope of the Workshop
 
@@ -86,7 +87,7 @@ At least one author of each accepted paper must attend the workshop in order to 
 
 * [Rebecca Eifler](https://www.linkedin.com/in/rebecca-eifler-b56652144/) | LAAS-CNRS, France
 * [Benjamin Krarup](https://scholar.google.co.uk/citations?user=yEjXNsQAAAAJ&hl=en) | King’s College London, UK
-* [Alan Lindsay](https://researchportal.hw.ac.uk/en/persons/alan-lindsay)| Heriot-Watt University, UK
+* [Alan Lindsay](https://researchportal.hw.ac.uk/en/persons/alan-lindsay) | Heriot-Watt University, UK
 * [Lindsay Sanneman](https://www.lindsaysanneman.com/) | Arizona State University, USA
 * [Silvia Tulli](https://silviatulli.com/) | Sorbonne University, France
 * [Stylianos Loukas Vasileiou](https://thestlucas.com/) | New Mexico State University, USA
@@ -96,7 +97,7 @@ At least one author of each accepted paper must attend the workshop in order to 
 
 * [Pascal Bercher](https://comp.anu.edu.au/people/pascal-bercher/) | Australian National University, Australia
 * [Daniel Fišer](https://danfis.cz/) | Aalborg University, Denmark
-* [Daniel Gnad](https://mrlab.ai/daniel-gnad/)| Heidelberg University, Germany and Linköping University, Sweden
+* [Daniel Gnad](https://mrlab.ai/daniel-gnad/) | Heidelberg University, Germany and Linköping University, Sweden
 * [Alban Grastien](http://www.grastien.net/ban/) | Australian National University, Australia
 * [Akkamahadevi Hanni](https://scholar.google.com/citations?user=sDZ4u1oAAAAJ&hl=en) | Arizona State University, USA
 * [Rohan R Paleja](https://www.rohanpaleja.com/) | Purdue University, USA
@@ -110,7 +111,7 @@ At least one author of each accepted paper must attend the workshop in order to 
 
 * [Jeremy Frank](https://www.linkedin.com/in/jeremy-frank-62141bb3/) | NASA Ames Research Center, USA
 * [Claudia Goldman](https://il.linkedin.com/in/claudiagoldman) | The Hebrew University of Jerusalem, Israel
-* [Jörg Hoffmann](http://fai.cs.uni-saarland.de/hoffmann/)| Saarland University, Germany
+* [Jörg Hoffmann](http://fai.cs.uni-saarland.de/hoffmann/) | Saarland University, Germany
 * [Subbarao Kambhampati](https://rakaposhi.eas.asu.edu/) | Arizona State University, USA
 * [David Smith](http://psresearch.xyz/) | PS Research, USA
 * [William Yeoh](https://sites.wustl.edu/wyeoh/) | Washington University in St. Louis, USA

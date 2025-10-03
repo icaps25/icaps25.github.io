@@ -81,7 +81,7 @@ draft: false
 <div class="parallel-session">
 
 **Room 1 (80 capacity)**  
-[PRL](/program/workshops/prl) - Planning, Reasoning and Learning
+[PRL](/program/workshops/prl) -  Bridging the Gap Between AI Planning and Reinforcement Learning
 
 </div>
 <div class="parallel-session">
@@ -96,7 +96,7 @@ draft: false
 <div class="parallel-session">
 
 **Room 3 (40 capacity)**  
-[HPlan](/program/workshops/hplan) - Heuristics and Search for Domain-independent Planning
+[HPlan](/program/workshops/hplan) - Hierarchical Planning
 
 </div>
 <div class="parallel-session">
@@ -108,7 +108,7 @@ draft: false
 </div>
 
 **Room 6 (25 capacity)**  
-[HAXP](/program/workshops/haxp) - Heuristic and Approximate Planning with Explainability
+[HAXP](/program/workshops/haxp) - Human-Aware and Explainable Planning
 
 <div class="break-slot">Coffee Break (10:00 - 10:30)</div>
 
@@ -118,7 +118,7 @@ draft: false
 <div class="parallel-session">
 
 **Room 1 (80 capacity)**  
-[PRL](/program/workshops/prl) - Planning, Reasoning and Learning
+[PRL](/program/workshops/prl) -  Bridging the Gap Between AI Planning and Reinforcement Learning
 
 </div>
 <div class="parallel-session">
@@ -133,7 +133,7 @@ draft: false
 <div class="parallel-session">
 
 **Room 3 (40 capacity)**  
-[HPlan](/program/workshops/hplan) - Heuristics and Search for Domain-independent Planning
+[HPlan](/program/workshops/hplan) - Hierarchical Planning
 
 </div>
 <div class="parallel-session">
@@ -145,7 +145,7 @@ draft: false
 </div>
 
 **Room 6 (25 capacity)**  
-[HAXP](/program/workshops/haxp) - Heuristic and Approximate Planning with Explainability
+[HAXP](/program/workshops/haxp) - Human-Aware and Explainable Planning
 
 <div class="break-slot">Lunch Break (12:00 - 13:30)</div>
 
@@ -155,7 +155,7 @@ draft: false
 <div class="parallel-session">
 
 **Room 1 (80 capacity)**  
-[PRL](/program/workshops/prl) - Planning, Reasoning and Learning
+[PRL](/program/workshops/prl) - Bridging the Gap Between AI Planning and Reinforcement Learning
 
 </div>
 <div class="parallel-session">
@@ -191,7 +191,7 @@ draft: false
 <div class="parallel-session">
 
 **Room 6 (25 capacity)**  
-[HAXP](/program/workshops/haxp) - Heuristic and Approximate Planning with Explainability
+[HAXP](/program/workshops/haxp) - Human-Aware and Explainable Planning
 
 </div>
 </div>
@@ -204,7 +204,7 @@ draft: false
 <div class="parallel-session">
 
 **Room 1 (80 capacity)**  
-[PRL](/program/workshops/prl) - Planning, Reasoning and Learning
+[PRL](/program/workshops/prl) - Bridging the Gap Between AI Planning and Reinforcement Learning
 
 </div>
 <div class="parallel-session">
@@ -231,7 +231,7 @@ draft: false
 </div>
 
 **Room 6 (25 capacity)**  
-[HAXP](/program/workshops/haxp) - Heuristic and Approximate Planning with Explainability
+[HAXP](/program/workshops/haxp) - Human-Aware and Explainable Planning
 
 ---
 
@@ -243,7 +243,7 @@ draft: false
 <div class="parallel-session">
 
 **Room 1 (80 capacity)**  
-[LM4Plan](/program/workshops/lm4plan) - Large Models for Planning
+[LM4Plan](/program/workshops/lm4plan) - Planning in the Era of LLMs
 
 </div>
 <div class="parallel-session">
@@ -258,7 +258,7 @@ draft: false
 <div class="parallel-session">
 
 **Room 3 (40 capacity)**  
-[RIPL](/program/workshops/ripl) - Robot Integrated Planning and Learning
+[RIPL](/program/workshops/ripl) - Reliability In Planning and Learning
 
 </div>
 <div class="parallel-session">
@@ -292,7 +292,7 @@ draft: false
 <div class="parallel-session">
 
 **Room 1 (80 capacity)**  
-[LM4Plan](/program/workshops/lm4plan) - Large Models for Planning
+[LM4Plan](/program/workshops/lm4plan) - Planning in the Era of LLMs
 
 </div>
 <div class="parallel-session">
@@ -307,7 +307,7 @@ draft: false
 <div class="parallel-session">
 
 **Room 3 (40 capacity)**  
-[RIPL](/program/workshops/ripl) - Robot Integrated Planning and Learning
+[RIPL](/program/workshops/ripl) - Reliability In Planning and Learning
 
 </div>
 <div class="parallel-session">
@@ -341,13 +341,13 @@ draft: false
 <div class="parallel-session">
 
 **Room 1 (80 capacity)**  
-[LM4Plan](/program/workshops/lm4plan) - Large Models for Planning
+[LM4Plan](/program/workshops/lm4plan) - Planning in the Era of LLMs
 
 </div>
 <div class="parallel-session">
 
 **Room 3 (40 capacity)**  
-[RIPL](/program/workshops/ripl) - Robot Integrated Planning and Learning
+[RIPL](/program/workshops/ripl) - Reliability In Planning and Learning
 
 </div>
 </div>
@@ -378,7 +378,7 @@ draft: false
 <div class="parallel-session">
 
 **Room 1 (80 capacity)**  
-[LM4Plan](/program/workshops/lm4plan) - Large Models for Planning
+[LM4Plan](/program/workshops/lm4plan) - Planning in the Era of LLMs
 
 </div>
 <div class="parallel-session">
