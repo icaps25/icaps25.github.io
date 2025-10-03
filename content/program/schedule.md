@@ -96,7 +96,7 @@ draft: false
 <div class="parallel-session">
 
 **Room 3 (40 capacity)**  
-[HPlan](/program/workshops/hplan) - Heuristics and Search for Domain-independent Planning
+[HPlan](/program/workshops/hplan) - Hierarchical Planning
 
 </div>
 <div class="parallel-session">
@@ -133,7 +133,7 @@ draft: false
 <div class="parallel-session">
 
 **Room 3 (40 capacity)**  
-[HPlan](/program/workshops/hplan) - Heuristics and Search for Domain-independent Planning
+[HPlan](/program/workshops/hplan) - Hierarchical Planning
 
 </div>
 <div class="parallel-session">
@@ -258,7 +258,7 @@ draft: false
 <div class="parallel-session">
 
 **Room 3 (40 capacity)**  
-[RIPL](/program/workshops/ripl) - Robot Integrated Planning and Learning
+[RIPL](/program/workshops/ripl) - Reliability In Planning and Learning
 
 </div>
 <div class="parallel-session">
@@ -307,7 +307,7 @@ draft: false
 <div class="parallel-session">
 
 **Room 3 (40 capacity)**  
-[RIPL](/program/workshops/ripl) - Robot Integrated Planning and Learning
+[RIPL](/program/workshops/ripl) - Reliability In Planning and Learning
 
 </div>
 <div class="parallel-session">
@@ -347,7 +347,7 @@ draft: false
 <div class="parallel-session">
 
 **Room 3 (40 capacity)**  
-[RIPL](/program/workshops/ripl) - Robot Integrated Planning and Learning
+[RIPL](/program/workshops/ripl) - Reliability In Planning and Learning
 
 </div>
 </div>
