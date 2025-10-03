@@ -81,7 +81,7 @@ draft: false
 <div class="parallel-session">
 
 **Room 1 (80 capacity)**  
-[PRL](/program/workshops/prl) - Planning, Reasoning and Learning
+[PRL](/program/workshops/prl) -  Bridging the Gap Between AI Planning and Reinforcement Learning
 
 </div>
 <div class="parallel-session">
@@ -118,7 +118,7 @@ draft: false
 <div class="parallel-session">
 
 **Room 1 (80 capacity)**  
-[PRL](/program/workshops/prl) - Planning, Reasoning and Learning
+[PRL](/program/workshops/prl) -  Bridging the Gap Between AI Planning and Reinforcement Learning
 
 </div>
 <div class="parallel-session">
@@ -155,7 +155,7 @@ draft: false
 <div class="parallel-session">
 
 **Room 1 (80 capacity)**  
-[PRL](/program/workshops/prl) - Planning, Reasoning and Learning
+[PRL](/program/workshops/prl) - Bridging the Gap Between AI Planning and Reinforcement Learning
 
 </div>
 <div class="parallel-session">
@@ -204,7 +204,7 @@ draft: false
 <div class="parallel-session">
 
 **Room 1 (80 capacity)**  
-[PRL](/program/workshops/prl) - Planning, Reasoning and Learning
+[PRL](/program/workshops/prl) - Bridging the Gap Between AI Planning and Reinforcement Learning
 
 </div>
 <div class="parallel-session">
