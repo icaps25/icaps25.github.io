@@ -62,6 +62,41 @@ main ICAPS conference to the workshop.
 
 Paper submissions should be made through OpenReview.
 
+## Accepted Papers
+
+- **PDDL-Instruct: Enhancing Symbolic Planning Capabilities in LLMs through Logical Chain-of-Thought Instruction Tuning**\
+  *Pulkit Verma, Ngoc La, Anthony Favier, Swaroop Mishra, Julie Shah*
+- **Language Models For Generalised PDDL Planning: Synthesising Sound and Programmatic Policies**\
+  *Dillon Ze Chen, Johannes Zenn, Tristan Cinquin, Sheila A. McIlraith*
+- **Planner-Independent Extraction of Goals and Constraints from Natural Language for Open-World Mobile Robot Missions**\
+  *Björn Döschl, Jane Jean Kiam*
+- **Game of Thought: Robust Information Seeking with Large Language Models Using Game Theory**\
+  *Langyuan Cui, Hwee Tou Ng, Chun Kai Ling*
+- **Automated Repair of Totally-Ordered Hierarchical Task Network Domains via Context-Free Grammars with Large Language Model Support**\
+  *Daniel Lutalo, Pascal Bercher*
+- **Which LLM is Best for Translating Natural Language Goals to PDDL**\
+  *Tomas Balyo, Lukas Chrpa, G Michael Youngblood*
+- **Improved Generalized Planning with LLMs through Strategy Refinement and Reflection**\
+  *Katharina Stein, Nils Hodel, Daniel Fišer, Jörg Hoffmann, Michael Katz, Alexander Koller*
+- **From Next Token Prediction to (STRIPS) World Models -- Preliminary Results**\
+  *Carlos Núñez-Molina, Vicenç Gomez, Hector Geffner*
+- **A Collaborative Numeric Task Planning Framework based on Constraint Translations using LLMs**\
+  *Anthony Favier, Ngoc La, Pulkit Verma, Julie Shah*
+- **Seemingly Simple Planning Problems are Computationally Challenging: The Countdown Game**\
+  *Michael Katz, Harsha Kokel, Sarath Sreedharan*
+- **Guiding Exploration in Reinforcement Learning Through LLM-Augmented Observations**\
+  *Vaibhav Jain, Gerrit Großmann*
+- **Towards a General Framework for HTN Modeling with LLMs**\
+  *Israel Puerta-Merino, Carlos Núñez-Molina, Pablo Mesejo, Juan Fernandez-Olivares*
+- **A Requirements Engineering-Driven Methodology for Planning Domain Generation via LLMs with Invariant-Based Refinement**\
+  *Angelo Casciani, Giuseppe De Giacomo, Andrea Marrella, Christoph Weinhuber*
+- **Enhancing GPT-based Planning Policies by Model-based Plan Validation**\
+  *Nicholas Rossetti, Massimiliano Tummolo, Alfonso Gerevini, Matteo Olivato, Luca Putelli, Ivan Serina*
+
+
+The papers will be available only *after* the workshop.
+
+
 ### Organizing Committee
 - Pascal Bercher, Australian National Univeristy
 - Augusto B. Corrêa, University of Oxford
