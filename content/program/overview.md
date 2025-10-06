@@ -160,7 +160,7 @@ draft: false
 <td style="background-color: #e6f0ff;"><strong>[W]</strong> <a href="/program/workshops/lm4plan">LM4Plan</a></td>
 <td style="background-color: #f5f5f5;"></td>
 <td style="background-color: #f0ffe6;"><strong>[W]</strong> <a href="/program/workshops/ripl">RIPL</a></td>
-<td style="background-color: #e6fff0;"><strong>[W]</strong> <a href="/program/workshops/casp_er">CASP</a></td>
+<td style="background-color: #e6fff0;"><strong>[W]</strong> <a href="/program/workshops/casp_er">CASP:ER</a></td>
 <td style="background-color: #ffe6cc;"><strong>[T]</strong> <a href="/program/tutorials/domain_ind_dp">Domain</a></td>
 <td style="background-color: #e6f7ff;"><strong>[T]</strong> <a href="/program/tutorials/bfs_no_reopen">BFS</a></td>
 </tr>
@@ -173,7 +173,7 @@ draft: false
 <td style="background-color: #e6f0ff;"><strong>[W]</strong> <a href="/program/workshops/lm4plan">LM4Plan</a></td>
 <td style="background-color: #f5f5f5;"></td>
 <td style="background-color: #f5f5f5;"></td>
-<td style="background-color: #e6fff0;"><strong>[W]</strong> <a href="/program/workshops/casp_er">CASP</a></td>
+<td style="background-color: #e6fff0;"><strong>[W]</strong> <a href="/program/workshops/casp_er">CASP:ER</a></td>
 <td style="background-color: #fff0f0;"><strong>[T]</strong> <a href="/program/tutorials/ep">EP</a></td>
 <td style="background-color: #e6f7ff;"><strong>[T]</strong> <a href="/program/tutorials/bfs_no_reopen">BFS</a></td>
 </tr>
@@ -187,8 +187,8 @@ draft: false
 - **[HSDIP](../workshops/hsdip)** - Heuristics and Search for Domain-Independent Planning
 - **[RIPL](../workshops/ripl)** - Reliability In Planning and Learning
 - **[WiC](../workshops/women_computing)** - Women in ICAPS
-- **[CASP](../workshops/casp_er)** - Constraint Answer Set Programming
-
+- **[CASP](../workshops/casp_er)** - Constraint And Satisfiability-based Planning: an Exploratory Research Workshop
+- 
 **Tutorials:**
 - **[PlanSAT](../tutorials/plan_sat)** - Planning as SAT (joint with MLPlanSAT in morning sessions)
 - **[MLPlanSAT](../tutorials/ml_plan_sat)** - Integrating ML and Planning in SAT
