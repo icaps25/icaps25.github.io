@@ -4,6 +4,6 @@ date: 2025-04-13T00:00:00+00:00
 draft: false
 ---
 
-# Coming Soon...
+# Women in Computing: Empowerment, Career Development, and Overcoming Barriers in STEM
 
-This page is under construction. Please check back later!
+[Visit external site for more information] (https://sites.google.com/view/wic-icaps25/home)
