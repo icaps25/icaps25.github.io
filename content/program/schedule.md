@@ -703,14 +703,14 @@ Location: Forum 1<br/>
 ## Friday, November 14, 2025 - Main Conference Day 3 (Joint ICAPS & KR)
 
 <div class="keynote-slot">
-<strong>Keynote (9:00 - 10:00)</strong><br/>
+<strong>Keynote (9:30 - 10:30)</strong><br/>
 Location: Forum 1<br/>
 <em>Details to be announced</em>
 </div>
 
-<div class="break-slot">Coffee Break (10:00 - 10:30)</div>
+<div class="break-slot">Coffee Break (10:30 - 11:00)</div>
 
-<div class="time-slot">Session 1 (10:30 - 11:50)</div>
+<div class="time-slot">Session 1 (11:00 - 12:20)</div>
 
 <div class="parallel-sessions">
 <div class="parallel-session">
@@ -718,19 +718,19 @@ Location: Forum 1<br/>
 <div class="session-header">Search in Planning and Scheduling I</div>
 <div class="session-info">Location: Forum 1 (ICAPS) | Session Chair: TBA</div>
 
-**L39 (10:30 - 10:50)** - Parallelizing Multi-objective A* Search  
+**L39 (11:00 - 11:20)** - Parallelizing Multi-objective A* Search  
 *Saman Ahmadi, Nathan R. Sturtevant, Andrea Raith, Daniel Harabor, Mahdi Jalili*  
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36109)
 
-**L41 (10:50 - 11:10)** - Parallel Greedy Best-First Search with a Bound on Expansions Relative to Sequential Search  
+**L41 (11:20 - 11:40)** - Parallel Greedy Best-First Search with a Bound on Expansions Relative to Sequential Search  
 *Takumi Shimoda, Alex Fukunaga*  
 [Journal Track]
 
-**L43 (11:10 - 11:30)** - Instance-based Approximation Guarantees for Graph-based Nearest Neighbor Search  
+**L43 (11:40 - 12:00)** - Instance-based Approximation Guarantees for Graph-based Nearest Neighbor Search  
 *Yannick Bosch, Sabine Storandt*  
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36113)
 
-**L45 (11:30 - 11:50)** - Posthoc: The Visualisation Platform for Search  
+**L45 (12:00 - 12:20)** - Posthoc: The Visualisation Platform for Search  
 *Kevin Zheng, Daniel Harabor, Michael Wybrow*  
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36145)
 
@@ -742,19 +742,19 @@ Location: Forum 1<br/>
 <div class="session-header">Machine Learning in Planning and Scheduling II</div>
 <div class="session-info">Location: Forum 2 (ICAPS) | Session Chair: TBA</div>
 
-**L40 (10:30 - 10:50)** - Leveraging Action Relational Structures for Integrated Learning and Planning  
+**L40 (11:00 - 11:20)** - Leveraging Action Relational Structures for Integrated Learning and Planning  
 *Ryan Xiao Wang, Felipe Trevizan*  
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36128)
 
-**L42 (10:50 - 11:10)** - Is This Plan Necessarily Redundant? On the Computational Complexity of Unobserved Domain Learning  
+**L42 (11:20 - 11:40)** - Is This Plan Necessarily Redundant? On the Computational Complexity of Unobserved Domain Learning  
 *Pascal Bachor, P. Maurice Dekker, Gregor Behnke*  
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36096)
 
-**L44 (11:10 - 11:30)** - Learning Lifted STRIPS Models from Action Traces alone: A Simple, General, and Scalable Solution  
+**L44 (11:40 - 12:00)** - Learning Lifted STRIPS Models from Action Traces alone: A Simple, General, and Scalable Solution  
 *Jonas Gösgens, Niklas Jansen, Hector Geffner*  
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36117)
 
-**L46 (11:30 - 11:50)** - Lifted action models learning from partial traces  
+**L46 (12:00 - 12:20)** - Lifted action models learning from partial traces  
 *Leonardo Lamanna, Luciano Serafini, Alessandro Saetti, Alfonso Emilio Gerevini, Paolo Traverso*  
 [Journal Track]
 
