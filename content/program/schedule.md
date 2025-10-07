@@ -422,6 +422,7 @@ draft: false
 </div>
 
 <div class="special-event">Evening: Opening Reception</div>
+
 ---
 
 <div id="wednesday" style="text-align: center; background-color: #f5821f; color: white; padding: 15px; margin: 20px 0; border-radius: 8px;">
