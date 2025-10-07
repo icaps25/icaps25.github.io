@@ -327,26 +327,26 @@ draft: false
 </thead>
 <tbody>
 <tr>
-<td><strong>9:00 - 10:00</strong></td>
+<td><strong>9:30 - 10:30</strong></td>
 <td colspan="3" style="text-align: center; background-color: #fff4e6;"><em>Keynote (TBA)</em></td>
 </tr>
 <tr>
-<td><strong>10:00 - 10:30</strong></td>
+<td><strong>10:30 - 11:00</strong></td>
 <td colspan="3" style="text-align: center; background-color: #f0f0f0;"><em>Coffee Break</em></td>
 </tr>
 <tr>
-<td><strong>10:30 - 11:50</strong></td>
+<td><strong>11:00 - 12:20</strong></td>
 <td style="background-color: #e8f8e8;"><strong>Search in Planning and Scheduling I</strong><br/><em>4 papers</em></td>
 <td style="background-color: #ffe8e8;"><strong>Machine Learning in Planning and Scheduling II</strong><br/><em>4 papers</em></td>
 <td style="background-color: #f0e6ff;"><strong>KR Session</strong><br/><em>See <a href="https://kr.org/KR2025/">KR Program</a></em></td>
 </tr>
 <tr>
-<td><strong>11:50 - 12:00</strong></td>
+<td><strong>12:20 - 12:30</strong></td>
 <td colspan="3" style="text-align: center; background-color: #f9f9f9;"><em>Transition Time</em></td>
 </tr>
 <tr>
-<td><strong>12:00 - 13:30</strong></td>
-<td colspan="3" style="text-align: center; background-color: #fff8dc;"><em>Lunch Break (1.5 hours)</em></td>
+<td><strong>12:30 - 13:30</strong></td>
+<td colspan="3" style="text-align: center; background-color: #fff8dc;"><em>Lunch Jointly provided with KR (1 hours)</em></td>
 </tr>
 <tr>
 <td><strong>13:30 - 14:50</strong></td>
