@@ -73,7 +73,9 @@ draft: false
 
 ---
 
-## Monday, November 10, 2025 - Workshops and Tutorials
+<div style="text-align: center; background-color: #f5821f; color: white; padding: 15px; margin: 20px 0; border-radius: 8px;">
+<h2 style="margin: 0; font-size: 1.8em;">Monday, November 10, 2025 - Workshops and Tutorials</h2>
+</div>
 
 ### Session 1 (8:30 - 10:00)
 
@@ -235,7 +237,9 @@ draft: false
 
 ---
 
-## Tuesday, November 11, 2025 - Workshops and Tutorials
+<div style="text-align: center; background-color: #f5821f; color: white; padding: 15px; margin: 20px 0; border-radius: 8px;">
+<h2 style="margin: 0; font-size: 1.8em;">Tuesday, November 11, 2025 - Workshops and Tutorials</h2>
+</div>
 
 ### Session 1 (8:30 - 10:00)
 
@@ -406,7 +410,9 @@ draft: false
 
 ---
 
-## Wednesday, November 12, 2025 - Main Conference Day 1
+<div style="text-align: center; background-color: #f5821f; color: white; padding: 15px; margin: 20px 0; border-radius: 8px;">
+<h2 style="margin: 0; font-size: 1.8em;">Wednesday, November 12, 2025 - Main Conference Day 1</h2>
+</div>
 
 <div class="special-event">Opening Remarks (8:40 - 9:00) - Forum 1</div>
 
@@ -576,7 +582,9 @@ Location: Forum 1<br/>
 
 ---
 
-## Thursday, November 13, 2025 - Main Conference Day 2
+<div style="text-align: center; background-color: #f5821f; color: white; padding: 15px; margin: 20px 0; border-radius: 8px;">
+<h2 style="margin: 0; font-size: 1.8em;">Thursday, November 13, 2025 - Main Conference Day 2</h2>
+</div>
 
 <div class="keynote-slot">
 <strong>Keynote (9:00 - 10:00)</strong><br/>
@@ -700,7 +708,9 @@ Location: Forum 1<br/>
 
 ---
 
-## Friday, November 14, 2025 - Main Conference Day 3 (Joint ICAPS & KR)
+<div style="text-align: center; background-color: #f5821f; color: white; padding: 15px; margin: 20px 0; border-radius: 8px;">
+<h2 style="margin: 0; font-size: 1.8em;">Friday, November 14, 2025 - Main Conference Day 3 (Joint ICAPS & KR)</h2>
+</div>
 
 <div class="keynote-slot">
 <strong>Keynote (9:30 - 10:30)</strong><br/>
