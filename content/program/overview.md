@@ -32,7 +32,9 @@ draft: false
 - *Thursday, November 13 @ Evening*: Banquet at [Ormond College](https://ormond.unimelb.edu.au/), Walking distance from Conference Venue
 - *Friday, November 14*: Joint ICAPS & KR main track
 
-## Program At a Glance
+<div style="text-align: center; background-color: #f5821f; color: white; padding: 15px; margin: 20px 0; border-radius: 8px;">
+<h2 style="margin: 0; font-size: 1.8em;">Program at a Glance</h2>
+</div>
 
 ### Monday, November 10, 2025 - Workshops and Tutorials
 
