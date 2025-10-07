@@ -433,7 +433,7 @@ draft: false
 <div class="keynote-slot">
 <strong>Keynote (9:00 - 10:00)</strong><br/>
 Location: Forum 1<br/>
-<em>Details to be announced</em>
+<em>Bistra Dilkina (Colocated with CPAIOR)</em>
 </div>
 
 <div class="break-slot">Coffee Break (10:00 - 10:30)</div>
@@ -604,7 +604,7 @@ Location: Forum 1<br/>
 <div class="keynote-slot">
 <strong>Keynote (9:00 - 10:00)</strong><br/>
 Location: Forum 1<br/>
-<em>Details to be announced</em>
+<em>Hanna Kurniawati</em>
 </div>
 
 <div class="break-slot">Coffee Break (10:00 - 10:30)</div>
@@ -731,7 +731,7 @@ Location: Forum 1<br/>
 <div class="keynote-slot">
 <strong>Keynote (9:30 - 10:30)</strong><br/>
 Location: Forum 1<br/>
-<em>Details to be announced</em>
+<em>Son Tran (Co-located with KR)</em>
 </div>
 
 <div class="break-slot">Coffee Break (10:30 - 11:00)</div>
