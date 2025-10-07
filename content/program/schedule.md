@@ -772,7 +772,7 @@ Location: Forum 1<br/>
 </div>
 </div>
 
-<div class="break-slot">Lunch Break (12:00 - 13:30)</div>
+<div class="break-slot">Lunch - Provided jointly with KR (12:30 - 13:30)</div>
 
 <div class="time-slot">Session 2 (13:30 - 14:50)</div>
 
