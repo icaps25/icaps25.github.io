@@ -224,7 +224,7 @@ draft: false
 </tr>
 <tr>
 <td><strong>10:30 - 11:50</strong></td>
-<td style="background-color: #e8f8e8;"><strong>Numeric and Temporal Planning III</strong><br/><em>4 papers</em></td>
+<td style="background-color: #e8f8e8;"><strong>Numeric and Temporal Planning I</strong><br/><em>4 papers</em></td>
 <td style="background-color: #ffe8e8;"><strong>Classical Planning I</strong><br/><em>4 papers</em></td>
 </tr>
 <tr>
@@ -237,8 +237,8 @@ draft: false
 </tr>
 <tr>
 <td><strong>13:30 - 14:50</strong></td>
-<td style="background-color: #e8f8e8;"><strong>Alternative Formulations of Classical Planning II</strong><br/><em>4 papers</em></td>
-<td style="background-color: #ffe8e8;"><strong>Non-Deterministic Planning II</strong><br/><em>4 papers</em></td>
+<td style="background-color: #e8f8e8;"><strong>Alternative Formulations of Classical Planning</strong><br/><em>4 papers</em></td>
+<td style="background-color: #ffe8e8;"><strong>Non-Deterministic Planning I</strong><br/><em>4 papers</em></td>
 </tr>
 <tr>
 <td><strong>14:50 - 15:00</strong></td>
@@ -251,7 +251,7 @@ draft: false
 <tr>
 <td><strong>15:30 - 16:50</strong></td>
 <td style="background-color: #e8f8e8;"><strong>Machine Learning in Planning and Scheduling I</strong><br/><em>3 papers</em></td>
-<td style="background-color: #ffe8e8;"><strong>Search in Planning and Scheduling II</strong><br/><em>3 papers</em></td>
+<td style="background-color: #ffe8e8;"><strong>Search in Planning and Scheduling I</strong><br/><em>3 papers</em></td>
 </tr>
 <tr>
 <td><strong>16:50 - 18:00</strong></td>
@@ -284,7 +284,7 @@ draft: false
 <tr>
 <td><strong>10:30 - 11:50</strong></td>
 <td style="background-color: #e8f8e8;"><strong>LLMs in Planning and Scheduling I</strong><br/><em>4 papers</em></td>
-<td style="background-color: #ffe8e8;"><strong>Numeric and Temporal Planning I</strong><br/><em>4 papers</em></td>
+<td style="background-color: #ffe8e8;"><strong>Numeric and Temporal Planning II</strong><br/><em>4 papers</em></td>
 </tr>
 <tr>
 <td><strong>11:50 - 12:00</strong></td>
@@ -296,8 +296,8 @@ draft: false
 </tr>
 <tr>
 <td><strong>13:30 - 14:50</strong></td>
-<td style="background-color: #e8f8e8;"><strong>Numeric and Temporal Planning II</strong><br/><em>4 papers</em></td>
-<td style="background-color: #ffe8e8;"><strong>Hierarchical Task Networks II</strong><br/><em>4 papers</em></td>
+<td style="background-color: #e8f8e8;"><strong>Numeric and Temporal Planning III</strong><br/><em>4 papers</em></td>
+<td style="background-color: #ffe8e8;"><strong>Hierarchical Task Networks I & Non-Deterministic Planning II</strong><br/><em>4 papers</em></td>
 </tr>
 <tr>
 <td><strong>14:50 - 15:00</strong></td>
@@ -338,7 +338,7 @@ draft: false
 </tr>
 <tr>
 <td><strong>11:00 - 12:20</strong></td>
-<td style="background-color: #e8f8e8;"><strong>Search in Planning and Scheduling I</strong><br/><em>4 papers</em></td>
+<td style="background-color: #e8f8e8;"><strong>Search in Planning and Scheduling II</strong><br/><em>4 papers</em></td>
 <td style="background-color: #ffe8e8;"><strong>Machine Learning in Planning and Scheduling II</strong><br/><em>4 papers</em></td>
 <td style="background-color: #f0e6ff;"><strong>KR Session</strong><br/><em>See <a href="https://kr.org/KR2025/">KR Program</a></em></td>
 </tr>
@@ -352,8 +352,8 @@ draft: false
 </tr>
 <tr>
 <td><strong>13:30 - 14:50</strong></td>
-<td style="background-color: #e8f8e8;"><strong>Hierarchical Task Networks I</strong><br/><em>4 papers</em></td>
-<td style="background-color: #ffe8e8;"><strong>Non-Deterministic Planning I</strong><br/><em>4 papers</em></td>
+<td style="background-color: #e8f8e8;"><strong>Hierarchical Task Networks II</strong><br/><em>4 papers</em></td>
+<td style="background-color: #ffe8e8;"><strong>Non-Deterministic Planning III</strong><br/><em>4 papers</em></td>
 <td style="background-color: #f0e6ff;"><strong>KR Session</strong><br/><em>See <a href="https://kr.org/KR2025/">KR Program</a></em></td>
 </tr>
 <tr>

@@ -423,7 +423,7 @@ Location: Forum 1<br/>
 <div class="parallel-sessions">
 <div class="parallel-session">
 <div class="session-block">
-<div class="session-header">Numeric and Temporal Planning III</div>
+<div class="session-header">Numeric and Temporal Planning I</div>
 <div class="session-info">Location: Forum 1 | Session Chair: TBA</div>
 
 **L1 (10:30 - 10:50)** - Platform-Aware Mission Planning  
@@ -477,7 +477,7 @@ Location: Forum 1<br/>
 <div class="parallel-sessions">
 <div class="parallel-session">
 <div class="session-block">
-<div class="session-header">Alternative Formulations of Classical Planning II</div>
+<div class="session-header">Alternative Formulations of Classical Planning</div>
 <div class="session-info">Location: Forum 1 | Session Chair: TBA</div>
 
 **L9 (13:30 - 13:50)** - On the Gains from Using Action Observations in Domain Repair  
@@ -501,7 +501,7 @@ Location: Forum 1<br/>
 
 <div class="parallel-session">
 <div class="session-block">
-<div class="session-header">Non-Deterministic Planning II</div>
+<div class="session-header">Non-Deterministic Planning I</div>
 <div class="session-info">Location: Forum 2 | Session Chair: TBA</div>
 
 **L10 (13:30 - 13:50)** - Observation Adaptation via Annealed Importance Resampling for Partially Observable Markov Decision Processes  
@@ -551,7 +551,7 @@ Location: Forum 1<br/>
 
 <div class="parallel-session">
 <div class="session-block">
-<div class="session-header">Search in Planning and Scheduling II</div>
+<div class="session-header">Search in Planning and Scheduling I</div>
 <div class="session-info">Location: Forum 2 | Session Chair: TBA</div>
 
 **L18 (15:30 - 15:50)** - Rack Position Optimization in Large-Scale Heterogeneous Data Centers  
@@ -615,7 +615,7 @@ Location: Forum 1<br/>
 
 <div class="parallel-session">
 <div class="session-block">
-<div class="session-header">Numeric and Temporal Planning I</div>
+<div class="session-header">Numeric and Temporal Planning II</div>
 <div class="session-info">Location: Forum 2 | Session Chair: TBA</div>
 
 **L24 (10:30 - 10:50)** - A Sampling Approach to Planning with Infinite Domain Control Variables  
@@ -645,7 +645,7 @@ Location: Forum 1<br/>
 <div class="parallel-sessions">
 <div class="parallel-session">
 <div class="session-block">
-<div class="session-header">Numeric and Temporal Planning II</div>
+<div class="session-header">Numeric and Temporal Planning III</div>
 <div class="session-info">Location: Forum 1 | Session Chair: TBA</div>
 
 **L31 (13:30 - 13:50)** - On Using Lazy Greedy Best-First Search with Subgoaling Relaxation in Numeric Planning Problems  
@@ -669,7 +669,7 @@ Location: Forum 1<br/>
 
 <div class="parallel-session">
 <div class="session-block">
-<div class="session-header">Hierarchical Task Networks II</div>
+<div class="session-header">Hierarchical Task Networks I & Non-Deterministic Planning II</div>
 <div class="session-info">Location: Forum 2 | Session Chair: TBA</div>
 
 **L32 (13:30 - 13:50)** - SibylSatOpt: a MaxSAT-based Greedy Optimal Search for TOHTN Planning  
@@ -715,7 +715,7 @@ Location: Forum 1<br/>
 <div class="parallel-sessions">
 <div class="parallel-session">
 <div class="session-block">
-<div class="session-header">Search in Planning and Scheduling I</div>
+<div class="session-header">Search in Planning and Scheduling II</div>
 <div class="session-info">Location: Forum 1 (ICAPS) | Session Chair: TBA</div>
 
 **L39 (11:00 - 11:20)** - Parallelizing Multi-objective A* Search  
@@ -779,7 +779,7 @@ Location: Forum 1<br/>
 <div class="parallel-sessions">
 <div class="parallel-session">
 <div class="session-block">
-<div class="session-header">Hierarchical Task Networks I</div>
+<div class="session-header">Hierarchical Task Networks II</div>
 <div class="session-info">Location: Forum 1 (ICAPS) | Session Chair: TBA</div>
 
 **L47 (13:30 - 13:50)** - How Good is Perfect? On the Incompleteness of A* for Total-Order HTN Planning  
@@ -803,7 +803,7 @@ Location: Forum 1<br/>
 
 <div class="parallel-session">
 <div class="session-block">
-<div class="session-header">Non-Deterministic Planning I</div>
+<div class="session-header">Non-Deterministic Planning III</div>
 <div class="session-info">Location: Forum 2 (ICAPS) | Session Chair: TBA</div>
 
 **L48 (13:30 - 13:50)** - Going Topological in Multi-risk Extended Markov Ratio Decision Processes  
