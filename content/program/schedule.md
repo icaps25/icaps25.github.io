@@ -6,6 +6,17 @@ draft: false
 
 <center><h2>(<a href="/program/overview">Schedule Overview</a>)</h2></center>
 
+<div id="top" style="text-align: center; margin: 20px 0; padding: 20px; background-color: #f8f9fa; border-radius: 8px;">
+<h3 style="margin-bottom: 15px; color: #333;">Quick Navigation</h3>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<a href="#monday" style="background-color: #f5821f; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px; font-weight: bold; transition: background-color 0.3s;">Monday 10/11</a>
+<a href="#tuesday" style="background-color: #f5821f; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px; font-weight: bold; transition: background-color 0.3s;">Tuesday 11/11</a>
+<a href="#wednesday" style="background-color: #f5821f; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px; font-weight: bold; transition: background-color 0.3s;">Wednesday 12/11</a>
+<a href="#thursday" style="background-color: #f5821f; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px; font-weight: bold; transition: background-color 0.3s;">Thursday 13/11</a>
+<a href="#friday" style="background-color: #f5821f; color: white; padding: 10px 15px; text-decoration: none; border-radius: 5px; font-weight: bold; transition: background-color 0.3s;">Friday 14/11</a>
+</div>
+</div>
+
 <style>
 .session-block {
     margin-bottom: 30px;
@@ -73,8 +84,9 @@ draft: false
 
 ---
 
-<div style="text-align: center; background-color: #f5821f; color: white; padding: 15px; margin: 20px 0; border-radius: 8px;">
-<h2 style="margin: 0; font-size: 1.8em;">Monday, November 10, 2025 - Workshops and Tutorials</h2>
+<div id="monday" style="text-align: center; background-color: #f5821f; color: white; padding: 15px; margin: 20px 0; border-radius: 8px;">
+<h2 style="margin: 0; font-size: 1.8em;">Monday, November 10, 2025 - Workshops and Tutorials 
+<a href="#top" style="color: white; text-decoration: none; font-size: 0.6em; margin-left: 10px; opacity: 0.8;">↑ Back to Navigation</a></h2>
 </div>
 
 ### Session 1 (8:30 - 10:00)
@@ -237,8 +249,9 @@ draft: false
 
 ---
 
-<div style="text-align: center; background-color: #f5821f; color: white; padding: 15px; margin: 20px 0; border-radius: 8px;">
-<h2 style="margin: 0; font-size: 1.8em;">Tuesday, November 11, 2025 - Workshops and Tutorials</h2>
+<div id="tuesday" style="text-align: center; background-color: #f5821f; color: white; padding: 15px; margin: 20px 0; border-radius: 8px;">
+<h2 style="margin: 0; font-size: 1.8em;">Tuesday, November 11, 2025 - Workshops and Tutorials 
+<a href="#top" style="color: white; text-decoration: none; font-size: 0.6em; margin-left: 10px; opacity: 0.8;">↑ Back to Navigation</a></h2>
 </div>
 
 ### Session 1 (8:30 - 10:00)
@@ -410,8 +423,9 @@ draft: false
 
 ---
 
-<div style="text-align: center; background-color: #f5821f; color: white; padding: 15px; margin: 20px 0; border-radius: 8px;">
-<h2 style="margin: 0; font-size: 1.8em;">Wednesday, November 12, 2025 - Main Conference Day 1</h2>
+<div id="wednesday" style="text-align: center; background-color: #f5821f; color: white; padding: 15px; margin: 20px 0; border-radius: 8px;">
+<h2 style="margin: 0; font-size: 1.8em;">Wednesday, November 12, 2025 - Main Conference Day 1 
+<a href="#top" style="color: white; text-decoration: none; font-size: 0.6em; margin-left: 10px; opacity: 0.8;">↑ Back to Navigation</a></h2>
 </div>
 
 <div class="special-event">Opening Remarks (8:40 - 9:00) - Forum 1</div>
@@ -582,8 +596,9 @@ Location: Forum 1<br/>
 
 ---
 
-<div style="text-align: center; background-color: #f5821f; color: white; padding: 15px; margin: 20px 0; border-radius: 8px;">
-<h2 style="margin: 0; font-size: 1.8em;">Thursday, November 13, 2025 - Main Conference Day 2</h2>
+<div id="thursday" style="text-align: center; background-color: #f5821f; color: white; padding: 15px; margin: 20px 0; border-radius: 8px;">
+<h2 style="margin: 0; font-size: 1.8em;">Thursday, November 13, 2025 - Main Conference Day 2 
+<a href="#top" style="color: white; text-decoration: none; font-size: 0.6em; margin-left: 10px; opacity: 0.8;">↑ Back to Navigation</a></h2>
 </div>
 
 <div class="keynote-slot">
@@ -708,8 +723,9 @@ Location: Forum 1<br/>
 
 ---
 
-<div style="text-align: center; background-color: #f5821f; color: white; padding: 15px; margin: 20px 0; border-radius: 8px;">
-<h2 style="margin: 0; font-size: 1.8em;">Friday, November 14, 2025 - Main Conference Day 3 (Joint ICAPS & KR)</h2>
+<div id="friday" style="text-align: center; background-color: #f5821f; color: white; padding: 15px; margin: 20px 0; border-radius: 8px;">
+<h2 style="margin: 0; font-size: 1.8em;">Friday, November 14, 2025 - Main Conference Day 3 (Joint ICAPS & KR) 
+<a href="#top" style="color: white; text-decoration: none; font-size: 0.6em; margin-left: 10px; opacity: 0.8;">↑ Back to Navigation</a></h2>
 </div>
 
 <div class="keynote-slot">
