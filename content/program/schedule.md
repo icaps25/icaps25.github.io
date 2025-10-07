@@ -421,6 +421,7 @@ draft: false
 </div>
 </div>
 
+<div class="special-event">Evening: Opening Reception</div>
 ---
 
 <div id="wednesday" style="text-align: center; background-color: #f5821f; color: white; padding: 15px; margin: 20px 0; border-radius: 8px;">
@@ -622,7 +623,6 @@ Location: Forum 1<br/>
 
 <div class="special-event">Demo and Poster Sessions (16:50 - 18:00)</div>
 
-<div class="special-event">Evening: Opening Reception</div>
 
 ---
 

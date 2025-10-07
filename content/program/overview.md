@@ -3,9 +3,8 @@ title: "Overview"
 date: 2025-09-01T13:27:57+02:00
 draft: false
 ---
-# Preliminary Program Overview
 
-<center><h3>(<a href="/program/schedule">Detailed Schedule</a>)</h3></center>
+
 
 ## ICAPS 2025 Schedule at a Glance
 
@@ -32,11 +31,14 @@ draft: false
 - *Thursday, November 13 @ Evening*: Banquet at [Ormond College](https://ormond.unimelb.edu.au/), Walking distance from Conference Venue
 - *Friday, November 14*: Joint ICAPS & KR main track
 
-<div style="text-align: center; background-color: #f5821f; color: white; padding: 15px; margin: 20px 0; border-radius: 8px;">
+<div style="text-align: center; background-color: #f5821f; color: white; padding: 15px; margin: 20px 0; border-radius: 8px; position: relative;">
 <h2 style="margin: 0; font-size: 1.8em;">Program at a Glance</h2>
+<a href="/program/schedule" style="position: absolute; right: 15px; top: 50%; transform: translateY(-50%); color: white; text-decoration: none; font-size: 1.1em; opacity: 0.9;">Detailed Schedule →</a>
 </div>
 
-### Monday, November 10, 2025 - Workshops and Tutorials
+<div style="text-align: center; background-color: #f5821f; color: white; padding: 15px; margin: 20px 0; border-radius: 8px;">
+<h3 style="margin: 0; font-size: 1.5em;">Monday, November 10, 2025 - Workshops and Tutorials</h3>
+</div>
 
 <table>
 <thead>
@@ -102,21 +104,30 @@ draft: false
 </tbody>
 </table>
 
-**Legend:** [W] = Workshop | [T] = Tutorial
+<div style="display: flex; gap: 40px; flex-wrap: wrap; margin-top: 20px;">
+<div style="flex: 1; min-width: 300px;">
+<strong>Workshops [W]:</strong>
+<ul>
+<li><strong><a href="../workshops/prl">PRL</a></strong> - Bridging the Gap Between AI Planning and Reinforcement Learning</li>
+<li><strong><a href="../workshops/industry_optima">OPTIMA</a></strong> - Industry Workshop: Smarter Decision-Making in Action</li>
+<li><strong><a href="../workshops/hplan">HPlan</a></strong> - Hierarchical Planning</li>
+<li><strong><a href="../workshops/planrob">PlanRob</a></strong> - Planning and Robotics</li>
+<li><strong><a href="../workshops/haxp">HAXP</a></strong> - Human-Aware and Explainable Planning</li>
+<li><strong><a href="../workshops/keps">KEPS</a></strong> - Knowledge Engineering for Planning and Scheduling</li>
+</ul>
+</div>
+<div style="flex: 1; min-width: 300px;">
+<strong>Tutorials [T]:</strong>
+<ul>
+<li><strong><a href="../tutorials/learn_plan">LearnPlan</a></strong> - Learning for Planning</li>
+<li><strong><a href="../tutorials/minizinc">MiniZinc</a></strong> - MiniZinc Workshop</li>
+</ul>
+</div>
+</div>
 
-**Workshops:**
-- **[PRL](../workshops/prl)** - Bridging the Gap Between AI Planning and Reinforcement Learning
-- **[OPTIMA](../workshops/industry_optima)** - Industry Workshop: Smarter Decision-Making in Action
-- **[HPlan](../workshops/hplan)** - Hierarchical Planning
-- **[PlanRob](../workshops/planrob)** - Planning and Robotics
-- **[HAXP](../workshops/haxp)** - Human-Aware and Explainable Planning
-- **[KEPS](../workshops/keps)** - Knowledge Engineering for Planning and Scheduling
-
-**Tutorials:**
-- **[LearnPlan](../tutorials/learn_plan)** - Learning for Planning
-- **[MiniZinc](../tutorials/minizinc)** - MiniZinc Workshop
-
-### Tuesday, November 11, 2025 - Workshops and Tutorials
+<div style="text-align: center; background-color: #f5821f; color: white; padding: 15px; margin: 20px 0; border-radius: 8px;">
+<h3 style="margin: 0; font-size: 1.5em;">Tuesday, November 11, 2025 - Workshops and Tutorials</h3>
+</div>
 
 <table>
 <thead>
@@ -179,27 +190,41 @@ draft: false
 <td style="background-color: #fff0f0;"><strong>[T]</strong> <a href="/program/tutorials/ep">EP</a></td>
 <td style="background-color: #e6f7ff;"><strong>[T]</strong> <a href="/program/tutorials/bfs_no_reopen">BFS</a></td>
 </tr>
+<tr>
+<td style="text-align: center;"><strong>Evening</strong></td>
+<td colspan="6" style="text-align: center; background-color: #e6f3ff;"><strong>Opening Reception</strong></td>
+</tr>
 </tbody>
 </table>
 
-**Legend:** [W] = Workshop | [T] = Tutorial
 
-**Workshops:**
-- **[LM4Plan](../workshops/lm4plan)** - Planning in the Era of LLMs
-- **[HSDIP](../workshops/hsdip)** - Heuristics and Search for Domain-Independent Planning
-- **[RIPL](../workshops/ripl)** - Reliability In Planning and Learning
-- **[WiC](../workshops/women_computing)** - Women in ICAPS
-- **[CASP](../workshops/casp_er)** - Constraint And Satisfiability-based Planning: an Exploratory Research Workshop
-- 
-**Tutorials:**
-- **[PlanSAT](../tutorials/plan_sat)** - Planning as SAT (joint with MLPlanSAT in morning sessions)
-- **[MLPlanSAT](../tutorials/ml_plan_sat)** - Integrating ML and Planning in SAT
-- **[LTLf](../tutorials/ltlf)** - LTLf Synthesis
-- **[Domain](../tutorials/domain_ind_dp)** - Modelling and Solving Combinatorial Problems
-- **[BFS](../tutorials/bfs_no_reopen)** - Suboptimal Best-First Search
-- **[EP](../tutorials/ep)** - Epistemic Planning
+<div style="display: flex; gap: 40px; flex-wrap: wrap;">
+<div style="flex: 1; min-width: 300px;">
+<strong>Workshops [W]:</strong>
+<ul>
+<li><strong><a href="../workshops/lm4plan">LM4Plan</a></strong> - Planning in the Era of LLMs</li>
+<li><strong><a href="../workshops/hsdip">HSDIP</a></strong> - Heuristics and Search for Domain-Independent Planning</li>
+<li><strong><a href="../workshops/ripl">RIPL</a></strong> - Reliability In Planning and Learning</li>
+<li><strong><a href="../workshops/women_computing">WiC</a></strong> - Women in ICAPS</li>
+<li><strong><a href="../workshops/casp_er">CASP</a></strong> - Constraint And Satisfiability-based Planning: an Exploratory Research Workshop</li>
+</ul>
+</div>
+<div style="flex: 1; min-width: 300px;">
+<strong>Tutorials [T]:</strong>
+<ul>
+<li><strong><a href="../tutorials/plan_sat">PlanSAT</a></strong> - Planning as SAT (joint with MLPlanSAT in morning sessions)</li>
+<li><strong><a href="../tutorials/ml_plan_sat">MLPlanSAT</a></strong> - Integrating ML and Planning in SAT</li>
+<li><strong><a href="../tutorials/ltlf">LTLf</a></strong> - LTLf Synthesis</li>
+<li><strong><a href="../tutorials/domain_ind_dp">Domain</a></strong> - Modelling and Solving Combinatorial Problems</li>
+<li><strong><a href="../tutorials/bfs_no_reopen">BFS</a></strong> - Suboptimal Best-First Search</li>
+<li><strong><a href="../tutorials/ep">EP</a></strong> - Epistemic Planning</li>
+</ul>
+</div>
+</div>
 
-### Wednesday, November 12, 2025 - Main Conference Day 1
+<div style="text-align: center; background-color: #f5821f; color: white; padding: 15px; margin: 20px 0; border-radius: 8px;">
+<h3 style="margin: 0; font-size: 1.5em;">Wednesday, November 12, 2025 - Main Conference Day 1</h3>
+</div>
 
 <table>
 <thead>
@@ -264,9 +289,11 @@ draft: false
 </tbody>
 </table>
 
-*Evening: Opening Reception*
 
-### Thursday, November 13, 2025 - Main Conference Day 2
+
+<div style="text-align: center; background-color: #f5821f; color: white; padding: 15px; margin: 20px 0; border-radius: 8px;">
+<h3 style="margin: 0; font-size: 1.5em;">Thursday, November 13, 2025 - Main Conference Day 2</h3>
+</div>
 
 <table>
 <thead>
@@ -318,12 +345,16 @@ draft: false
 <td><strong>15:30 - 16:50</strong></td>
 <td colspan="3" style="text-align: center; background-color: #e6f3ff;"><strong>Community Meeting & Awards</strong></td>
 </tr>
+<tr>
+<td style="text-align: center;"><strong>Evening</strong></td>
+<td colspan="3" style="text-align: center; background-color: #e6f3ff;"><strong>Banquet at <a href="https://ormond.unimelb.edu.au/">Ormond College</a> (Walking distance from Conference Venue)</strong></td>
+</tr>
 </tbody>
 </table>
 
-*Evening: Banquet at Ormond College (Walking distance from Conference Venue)*
-
-### Friday, November 14, 2025 - Main Conference Day 3 (Joint ICAPS & KR)
+<div style="text-align: center; background-color: #f5821f; color: white; padding: 15px; margin: 20px 0; border-radius: 8px;">
+<h3 style="margin: 0; font-size: 1.5em;">Friday, November 14, 2025 - Main Conference Day 3 (Joint ICAPS & KR)</h3>
+</div>
 
 <table>
 <thead>
