@@ -731,7 +731,7 @@ Location: Forum 1<br/>
 <div class="keynote-slot">
 <strong>Keynote (9:30 - 10:30)</strong><br/>
 Location: Forum 1<br/>
-<em>Son Tran (Co-located with KR)</em>
+<em>Son Tran (Colocated with KR)</em>
 </div>
 
 <div class="break-slot">Coffee Break (10:30 - 11:00)</div>
