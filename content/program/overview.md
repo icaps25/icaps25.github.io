@@ -207,55 +207,59 @@ draft: false
 <th>Time</th>
 <th>Forum 1</th>
 <th>Forum 2</th>
+<th>Forum 3 (CPAIOR)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td><strong>8:40 - 9:00</strong></td>
-<td colspan="2" style="text-align: center; background-color: #e8f4f8;"><strong>Opening Remarks</strong></td>
+<td colspan="3" style="text-align: center; background-color: #e8f4f8;"><strong>Opening Remarks</strong></td>
 </tr>
 <tr>
 <td><strong>9:00 - 10:00</strong></td>
-<td colspan="2" style="text-align: center; background-color: #fff4e6;"><em>Keynote: Bistra Dilkina (Colocated with CPAIOR)</em></td>
+<td colspan="3" style="text-align: center; background-color: #fff4e6;"><em>Keynote: Bistra Dilkina (Colocated with CPAIOR)</em></td>
 </tr>
 <tr>
 <td><strong>10:00 - 10:30</strong></td>
-<td colspan="2" style="text-align: center; background-color: #f0f0f0;"><em>Coffee Break</em></td>
+<td colspan="3" style="text-align: center; background-color: #f0f0f0;"><em>Coffee Break</em></td>
 </tr>
 <tr>
 <td><strong>10:30 - 11:50</strong></td>
 <td style="background-color: #e8f8e8;"><strong>Numeric and Temporal Planning I</strong><br/><em>4 papers</em></td>
 <td style="background-color: #ffe8e8;"><strong>Classical Planning I</strong><br/><em>4 papers</em></td>
+<td style="background-color: #f0e6ff;"><strong>CPAIOR Session</strong><br/><em>See <a href="https://sites.google.com/view/cpaior2025">CPAIOR Program</a></em></td>
 </tr>
 <tr>
 <td><strong>11:50 - 12:00</strong></td>
-<td colspan="2" style="text-align: center; background-color: #f9f9f9;"><em>Transition Time</em></td>
+<td colspan="3" style="text-align: center; background-color: #f9f9f9;"><em>Transition Time</em></td>
 </tr>
 <tr>
 <td><strong>12:00 - 13:30</strong></td>
-<td colspan="2" style="text-align: center; background-color: #fff8dc;"><em>Lunch Break (1.5 hours)</em></td>
+<td colspan="3" style="text-align: center; background-color: #fff8dc;"><em>Lunch Break (1.5 hours)</em></td>
 </tr>
 <tr>
 <td><strong>13:30 - 14:50</strong></td>
 <td style="background-color: #e8f8e8;"><strong>Alternative Formulations of Classical Planning</strong><br/><em>4 papers</em></td>
 <td style="background-color: #ffe8e8;"><strong>Non-Deterministic Planning I</strong><br/><em>4 papers</em></td>
+<td style="background-color: #f0e6ff;"><strong>CPAIOR Session</strong><br/><em>See <a href="https://sites.google.com/view/cpaior2025">CPAIOR Program</a></em></td>
 </tr>
 <tr>
 <td><strong>14:50 - 15:00</strong></td>
-<td colspan="2" style="text-align: center; background-color: #f9f9f9;"><em>Transition Time</em></td>
+<td colspan="3" style="text-align: center; background-color: #f9f9f9;"><em>Transition Time</em></td>
 </tr>
 <tr>
 <td><strong>15:00 - 15:30</strong></td>
-<td colspan="2" style="text-align: center; background-color: #f0f0f0;"><em>Coffee Break</em></td>
+<td colspan="3" style="text-align: center; background-color: #f0f0f0;"><em>Coffee Break</em></td>
 </tr>
 <tr>
 <td><strong>15:30 - 16:50</strong></td>
 <td style="background-color: #e8f8e8;"><strong>Machine Learning in Planning and Scheduling I</strong><br/><em>3 papers</em></td>
 <td style="background-color: #ffe8e8;"><strong>Search in Planning and Scheduling I</strong><br/><em>3 papers</em></td>
+<td style="background-color: #f0e6ff;"><strong>CPAIOR Session</strong><br/><em>See <a href="https://sites.google.com/view/cpaior2025">CPAIOR Program</a></em></td>
 </tr>
 <tr>
 <td><strong>16:50 - 18:00</strong></td>
-<td colspan="2" style="text-align: center; background-color: #e6f3ff;"><strong>Demo and Poster Sessions</strong></td>
+<td colspan="3" style="text-align: center; background-color: #e6f3ff;"><strong>Demo and Poster Sessions</strong></td>
 </tr>
 </tbody>
 </table>
@@ -270,46 +274,49 @@ draft: false
 <th>Time</th>
 <th>Forum 1</th>
 <th>Forum 2</th>
+<th>Forum 3 (CPAIOR)</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td><strong>9:00 - 10:00</strong></td>
-<td colspan="2" style="text-align: center; background-color: #fff4e6;"><em>Keynote: Hanna Kurniawati</em></td>
+<td colspan="3" style="text-align: center; background-color: #fff4e6;"><em>Keynote: Hanna Kurniawati</em></td>
 </tr>
 <tr>
 <td><strong>10:00 - 10:30</strong></td>
-<td colspan="2" style="text-align: center; background-color: #f0f0f0;"><em>Coffee Break</em></td>
+<td colspan="3" style="text-align: center; background-color: #f0f0f0;"><em>Coffee Break</em></td>
 </tr>
 <tr>
 <td><strong>10:30 - 11:50</strong></td>
 <td style="background-color: #e8f8e8;"><strong>LLMs in Planning and Scheduling I</strong><br/><em>4 papers</em></td>
 <td style="background-color: #ffe8e8;"><strong>Numeric and Temporal Planning II</strong><br/><em>4 papers</em></td>
+<td style="background-color: #f0e6ff;"><strong>CPAIOR Session</strong><br/><em>See <a href="https://sites.google.com/view/cpaior2025">CPAIOR Program</a></em></td>
 </tr>
 <tr>
 <td><strong>11:50 - 12:00</strong></td>
-<td colspan="2" style="text-align: center; background-color: #f9f9f9;"><em>Transition Time</em></td>
+<td colspan="3" style="text-align: center; background-color: #f9f9f9;"><em>Transition Time</em></td>
 </tr>
 <tr>
 <td><strong>12:00 - 13:30</strong></td>
-<td colspan="2" style="text-align: center; background-color: #fff8dc;"><em>Lunch Break (1.5 hours)</em></td>
+<td colspan="3" style="text-align: center; background-color: #fff8dc;"><em>Lunch Break (1.5 hours)</em></td>
 </tr>
 <tr>
 <td><strong>13:30 - 14:50</strong></td>
 <td style="background-color: #e8f8e8;"><strong>Numeric and Temporal Planning III</strong><br/><em>4 papers</em></td>
 <td style="background-color: #ffe8e8;"><strong>Hierarchical Task Networks I & Non-Deterministic Planning II</strong><br/><em>4 papers</em></td>
+<td style="background-color: #f0e6ff;"><strong>CPAIOR Session</strong><br/><em>See <a href="https://sites.google.com/view/cpaior2025">CPAIOR Program</a></em></td>
 </tr>
 <tr>
 <td><strong>14:50 - 15:00</strong></td>
-<td colspan="2" style="text-align: center; background-color: #f9f9f9;"><em>Transition Time</em></td>
+<td colspan="3" style="text-align: center; background-color: #f9f9f9;"><em>Transition Time</em></td>
 </tr>
 <tr>
 <td><strong>15:00 - 15:30</strong></td>
-<td colspan="2" style="text-align: center; background-color: #f0f0f0;"><em>Coffee Break</em></td>
+<td colspan="3" style="text-align: center; background-color: #f0f0f0;"><em>Coffee Break</em></td>
 </tr>
 <tr>
 <td><strong>15:30 - 16:50</strong></td>
-<td colspan="2" style="text-align: center; background-color: #e6f3ff;"><strong>Community Meeting & Awards</strong></td>
+<td colspan="3" style="text-align: center; background-color: #e6f3ff;"><strong>Community Meeting & Awards</strong></td>
 </tr>
 </tbody>
 </table>
@@ -322,8 +329,8 @@ draft: false
 <thead>
 <tr>
 <th>Time</th>
-<th>Forum 1 (ICAPS)</th>
-<th>Forum 2 (ICAPS)</th>
+<th>Forum 1</th>
+<th>Forum 2</th>
 <th>Forum 3 (KR)</th>
 </tr>
 </thead>

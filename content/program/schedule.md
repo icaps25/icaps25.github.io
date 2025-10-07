@@ -488,6 +488,16 @@ Location: Forum 1<br/>
 
 </div>
 </div>
+
+<div class="parallel-session">
+<div class="session-block">
+<div class="session-header">CPAIOR Session</div>
+<div class="session-info">Location: Forum 3 (CPAIOR) | Session Chair: TBA</div>
+
+*See [CPAIOR Program](https://sites.google.com/view/cpaior2025) for details*
+
+</div>
+</div>
 </div>
 
 <div class="break-slot">Lunch Break (12:00 - 13:30)</div>
@@ -542,6 +552,16 @@ Location: Forum 1<br/>
 
 </div>
 </div>
+
+<div class="parallel-session">
+<div class="session-block">
+<div class="session-header">CPAIOR Session</div>
+<div class="session-info">Location: Forum 3 (CPAIOR) | Session Chair: TBA</div>
+
+*See [CPAIOR Program](https://sites.google.com/view/cpaior2025) for details*
+
+</div>
+</div>
 </div>
 
 <div class="break-slot">Coffee Break (15:00 - 15:30)</div>
@@ -585,6 +605,16 @@ Location: Forum 1<br/>
 **L22 (16:10 - 16:30)** - New Exact Methods for Solving Quadratic Traveling Salesman Problem  
 *Yuxiao Chen, Anubhav Singh, Ryo Kuroiwa, Chris Beck*  
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36134)
+
+</div>
+</div>
+
+<div class="parallel-session">
+<div class="session-block">
+<div class="session-header">CPAIOR Session</div>
+<div class="session-info">Location: Forum 3 (CPAIOR) | Session Chair: TBA</div>
+
+*See [CPAIOR Program](https://sites.google.com/view/cpaior2025) for details*
 
 </div>
 </div>
@@ -659,6 +689,16 @@ Location: Forum 1<br/>
 
 </div>
 </div>
+
+<div class="parallel-session">
+<div class="session-block">
+<div class="session-header">CPAIOR Session</div>
+<div class="session-info">Location: Forum 3 (CPAIOR) | Session Chair: TBA</div>
+
+*See [CPAIOR Program](https://sites.google.com/view/cpaior2025) for details*
+
+</div>
+</div>
 </div>
 
 <div class="break-slot">Lunch Break (12:00 - 13:30)</div>
@@ -710,6 +750,16 @@ Location: Forum 1<br/>
 **L38 (14:30 - 14:50)** - LTLf Adaptive Synthesis for Multi-Tier Goals in Nondeterministic Domains  
 *Giuseppe De Giacomo, Gianmarco Parretti, Shufang Zhu*  
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36135)
+
+</div>
+</div>
+
+<div class="parallel-session">
+<div class="session-block">
+<div class="session-header">CPAIOR Session</div>
+<div class="session-info">Location: Forum 3 (CPAIOR) | Session Chair: TBA</div>
+
+*See [CPAIOR Program](https://sites.google.com/view/cpaior2025) for details*
 
 </div>
 </div>
