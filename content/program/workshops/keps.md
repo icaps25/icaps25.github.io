@@ -75,7 +75,7 @@ The KEPS workshop is scheduled on November 10, 2025. Further details are availab
 ---
 [15:30 - 17:00] - **Session 2**
 - Encoding Genomics for Planning in Multi-generational Selective Breeding Domains, Richard Freedman, Gregory Cox, Andrea Tilden, Helen Wauck, Eric Aaron
-- An Alternative Approach to Solving the Aircraft Maintenance Routing Problem, Lucas Kletzander, Nysret Musliu, Peter J. Stuckey, Hendrik Bierlee, Ida Gjergji
+- A Consecutive Flight Leg Model for the Aircraft Maintenance Routing Problem, Lucas Kletzander, Nysret Musliu, Peter J. Stuckey, Hendrik Bierlee, Ida Gjergji
 - Action Model Learning with Guarantees, Diego Aineto Garcia, Enrico Scala
 - Evaluating Planning Model Learning Algorithms, Roni Stern, Leonardo Lamanna, Argaman Mordoch, Yarin Benyamin, Pascal Lauer, Brendan Juba, Gregor Behnke, Christian Muise, Pascal Bercher, Mauro Vallati, Kai Xi, Omar Wattad, Omer Eliyahu 
 ---
