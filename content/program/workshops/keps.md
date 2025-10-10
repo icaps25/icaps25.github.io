@@ -8,7 +8,7 @@ draft: false
 
 2025 Workshop on Knowledge Engineering for Planning and Scheduling \
 Melbourne, Australia \
-November, 2025
+November 10, 2025
 
 ## Aim and Scope of the Workshop
 
@@ -57,19 +57,29 @@ We are pleased to accept papers based on recent publications from other (non-ICA
 
 Submissions of papers being reviewed at other venues are welcome since this is a non-archival venue and we will not require a transfer of copyright. If such papers are currently under blind review, please anonymize the submission.
 
---
 
-## Accepted Papers
+
+## Schedule
+The KEPS workshop is scheduled on November 10, 2025. Further details are available on the [official ICAPS 2025 program website](https://icaps25.icaps-conference.org/program/overview/). Each talk is allocated 20 minutes, including Q&A.
+
+---
+[13:30 - 15:00] - **Opening Remarks and Session 1**
 - Learning action models from partial ordered action traces, Chunjie Liu, Patrik Haslum
 - Bridging Engineering and AI Planning through Model-Based Knowledge Transformation for the Validation of Automated Production System Variants, Hamied Nabizada, Lasse Beers, Alain Chahine, Felix Gehlhoff, Oliver Niggemann, Alexander Fay
 - Mojified Pacman: A Deterministic and Fully Observable Variant for PDDL Modeling Competitions, Bruno César Ribas, igor e Silva penha, Lucas Gobbi Bergholz, Bruno Ribeiro
 - Arguments in Favor of Allowing a Modeler to Constrain Action Repetitions, Pascal Lauer
+
+---
+[15:00 - 15:30] - Coffee Break
+
+---
+[15:30 - 17:00] - **Session 2**
 - Encoding Genomics for Planning in Multi-generational Selective Breeding Domains, Richard Freedman, Gregory Cox, Andrea Tilden, Helen Wauck, Eric Aaron
-- An Alternative Approach to Solving the Aircraft Maintenance Routing Problem, Lucas Kletzander, Nysret Musliu, Peter J. Stuckey, Hendrik Bierlee, Ida Gjergji
+- A Consecutive Flight Leg Model for the Aircraft Maintenance Routing Problem, Lucas Kletzander, Nysret Musliu, Peter J. Stuckey, Hendrik Bierlee, Ida Gjergji
 - Action Model Learning with Guarantees, Diego Aineto Garcia, Enrico Scala
 - Evaluating Planning Model Learning Algorithms, Roni Stern, Leonardo Lamanna, Argaman Mordoch, Yarin Benyamin, Pascal Lauer, Brendan Juba, Gregor Behnke, Christian Muise, Pascal Bercher, Mauro Vallati, Kai Xi, Omar Wattad, Omer Eliyahu 
+---
 
---
 
 ## Organising Committee
 
