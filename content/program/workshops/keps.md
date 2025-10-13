@@ -64,10 +64,10 @@ The KEPS workshop is scheduled on November 10, 2025. Further details are availab
 
 ---
 [13:30 - 15:00] - **Opening Remarks and Session 1**
-- Learning action models from partial ordered action traces, Chunjie Liu, Patrik Haslum
-- Bridging Engineering and AI Planning through Model-Based Knowledge Transformation for the Validation of Automated Production System Variants, Hamied Nabizada, Lasse Beers, Alain Chahine, Felix Gehlhoff, Oliver Niggemann, Alexander Fay
+- [Learning action models from partial ordered action traces](../keps-papers/polocm_for_keps.pdf), Chunjie Liu, Patrik Haslum
+- [Bridging Engineering and AI Planning through Model-Based Knowledge Transformation for the Validation of Automated Production System Variants](../keps-papers/Nabizada.pdf), Hamied Nabizada, Lasse Beers, Alain Chahine, Felix Gehlhoff, Oliver Niggemann, Alexander Fay
 - Mojified Pacman: A Deterministic and Fully Observable Variant for PDDL Modeling Competitions, Bruno César Ribas, igor e Silva penha, Lucas Gobbi Bergholz, Bruno Ribeiro
-- Arguments in Favor of Allowing a Modeler to Constrain Action Repetitions, Pascal Lauer
+- [Arguments in Favor of Allowing a Modeler to Constrain Action Repetitions](../keps-papers/main.pdf), Pascal Lauer
 
 ---
 [15:00 - 15:30] - Coffee Break
@@ -75,8 +75,8 @@ The KEPS workshop is scheduled on November 10, 2025. Further details are availab
 ---
 [15:30 - 17:00] - **Session 2**
 - Encoding Genomics for Planning in Multi-generational Selective Breeding Domains, Richard Freedman, Gregory Cox, Andrea Tilden, Helen Wauck, Eric Aaron
-- A Consecutive Flight Leg Model for the Aircraft Maintenance Routing Problem, Lucas Kletzander, Nysret Musliu, Peter J. Stuckey, Hendrik Bierlee, Ida Gjergji
-- Action Model Learning with Guarantees, Diego Aineto Garcia, Enrico Scala
+- [A Consecutive Flight Leg Model for the Aircraft Maintenance Routing Problem](../keps-papers/keps_submission6.pdf), Lucas Kletzander, Nysret Musliu, Peter J. Stuckey, Hendrik Bierlee, Ida Gjergji
+- [Action Model Learning with Guarantees](https://proceedings.kr.org/2024/75/kr2024-0075-aineto-et-al.pdf), Diego Aineto Garcia, Enrico Scala
 - Evaluating Planning Model Learning Algorithms, Roni Stern, Leonardo Lamanna, Argaman Mordoch, Yarin Benyamin, Pascal Lauer, Brendan Juba, Gregor Behnke, Christian Muise, Pascal Bercher, Mauro Vallati, Kai Xi, Omar Wattad, Omer Eliyahu 
 ---
 
