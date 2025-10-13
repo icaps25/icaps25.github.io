@@ -9,12 +9,12 @@ draft: false
 ## ICAPS 2025 Schedule at a Glance
 
 - November 3-7, 2025	[Summer School](https://icaps25.icaps-conference.org/summerschool/)
-- Novmeber 9, 2025		[Doctoral Consortium](https://icaps25.icaps-conference.org/calls/dc/)
+- November 9, 2025		[Doctoral Consortium](https://icaps25.icaps-conference.org/calls/dc/)
 - Novmeber 10-11, 2025	[Workshops](https://icaps25.icaps-conference.org/program/ws_overview/) and [Tutorials](https://icaps25.icaps-conference.org/program/tutorial_overview/)
-- Novmeber 12-14, 2025	[ICAPS Main Conference](https://icaps25.icaps-conference.org/program/schedule/)
+- November 12-14, 2025	[ICAPS Main Conference](https://icaps25.icaps-conference.org/program/schedule/)
 
 ## Colocated Conferences
-- Novmeber 10-13, 2025	[Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research](https://sites.google.com/view/cpaior2025) (CPAIOR)
+- November 10-13, 2025	[Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research](https://sites.google.com/view/cpaior2025) (CPAIOR)
 - November 11-17 [Conference on Principles of Knowledge Representation and Reasoning](https://kr.org//KR2025/) (KR)
 
 ## Additional Information about the Program
@@ -139,6 +139,7 @@ draft: false
 <th>Room 4 (40)</th>
 <th>Room 5 (25)</th>
 <th>Room 6 (25)</th>
+<th>KR Venue</th>  
 </tr>
 </thead>
 <tbody>
@@ -149,11 +150,12 @@ draft: false
 <td style="background-color: #f0ffe6;"><strong>[W]</strong> <a href="/program/workshops/ripl">RIPL</a></td>
 <td style="background-color: #fff0e6;"><strong>[T]</strong> <a href="/program/tutorials/plan_sat">PlanSAT</a>/<a href="/program/tutorials/ml_plan_sat">MLPlanSAT</a></td>
 <td style="background-color: #ffffcc;"><strong>[T]</strong> <a href="/program/tutorials/ltlf">LTLf</a></td>
-<td style="background-color: #ffe6e6;"><strong>[W]</strong> <a href="/program/workshops/women_computing">WiC</a></td>
+<td style="background-color: #ffe6e6;"><s><strong>[W]</strong> <a href="/program/workshops/women_computing">WiC</a></s></td>
+<td style="background-color: #f0ffe6;"><strong>[W]</strong> <a href="/program/workshops/krplan">KRPlan</a></td>
 </tr>
 <tr>
 <td><strong>10:00 - 10:30</strong></td>
-<td colspan="6" style="text-align: center; background-color: #f0f0f0;"><em>Coffee Break</em></td>
+<td colspan="7" style="text-align: center; background-color: #f0f0f0;"><em>Coffee Break</em></td>
 </tr>
 <tr>
 <td><strong>10:30 - 12:00</strong></td>
@@ -162,11 +164,12 @@ draft: false
 <td style="background-color: #f0ffe6;"><strong>[W]</strong> <a href="/program/workshops/ripl">RIPL</a></td>
 <td style="background-color: #fff0e6;"><strong>[T]</strong> <a href="/program/tutorials/plan_sat">PlanSAT</a></td>
 <td style="background-color: #f7e6ff;"><strong>[T]</strong> <a href="/program/tutorials/ml_plan_sat">MLPlanSAT</a></td>
-<td style="background-color: #ffe6e6;"><strong>[W]</strong> <a href="/program/workshops/women_computing">WiC</a></td>
+<td style="background-color: #ffe6e6;"><s><strong>[W]</strong> <a href="/program/workshops/women_computing">WiC</a></s></td>
+<td style="background-color: #f0ffe6;"><strong>[W]</strong> <a href="/program/workshops/krplan">KRPlan</a></td>
 </tr>
 <tr>
 <td><strong>12:00 - 13:30</strong></td>
-<td colspan="6" style="text-align: center; background-color: #fff8dc;"><em>Lunch Break</em></td>
+<td colspan="7" style="text-align: center; background-color: #fff8dc;"><em>Lunch Break</em></td>
 </tr>
 <tr>
 <td><strong>13:30 - 15:00</strong></td>
@@ -176,10 +179,11 @@ draft: false
 <td style="background-color: #e6fff0;"><strong>[W]</strong> <a href="/program/workshops/casp_er">CASP:ER</a></td>
 <td style="background-color: #ffe6cc;"><strong>[T]</strong> <a href="/program/tutorials/domain_ind_dp">Domain</a></td>
 <td style="background-color: #e6f7ff;"><strong>[T]</strong> <a href="/program/tutorials/bfs_no_reopen">BFS</a></td>
+<td style="background-color: #f0ffe6;"><strong>[W]</strong> <a href="/program/workshops/krplan">KRPlan</a></td>
 </tr>
 <tr>
 <td><strong>15:00 - 15:30</strong></td>
-<td colspan="6" style="text-align: center; background-color: #f0f0f0;"><em>Coffee Break</em></td>
+<td colspan="7" style="text-align: center; background-color: #f0f0f0;"><em>Coffee Break</em></td>
 </tr>
 <tr>
 <td><strong>15:30 - 17:00</strong></td>
@@ -189,10 +193,11 @@ draft: false
 <td style="background-color: #e6fff0;"><strong>[W]</strong> <a href="/program/workshops/casp_er">CASP:ER</a></td>
 <td style="background-color: #fff0f0;"><strong>[T]</strong> <a href="/program/tutorials/ep">EP</a></td>
 <td style="background-color: #e6f7ff;"><strong>[T]</strong> <a href="/program/tutorials/bfs_no_reopen">BFS</a></td>
+<td style="background-color: #f0ffe6;"><strong>[W]</strong> <a href="/program/workshops/krplan">KRPlan</a></td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>Evening</strong></td>
-<td colspan="6" style="text-align: center; background-color: #e6f3ff;"><strong>Opening Reception</strong></td>
+<td colspan="7" style="text-align: center; background-color: #e6f3ff;"><strong>Opening Reception</strong></td>
 </tr>
 </tbody>
 </table>
@@ -205,8 +210,9 @@ draft: false
 <li><strong><a href="../workshops/lm4plan">LM4Plan</a></strong> - Planning in the Era of LLMs</li>
 <li><strong><a href="../workshops/hsdip">HSDIP</a></strong> - Heuristics and Search for Domain-Independent Planning</li>
 <li><strong><a href="../workshops/ripl">RIPL</a></strong> - Reliability In Planning and Learning</li>
-<li><strong><a href="../workshops/women_computing">WiC</a></strong> - Women in ICAPS</li>
+<li><s><strong><a href="../workshops/women_computing">WiC</a></strong> - Women in ICAPS</s> <b>Cancelled</b></li>
 <li><strong><a href="../workshops/casp_er">CASP</a></strong> - Constraint And Satisfiability-based Planning: an Exploratory Research Workshop</li>
+<li><strong><a href="../workshops/krplan/">KRPlan</a></strong> - Knowledge Representation Meets Automated Planning (located at KR venue)</li>
 </ul>
 </div>
 <div style="flex: 1; min-width: 300px;">
