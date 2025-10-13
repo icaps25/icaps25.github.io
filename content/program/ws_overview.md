@@ -159,7 +159,7 @@ Here is the list of the worskhops accepted to ICAPS 2025
 		<!-- <p><strong>Women in Computing</strong></p> -->
  	</div>
  	<div style="display:inline-block; width: 78%; text-align:center; vertical-align: middle;">
- 		<p><strong>Women in Computing: Empowerment, Career Development, and Overcoming Barriers in STEM</strong></p>
+ 		<p><strong><s>Women in Computing: Empowerment, Career Development, and Overcoming Barriers in STEM</s></strong> <b>Cancelled</b></p>
  	</div>
  	<!-- <div style="display:inline-block; width: 28%; text-align:center; vertical-align: middle;">
  		<p>TBD</p>
