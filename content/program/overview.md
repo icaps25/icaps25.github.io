@@ -258,7 +258,7 @@ draft: false
 <td><strong>10:30 - 11:50</strong></td>
 <td style="background-color: #e8f8e8;"><strong>Numeric and Temporal Planning I</strong><br/><em>4 papers</em></td>
 <td style="background-color: #ffe8e8;"><strong>Classical Planning I</strong><br/><em>4 papers</em></td>
-<td style="background-color: #f0e6ff;"><strong>CPAIOR Session</strong><br/><em>See <a href="https://sites.google.com/view/cpaior2025">CPAIOR Program</a></em></td>
+<td style="background-color: #f0e6ff;"><strong>CPAIOR Session</strong><br/><em>See <a href="https://cpaior.github.io/cpaior_2025/program.html#overview">CPAIOR Program</a></em></td>
 </tr>
 <tr>
 <td><strong>11:50 - 12:00</strong></td>
@@ -272,7 +272,7 @@ draft: false
 <td><strong>13:30 - 14:50</strong></td>
 <td style="background-color: #e8f8e8;"><strong>Alternative Formulations of Classical Planning</strong><br/><em>4 papers</em></td>
 <td style="background-color: #ffe8e8;"><strong>Non-Deterministic Planning I</strong><br/><em>4 papers</em></td>
-<td style="background-color: #f0e6ff;"><strong>CPAIOR Session</strong><br/><em>See <a href="https://sites.google.com/view/cpaior2025">CPAIOR Program</a></em></td>
+<td style="background-color: #f0e6ff;"><strong>CPAIOR Session</strong><br/><em>See <a href="https://cpaior.github.io/cpaior_2025/program.html#overview">CPAIOR Program</a></em></td>
 </tr>
 <tr>
 <td><strong>14:50 - 15:00</strong></td>
@@ -286,7 +286,7 @@ draft: false
 <td><strong>15:30 - 16:50</strong></td>
 <td style="background-color: #e8f8e8;"><strong>Machine Learning in Planning and Scheduling I</strong><br/><em>3 papers</em></td>
 <td style="background-color: #ffe8e8;"><strong>Search in Planning and Scheduling I</strong><br/><em>3 papers</em></td>
-<td style="background-color: #f0e6ff;"><strong>CPAIOR Session</strong><br/><em>See <a href="https://sites.google.com/view/cpaior2025">CPAIOR Program</a></em></td>
+<td style="background-color: #f0e6ff;"><strong>CPAIOR Session</strong><br/><em>See <a href="https://cpaior.github.io/cpaior_2025/program.html#overview">CPAIOR Program</a></em></td>
 </tr>
 <tr>
 <td><strong>16:50 - 18:00</strong></td>
@@ -323,7 +323,7 @@ draft: false
 <td><strong>10:30 - 11:50</strong></td>
 <td style="background-color: #e8f8e8;"><strong>LLMs in Planning and Scheduling I</strong><br/><em>4 papers</em></td>
 <td style="background-color: #ffe8e8;"><strong>Numeric and Temporal Planning II</strong><br/><em>4 papers</em></td>
-<td style="background-color: #f0e6ff;"><strong>CPAIOR Session</strong><br/><em>See <a href="https://sites.google.com/view/cpaior2025">CPAIOR Program</a></em></td>
+<td style="background-color: #f0e6ff;"><strong>CPAIOR Session</strong><br/><em>See <a href="https://cpaior.github.io/cpaior_2025/program.html#overview">CPAIOR Program</a></em></td>
 </tr>
 <tr>
 <td><strong>11:50 - 12:00</strong></td>
@@ -337,7 +337,7 @@ draft: false
 <td><strong>13:30 - 14:50</strong></td>
 <td style="background-color: #e8f8e8;"><strong>Numeric and Temporal Planning III</strong><br/><em>4 papers</em></td>
 <td style="background-color: #ffe8e8;"><strong>Hierarchical Task Networks I & Non-Deterministic Planning II</strong><br/><em>4 papers</em></td>
-<td style="background-color: #f0e6ff;"><strong>CPAIOR Session</strong><br/><em>See <a href="https://sites.google.com/view/cpaior2025">CPAIOR Program</a></em></td>
+<td style="background-color: #f0e6ff;"><strong>CPAIOR Session</strong><br/><em>See <a href="https://cpaior.github.io/cpaior_2025/program.html#overview">CPAIOR Program</a></em></td>
 </tr>
 <tr>
 <td><strong>14:50 - 15:00</strong></td>

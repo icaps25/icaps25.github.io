@@ -496,7 +496,7 @@ Location: Forum 1<br/>
 <div class="session-header">CPAIOR Session</div>
 <div class="session-info">Location: Forum 3 (CPAIOR) | Session Chair: TBA</div>
 
-*See [CPAIOR Program](https://sites.google.com/view/cpaior2025) for details*
+*See [CPAIOR Program](https://cpaior.github.io/cpaior_2025/program.html#overview) for details*
 
 </div>
 </div>
@@ -560,7 +560,7 @@ Location: Forum 1<br/>
 <div class="session-header">CPAIOR Session</div>
 <div class="session-info">Location: Forum 3 (CPAIOR) | Session Chair: TBA</div>
 
-*See [CPAIOR Program](https://sites.google.com/view/cpaior2025) for details*
+*See [CPAIOR Program](https://cpaior.github.io/cpaior_2025/program.html#overview) for details*
 
 </div>
 </div>
@@ -616,7 +616,7 @@ Location: Forum 1<br/>
 <div class="session-header">CPAIOR Session</div>
 <div class="session-info">Location: Forum 3 (CPAIOR) | Session Chair: TBA</div>
 
-*See [CPAIOR Program](https://sites.google.com/view/cpaior2025) for details*
+*See [CPAIOR Program](https://cpaior.github.io/cpaior_2025/program.html#overview) for details*
 
 </div>
 </div>
@@ -696,7 +696,7 @@ Location: Forum 1<br/>
 <div class="session-header">CPAIOR Session</div>
 <div class="session-info">Location: Forum 3 (CPAIOR) | Session Chair: TBA</div>
 
-*See [CPAIOR Program](https://sites.google.com/view/cpaior2025) for details*
+*See [CPAIOR Program](https://cpaior.github.io/cpaior_2025/program.html#overview) for details*
 
 </div>
 </div>
@@ -760,7 +760,7 @@ Location: Forum 1<br/>
 <div class="session-header">CPAIOR Session</div>
 <div class="session-info">Location: Forum 3 (CPAIOR) | Session Chair: TBA</div>
 
-*See [CPAIOR Program](https://sites.google.com/view/cpaior2025) for details*
+*See [CPAIOR Program](https://cpaior.github.io/cpaior_2025/program.html#overview) for details*
 
 </div>
 </div>
