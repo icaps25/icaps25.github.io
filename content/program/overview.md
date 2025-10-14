@@ -248,7 +248,7 @@ draft: false
 </tr>
 <tr>
 <td><strong>9:00 - 10:00</strong></td>
-<td colspan="3" style="text-align: center; background-color: #fff4e6;"><em>Keynote: Bistra Dilkina (Colocated with CPAIOR)</em></td>
+<td colspan="3" style="text-align: center; background-color: #fff4e6;"><em>Keynote: Hanna Kurniawati (Colocated with CPAIOR)</em></td>
 </tr>
 <tr>
 <td><strong>10:00 - 10:30</strong></td>
@@ -313,7 +313,7 @@ draft: false
 <tbody>
 <tr>
 <td><strong>9:00 - 10:00</strong></td>
-<td colspan="3" style="text-align: center; background-color: #fff4e6;"><em>Keynote: Hanna Kurniawati</em></td>
+<td colspan="3" style="text-align: center; background-color: #fff4e6;"><em>Keynote: Bistra Dilkina (Colocated with CPAIOR)</em></td>
 </tr>
 <tr>
 <td><strong>10:00 - 10:30</strong></td>
