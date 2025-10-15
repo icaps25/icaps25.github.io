@@ -26,7 +26,7 @@ draft: false
 ## Special Events
 
 - *Monday, November 10 @ 8am-12pm*: [OPTIMA Industry Workshop](https://optima.org.au/icaps-smart-logistics/) Smarter Decision-Making in Action: Planning and Scheduling for Road Transport Optimisation
-- *Tuesday, November 11 @ evening*: Opening Reception
+- *Tuesday, November 11 @ 17:30 - 19:30*: Opening Reception at <a href="https://www.rmit.edu.au/content/dam/rmit/au/en/about/locations-and-facilities/locations/alumni-courtyard.jpg">RMIT alumni Courtyard </a> 
 - *Wednesday, November 12 @ evening*: [Demo](https://icaps25.icaps-conference.org/program/demos/) and [Poster]() 
 - *Thursday, November 13 @ Evening*: Banquet at [Ormond College](https://ormond.unimelb.edu.au/), Walking distance from Conference Venue
 - *Friday, November 14*: Joint ICAPS & KR main track
@@ -196,8 +196,8 @@ draft: false
 <td style="background-color: #f0ffe6;"><strong>[W]</strong> <a href="/program/workshops/krplan">KRPlan</a></td>
 </tr>
 <tr>
-<td style="text-align: center;"><strong>Evening</strong></td>
-<td colspan="7" style="text-align: center; background-color: #e6f3ff;"><strong>Opening Reception</strong></td>
+<td style="text-align: center;"><strong>17:30 - 19:30</strong></td>
+<td colspan="7" style="text-align: center; background-color: #e6f3ff;"><strong>Opening Reception at <a href="https://www.rmit.edu.au/content/dam/rmit/au/en/about/locations-and-facilities/locations/alumni-courtyard.jpg">RMIT alumni Courtyard </a> </strong></td>
 </tr>
 </tbody>
 </table>

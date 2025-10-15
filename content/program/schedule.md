@@ -449,7 +449,7 @@ draft: false
 </div>
 </div>
 
-<div class="special-event">Evening: Opening Reception</div>
+<div class="special-event">Opening Reception at <a href="https://www.rmit.edu.au/content/dam/rmit/au/en/about/locations-and-facilities/locations/alumni-courtyard.jpg">RMIT alumni Courtyard </a> (17:30 - 19:30)</div>
 
 ---
 
