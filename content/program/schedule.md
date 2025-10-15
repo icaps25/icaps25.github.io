@@ -295,8 +295,9 @@ draft: false
 </div>
 <div class="parallel-session">
 
-**Room 6 (25 capacity)**  
-[WiC](/program/workshops/women_computing) - Women in Computing
+**KR Venue**  
+[KRPlan](https://icaps25.icaps-conference.org/program/workshops/krplan/) - Knowledge Representation Meets Automated Planning<br/>
+<em>See details in <a href="https://kr.org/KR2025/schedule.html">KR program</a></em>
 
 </div>
 </div>
@@ -344,8 +345,9 @@ draft: false
 </div>
 <div class="parallel-session">
 
-**Room 6 (25 capacity)**  
-[WiC](/program/workshops/women_computing) - Women in Computing
+**KR Venue**  
+[KRPlan](https://icaps25.icaps-conference.org/program/workshops/krplan/) - Knowledge Representation Meets Automated Planning<br/>
+<em>See details in <a href="https://kr.org/KR2025/schedule.html">KR program</a></em>
 
 </div>
 </div>
@@ -384,8 +386,21 @@ draft: false
 </div>
 </div>
 
+<div class="parallel-sessions">
+<div class="parallel-session">
+
 **Room 6 (25 capacity)**  
 [Tutorial: Suboptimal Best-First Search](/program/tutorials/bfs_no_reopen)
+
+</div>
+<div class="parallel-session">
+
+**KR Venue**  
+[KRPlan](https://icaps25.icaps-conference.org/program/workshops/krplan/) - Knowledge Representation Meets Automated Planning<br/>
+<em>See details in <a href="https://kr.org/KR2025/schedule.html">KR program</a></em>
+
+</div>
+</div>
 
 <div class="break-slot">Coffee Break (15:00 - 15:30)</div>
 
@@ -417,6 +432,19 @@ draft: false
 
 **Room 6 (25 capacity)**  
 [Tutorial: Suboptimal Best-First Search](/program/tutorials/bfs_no_reopen)
+
+</div>
+</div>
+
+<div class="parallel-sessions">
+<div class="parallel-session">
+
+</div>
+<div class="parallel-session">
+
+**KR Venue**  
+[KRPlan](https://icaps25.icaps-conference.org/program/workshops/krplan/) - Knowledge Representation Meets Automated Planning<br/>
+<em>See details in <a href="https://kr.org/KR2025/schedule.html">KR program</a></em>
 
 </div>
 </div>
