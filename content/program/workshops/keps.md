@@ -66,7 +66,7 @@ The KEPS workshop is scheduled on November 10, 2025. Further details are availab
 [13:30 - 15:00] - **Opening Remarks and Session 1**
 - [Learning action models from partial ordered action traces](../keps-papers/polocm_for_keps.pdf), Chunjie Liu, Patrik Haslum
 - [Bridging Engineering and AI Planning through Model-Based Knowledge Transformation for the Validation of Automated Production System Variants](../keps-papers/Nabizada.pdf), Hamied Nabizada, Lasse Beers, Alain Chahine, Felix Gehlhoff, Oliver Niggemann, Alexander Fay
-- Mojified Pacman: A Deterministic and Fully Observable Variant for PDDL Modeling Competitions, Bruno César Ribas, igor e Silva penha, Lucas Gobbi Bergholz, Bruno Ribeiro
+- [Mojified Pacman: A Deterministic and Fully Observable Variant for PDDL Modeling Competitions](../keps-papers/pacman.pdf), Bruno César Ribas, igor e Silva penha, Lucas Gobbi Bergholz, Bruno Ribeiro
 - [Arguments in Favor of Allowing a Modeler to Constrain Action Repetitions](../keps-papers/main.pdf), Pascal Lauer
 
 ---
