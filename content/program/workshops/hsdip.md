@@ -8,7 +8,7 @@ draft: false
 
 ICAPS Workshop on Heuristics and Search for Domain-independent Planning (HSDIP 2025) \
 Melbourne, Australia \
-November 10-11, 2025
+November 11, 2025
 
 | Schedule            |          | |
 |---------------------|----------|-|
@@ -27,35 +27,28 @@ The HSDIP workshop has always been welcoming of multidisciplinary work, for exam
 
 The workshop is meant to be an open and inclusive forum, and we encourage papers that report on work in progress or that do not fit the mold of a typical conference paper. Non-trivial negative results are welcome to the workshop, but we expect the authors to argue for the significance of the presented results.
 
-## Accepted Papers
 
-* **Finding Plans and Heuristics with Spectral Graph Theory**
-[(pdf)](https://openreview.net/forum?id=uocKlL1oKV)<br>
-*Johannes Schmalz*
+## Schedule
 
-* **Planning as Goal Recognition: Deriving Heuristics from Intention Models**
-[(pdf)](https://openreview.net/forum?id=bAL6bpW4Dm)<br>
-*Giacomo Rosa, Nir Lipovetzky, Sebastian Sardina, Jean Honorio*
+The HSDIP workshop is scheduled on November 11, 2025 in Room 2 (80).
 
-* **Conditional Dominance Analysis for Classical Planning**
-[(pdf)](https://openreview.net/forum?id=UN8OUhaRzp)<br>
-*Anna Wilhelm, Alvaro Torralba*
+---
+[8:30 - 10:00] - **Opening Remarks and Session 1**
+- **Landmark-Assisted Monte Carlo Planning** [(pdf)](https://openreview.net/forum?id=CfvZnoqc4z)<br>*David Chan, Mak Roberts, Dana S. Nau*
+- **Search Algorithm Portfolios with Multithreaded Components** [(pdf)](https://openreview.net/forum?id=VSMc1rHKLk)<br>*Takumi Shimoda, Alex S. Fukunaga*
+- **On the Complexity of Computing the Planning Width** [(pdf)](https://openreview.net/forum?id=08m7x0f9EM)<br>*Jiajia Song, Nir Lipovetzky, Sebastian Sardina, Seeun William Umboh*
+- **Conditional Dominance Analysis for Classical Planning** [(pdf)](https://openreview.net/forum?id=UN8OUhaRzp)<br>*Anna Wilhelm, Álvaro Torralba*
 
-* **On the Complexity of Computing the Planning Width**
-[(pdf)](https://openreview.net/forum?id=08m7x0f9EM)<br>
-*Jiajia Song, Nir Lipovetzky, Sebastian Sardina, Seeun William Umboh*
 
-* **Search Algorithm Portfolios with Multithreaded Components**
-[(pdf)](https://openreview.net/forum?id=VSMc1rHKLk)<br>
-*Takumi Shimoda, Alex S. Fukunaga*
+---
+[10:00 - 10:30] - Coffee Break
 
-* **Landmark-Assisted Monte Carlo Planning**
-[(pdf)](https://openreview.net/forum?id=CfvZnoqc4z)<br>
-*David Chan, Mak Roberts, Dana S. Nau*
-
-* **Symmetry-Invariant Novelty Heuristics via Unsupervised Weisfeiler-Leman Features**
-[(pdf)](https://openreview.net/forum?id=dgDs7iyKfI)<br>
-*Dillon Ze Chen*
+---
+[10:30 - 12:00] - **Session 2 and Open Discussion**
+- **Symmetry-Invariant Novelty Heuristics via Unsupervised Weisfeiler-Leman Features** [(pdf)](https://openreview.net/forum?id=dgDs7iyKfI)<br>*Dillon Ze Chen*
+- **Planning as Goal Recognition: Deriving Heuristics from Intention Models** [(pdf)](https://openreview.net/forum?id=bAL6bpW4Dm)<br>*Giacomo Rosa, Nir Lipovetzky, Sebastian Sardina, Jean Honorio*
+- **Finding Plans and Heuristics with Spectral Graph Theory** [(pdf)](https://openreview.net/forum?id=uocKlL1oKV)<br>*Johannes Schmalz*
+- Open Discussion
 
 
 ## Topics of Interest
