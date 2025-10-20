@@ -12,6 +12,12 @@ November 11, 2025
 
 Registration is possible through either ICAPS or KR (full or workshop registration).
 
+
+<div style="background-color: #f5821f; padding: 15px; margin: 20px 0; border-radius: 8px;">
+<h2 style="margin: 0; font-size: 1.3em;">KRPlan takes place at The University of Melbourne, located a 5-minute walk from Melbourne Connect.
+The breaks are aligned with the other KR workshops, but we start slightly earlier.</h2>
+</div>
+
 ## Description
 
 Traditionally, the areas of Knowledge Representation and Reasoning
@@ -48,24 +54,37 @@ from these areas, including but not limited to:
  * Answer set planning
  * Knowledge engineering
 
-## Accepted Papers
+## Schedule
+|8:50|Session 1|
+|:---|:---|
+|8:50|Opening|
+|9:00|**Invited Talk**<br>Sasha Rubin<br>*TBA*|
+|10:00|Mikhail Soutchanski (Remote)<br>*Bounded Proper Planning* ([PDF](../krplan-papers/soutchanski-krplan25.pdf))|
+|**10:30**|**Tea/Coffee Break**|
+|**11:00**|**Session 2**|
+|11:00|Guang Hu, Tim Miller and Nir Lipovetzky<br>*Where Common Knowledge Cannot Be Formed, Common Belief Can – Planning with Multi-Agent Belief Using Group Justified Perspectives* ([PDF](../krplan-papers/hu-et-al-krplan25.pdf))|
+|11:30|Guang Hu, Weijia Li and Yangmengfei Xu<br>*Beyond Static Assumptions: the Predictive Justified Perspective Model for Epistemic Planning* ([PDF](../krplan-papers/hu-et-al-krplan25a.pdf))|
+|12:00|Shenghui Chen, Shufang Zhu, Giuseppe De Giacomo and Ufuk Topcu<br>*Learning to Coordinate without Communication under Incomplete Information* ([PDF](../krplan-papers/chen-et-al-krplan25.pdf))|
+|**12:30**|**Lunch Break**|
+|**14:00**|**Session 3**|
+|14:00|Stefan Borgwardt, Duy Nhu and Gabriele Röger<br>*Automated Planning with Ontologies under Coherence Update Semantics (Extended Abstract)* ([PDF](../krplan-papers/borgwardt-et-al-krplan25.pdf))|
+|14:30|Claudia Grundke and Gabriele Röger<br>*Eliminating Negative Occurrences of Derived Predicates from PDDL Axioms* ([PDF](../krplan-papers/grundke-roeger-krplan25.pdf))|
+|15:00|Siqi Cheng and Patrik Haslum<br>*From Words to Action: Creating a General Narrative Planning Domain from VerbNet* ([PDF](../krplan-papers/cheng-haslum-krplan25.pdf))|
+|**15:30**|**Tea/Coffee Break**|
+|**16:00**|**Session 4**|
+|16:00|David Wang and Mohammad Abdulaziz<br>*Verified Certification of Unsolvability of Temporal Planning Problems* ([PDF](../krplan-papers/wang-abdulaziz-krplan25.pdf))
+|16:30|**Panel Discussion**<br>Giuseppe De Giacomo, Patrik Haslum, Guang Hu, Shufang Zhu<br>*Challenges in Combining Knowledge Representation and Automated Planning*|
+|17:20|Closing|
 
-* Stefan Borgwardt, Duy Nhu and Gabriele Röger  
-  *Automated Planning with Ontologies under Coherence Update Semantics (Extended Abstract)*
-* Shenghui Chen, Shufang Zhu, Giuseppe De Giacomo and Ufuk Topcu  
-  *Learning to Coordinate without Communication under Incomplete Information*
-* Siqi Cheng and Patrik Haslum  
-  *From Words to Action: Creating a General Narrative Planning Domain from VerbNet*
-* Claudia Grundke and Gabriele Röger  
-  *Eliminating Negative Occurrences of Derived Predicates from PDDL Axioms*
-* Guang Hu, Weijia Li and Yangmengfei Xu  
-  *Beyond Static Assumptions: the Predictive Justified Perspective Model for Epistemic Planning*
-* Guang Hu, Tim Miller and Nir Lipovetzky  
-  *Where Common Knowledge Cannot Be Formed, Common Belief Can -- Planning with Multi-Agent Belief Using Group Justified Perspectives*
-* Mikhail Soutchanski  
-  *Bounded Proper Planning*
-* David Wang and Mohammad Abdulaziz  
-  *Verified Certification of Unsolvability of Temporal Planning Problems*
+<p></p>
+
+## Invited Speaker
+
+### Sasha Rubin
+
+![Sasha Rubin](https://www.sydney.edu.au/AcademicProfiles/profile/resource?urlid=sasha.rubin)
+
+Dr Sasha Rubin holds an undergraduate degree in mathematics and computer science from the University of Cape Town, and a PhD in mathematics and computer science from the University of Auckland. Before joining the University of Sydney in 2019 as a Senior Lecturer in Computer Science, he worked at the University of Naples Federico II. His research interests are Mathematical Logic, Foundations of Synthesis and Planning, Formal Methods, and Finite and Algorithmic Model Theory.
 
 ## Important Dates
 
