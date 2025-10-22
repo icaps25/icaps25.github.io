@@ -25,8 +25,8 @@ Topics of interests include but are not limited to:
 
 - Submission Deadline: <del>July 11 (Friday), 2025</del>
 - Author Notification: <del>August 15 (Friday), 2025</del>
-- Camera-Ready Deadline: September 26 (Friday), 2025
-- ICAPS 2025 Workshops: November 10-11 (TBA), 2025
+- Camera-Ready Deadline: <del>September 26 (Friday), 2025</del>
+- ICAPS 2025 Workshops: Monday, November 10, 2025 (8:00 am - 12:00 pm)
 
 
 ## Submission Details
@@ -57,7 +57,7 @@ Once the final versions of all papers have been submitted, and once our invited 
 
 #### Accepted at HPlan and included in proceedings
 
-<script src="https://bibbase.org/show?bib=https://icaps25.icaps-conference.org/bib/hplan2025.bib&theme=default&fullnames=1&jsonp=1&hidemenu=1&filter=key:^(?!Pantuckova2025TOHTNPlanning$).*$"></script>
+<script src="https://bibbase.org/show?bib=https://icaps25.icaps-conference.org/bib/hplan2025.bib&theme=default&fullnames=1&jsonp=1&hidemenu=1&filter=key:^(?!(Pantuckova2025TOHTNPlanning|Hoeller2025LearningHTNHeuristics)$).*$"></script>
 
 <br>
 
