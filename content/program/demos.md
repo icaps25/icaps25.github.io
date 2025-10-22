@@ -13,6 +13,11 @@ draft: false
   <source src="demo8.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+<br style="text-align: center;">Teaser</br>
+</div>
+<div style="display: inline-block; width: 30%; border: 2px solid orange; border-radius: 3%; padding: 1%; vertical-align:middle;">
+    <iframe style="width:100%; aspect-ratio:16/9; border-radius: 3%;" src="https://www.youtube.com/embed/ihVPEsN58t0?si=8E5X5SoALfNVDwBl" title="YouTube video - demo8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br style="text-align: center;">Full video</br>
 </div>
 <div style="display: inline-block; width: 68%; padding: 1%; vertical-align: middle;">
 <div style="margin:0; padding: 0; padding-left: 2%">
@@ -31,6 +36,11 @@ Multi-Agent Path Finding (MAPF) in its most broad perspective focuses on finding
 <h4 style="color:black;"><strong><a href="../demos-pdfs/ICAPS25-Demo_paper_4.pdf">Planning-based Toolchain for Automated Regression Testing of Video Games (PDF)</a></strong></h4>
 <div style="display: inline-block; width: 30%; border: 2px solid orange; border-radius: 3%; padding: 1%; vertical-align:middle;">
     <iframe style="width:100%; aspect-ratio:16/9; border-radius: 3%;" src="https://www.youtube.com/embed/LfONhR1I8zw?si=2XKP_4JYkc6c7Zra" title="YouTube video -demo4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br style="text-align: center;">Teaser</br>
+</div>
+<div style="display: inline-block; width: 30%; border: 2px solid orange; border-radius: 3%; padding: 1%; vertical-align:middle;">
+    <iframe style="width:100%; aspect-ratio:16/9; border-radius: 3%;" src="https://www.youtube.com/embed/VrN-Fv56fo4?si=Fc5T44cH7qNOmFON" title="YouTube video - demo4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br style="text-align: center;">Full video</br>
 </div>
 <div style="display: inline-block; width: 68%; padding: 1%; vertical-align: middle;">
 <div style="margin:0; padding: 0; padding-left: 2%">
@@ -49,6 +59,11 @@ Regression video game testing, in a nutshell, deals with testing whether the gam
 <h4 style="color:black;"><strong><a href="../demos-pdfs/ICAPS25-Demo_paper_1.pdf">PDDL-GenAI -- A Plugin for LLM-Based Support in Planning Domain Modeling (PDF)</a></strong></h4>
 <div style="display: inline-block; width: 30%; border: 2px solid orange; border-radius: 3%; padding: 1%; vertical-align:middle;">
 <iframe style="width:100%; aspect-ratio:16/9; border-radius: 3%;" src="https://www.youtube.com/embed/2tQgONu1mtA?si=zPst_HdJoYb7Dj7e" title="YouTube video - demo1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br style="text-align: center;">Teaser</br>
+</div>
+<div style="display: inline-block; width: 30%; border: 2px solid orange; border-radius: 3%; padding: 1%; vertical-align:middle;">
+    <iframe style="width:100%; aspect-ratio:16/9; border-radius: 3%;" src="https://www.youtube.com/embed/2tQgONu1mtA?si=Je6ZR-OZR4AlqVQy" title="YouTube video - demo1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br style="text-align: center;">Full video</br>
 </div>
 <div style="display: inline-block; width: 68%; padding: 1%; vertical-align: middle;">
 <div style="margin:0; padding: 0; padding-left: 2%">
@@ -67,6 +82,11 @@ We aim to facilitate the integration of novel modeling approaches that leverage 
 <h4 style="color:black;"><strong><a href="../demos-pdfs/ICAPS25-Demo_paper_2.pdf">HDDL Parser: A Realtime Hierarchical Planning Language Validation Toolkit (PDF)</a></strong></h4>
 <div style="display: inline-block; width: 30%; border: 2px solid orange; border-radius: 3%; padding: 1%; vertical-align:middle;">
 <img style="width:100%; border-radius: 3%; vertical-align: middle;" src="demo2.png" />
+<br style="text-align: center;">Teaser</br>
+</div>
+<div style="display: inline-block; width: 30%; border: 2px solid orange; border-radius: 3%; padding: 1%; vertical-align:middle;">
+    <iframe style="width:100%; aspect-ratio:16/9; border-radius: 3%;" src="https://www.youtube.com/embed/hRZ21HmcEQU?si=MAzbztfQxa5NS_8t" title="YouTube video - demo2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br style="text-align: center;">Full video</br>
 </div>
 <div style="display: inline-block; width: 68%; padding: 1%; vertical-align: middle;">
 <div style="margin:0; padding: 0; padding-left: 2%">
@@ -86,6 +106,11 @@ We present HDDL Parser, an open-source language server providing real-time valid
 
 <div style="display: inline-block; width: 30%; border: 2px solid orange; border-radius: 3%; padding: 1%; vertical-align:middle;">
     <iframe style="width:100%; border-radius: 3%; vertical-align: middle;" src="https://www.youtube.com/embed/stovYamkur0?si=WX4kaTpTR5m_f_te" title="YouTube video - demo3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br style="text-align: center;">Teaser</br>
+</div>
+<div style="display: inline-block; width: 30%; border: 2px solid orange; border-radius: 3%; padding: 1%; vertical-align:middle;">
+    <iframe style="width:100%; aspect-ratio:16/9; border-radius: 3%;" src="https://www.youtube.com/embed/75UngGNr5bc?si=y_Az6_TDGkQ3OLqU" title="YouTube video - demo3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br style="text-align: center;">Full video</br>
 </div>
 <div style="display: inline-block; width: 68%; padding: 1%; vertical-align: middle;">
 <div style="margin:0; padding: 0; padding-left: 2%">
@@ -104,6 +129,11 @@ Many planning applications require not only a single solution but benefit substa
 <h4 style="color:black;"><strong><a href="../demos-pdfs/ICAPS25-Demo_paper_5.pdf">Dynamic REAP: Bringing Life into Simulations for UAV Planning and Acting Frameworks (PDF)</a></strong></h4>
 <div style="display: inline-block; width: 30%; border: 2px solid orange; border-radius: 3%; padding: 1%; vertical-align:middle;">
 <img style="width:100%; border-radius: 3%; vertical-align: middle;" src="demo5.png" />
+<br style="text-align: center;">Teaser</br>
+</div>
+<div style="display: inline-block; width: 30%; border: 2px solid orange; border-radius: 3%; padding: 1%; vertical-align:middle;">
+    <iframe style="width:100%; aspect-ratio:16/9; border-radius: 3%;" src="https://www.youtube.com/embed/mthOS7hksZQ?si=AYUYQDNcLRjRosdL" title="YouTube video - demo5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br style="text-align: center;">Full video</br>
 </div>
 <div style="display: inline-block; width: 68%; padding: 1%; vertical-align: middle;">
 <div style="margin:0; padding: 0; padding-left: 2%">
@@ -134,6 +164,14 @@ found at: <a href="https://www.youtube.com/watch?v=mthOS7hksZQ">https://www.yout
 <h4 style="color:black;"><strong><a href="../demos-pdfs/ICAPS25-Demo_paper_6.pdf">An LLM-powered Collaborative Numeric Task Planning Framework (PDF)</a></strong></h4>
 <div style="display: inline-block; width: 30%; border: 2px solid orange; border-radius: 3%; padding: 1%; vertical-align:middle;">
 <img style="width:100%; border-radius: 3%; vertical-align: middle;" src="demo6.jpg" />
+<br style="text-align: center;">Teaser</br>
+</div>
+<div style="display: inline-block; width: 30%; border: 2px solid orange; border-radius: 3%; padding: 1%; vertical-align:middle;">
+<video style="width:100%; border-radius: 3%; vertical-align: middle;" controls>
+  <source src="demo6-full.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+<br style="text-align: center;">Full video</br>
 </div>
 <div style="display: inline-block; width: 68%; padding: 1%; vertical-align: middle;">
 <div style="margin:0; padding: 0; padding-left: 2%">
@@ -155,6 +193,11 @@ We demonstrate an innovative collaborative planning framework that enables human
   <source src="demo9.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+<br style="text-align: center;">Teaser</br>
+</div>
+<div style="display: inline-block; width: 30%; border: 2px solid orange; border-radius: 3%; padding: 1%; vertical-align:middle;">
+    <iframe style="width:100%; aspect-ratio:16/9; border-radius: 3%;" src="https://www.youtube.com/embed/irtFxMjyJXs?si=C8p1YiNqDULRIGOQ" title="YouTube video - demo9" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br style="text-align: center;">Full video</br>
 </div>
 <div style="display: inline-block; width: 68%; padding: 1%; vertical-align: middle;">
 <div style="margin:0; padding: 0; padding-left: 2%">
