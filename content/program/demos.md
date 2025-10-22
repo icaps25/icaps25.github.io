@@ -68,7 +68,7 @@ draft: false
 </style>
 
 <div class="paper-entry">
-    <h4><strong><a href="../demos-pdfs/ICAPS25-Demo_paper_8.pdf">Towards Unstructured MAPF: Multi-Quadruped MAPF Demo (PDF)</a></strong></h4>
+    <h4><strong><a href="../demos-pdfs/ICAPS25-Demo_paper_8.pdf">Towards Unstructured MAPF: Multi-Quadruped MAPF Demo – (PDF)</a></strong></h4>
     <div class="paper-layout">
         <div class="media-column">
             <div class="teaser">
@@ -95,7 +95,7 @@ draft: false
 <hr>
 
 <div class="paper-entry">
-    <h4><strong><a href="../demos-pdfs/ICAPS25-Demo_paper_4.pdf">Planning-based Toolchain for Automated Regression Testing of Video Games (PDF)</a></strong></h4>
+    <h4><strong><a href="../demos-pdfs/ICAPS25-Demo_paper_4.pdf">Planning-based Toolchain for Automated Regression Testing of Video Games – (PDF)</a></strong></h4>
     <div class="paper-layout">
         <div class="media-column">
             <div class="teaser">
@@ -119,7 +119,7 @@ draft: false
 <hr>
 
 <div class="paper-entry">
-    <h4><strong><a href="../demos-pdfs/ICAPS25-Demo_paper_1.pdf">PDDL-GenAI -- A Plugin for LLM-Based Support in Planning Domain Modeling (PDF)</a></strong></h4>
+    <h4><strong><a href="../demos-pdfs/ICAPS25-Demo_paper_1.pdf">PDDL-GenAI -- A Plugin for LLM-Based Support in Planning Domain Modeling – (PDF)</a></strong></h4>
     <div class="paper-layout">
         <div class="media-column">
             <div class="full-video">
@@ -138,7 +138,7 @@ draft: false
 <hr>
 
 <div class="paper-entry">
-    <h4><strong><a href="../demos-pdfs/ICAPS25-Demo_paper_2.pdf">HDDL Parser: A Realtime Hierarchical Planning Language Validation Toolkit (PDF)</a></strong></h4>
+    <h4><strong><a href="../demos-pdfs/ICAPS25-Demo_paper_2.pdf">HDDL Parser: A Realtime Hierarchical Planning Language Validation Toolkit – (PDF)</a></strong></h4>
     <div class="paper-layout">
         <div class="media-column">
             <div class="teaser">
@@ -161,7 +161,7 @@ draft: false
 <hr>
 
 <div class="paper-entry">
-    <h4><strong><a href="../demos-pdfs/ICAPS25-Demo_paper_3.pdf">Graphical Navigation in Solution Spaces using PlanPilot (PDF)</a></strong></h4>
+    <h4><strong><a href="../demos-pdfs/ICAPS25-Demo_paper_3.pdf">Graphical Navigation in Solution Spaces using PlanPilot – (PDF)</a></strong></h4>
     <div class="paper-layout">
         <div class="media-column">
             <div class="teaser">
@@ -185,7 +185,7 @@ draft: false
 <hr>
 
 <div class="paper-entry">
-    <h4><strong><a href="../demos-pdfs/ICAPS25-Demo_paper_5.pdf">Dynamic REAP: Bringing Life into Simulations for UAV Planning and Acting Frameworks (PDF)</a></strong></h4>
+    <h4><strong><a href="../demos-pdfs/ICAPS25-Demo_paper_5.pdf">Dynamic REAP: Bringing Life into Simulations for UAV Planning and Acting Frameworks – (PDF)</a></strong></h4>
     <div class="paper-layout">
         <div class="media-column">
             <div class="teaser">
@@ -220,7 +220,7 @@ found at:https://www.youtube.com/watch?v=mthOS7hksZQ</p>
 <hr>
 
 <div class="paper-entry">
-    <h4><strong><a href="../demos-pdfs/ICAPS25-Demo_paper_6.pdf">An LLM-powered Collaborative Numeric Task Planning Framework (PDF)</a></strong></h4>
+    <h4><strong><a href="../demos-pdfs/ICAPS25-Demo_paper_6.pdf">An LLM-powered Collaborative Numeric Task Planning Framework – (PDF)</a></strong></h4>
     <div class="paper-layout">
         <div class="media-column">
             <div class="teaser">
@@ -246,7 +246,7 @@ found at:https://www.youtube.com/watch?v=mthOS7hksZQ</p>
 <hr>
 
 <div class="paper-entry">
-    <h4><strong><a href="../demos-pdfs/ICAPS25-Demo_paper_9.pdf">Advancing MAPF towards the Real World: A Scalable Multi-Agent Realistic Testbed (SMART) (PDF)</a></strong></h4>
+    <h4><strong><a href="../demos-pdfs/ICAPS25-Demo_paper_9.pdf">Advancing MAPF towards the Real World: A Scalable Multi-Agent Realistic Testbed (SMART) – (PDF)</a></strong></h4>
     <div class="paper-layout">
         <div class="media-column">
             <div class="teaser">
