@@ -248,12 +248,12 @@ languageCode = 'en_AU'
   url = "/program/accepted"
   parent = "program"
   weight = "15"
-# [[menu.main]]
-#   identifier = "awards"
-#    name = "Awards"
-#    url = "/program/awards"
-#    parent = "program"
-#    weight = 20
+[[menu.main]]
+  identifier = "awards"
+  name = "Awards"
+  url = "/program/awards"
+  parent = "program"
+  weight = 20
 [[menu.main]]
   identifier = "demos"
    name = "Demos"
