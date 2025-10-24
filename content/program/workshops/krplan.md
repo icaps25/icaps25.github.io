@@ -58,7 +58,7 @@ from these areas, including but not limited to:
 |8:50|Session 1|
 |:---|:---|
 |8:50|Opening|
-|9:00|**Invited Talk**<br>Sasha Rubin<br>*TBA*|
+|9:00|**Invited Talk**<br>Sasha Rubin<br>*Best-effort Planning*|
 |10:00|Mikhail Soutchanski (Remote)<br>*Bounded Proper Planning* ([PDF](../krplan-papers/soutchanski-krplan25.pdf))|
 |**10:30**|**Tea/Coffee Break**|
 |**11:00**|**Session 2**|
@@ -82,9 +82,17 @@ from these areas, including but not limited to:
 
 ### Sasha Rubin
 
-![Sasha Rubin](https://www.sydney.edu.au/AcademicProfiles/profile/resource?urlid=sasha.rubin)
+<img style="float:left; padding-right:1em; padding-bottom:1em" src="https://www.sydney.edu.au/AcademicProfiles/profile/resource?urlid=sasha.rubin">
 
 Dr Sasha Rubin holds an undergraduate degree in mathematics and computer science from the University of Cape Town, and a PhD in mathematics and computer science from the University of Auckland. Before joining the University of Sydney in 2019 as a Senior Lecturer in Computer Science, he worked at the University of Naples Federico II. His research interests are Mathematical Logic, Foundations of Synthesis and Planning, Formal Methods, and Finite and Algorithmic Model Theory.
+
+### Best-effort Planning
+
+Automation is no longer just about reproducing laborious tasks; it involves programs/agents making decisions. For example, a robot interacting with a human in a manufacturing environment, or an underwater autonomous vehicle. Although agents excel at making decisions under risk (when probabilities can be calculated or sampled) they have trouble making decisions under ignorance (when the available information is too scarce to be aggregated by probabilities). Many critical environments display such unmeasurable uncertainty, e.g., due to unpredictable human behaviour or unfamiliar terrain.
+
+Planning has traditionally handled such unmeasurable uncertainty by framing it as Nondeterministic Planning. Here, the standard solution concepts are *strong policies* (this assumes Murphy’s law, i.e., that anything that can go wrong will go wrong), and *strong-cyclic policies* (this assumes that the environment is governed by an unknown probability distribution). However, even when such policies are appropriate, they may not exist.
+
+In this talk, I will describe an approach for doing Planning under Ignorance (in case that standard solution concepts do not exist or are not appropriate). It is based on the dominance principle from Decision Theory, and results in what we call *best-effort policies*.
 
 ## Important Dates
 
