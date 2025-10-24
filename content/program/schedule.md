@@ -482,7 +482,7 @@ Location: Forum 1<br/>
 
 **L3 (10:50 - 11:10)** - Temporal Numeric Planning with Patterns  
 *Matteo Cardellini, Enrico Giunchiglia*  
-[Journal Track]
+[Previously Published Papers Track]
 
 **L5 (11:10 - 11:30)** - A Flow Based Planning Method for Multi-Agent Progression with Deployable Agents and Communication Constraints  
 *Emile Siboulet, Roland Godet, Arthur Bit-Monnot, Marc-Emmanuel Coupvent des Graviers, Christophe GUETTIER, Simon Lacroix*  
@@ -554,7 +554,7 @@ Location: Forum 1<br/>
 
 **L15 (14:30 - 14:50)** - Speed vs Accuracy in Goal Recognition for Time-Sensitive Applications: a Game-Theoretic Approach  
 *Sara Bernardini, Fabio Fagnani, Santiago Franco*  
-[Journal Track]
+[Previously Published Papers Track]
 
 </div>
 </div>
@@ -574,11 +574,11 @@ Location: Forum 1<br/>
 
 **L14 (14:10 - 14:30)** - Landmark-Assisted Monte Carlo Planning  
 *David H. Chana, Mark Roberts, Dana S. Nau*  
-[Journal Track]
+[Previously Published Papers Track]
 
 **L16 (14:30 - 14:50)** - Cost-Optimal FOND Planning as Bi-Objective Best-First Search  
 *Diego Aineto, Enrico Scala*  
-[View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36110)
+[View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36110) | **[Best Paper Award]**
 
 </div>
 </div>
@@ -714,7 +714,7 @@ Location: Forum 1<br/>
 
 **L30 (11:30 - 11:50)** - A Lazy Approach to Neural Numerical Planning with Control Parameters  
 *René Heescha, Alessandro Cimatti, Jonas Ehrhardta, Alexander Diedricha, Oliver Niggemanna*  
-[Journal Track]
+[Previously Published Papers Track]
 
 </div>
 </div>
@@ -750,11 +750,11 @@ Location: Forum 1<br/>
 
 **L35 (14:10 - 14:30)** - Safe Interval Randomized Path Planning For Manipulators  
 *Nuraddin Kerimov, Aleksandr Onegin, Konstantin Yakovlev*  
-[View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36120)
+[View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36120)  | **[Best Student Paper Award]**
 
 **L37 (14:30 - 14:50)** - State-Based Disassembly Planning  
 *Chao Lei, Nir Lipovetzky, Krista A. Ehinger*  
-[Journal Track]
+[Previously Published Papers Track]
 
 </div>
 </div>
@@ -770,7 +770,7 @@ Location: Forum 1<br/>
 
 **L34 (13:50 - 14:10)** - HTN Plan Repair Algorithms Compared: Strengths and Weaknesses of Different Methods  
 *Paul Zaidins, Robert P. Goldman, Ugur Kuter, Dana S. Nau, Mark Roberts*  
-[View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36131)
+[View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36131)  | **[Best Paper Award (Honourable Mention)]**
 
 **L36 (14:10 - 14:30)** - Agent Planning Programs as Non-deterministic Planning under Fairness  
 *Nitin Yadav, Sebastian Sardina, Hector Geffner*  
@@ -825,11 +825,11 @@ Location: Forum 1<br/>
 
 **L39 (11:00 - 11:20)** - Parallelizing Multi-objective A* Search  
 *Saman Ahmadi, Nathan R. Sturtevant, Andrea Raith, Daniel Harabor, Mahdi Jalili*  
-[View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36109)
+[View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36109)  | **[Best Paper Award]**
 
 **L41 (11:20 - 11:40)** - Parallel Greedy Best-First Search with a Bound on Expansions Relative to Sequential Search  
 *Takumi Shimoda, Alex Fukunaga*  
-[Journal Track]
+[Previously Published Papers Track]
 
 **L43 (11:40 - 12:00)** - Instance-based Approximation Guarantees for Graph-based Nearest Neighbor Search  
 *Yannick Bosch, Sabine Storandt*  
@@ -861,7 +861,7 @@ Location: Forum 1<br/>
 
 **L46 (12:00 - 12:20)** - Lifted action models learning from partial traces  
 *Leonardo Lamanna, Luciano Serafini, Alessandro Saetti, Alfonso Emilio Gerevini, Paolo Traverso*  
-[Journal Track]
+[Previously Published Papers Track]
 
 </div>
 </div>
@@ -961,7 +961,7 @@ Location: Forum 1<br/>
 
 **L59 (16:10 - 16:30)** - Count-Based Novelty Exploration in Classical Planning  
 *Giacomo Rosa, Nir Lipovetzky*  
-[Journal Track]
+[Previously Published Papers Track]
 
 </div>
 </div>
