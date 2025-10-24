@@ -98,9 +98,9 @@ ICAPS will be **in-person** this year. Authors of accepted workshop papers are e
 
 ##### Biography
 
-Marcus Hutter is Senior Researcher at [Deep Mind]([http://www.deepmind.com/) and Professor in the [RSCS](http://cs.anu.edu.au/) at the [Australian National University](http://www.anu.edu.au).
+Marcus Hutter is Senior Researcher at [Deep Mind](http://www.deepmind.com/) and Professor in the [RSCS](http://cs.anu.edu.au/) at the [Australian National University](http://www.anu.edu.au).
 He received his PhD and BSc in physics from the [LMU](http://www.en.uni-muenchen.de/) in Munich and a Habilitation, MSc, and BSc in informatics from the [TU Munich](http://www.in.tum.de/en.html).
-Since 2000, his research at [IDSIA](http://www.idsia.ch/"), [ANU](http://www.anu.edu.au/), and [DeepMind](http://www.deepmind.com/) has centered around the information-theoretic foundations of      inductive reasoning and reinforcement learning, which has resulted in 200+ publications and several awards. His books on Universal Artificial Intelligence develop the first sound and complete theory of super-intelligent machines (ASI). He also runs the Human Knowledge Compression Contest (500'000€ H-prize).
+Since 2000, his research at [IDSIA](http://www.idsia.ch/), [ANU](http://www.anu.edu.au/), and [DeepMind](http://www.deepmind.com/) has centered around the information-theoretic foundations of inductive reasoning and reinforcement learning, which has resulted in 200+ publications and several awards. His books on Universal Artificial Intelligence develop the first sound and complete theory of super-intelligent machines (ASI). He also runs the Human Knowledge Compression Contest (500'000€ H-prize).
      
 
 #### Abstract
