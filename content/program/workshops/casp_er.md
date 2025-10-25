@@ -1,5 +1,5 @@
 ---
-title: "Coming Soon"
+title: "Constraint And Satisfiability-based Planning: an Exploratory Research Workshop (CASP:ER 2025)"
 date: 2025-04-13T00:00:00+00:00
 draft: false
 ---
@@ -15,12 +15,38 @@ The objectives of the workshop are thus as follows: (i) highlight recent breakth
 
 
 ## Important Dates
-This year's first edition of CASP:ER will be held on November 10th or 11th, 2025, as a workshop co-located with ICAPS 2025.
+This year's first edition of CASP:ER will be held on November 11th, 2025, as a workshop co-located with ICAPS 2025.
 Important dates
  - Paper submission: July 7th, 2025
  - Notification:    	August 10th, 2025
  - Camera-ready:    	September 7th, 2025
- - Workshop: November 10th or 11th, 2025 (TBA)
+ - Workshop: November 11th, 2025
+
+
+## Schedule
+
+The CASP:ER workshop is scheduled on November 11, 2025 in Room 4 (40).
+
+---
+[13:30 - 15:00] - **Opening Remarks and Session 1**
+- 13:30 - 13:40 **Introduction of the workshop (10 minutes)**
+- 13:40 - 14:00 **ASP Planning with PPLTL Goals** <br> ***Simon Dowd***
+- 14:00 - 14:20 **Engineering an LTLf Synthesis Tool** <br> *Alexandre Duret-Lutz, **Shufang Zhu**, Nir Piterman, Giuseppe De Giacomo, Moshe Y. Vardi*
+- 14:20 - 14:40 **Depth-Bounded Epistemic Planning** <br> ***Alessandro Burigana***
+- 14:40 - 15:00 **Generalizing Platform-Aware Mission Planning for Infinite-State Timed Transition Systems** <br> *Stefan Panjkovic, Alessandro Cimatti, **Andrea Micheli**, and Stefano Tonetta*
+
+---
+[15:00 - 15:30] - Coffee Break
+
+---
+[15:30 - 17:00] - **Session 2 and Open Discussion**
+- 15:30 - 15:50 **SibylSatOpt: a MaxSAT-based Greedy Optimal Search for TOHTN Planning** <br> ***Gaspard Quenard**, Damien Pellier, Humbert Fiorino*
+- 15:50 - 16:10 **Domain-Independent Instance Generation for Classical Planning** <br> *Claudia Grundke, **Malte Helmert**, Gabriele Röger*
+- 16:10 - 16:30 **Cost-Optimal Delete-Free Classical Planning via Maximum Satisfiability** <br> ***Masood Feyzbakhsh Rankooh**, Andreas Niskanen and Matti Järvisalo*
+- 16:30 - 16:50 **Relaxing non-interference requirements in parallel plans** <br> ***Joan Espasa**, Miquel Bofill and Mateu Villaret*
+- 16:50 - 17:00 **Closing remarks**
+
+
 
 ## Call for contributions
 
@@ -43,14 +69,6 @@ Submissions must be in PDF format and will be handled via the [EasyChair Confere
 - Matteo Cardellini - University of Genova
 - Nicola Gigante - Free University of Bozen-Bolzan
 - Andrea Micheli - Fondazione Bruno Kessler
-
-## Program Committee
-
-- Tomas Balyo
-- Nils Froleyks
-- Enrico	Giunchiglia	- DIBRIS, University Genova
-- Gaspard Quenard - Université Grenoble Alpes
-
 
 ## Contacts
 

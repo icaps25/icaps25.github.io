@@ -375,7 +375,7 @@ draft: false
 <div class="parallel-session">
 
 **Room 4 (40 capacity)**  
-[CASP](/program/workshops/casp_er) - Constraint Answer Set Programming
+[CASP:ER](/program/workshops/casp_er) - Constraint And Satisfiability-based Planning: an Exploratory Research Workshop
 
 </div>
 <div class="parallel-session">
@@ -416,7 +416,7 @@ draft: false
 <div class="parallel-session">
 
 **Room 4 (40 capacity)**  
-[CASP](/program/workshops/casp_er) - Constraint Answer Set Programming
+[CASP:ER](/program/workshops/casp_er) - Constraint And Satisfiability-based Planning: an Exploratory Research Workshop
 
 </div>
 </div>
