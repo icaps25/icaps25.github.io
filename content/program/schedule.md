@@ -764,9 +764,9 @@ Location: Forum 1<br/>
 <div class="session-header">Hierarchical Task Networks I & Non-Deterministic Planning II</div>
 <div class="session-info">Location: Forum 2 | Session Chair: TBA</div>
 
-**L32 (13:30 - 13:50)** - SibylSatOpt: a MaxSAT-based Greedy Optimal Search for TOHTN Planning  
-*Gaspard Quenard, Damien Pellier, Humbert FIORINO*  
-[View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36124)
+**L32 (13:30 - 13:50)** - Hardness of Chosen Length Planning Games and Regular Fixed Methods FOND HTN Planning  
+*P. Maurice Dekker, Gregor Behnke*  
+[View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36100)
 
 **L34 (13:50 - 14:10)** - HTN Plan Repair Algorithms Compared: Strengths and Weaknesses of Different Methods  
 *Paul Zaidins, Robert P. Goldman, Ugur Kuter, Dana S. Nau, Mark Roberts*  
@@ -899,9 +899,9 @@ Location: Forum 1<br/>
 *Victor Scherer Putrich, Felipe Meneguzzi, André Grahl Pereira*  
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36123)
 
-**L53 (14:30 - 14:50)** - Hardness of Chosen Length Planning Games and Regular Fixed Methods FOND HTN Planning  
-*P. Maurice Dekker, Gregor Behnke*  
-[View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36100)
+**L53 (14:30 - 14:50)** -  SibylSatOpt: a MaxSAT-based Greedy Optimal Search for TOHTN Planning  
+*Gaspard Quenard, Damien Pellier, Humbert FIORINO*  
+[View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36124)
 
 </div>
 </div>
