@@ -573,7 +573,7 @@ Location: Forum 1<br/>
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36129)
 
 **L14 (14:10 - 14:30)** - Landmark-Assisted Monte Carlo Planning  
-*David H. Chana, Mark Roberts, Dana S. Nau*  
+*David H. Chan, Mark Roberts, Dana S. Nau*  
 [Previously Published Papers Track]
 
 **L16 (14:30 - 14:50)** - Cost-Optimal FOND Planning as Bi-Objective Best-First Search  
