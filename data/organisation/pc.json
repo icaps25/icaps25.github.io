@@ -65,6 +65,10 @@
                     "institution": "University of Toronto"
                 },
                 {
+                    "name": "Carlos Linares López,",
+                    "institution": "Universidad Carlos III de Madrid"
+                },
+                {
                     "name": "Enrico Scala",
                     "institution": "University of Brescia"
                 },
@@ -87,6 +91,10 @@
                 {
                     "name": "Florian Pommerening",
                     "institution": "University of Basel"
+                },
+                {
+                    "name": "Hana Rudová",
+                    "institution": "Masaryk University"
                 },
                 {
                     "name": "Jiaoyang Li",
@@ -157,6 +165,10 @@
                     "institution": "Monash University"
                 },
                 {
+                    "name": "Roman Barták",
+                    "institution": "Monash University"
+                },
+                {
                     "name": "Ron Alford",
                     "institution": "MITRE"
                 },
@@ -199,6 +211,10 @@
                 {
                     "name": "Shirin Sohrabi",
                     "institution": "International Business Machines"
+                },
+                {
+                    "name": "Vicenç Gomez",
+                    "institution": "Universitat Pompeu Fabra"
                 },
                 {
                     "name": "Wheeler Ruml",
