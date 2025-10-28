@@ -796,7 +796,7 @@ Location: Forum 1<br/>
 
 <div class="break-slot">Coffee Break (15:00 - 15:30)</div>
 
-<div class="special-event">Community Meeting & Awards (15:30 - 16:50)</div>
+<div class="special-event">Community Meeting & Awards (15:30 - 17:15)</div>
 
 <div class="special-event">Evening: Banquet at <a href="https://ormond.unimelb.edu.au/">Ormond College</a> (Walking distance from Conference Venue)</div>
 

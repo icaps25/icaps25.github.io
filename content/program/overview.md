@@ -348,7 +348,7 @@ draft: false
 <td colspan="3" style="text-align: center; background-color: #f0f0f0;"><em>Coffee Break</em></td>
 </tr>
 <tr>
-<td><strong>15:30 - 16:50</strong></td>
+<td><strong>15:30 - 17:15</strong></td>
 <td colspan="3" style="text-align: center; background-color: #e6f3ff;"><strong>Community Meeting & Awards</strong></td>
 </tr>
 <tr>
