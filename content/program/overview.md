@@ -8,6 +8,14 @@ draft: false
 
 ## ICAPS 2025 Schedule at a Glance
 
+<a href="/img/venue/ICAPS%20Floor%20Map.png" target="_blank" rel="noopener noreferrer" title="Click to view the full-size floor map">
+	<img src="/img/venue/ICAPS%20Floor%20Map.png" alt="ICAPS Floor Map" style="float: right; max-width: 300px; width: 35%; height: auto; margin: 0 0 10px 20px; border: 1px solid #ddd; border-radius: 6px;" />
+</a>
+
+<div style="float: right; clear: right; width: 35%; max-width: 300px; text-align: center; font-size: 0.9em; color: #666; margin: 4px 0 12px 20px;">
+  <a href="/img/venue/ICAPS%20Floor%20Map.png" target="_blank" rel="noopener noreferrer">Click to expand the floor map</a>
+</div>
+
 - November 3-7, 2025	[Summer School](https://icaps25.icaps-conference.org/summerschool/)
 - November 9, 2025		[Doctoral Consortium](https://icaps25.icaps-conference.org/calls/dc/)
 - Novmeber 10-11, 2025	[Workshops](https://icaps25.icaps-conference.org/program/ws_overview/) and [Tutorials](https://icaps25.icaps-conference.org/program/tutorial_overview/)
@@ -23,6 +31,8 @@ draft: false
 - ICAPS 2025 will host 3 **Keynotes**. Check the [keynote page](https://icaps25.icaps-conference.org/program/keynotes) for additional information about their talks.
 - Check the list **Accepted Papers** on the [conference webpage](https://icaps25.icaps-conference.org/program/accepted).
 
+<div style="clear: both;"></div>
+
 ## Special Events
 
 - *Monday, November 10 @ 8am-12pm*: [OPTIMA Industry Workshop](https://optima.org.au/icaps-smart-logistics/) Smarter Decision-Making in Action: Planning and Scheduling for Road Transport Optimisation
@@ -30,6 +40,7 @@ draft: false
 - *Wednesday, November 12 @ evening*: [Demo](https://icaps25.icaps-conference.org/program/demos/) and [Poster]() 
 - *Thursday, November 13 @ Evening*: Banquet at [Ormond College](https://ormond.unimelb.edu.au/), Walking distance from Conference Venue
 - *Friday, November 14*: Joint ICAPS & KR main track
+
 
 <div style="text-align: center; background-color: #f5821f; color: white; padding: 15px; margin: 20px 0; border-radius: 8px; position: relative;">
 <h2 style="margin: 0; font-size: 1.8em;">Program at a Glance</h2>
@@ -44,12 +55,12 @@ draft: false
 <thead>
 <tr>
 <th>Time</th>
-<th>Room 1 (80)</th>
-<th>Room 2 (80)</th>
-<th>Room 3 (40)</th>
-<th>Room 4 (40)</th>
+<th>Forum 1</th>
+<th>Forum 2</th>
+<th>Launchpad</th>
+<th>Studio</th>
 <th>Room 5 (25)</th>
-<th>Room 6 (25)</th>
+<th>Meeting Room 1 & 2</th>
 </tr>
 </thead>
 <tbody>
@@ -133,12 +144,11 @@ draft: false
 <thead>
 <tr>
 <th>Time</th>
-<th>Room 1 (80)</th>
-<th>Room 2 (80)</th>
-<th>Room 3 (40)</th>
-<th>Room 4 (40)</th>
-<th>Room 5 (25)</th>
-<th>Room 6 (25)</th>
+<th>Forum 1</th>
+<th>Forum 2</th>
+<th>Launchpad</th>
+<th>Studio</th>
+<th>Meeting Room 1 & 2</th>
 <th>KR Venue</th>  
 </tr>
 </thead>
@@ -150,12 +160,11 @@ draft: false
 <td style="background-color: #f0ffe6;"><strong>[W]</strong> <a href="/program/workshops/ripl">RIPL</a></td>
 <td style="background-color: #fff0e6;"><strong>[T]</strong> <a href="/program/tutorials/plan_sat">PlanSAT</a>/<a href="/program/tutorials/ml_plan_sat">MLPlanSAT</a></td>
 <td style="background-color: #ffffcc;"><strong>[T]</strong> <a href="/program/tutorials/ltlf">LTLf</a></td>
-<td style="background-color: #ffe6e6;"><s><strong>[W]</strong> <a href="/program/workshops/women_computing">WiC</a></s></td>
 <td style="background-color: #f0ffe6;"><strong>[W]</strong> <a href="/program/workshops/krplan">KRPlan</a></td>
 </tr>
 <tr>
 <td><strong>10:00 - 10:30</strong></td>
-<td colspan="7" style="text-align: center; background-color: #f0f0f0;"><em>Coffee Break</em></td>
+<td colspan="6" style="text-align: center; background-color: #f0f0f0;"><em>Coffee Break</em></td>
 </tr>
 <tr>
 <td><strong>10:30 - 12:00</strong></td>
@@ -164,40 +173,37 @@ draft: false
 <td style="background-color: #f0ffe6;"><strong>[W]</strong> <a href="/program/workshops/ripl">RIPL</a></td>
 <td style="background-color: #fff0e6;"><strong>[T]</strong> <a href="/program/tutorials/plan_sat">PlanSAT</a></td>
 <td style="background-color: #f7e6ff;"><strong>[T]</strong> <a href="/program/tutorials/ml_plan_sat">MLPlanSAT</a></td>
-<td style="background-color: #ffe6e6;"><s><strong>[W]</strong> <a href="/program/workshops/women_computing">WiC</a></s></td>
 <td style="background-color: #f0ffe6;"><strong>[W]</strong> <a href="/program/workshops/krplan">KRPlan</a></td>
 </tr>
 <tr>
 <td><strong>12:00 - 13:30</strong></td>
-<td colspan="7" style="text-align: center; background-color: #fff8dc;"><em>Lunch Break</em></td>
+<td colspan="6" style="text-align: center; background-color: #fff8dc;"><em>Lunch Break</em></td>
 </tr>
 <tr>
 <td><strong>13:30 - 15:00</strong></td>
 <td style="background-color: #e6f0ff;"><strong>[W]</strong> <a href="/program/workshops/lm4plan">LM4Plan</a></td>
-<td style="background-color: #f5f5f5;"></td>
+<td style="background-color: #ffe6f7;"><strong>[W]</strong> <a href="/program/workshops/casp_er">CASP:ER</a></td>
 <td style="background-color: #f0ffe6;"><strong>[W]</strong> <a href="/program/workshops/ripl">RIPL</a></td>
-<td style="background-color: #e6fff0;"><strong>[W]</strong> <a href="/program/workshops/casp_er">CASP:ER</a></td>
+<td style="background-color: #fff0e6;"><strong>[T]</strong> <a href="/program/tutorials/bfs_no_reopen">BFS</a></td>
 <td style="background-color: #ffe6cc;"><strong>[T]</strong> <a href="/program/tutorials/domain_ind_dp">Domain</a></td>
-<td style="background-color: #e6f7ff;"><strong>[T]</strong> <a href="/program/tutorials/bfs_no_reopen">BFS</a></td>
 <td style="background-color: #f0ffe6;"><strong>[W]</strong> <a href="/program/workshops/krplan">KRPlan</a></td>
 </tr>
 <tr>
 <td><strong>15:00 - 15:30</strong></td>
-<td colspan="7" style="text-align: center; background-color: #f0f0f0;"><em>Coffee Break</em></td>
+<td colspan="6" style="text-align: center; background-color: #f0f0f0;"><em>Coffee Break</em></td>
 </tr>
 <tr>
 <td><strong>15:30 - 17:00</strong></td>
 <td style="background-color: #e6f0ff;"><strong>[W]</strong> <a href="/program/workshops/lm4plan">LM4Plan</a></td>
+<td style="background-color: #ffe6f7;"><strong>[W]</strong> <a href="/program/workshops/casp_er">CASP:ER</a></td>
 <td style="background-color: #f5f5f5;"></td>
-<td style="background-color: #f5f5f5;"></td>
-<td style="background-color: #e6fff0;"><strong>[W]</strong> <a href="/program/workshops/casp_er">CASP:ER</a></td>
+<td style="background-color: #fff0e6;"><strong>[T]</strong> <a href="/program/tutorials/bfs_no_reopen">BFS</a></td>
 <td style="background-color: #fff0f0;"><strong>[T]</strong> <a href="/program/tutorials/ep">EP</a></td>
-<td style="background-color: #e6f7ff;"><strong>[T]</strong> <a href="/program/tutorials/bfs_no_reopen">BFS</a></td>
 <td style="background-color: #f0ffe6;"><strong>[W]</strong> <a href="/program/workshops/krplan">KRPlan</a></td>
 </tr>
 <tr>
 <td style="text-align: center;"><strong>17:30 - 19:30</strong></td>
-<td colspan="7" style="text-align: center; background-color: #e6f3ff;"><strong>Opening Reception at <a href="https://www.rmit.edu.au/content/dam/rmit/au/en/about/locations-and-facilities/locations/alumni-courtyard.jpg">RMIT alumni Courtyard </a> </strong></td>
+<td colspan="6" style="text-align: center; background-color: #e6f3ff;"><strong>Opening Reception at <a href="https://www.rmit.edu.au/content/dam/rmit/au/en/about/locations-and-facilities/locations/alumni-courtyard.jpg">RMIT alumni Courtyard </a> </strong></td>
 </tr>
 </tbody>
 </table>
