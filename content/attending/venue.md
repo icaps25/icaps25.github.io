@@ -48,6 +48,16 @@ Located on the former Royal Women’s Hospital site, on the corner of Swanston S
 </div>
 </figure>
 
+<figure>
+<div style="text-align:center">
+  <img
+  src="/img/venue/ICAPS Floor Map.png"
+  alt="Melbourne Connect precinct.">
+  <figcaption>Melbourne Connect location.</figcaption>
+</div>
+</figure>
+
+
 
 <figure>
 <div style="text-align:center">
