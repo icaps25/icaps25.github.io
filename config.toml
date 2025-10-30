@@ -318,7 +318,7 @@ languageCode = 'en_AU'
 
 [[menu.main]]
   identifier = "minizinc"
-  name = "MiniZinc - Constraint Programming for Planning"
+  name = "MiniZinc - Constraint Modelling for Planning and Scheduling"
   parent = "tutorials"
   url = "/program/tutorials/minizinc"
   weight = "50"

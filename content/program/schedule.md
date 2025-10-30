@@ -199,7 +199,7 @@ draft: false
 <div class="parallel-session">
 
 **Room 5 (25 capacity)**  
-[Tutorial: MiniZinc](/program/tutorials/minizinc) - Constraint Programming for Planning
+[Tutorial: MiniZinc](/program/tutorials/minizinc) - Constraint Modelling for Planning and Scheduling
 
 </div>
 <div class="parallel-session">
@@ -239,7 +239,7 @@ draft: false
 <div class="parallel-session">
 
 **Room 5 (25 capacity)**  
-[Tutorial: MiniZinc](/program/tutorials/minizinc) - Constraint Programming for Planning
+[Tutorial: MiniZinc](/program/tutorials/minizinc) - Constraint Modelling for Planning and Scheduling
 
 </div>
 </div>
