@@ -6,9 +6,9 @@ draft: false
 
 # HAXP: Human-Aware and Explainable Planning
 
-ICAPS'25 Workshop
-Room 6, Melbourne Connect,
-Melbourne, Victoria, Australia
+ICAPS 2025 Workshop <br/>
+Room 6, Melbourne Connect, <br/>
+Melbourne, Victoria, Australia <br/>
 November 10, 2025
 
 ## Program
@@ -63,7 +63,7 @@ Stylianos Loukas Vasileiou, Antonio Rago, Maria Vanina Martinez, and William Yeo
 * Notification of acceptance: ~~August 29, 2025 UTC-12~~ **September 02, 2025 UTC-12**
 * Camera-ready paper submissions: November 30, 2025 UTC-12
 
-* Workshop date: November 10 or 11, 2025
+* Workshop date: November 10, 2025
 
 ## Submission Details
 
