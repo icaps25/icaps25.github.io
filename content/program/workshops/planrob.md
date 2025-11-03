@@ -34,6 +34,25 @@ Topics of interest include (but are not limited to):
  * adversarial action planning in competitive robot domains,
  * mixed-initiative planning and sliding autonomy for robotic systems.
 
+## Program
+
+10th Nov 2025
+Start 	End 	Event
+08:30 	08:40 	Welcome and Introduction
+08:40 	09:05 	Björn Döschl and Jane Jean Kiam, Making Unified Planning Dynamic by Incorporating World State Updates via Feedback Loops
+09:05 	09:30 	William Jones, Hanna Kurniawati, Patrik Haslum and Ian Manchester; Integrated Task and Motion Planning for Keel Block Optimisation at Captain Cook Graving Dock
+09:30 	09:55 	Andy Li, Zhe Chen, Mor Vered and Daniel Harabor; Revisiting Conflict Based Search with Continuous-Time
+10:00 	10:30 	Coffee Break
+10:30 	10:55 	Alessandro Umbrico, Francesca Fracasso and Andrea Orlandini; Towards Knowledge-Driven Task Planning for Contextual Autonomy in Rescue Scenarios
+10:55 	11:55 	Invited Talk - Rahul Shome; The 'and' of it all: Sampling-based Task and Motion Planning and Execution and Beyond.
+11:55 	12:00 	Closing remarks
+12:00 	13:30 	Lunch Break
+
+## Invited Talk by [RAHUL SHOME](rahulsho.me) 
+
+* Title: The 'and' of it all: Sampling-based Task and Motion Planning and Execution and Beyond.
+* Abstract: 
+Task and motion planning represents a powerful set of hybrid planning methods that combine reasoning over discrete task domains and continuous motion generation. Recent work has gone further and incorporated constraints from execution. Traditional reasoning necessitates task domain models and enough information to ground actions to motion planning queries. Gaps in this knowledge often arise from sources like occlusion or imprecise modeling. Task and motion plans that include actions cannot be fully grounded at planning time can be resolved during execution. Execution combines offline planned motions and online behaviors till reaching the task goal. Failures of behaviors are fed back as constraints to find new plans. Results indicate faster execution time, less number of actions, and more success in problems where diverse gaps arise. The work shows promise in expanding the applicable class of realistic partially grounded problems that robots can address, as we push towards grounding mechanisms that open the door to richer object interactions and generative models. 
 
 ## Important Dates
 
