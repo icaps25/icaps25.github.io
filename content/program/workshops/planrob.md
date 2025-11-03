@@ -36,17 +36,24 @@ Topics of interest include (but are not limited to):
 
 ## Program
 
-Date: 10th Nov 2025
-
 Start 	End 	Event
+
 08:30 	08:40 	Welcome and Introduction
+
 08:40 	09:05 	Björn Döschl and Jane Jean Kiam, Making Unified Planning Dynamic by Incorporating World State Updates via Feedback Loops
+
 09:05 	09:30 	William Jones, Hanna Kurniawati, Patrik Haslum and Ian Manchester; Integrated Task and Motion Planning for Keel Block Optimisation at Captain Cook Graving Dock
+
 09:30 	09:55 	Andy Li, Zhe Chen, Mor Vered and Daniel Harabor; Revisiting Conflict Based Search with Continuous-Time
+
 10:00 	10:30 	Coffee Break
+
 10:30 	10:55 	Alessandro Umbrico, Francesca Fracasso and Andrea Orlandini; Towards Knowledge-Driven Task Planning for Contextual Autonomy in Rescue Scenarios
+
 10:55 	11:55 	Invited Talk - Rahul Shome; The 'and' of it all: Sampling-based Task and Motion Planning and Execution and Beyond.
+
 11:55 	12:00 	Closing remarks
+
 12:00 	13:30 	Lunch Break
 
 
