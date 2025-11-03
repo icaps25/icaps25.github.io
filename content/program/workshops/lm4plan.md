@@ -96,6 +96,72 @@ Paper submissions should be made through OpenReview.
 
 The papers will be available only *after* the workshop.
 
+## Invited Talk
+
+**Towards Model-Based Reasoning in Large Language Models: A Planning Perspective**, by Nir Lipovetzky
+
+**Abstract**: Large Language Models (LLMs) are powerful at generating text, code,
+and explanations, yet when it comes to structured reasoning, they often provide
+incorrect responses. In this talk, we explore how ideas from automated planning
+can help LLMs find structure in queries. We begin with Planning in the Dark,
+where LLMs infer planning models from natural language, and their
+non-determinism becomes a feature rather than a flaw with the restraints of
+conformal prediction and symbolic planners. Next, through Planning-Driven
+Programming, we show how planning-inspired techniques can guide LLMs to
+iteratively refine code through reasoning and verification steps. Finally, we
+turn to the Abstraction and Reasoning Corpus (ARC), demonstrating how planning
+and knowledge augmentation can enhance compositional reasoning and
+generalisation beyond training data. Research in AI planning outlines a path
+toward LLMs that don’t just generate the next token, but also plan, reason, and
+generalise with the assistance of model based planning solvers.
+
+**Bio**: Nir Lipovetzky is an Associate Professor in the School of Computing and
+Information Systems at the University of Melbourne. His research spans
+artificial intelligence (AI) planning, heuristic search, learning, verification,
+and intention recognition, with a particular focus on developing novel
+approaches to inference in sequential decision-making problems. He contributes
+to several AI planning initiatives, including the Lightweight Automated Planning
+ToolKiT (LAPKT), designed to simplify the creation and extension of automated
+planners; Planimation, a platform for visualising plans using declarative
+programming; and planning.domains, a widely used suite of tools for teaching AI
+planning. He is passionate about building bridges between AI planning and other
+research areas.
+
+
+## Schedule
+
+| Start | Session Type       | Details                                                                                                                             |
+|-------|--------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 8:30  | **Opening**        | Opening remarks                                                                                                                     |
+| 8:40  | **Invited talk**   | *Towards Model-Based Reasoning in Large Language Models: A Planning Perspective*<br>Nir Lipovetzky                                  |
+|       |                    |                                                                                                                                     |
+| 9:20  | **Paper talk**     | *From Next Token Prediction to (STRIPS) World Models — Preliminary Results*                                                         |
+|       |                    |                                                                                                                                     |
+| 9:45  | **Spotlight**      | *Enhancing GPT-based Planning Policies by Plan Validation*                                                                          |
+|       |                    | *Towards a General Framework for HTN Modeling with LLMs*                                                                            |
+|       |                    | *Improved Generalized Planning with LLMs through Strategy Refinement and Reflection*                                                |
+|       |                    | *Which LLM is Best for Translating Natural Language Goals to PDDL*                                                                  |
+|       |                    | *Game of Thought: Robust Information Seeking with Large Language Models Using Game Theory*                                          |
+|       |                    | *Planner-Independent Extraction of Goals and Constraints from Natural Language for Open-World Mobile Robot Missions*                |
+|       |                    |                                                                                                                                     |
+| 10:00 | Coffee             |                                                                                                                                     |
+|       |                    |                                                                                                                                     |
+| 10:30 | **Paper talks**    | *Seemingly Simple Planning Problems are Computationally Challenging: The Countdown Game*                                            |
+|       |                    | *PDDL-Instruct: Enhancing Symbolic Planning Capabilities in LLMs through Logical Chain-of-Thought Instruction Tuning*               |
+|       |                    | *Language Models For Generalised PDDL Planning: Synthesising Sound and Programmatic Policies*                                       |
+|       |                    |                                                                                                                                     |
+| 12:00 | Lunch              |                                                                                                                                     |
+|       |                    |                                                                                                                                     |
+| 13:30 | **Poster session** |                                                                                                                                     |
+|       |                    |                                                                                                                                     |
+| 15:00 | Coffee             |                                                                                                                                     |
+|       |                    |                                                                                                                                     |
+| 15:30 | **Paper talks**    | *Automated Repair of Totally-Ordered Hierarchical Task Network Domains via Context-Free Grammars with Large Language Model Support* |
+|       |                    | *A Collaborative Numeric Task Planning Framework based on Constraint Translations using LLMs*                                       |
+|       |                    | *A Requirements Engineering-Driven Methodology for Planning Domain Generation via LLMs with Invariant-Based Refinement*             |
+| 16:45 | Closing            |                                                                                                                                     |
+|       |                    |                                                                                                                                     |
+
 
 ### Organizing Committee
 - Pascal Bercher, Australian National Univeristy
