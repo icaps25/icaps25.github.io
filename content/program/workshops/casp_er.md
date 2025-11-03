@@ -30,7 +30,7 @@ The CASP:ER workshop is scheduled on November 11, 2025 in Room 4 (40).
 ---
 [13:30 - 15:00] - **Opening Remarks and Session 1**
 - 13:30 - 13:40 **Introduction of the workshop (10 minutes)**
-- 13:40 - 14:00 **ASP Planning with PPLTL Goals** <br> ***Simon Dowd***
+- 13:40 - 14:00 **ASP Planning with PPLTL Goals** <br> ***Simon Dowd**, Sasha Rubin*
 - 14:00 - 14:20 **Engineering an LTLf Synthesis Tool** <br> *Alexandre Duret-Lutz, **Shufang Zhu**, Nir Piterman, Giuseppe De Giacomo, Moshe Y. Vardi*
 - 14:20 - 14:40 **Depth-Bounded Epistemic Planning** <br> ***Alessandro Burigana***
 - 14:40 - 15:00 **Generalizing Platform-Aware Mission Planning for Infinite-State Timed Transition Systems** <br> *Stefan Panjkovic, Alessandro Cimatti, **Andrea Micheli**, and Stefano Tonetta*
