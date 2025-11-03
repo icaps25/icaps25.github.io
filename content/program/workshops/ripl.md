@@ -9,9 +9,7 @@ draft: false
 ICAPS'25 Workshop on Reliability In Planning and Learning (RIPL)
 Melbourne, Victoria, Australia
 
-
-> <ins>**Submission Deadline extended to August 1, 2025 (UTC-12)**</ins>
-
+**Tuesday, November 11, 2025 from 8:30 to 15:00 in Room 3**
  
 ## Aim and Scope of the Workshop
 
@@ -20,6 +18,32 @@ Learning is the dominating trend in AI at this time. From a planning and schedul
 RIPL is an evolution of the *Reliable Data-Driven Planning and Scheduling (RDDPS) workshop* that ran ICAPS 2022-2024. The workshop scope was edited to be more broadly inclusive, covering any aspect relevant to reliability in planning and learning, in particular LLM-generated planning models. The title was changed to reflect this scope in a more direct manner.
 
 RIPL aims to coordinate with the workshops on Planning and Reinforcement Learning (PRL) as well as Language Models for Planning (LM4Plan), with RIPL covering the reliability-related aspects of these areas. Joint sessions across workshops are a possibility we will evaluate depending on submissions and workshop timing.
+
+## Schedule
+
+RIPL will take place on Tuesday, November 11, 2025 in Room 3
+
+---
+
+- **8:30 - 10:00** -- Session 1 (Learning and Planning):
+    - Welcome and Open Remarks
+    - **Effective Data Generation and Feature Selection in Learning for Planning** <br>*Mingyu Hao, Dillon Chen, Felipe Trevizan and Sylvie Thiebaux*
+    - **Learning Lifted Action Models from Unsupervised Visual Traces** <br>*Kai Xi, Stephen Gould and Sylvie Thiebaux*
+    - **Using Action-Policy Testing in RL to Reduce the Number of Bugs** <br>*Hasan Ferit Eniser, Songtuan Lin, Nicola Müller, Anastasia Isychev, Valentin Wüstholz, Isabel Valera, Jörg Hoffmann and Maria Christakis*
+    - **Option Invention for Continual Hierarchical Reinforcement Learning and Planning** <br>*Rashmeet Kaur Nayyar and Siddharth Srivastava*
+- **10:00 -- 10:30** -- Coffee Break
+- **10:30 -- 12:00** -- Session 2 (Classical Planning and Action Policy Safety Analysis):
+    - **Is This a Good Decision? Action Optimality Checking in Classical Planning**  <br>*Jan Eisenhut, Daniel Fišer, Wheeler Ruml and Jörg Hoffmann*
+    - **Probabilistic Safety Verification of Neural Policies via Predicate Abstraction**  <br>*Marcel Vinzent, Holger Hermanns and Joerg Hoffmann*
+    - **Policy Safety Testing in Non-Deterministic Planning: Fuzzing, Test Oracles, Fault Analysis** <br>*Chaahat Jain, Daniel Sherbakov, Marcel Vinzent, Marcel Steinmetz, Jesse Davis and Joerg Hoffmann*
+    - **Safety Debugging of Tree-Ensemble Action Policies in AI Planning: From Fault Detection to Fault Fixing** <br>*Lorenzo Cascioli, Chaahat Jain, Marcel Steinmetz, Jesse Davis and Joerg Hoffmann*
+- **12:00 -- 13:30** -- Lunch Break
+- **13:30 -- 15:00** -- Session 3 (GPT for Planning and Numerical Planning):
+    - **Enhancing GPT-based Planning Policies by Model-based Plan Validation** <br>*Nicholas Rossetti, Massimiliano Tummolo, Alfonso Emilio Gerevini, Matteo Olivato, Luca Putelli and Ivan Serina*
+    - **Integrating Classical Planners with GPT-based Planning Policies** <br>*Massimiliano Tummolo, Nicholas Rossetti, Alfonso Emilio Gerevini, Matteo Olivato, Luca Putelli and Ivan Serina*
+    - **Adapting to Novelties in Numeric Planning** <br>*Nir Aharoni, Yarin Benyamin, Shiwali Mohan and Roni Stern*
+    - Open discussion
+
 
 
 ## Topics of Interest
@@ -31,15 +55,6 @@ The workshop welcomes contributions to any topic that roughly falls into the fol
 2. Objectives: Reliability in whatever form, including risk, safety, robustness, fairness, error bounds, etc., alongside possibly other concerns such as scalability and data efficiency, system design/engineering principles and challenges, and the interactions of these with reliability.
 
 3. Methodologies include any issue relating to robustness in: learning or generating artefacts as per (1); planning and scheduling algorithms in the presence of such learned artifacts; analyzing such artifacts (e.g., reasoning, verification, testing, etc.); making such analyses amenable to human users (e.g., visualization, interaction); and potentially others as relevant to the workshop objectives.
-
-
-
-## Important Dates
-
- - Submission Deadline: ~~July 25~~ **August 1, 2025 (UTC-12)**
- - Author Notification: August 15, 2025
- - Camera-Ready Deadline: September 10, 2025
- - ICAPS 2025 Workshops: November TBD, 2025
 
 
 ## Submission Details
