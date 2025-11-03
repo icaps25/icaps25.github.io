@@ -162,6 +162,18 @@ research areas.
 | 16:45 | Closing            |                                                                                                                                     |
 |       |                    |                                                                                                                                     |
 
+<br>
+
+#### Presentation instructions
+
+All authors must present their papers. The **oral presentations are 20 minutes + 5
+minutes for questions**. The **poster presentations get a 2-minute spotlight**
+presentation and must present a poster at the poster session.
+
+The conference organizers will provide us with panels of size 1.8m (H) x 1.2m
+(W) (from the floor) to put the posters on. There are no size limitations beyond
+being able to fit on the panel.
+
 
 ### Organizing Committee
 - Pascal Bercher, Australian National Univeristy
