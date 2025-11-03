@@ -199,7 +199,7 @@ draft: false
 <div class="parallel-session">
 
 **Room 5 (25 capacity)**  
-[Tutorial: MiniZinc](/program/tutorials/minizinc) - Constraint Programming for Planning
+[Tutorial: MiniZinc](/program/tutorials/minizinc) - Constraint Modelling for Planning and Scheduling
 
 </div>
 <div class="parallel-session">
@@ -239,7 +239,7 @@ draft: false
 <div class="parallel-session">
 
 **Room 5 (25 capacity)**  
-[Tutorial: MiniZinc](/program/tutorials/minizinc) - Constraint Programming for Planning
+[Tutorial: MiniZinc](/program/tutorials/minizinc) - Constraint Modelling for Planning and Scheduling
 
 </div>
 </div>
@@ -796,7 +796,7 @@ Location: Forum 1<br/>
 
 <div class="break-slot">Coffee Break (15:00 - 15:30)</div>
 
-<div class="special-event">Community Meeting & Awards (15:30 - 16:50)</div>
+<div class="special-event">Community Meeting & Awards (15:30 - 17:15)</div>
 
 <div class="special-event">Evening: Banquet at <a href="https://ormond.unimelb.edu.au/">Ormond College</a> (Walking distance from Conference Venue)</div>
 

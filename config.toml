@@ -71,12 +71,18 @@ languageCode = 'en_AU'
     url = "/summerschool"
     parent = "students"
     weight = 100
-#  [[menu.main]]
-#    identifier = "dc"
-#    name = "Doctoral Consortium"
-#    url = "/calls/dc"
-#    parent = "students"
-#    weight = 200
+ [[menu.main]]
+   identifier = "dc"
+   name = "Doctoral Consortium"
+   url = "/dc"
+   parent = "students"
+   weight = 200
+ [[menu.main]]
+   identifier = "launchpad"
+   name = "Launchpad Workshop"
+   url = "/launchpad"
+   parent = "students"
+   weight = 200
 # ATTENDING
   [[menu.main]]
     identifier = "attending"
@@ -318,7 +324,7 @@ languageCode = 'en_AU'
 
 [[menu.main]]
   identifier = "minizinc"
-  name = "MiniZinc - Constraint Programming for Planning"
+  name = "MiniZinc - Constraint Modelling for Planning and Scheduling"
   parent = "tutorials"
   url = "/program/tutorials/minizinc"
   weight = "50"
