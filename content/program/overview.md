@@ -59,7 +59,7 @@ draft: false
 <th>Forum 2</th>
 <th>Launchpad</th>
 <th>Studio</th>
-<th>Room 5 (25)</th>
+<th>Level 2 - Room 2508</th>
 <th>Meeting Room 1 & 2</th>
 </tr>
 </thead>
