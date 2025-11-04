@@ -94,13 +94,13 @@ draft: false
 <div class="parallel-sessions">
 <div class="parallel-session">
 
-**Room 1 (80 capacity)**  
+**Forum 1**  
 [PRL](/program/workshops/prl) -  Bridging the Gap Between AI Planning and Reinforcement Learning
 
 </div>
 <div class="parallel-session">
 
-**Room 2 (80 capacity)**  
+**Forum 2**  
 [OPTIMA](/program/workshops/industry_optima) - Industry Workshop: Smarter Decision-Making in Action
 
 </div>
@@ -109,19 +109,19 @@ draft: false
 <div class="parallel-sessions">
 <div class="parallel-session">
 
-**Room 3 (40 capacity)**  
+**Launchpad**  
 [HPlan](/program/workshops/hplan) - Hierarchical Planning
 
 </div>
 <div class="parallel-session">
 
-**Room 4 (40 capacity)**  
+**Studio**  
 [PlanRob](/program/workshops/planrob) - Planning and Robotics
 
 </div>
 </div>
 
-**Room 6 (25 capacity)**  
+**Meeting Room 1 & 2**  
 [HAXP](/program/workshops/haxp) - Human-Aware and Explainable Planning
 
 <div class="break-slot">Coffee Break (10:00 - 10:30)</div>
@@ -131,13 +131,13 @@ draft: false
 <div class="parallel-sessions">
 <div class="parallel-session">
 
-**Room 1 (80 capacity)**  
+**Forum 1**  
 [PRL](/program/workshops/prl) -  Bridging the Gap Between AI Planning and Reinforcement Learning
 
 </div>
 <div class="parallel-session">
 
-**Room 2 (80 capacity)**  
+**Forum 2**  
 [OPTIMA](/program/workshops/industry_optima) - Industry Workshop: Smarter Decision-Making in Action
 
 </div>
@@ -146,19 +146,19 @@ draft: false
 <div class="parallel-sessions">
 <div class="parallel-session">
 
-**Room 3 (40 capacity)**  
+**Launchpad**  
 [HPlan](/program/workshops/hplan) - Hierarchical Planning
 
 </div>
 <div class="parallel-session">
 
-**Room 4 (40 capacity)**  
+**Studio**  
 [PlanRob](/program/workshops/planrob) - Planning and Robotics
 
 </div>
 </div>
 
-**Room 6 (25 capacity)**  
+**Meeting Rooms 1 & 2**  
 [HAXP](/program/workshops/haxp) - Human-Aware and Explainable Planning
 
 <div class="break-slot">Lunch Break (12:00 - 13:30)</div>
@@ -168,13 +168,13 @@ draft: false
 <div class="parallel-sessions">
 <div class="parallel-session">
 
-**Room 1 (80 capacity)**  
+**Forum 1**  
 [PRL](/program/workshops/prl) - Bridging the Gap Between AI Planning and Reinforcement Learning
 
 </div>
 <div class="parallel-session">
 
-**Room 2 (80 capacity)**  
+**Forum 2**  
 [Tutorial: Learning for Planning](/program/tutorials/learn_plan)
 
 </div>
@@ -183,13 +183,13 @@ draft: false
 <div class="parallel-sessions">
 <div class="parallel-session">
 
-**Room 3 (40 capacity)**  
+**Launchpad**  
 [KEPS](/program/workshops/keps) - Knowledge Engineering for Planning and Scheduling
 
 </div>
 <div class="parallel-session">
 
-**Room 4 (40 capacity)**  
+**Studio**  
 [PlanRob](/program/workshops/planrob) - Planning and Robotics
 
 </div>
@@ -198,13 +198,13 @@ draft: false
 <div class="parallel-sessions">
 <div class="parallel-session">
 
-**Room 5 (25 capacity)**  
-[Tutorial: MiniZinc](/program/tutorials/minizinc) - Constraint Modelling for Planning and Scheduling
+**Level 2 - Room 2508**  
+[Tutorial: MiniZinc](/program/tutorials/minizinc) - Constraint Programming for Planning
 
 </div>
 <div class="parallel-session">
 
-**Room 6 (25 capacity)**  
+**Meeting Rooms 1 & 2**  
 [HAXP](/program/workshops/haxp) - Human-Aware and Explainable Planning
 
 </div>
@@ -217,13 +217,13 @@ draft: false
 <div class="parallel-sessions">
 <div class="parallel-session">
 
-**Room 1 (80 capacity)**  
+**Forum 1**  
 [PRL](/program/workshops/prl) - Bridging the Gap Between AI Planning and Reinforcement Learning
 
 </div>
 <div class="parallel-session">
 
-**Room 2 (80 capacity)**  
+**Forum 2**  
 [Tutorial: Learning for Planning](/program/tutorials/learn_plan)
 
 </div>
@@ -232,19 +232,19 @@ draft: false
 <div class="parallel-sessions">
 <div class="parallel-session">
 
-**Room 3 (40 capacity)**  
+**Launchpad**  
 [KEPS](/program/workshops/keps) - Knowledge Engineering for Planning and Scheduling
 
 </div>
 <div class="parallel-session">
 
-**Room 5 (25 capacity)**  
-[Tutorial: MiniZinc](/program/tutorials/minizinc) - Constraint Modelling for Planning and Scheduling
+**Level 2 - Room 2508**  
+[Tutorial: MiniZinc](/program/tutorials/minizinc) - Constraint Programming for Planning
 
 </div>
 </div>
 
-**Room 6 (25 capacity)**  
+**Meeting Rooms 1 & 2**  
 [HAXP](/program/workshops/haxp) - Human-Aware and Explainable Planning
 
 ---
@@ -259,13 +259,13 @@ draft: false
 <div class="parallel-sessions">
 <div class="parallel-session">
 
-**Room 1 (80 capacity)**  
+**Forum 1**  
 [LM4Plan](/program/workshops/lm4plan) - Planning in the Era of LLMs
 
 </div>
 <div class="parallel-session">
 
-**Room 2 (80 capacity)**  
+**Forum 2**  
 [HSDIP](/program/workshops/hsdip) - Heuristics and Search for Domain-Independent Planning
 
 </div>
@@ -274,13 +274,13 @@ draft: false
 <div class="parallel-sessions">
 <div class="parallel-session">
 
-**Room 3 (40 capacity)**  
+**Launchpad**  
 [RIPL](/program/workshops/ripl) - Reliability In Planning and Learning
 
 </div>
 <div class="parallel-session">
 
-**Room 4 (40 capacity)**  
+**Studio**  
 [Tutorial: Planning as SAT / Integrating ML and Planning in SAT](/program/tutorials/plan_sat) (Joint Session)
 
 </div>
@@ -289,7 +289,7 @@ draft: false
 <div class="parallel-sessions">
 <div class="parallel-session">
 
-**Room 5 (25 capacity)**  
+**Meeting Rooms 1 & 2**  
 [Tutorial: LTLf Synthesis](/program/tutorials/ltlf)
 
 </div>
@@ -309,13 +309,13 @@ draft: false
 <div class="parallel-sessions">
 <div class="parallel-session">
 
-**Room 1 (80 capacity)**  
+**Forum 1**  
 [LM4Plan](/program/workshops/lm4plan) - Planning in the Era of LLMs
 
 </div>
 <div class="parallel-session">
 
-**Room 2 (80 capacity)**  
+**Forum 2**  
 [HSDIP](/program/workshops/hsdip) - Heuristics and Search for Domain-Independent Planning
 
 </div>
@@ -324,13 +324,13 @@ draft: false
 <div class="parallel-sessions">
 <div class="parallel-session">
 
-**Room 3 (40 capacity)**  
+**Launchpad**  
 [RIPL](/program/workshops/ripl) - Reliability In Planning and Learning
 
 </div>
 <div class="parallel-session">
 
-**Room 4 (40 capacity)**  
+**Studio**  
 [Tutorial: Planning as SAT](/program/tutorials/plan_sat)
 
 </div>
@@ -339,7 +339,7 @@ draft: false
 <div class="parallel-sessions">
 <div class="parallel-session">
 
-**Room 5 (25 capacity)**  
+**Meeting Rooms 1 & 2**  
 [Tutorial: Integrating ML and Planning in SAT](/program/tutorials/ml_plan_sat)
 
 </div>
@@ -359,14 +359,14 @@ draft: false
 <div class="parallel-sessions">
 <div class="parallel-session">
 
-**Room 1 (80 capacity)**  
+**Forum 1**  
 [LM4Plan](/program/workshops/lm4plan) - Planning in the Era of LLMs
 
 </div>
 <div class="parallel-session">
 
-**Room 3 (40 capacity)**  
-[RIPL](/program/workshops/ripl) - Reliability In Planning and Learning
+**Forum 2**  
+[CASP:ER](/program/workshops/casp_er) - Constraint And Satisfiability-based Planning: an Exploratory Research Workshop
 
 </div>
 </div>
@@ -374,13 +374,14 @@ draft: false
 <div class="parallel-sessions">
 <div class="parallel-session">
 
-**Room 4 (40 capacity)**  
-[CASP:ER](/program/workshops/casp_er) - Constraint And Satisfiability-based Planning: an Exploratory Research Workshop
+
+**Launchpad**  
+[RIPL](/program/workshops/ripl) - Reliability In Planning and Learning
 
 </div>
 <div class="parallel-session">
 
-**Room 5 (25 capacity)**  
+**Meeting Rooms 1 & 2**  
 [Tutorial: Domain-Independent Dynamic Programming](/program/tutorials/domain_ind_dp)
 
 </div>
@@ -389,7 +390,7 @@ draft: false
 <div class="parallel-sessions">
 <div class="parallel-session">
 
-**Room 6 (25 capacity)**  
+**Studio**  
 [Tutorial: Suboptimal Best-First Search](/program/tutorials/bfs_no_reopen)
 
 </div>
@@ -409,13 +410,13 @@ draft: false
 <div class="parallel-sessions">
 <div class="parallel-session">
 
-**Room 1 (80 capacity)**  
+**Forum 1**  
 [LM4Plan](/program/workshops/lm4plan) - Planning in the Era of LLMs
 
 </div>
 <div class="parallel-session">
 
-**Room 4 (40 capacity)**  
+**Forum 2**  
 [CASP:ER](/program/workshops/casp_er) - Constraint And Satisfiability-based Planning: an Exploratory Research Workshop
 
 </div>
@@ -424,13 +425,13 @@ draft: false
 <div class="parallel-sessions">
 <div class="parallel-session">
 
-**Room 5 (25 capacity)**  
+**Meeting Rooms 1 & 2**  
 [Tutorial: Epistemic Planning](/program/tutorials/ep)
 
 </div>
 <div class="parallel-session">
 
-**Room 6 (25 capacity)**  
+**Studio**  
 [Tutorial: Suboptimal Best-First Search](/program/tutorials/bfs_no_reopen)
 
 </div>
