@@ -799,7 +799,7 @@ Location: Forum 1<br/>
 
 <div class="special-event">Community Meeting & Awards (15:30 - 17:15)</div>
 
-<div class="special-event">Evening: Banquet at <a href="https://ormond.unimelb.edu.au/">Ormond College</a> (Walking distance from Conference Venue)</div>
+<div class="special-event">Banquet at <a href="https://ormond.unimelb.edu.au/">Ormond College</a> (18:00 - 22:00), 18min Walk / 1.3 Km </div>
 
 ---
 

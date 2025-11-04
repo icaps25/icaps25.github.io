@@ -37,8 +37,8 @@ draft: false
 
 - *Monday, November 10 @ 8am-12pm*: [OPTIMA Industry Workshop](https://optima.org.au/icaps-smart-logistics/) Smarter Decision-Making in Action: Planning and Scheduling for Road Transport Optimisation
 - *Tuesday, November 11 @ 17:30 - 19:30*: Opening Reception at <a href="https://www.rmit.edu.au/content/dam/rmit/au/en/about/locations-and-facilities/locations/alumni-courtyard.jpg">RMIT alumni Courtyard </a> 
-- *Wednesday, November 12 @ evening*: [Demo](https://icaps25.icaps-conference.org/program/demos/) and [Poster]() 
-- *Thursday, November 13 @ Evening*: Banquet at [Ormond College](https://ormond.unimelb.edu.au/), Walking distance from Conference Venue
+- *Wednesday, November 12 @ 17:00-18:00*: [Demo](https://icaps25.icaps-conference.org/program/demos/) and [Poster]() 
+- *Thursday, November 13 @ 18:00-22:00*: Banquet at [Ormond College](https://ormond.unimelb.edu.au/), Walking distance from Conference Venue
 - *Friday, November 14*: Joint ICAPS & KR main track
 
 
@@ -358,7 +358,7 @@ draft: false
 <td colspan="3" style="text-align: center; background-color: #e6f3ff;"><strong>Community Meeting & Awards</strong></td>
 </tr>
 <tr>
-<td style="text-align: center;"><strong>Evening</strong></td>
+<td style="text-align: center;"><strong>18:00-Late</strong></td>
 <td colspan="3" style="text-align: center; background-color: #e6f3ff;"><strong>Banquet at <a href="https://ormond.unimelb.edu.au/">Ormond College</a> (Walking distance from Conference Venue)</strong></td>
 </tr>
 </tbody>
