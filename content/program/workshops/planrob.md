@@ -8,7 +8,8 @@ draft: false
 
 Co-located workshop at [ICAPS 2025](https://icaps25.icaps-conference.org/)\
 Melbourne, Australia\
-November 10-11, 2025
+November 10, 2025
+(Room: Studio)
 
 ## Description
 
@@ -34,7 +35,7 @@ Topics of interest include (but are not limited to):
  * adversarial action planning in competitive robot domains,
  * mixed-initiative planning and sliding autonomy for robotic systems.
 
-## Program
+## Program 10th of November (Room: Studio)
 
 Start 	End 	Event
 
