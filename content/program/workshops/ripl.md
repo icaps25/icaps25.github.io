@@ -35,8 +35,9 @@ RIPL will take place on Tuesday, November 11, 2025 in Room 3
 - **10:30 -- 12:00** -- Session 2 (Classical Planning and Action Policy Safety Analysis):
     - **Is This a Good Decision? Action Optimality Checking in Classical Planning**  <br>*Jan Eisenhut, Daniel Fišer, Wheeler Ruml and Jörg Hoffmann*
     - **Probabilistic Safety Verification of Neural Policies via Predicate Abstraction**  <br>*Marcel Vinzent, Holger Hermanns and Joerg Hoffmann*
-    - **Policy Safety Testing in Non-Deterministic Planning: Fuzzing, Test Oracles, Fault Analysis** <br>*Chaahat Jain, Daniel Sherbakov, Marcel Vinzent, Marcel Steinmetz, Jesse Davis and Joerg Hoffmann*
-    - **Safety Debugging of Tree-Ensemble Action Policies in AI Planning: From Fault Detection to Fault Fixing** <br>*Lorenzo Cascioli, Chaahat Jain, Marcel Steinmetz, Jesse Davis and Joerg Hoffmann*
+    - Combined talk:
+        - **Policy Safety Testing in Non-Deterministic Planning: Fuzzing, Test Oracles, Fault Analysis** <br>*Chaahat Jain, Daniel Sherbakov, Marcel Vinzent, Marcel Steinmetz, Jesse Davis and Joerg Hoffmann*
+        - **Safety Debugging of Tree-Ensemble Action Policies in AI Planning: From Fault Detection to Fault Fixing** <br>*Lorenzo Cascioli, Chaahat Jain, Marcel Steinmetz, Jesse Davis and Joerg Hoffmann*
 - **12:00 -- 13:30** -- Lunch Break
 - **13:30 -- 15:00** -- Session 3 (GPT for Planning and Numerical Planning):
     - **Enhancing GPT-based Planning Policies by Model-based Plan Validation** <br>*Nicholas Rossetti, Massimiliano Tummolo, Alfonso Emilio Gerevini, Matteo Olivato, Luca Putelli and Ivan Serina*
