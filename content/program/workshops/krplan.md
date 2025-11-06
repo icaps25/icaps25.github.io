@@ -14,7 +14,7 @@ Registration is possible through either ICAPS or KR (full or workshop registrati
 
 
 <div style="background-color: #f5821f; padding: 15px; margin: 20px 0; border-radius: 8px;">
-<h2 style="margin: 0; font-size: 1.3em;">KRPlan takes place at The University of Melbourne, located a 5-minute walk from Melbourne Connect.
+<h2 style="margin: 0; font-size: 1.3em;">KRPlan takes place in the Lyle Theatre (Room 101) of the <a href="https://kr.org/KR2025/info_venue.html">Redmond Barry Building (Building 115)</a>, 17 Spencer Road, located a 5-minute walk from Melbourne Connect.
 The breaks are aligned with the other KR workshops, but we start slightly earlier.</h2>
 </div>
 
