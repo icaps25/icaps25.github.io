@@ -690,7 +690,7 @@ Location: Forum 1<br/>
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36140)
 
 **L29 (11:30 - 11:50)** - Chasing Progress, Not Perfection: Revisiting Strategies for End-to-End LLM Plan Generation  
-*Sukai Huang, Nir Lipovetzky*  
+*Sukai Huang, Trevor Cohn, Nir Lipovetzky*  
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36119)
 
 </div>

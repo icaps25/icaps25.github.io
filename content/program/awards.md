@@ -6,9 +6,9 @@ draft: false
 
 # ICAPS 2025 Outstanding Paper Awards
 
-The award adjudication process consisted of three steps. Accepted submissions were split into the student and general categories. Each set of papers was sorted in descending order of their review scores, using the scores attained by the end of the reviewing period. The two top papers in each category were then presented to the ICAPS 2025 topic chairs for evaluation, who then cast a vote to determine the winner and provided a rationale for their decision. Neither conference nor program chairs were involved in the decision making of these awards.
+The award adjudication process consisted of three steps. Accepted submissions were split into the student and general categories. Each set of papers was sorted in descending order of their review scores, using the scores attained by the end of the reviewing period. The two top papers in each category were then presented to the ICAPS 2025 topic chairs for evaluation, who then cast a vote to determine the winner and provided a rationale for their decision. **Neither conference nor program chairs were involved in the decision making of these awards.**
 
-## Best Paper Awards
+# Best Paper Awards
 
 This year, the award is shared amongst two submissions, which tied for the winning spot.
 
@@ -23,7 +23,7 @@ This year, the award is shared amongst two submissions, which tied for the winni
 
 </center>
 
-## Best Student Paper Award
+# Best Student Paper Award
 
 <center>
 
@@ -31,7 +31,7 @@ This year, the award is shared amongst two submissions, which tied for the winni
 *[Safe Interval Randomized Path Planinng For Manipulators](https://ojs.aaai.org/index.php/ICAPS/article/view/36120)*
 </center>
 
-## Best Student Paper Award (Honourable Mention)
+# Best Student Paper Award (Honourable Mention)
 
 <center>
 
