@@ -8,7 +8,7 @@ draft: false
 
 ## Schedule
 
-** Room -- Meeting Room 3 **
+**Room -- Meeting Room 3**
 
 
 | Time          | Event                              |
