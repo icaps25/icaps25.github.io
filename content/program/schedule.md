@@ -475,7 +475,7 @@ Location: Forum 1<br/>
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header">Numeric and Temporal Planning I</div>
-<div class="session-info">Location: Forum 1 | Session Chair: TBA</div>
+<div class="session-info">Location: Forum 1 | Session Chair: Miquel Ramirez</div>
 
 **L1 (10:30 - 10:50)** - Platform-Aware Mission Planning  
 *Stefan Panjkovic, Alessandro Cimatti, Andrea Micheli, Stefano Tonetta*  
@@ -499,7 +499,7 @@ Location: Forum 1<br/>
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header">Classical Planning I</div>
-<div class="session-info">Location: Forum 2 | Session Chair: TBA</div>
+<div class="session-info">Location: Forum 2 | Session Chair: Patrik Haslum</div>
 
 **L2 (10:30 - 10:50)** - A Formalism for Optimal Search with Dynamic Heuristics  
 *Remo Christen, Florian Pommerening, Clemens Büchner, Malte Helmert*  
@@ -539,7 +539,7 @@ Location: Forum 1<br/>
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header">Alternative Formulations of Classical Planning</div>
-<div class="session-info">Location: Forum 1 | Session Chair: TBA</div>
+<div class="session-info">Location: Forum 1 | Session Chair: AndreA Orlandini</div>
 
 **L9 (13:30 - 13:50)** - On the Gains from Using Action Observations in Domain Repair  
 *Alba Gragera, Raquel Fuentetaja, Angel Garcia Olaya, Fernando Fernández*  
@@ -563,23 +563,23 @@ Location: Forum 1<br/>
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header">Non-Deterministic Planning I</div>
-<div class="session-info">Location: Forum 2 | Session Chair: TBA</div>
+<div class="session-info">Location: Forum 2 | Session Chair: Sasha Rubin</div>
 
-**L10 (13:30 - 13:50)** - Observation Adaptation via Annealed Importance Resampling for Partially Observable Markov Decision Processes  
-*Yunuo Zhang, Baiting Luo, Ayan Mukhopadhyay, Abhishek Dubey*  
-[View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36132)
-
-**L12 (13:50 - 14:10)** - Partially Observable Monte-Carlo Graph Search  
+**L10 (13:30 - 13:50)** - Partially Observable Monte-Carlo Graph Search  
 *YANG YOU, Vincent Thomas, Alex Schutz, Robert Skilton, Nick Hawes, Olivier Buffet*  
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36129)
 
-**L14 (14:10 - 14:30)** - Landmark-Assisted Monte Carlo Planning  
+**L12 (13:50 - 14:10)** - Landmark-Assisted Monte Carlo Planning  
 *David H. Chan, Mark Roberts, Dana S. Nau*  
 [Previously Published Papers Track]
 
-**L16 (14:30 - 14:50)** - Cost-Optimal FOND Planning as Bi-Objective Best-First Search  
+**L14 (14:10 - 14:30)** - Cost-Optimal FOND Planning as Bi-Objective Best-First Search  
 *Diego Aineto, Enrico Scala*  
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36110) | **[Best Paper Award]**
+
+**L16 (14:30 - 14:50)** - Observation Adaptation via Annealed Importance Resampling for Partially Observable Markov Decision Processes  
+*Yunuo Zhang, Baiting Luo, Ayan Mukhopadhyay, Abhishek Dubey*  
+[View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36132)
 
 </div>
 </div>
@@ -603,7 +603,7 @@ Location: Forum 1<br/>
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header">Machine Learning in Planning and Scheduling I</div>
-<div class="session-info">Location: Forum 1 | Session Chair: TBA</div>
+<div class="session-info">Location: Forum 1 | Session Chair: Felipe Trevizan</div>
 
 **L17 (15:30 - 15:50)** - Per-Domain Generalizing Policies: On Validation Instances and Scaling Behavior  
 *Timo P. Gros, Nicola J. Müller, Daniel Fišer, Isabel Valera, Verena Wolf, Jörg Hoffmann*  
@@ -623,7 +623,7 @@ Location: Forum 1<br/>
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header">Search in Planning and Scheduling I</div>
-<div class="session-info">Location: Forum 2 | Session Chair: TBA</div>
+<div class="session-info">Location: Forum 2 | Session Chair: Roman Barták</div>
 
 **L18 (15:30 - 15:50)** - Rack Position Optimization in Large-Scale Heterogeneous Data Centers  
 *Chang-Lin Chen, Jiayu Chen, Tian Lan, Zhaoxia Zhao, Hongbo Dong, Vaneet Aggarwal*  
@@ -675,7 +675,7 @@ Location: Forum 1<br/>
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header">LLMs in Planning and Scheduling I</div>
-<div class="session-info">Location: Forum 1 | Session Chair: TBA</div>
+<div class="session-info">Location: Forum 1 | Session Chair: Tim Niemueller</div>
 
 **L23 (10:30 - 10:50)** - Knowledge Engineering for Planning and Scheduling in the LLM Era  
 *Mauro Vallati, Roman Barták, Lukas Chrpa, Thomas Leo McCluskey, Ron Petrick*  
@@ -699,7 +699,7 @@ Location: Forum 1<br/>
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header">Numeric and Temporal Planning II</div>
-<div class="session-info">Location: Forum 2 | Session Chair: TBA</div>
+<div class="session-info">Location: Forum 2 | Session Chair: Nicola Gigante</div>
 
 **L24 (10:30 - 10:50)** - A Sampling Approach to Planning with Infinite Domain Control Variables  
 *Ángel Aso-Mollar, Diego Aineto, Enrico Scala, Eva Onaindia*  
@@ -739,7 +739,7 @@ Location: Forum 1<br/>
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header">Numeric and Temporal Planning III</div>
-<div class="session-info">Location: Forum 1 | Session Chair: TBA</div>
+<div class="session-info">Location: Forum 1 | Session Chair: Andrea Micheli</div>
 
 **L31 (13:30 - 13:50)** - On Using Lazy Greedy Best-First Search with Subgoaling Relaxation in Numeric Planning Problems  
 *Enrico Scala, Luigi Bonassi*  
@@ -763,7 +763,7 @@ Location: Forum 1<br/>
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header">Hierarchical Task Networks I & Non-Deterministic Planning II</div>
-<div class="session-info">Location: Forum 2 | Session Chair: TBA</div>
+<div class="session-info">Location: Forum 2 | Session Chair: Pascal Bercher</div>
 
 **L32 (13:30 - 13:50)** - Hardness of Chosen Length Planning Games and Regular Fixed Methods FOND HTN Planning  
 *P. Maurice Dekker, Gregor Behnke*  
@@ -822,7 +822,7 @@ Location: Forum 1<br/>
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header">Search in Planning and Scheduling II</div>
-<div class="session-info">Location: Forum 1 (ICAPS) | Session Chair: TBA</div>
+<div class="session-info">Location: Forum 1 (ICAPS) | Session Chair: Malte Helmert</div>
 
 **L39 (11:00 - 11:20)** - Parallelizing Multi-objective A* Search  
 *Saman Ahmadi, Nathan R. Sturtevant, Andrea Raith, Daniel Harabor, Mahdi Jalili*  
@@ -846,7 +846,7 @@ Location: Forum 1<br/>
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header">Machine Learning in Planning and Scheduling II</div>
-<div class="session-info">Location: Forum 2 (ICAPS) | Session Chair: TBA</div>
+<div class="session-info">Location: Forum 2 (ICAPS) | Session Chair: Hector Geffner</div>
 
 **L40 (11:00 - 11:20)** - Leveraging Action Relational Structures for Integrated Learning and Planning  
 *Ryan Xiao Wang, Felipe Trevizan*  
@@ -886,7 +886,7 @@ Location: Forum 1<br/>
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header">Hierarchical Task Networks II</div>
-<div class="session-info">Location: Forum 1 (ICAPS) | Session Chair: TBA</div>
+<div class="session-info">Location: Forum 1 (ICAPS) | Session Chair: Daniel Höller</div>
 
 **L47 (13:30 - 13:50)** - How Good is Perfect? On the Incompleteness of A* for Total-Order HTN Planning  
 *Mohammad Yousefi, Mario Schmautz, Patrik Haslum, Pascal Tobias Bercher*  
@@ -910,7 +910,7 @@ Location: Forum 1<br/>
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header">Non-Deterministic Planning III</div>
-<div class="session-info">Location: Forum 2 (ICAPS) | Session Chair: TBA</div>
+<div class="session-info">Location: Forum 2 (ICAPS) | Session Chair: Enrico Scala</div>
 
 **L48 (13:30 - 13:50)** - Going Topological in Multi-risk Extended Markov Ratio Decision Processes  
 *Alexander Zadorojniy, Orit Davidovich, Takayuki Osogami*  
@@ -950,7 +950,7 @@ Location: Forum 1<br/>
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header">Classical Planning II</div>
-<div class="session-info">Location: Forum 1 (ICAPS) | Session Chair: TBA</div>
+<div class="session-info">Location: Forum 1 (ICAPS) | Session Chair: Florian Pommerening</div>
 
 **L55 (15:30 - 15:50)** - Potential Heuristics: Weakening Consistency Constraints  
 *Pascal Lauer, Daniel Fišer*  
@@ -970,7 +970,7 @@ Location: Forum 1<br/>
 <div class="parallel-session">
 <div class="session-block">
 <div class="session-header">LLMs in Automated Planning & Scheduling II</div>
-<div class="session-info">Location: Forum 2 (ICAPS) | Session Chair: TBA</div>
+<div class="session-info">Location: Forum 2 (ICAPS) | Session Chair: Charles Gretton</div>
 
 **L56 (15:30 - 15:50)** - Automating the Generation of Prompts for LLM-based Action Choice in PDDL Planning  
 *Katharina Stein, Daniel Fišer, Jörg Hoffmann, Alexander Koller*  

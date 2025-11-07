@@ -13,7 +13,7 @@ draft: false
 | Time          | Event                      |
 |----------------|-----------------------------|
 | 9:00 - 9:15    | Welcome and Opening Remarks |
-| 9:15 - 10:00   | Invited Talk #1             |
+| 9:15 - 10:00   | Invited Talk from Marcus Hutter             |
 | 10:00 - 10:30  | AM Break                    |
 | 10:30 - 12:00  | Student Presentation        |
 | 12:00 - 1:30   | Lunch Break                 |
@@ -38,6 +38,31 @@ draft: false
 | 3:30–3:45    | Yifan Zhang              |
 | 3:45–4:00    | Anil B Murthy            |
 | 4:00–4:15    | Jiajia Song              |
+
+## Keynote Talks
+**Title: Universal Algorithmic Intelligence**
+Speaker: [Dr. Marcus Hutter](https://www.hutter1.net/)
+
+Abstract: There is great interest in understanding and constructing generally intelligent systems approaching and ultimately exceeding human intelligence. Universal AI is such a mathematical theory of machine super-intelligence. More precisely, AIXI is an elegant parameter-free theory of an optimal reinforcement learning agent embedded in an arbitrary unknown environment that possesses essentially all aspects of rational intelligence. The theory reduces all conceptual AI problems to pure computational questions. After a brief discussion of its philosophical, mathematical, and computational ingredients, I will give a formal definition and measure of intelligence, which is maximized by AIXI. AIXI can be viewed as the most powerful Bayes-optimal sequential decision maker, for which I will present general optimality results. This also motivates some variations such as knowledge-seeking and optimistic agents, and feature reinforcement learning. Finally I present some recent approximations, implementations, and applications of this modern top-down approach to AI.
+
+<b>Mini biography:</b>
+Marcus Hutter is Senior Staff Researcher at <a href="http://www.deepmind.com/" style="color: black;">DeepMind</a> and
+Professor in the <a href="http://cs.anu.edu.au/" style="color: black;">RSCS</a>
+at the <a href="http://www.anu.edu.au" style="color: black;">Australian National University</a>.
+He received his PhD and BSc in <a href="physics/physics.htm">physics</a> from the <a href="http://www.en.uni-muenchen.de/" style="color: black;">LMU</a> in Munich
+and a Habilitation, MSc, and BSc in informatics from the <a href="http://www.in.tum.de/en.html" style="color: black;">TU Munich</a>.
+Since 2000, his research at <a href="http://www.idsia.ch/" style="color: black;">IDSIA</a> and
+<a href="http://www.anu.edu.au/" style="color: black;">ANU</a> and <a href="http://www.deepmind.com/" style="color: black;">DeepMind</a>
+has centered around the information-theoretic foundations of inductive reasoning and reinforcement learning,
+which has resulted in 200+ <a href="official/publ.htm">publications</a>
+and several <a href="official/vitae.pdf#sec.awards">awards</a>.
+His <a href="ai/uaibook.htm">books</a> on “<a href="ai/uaibook2.htm">Universal Artificial Intelligence</a>”
+develop the first sound and complete <em>theory</em> of super-intelligent machines (ASI).
+He also runs the <a href="prize/index.htm">Human Knowledge Compression Contest</a>
+(500'000€ <a href="prize/index.htm">H-prize</a>).
+See <a target="_blank" href="http://www.hutter1.net/">http://www.hutter1.net/</a> for further information.
+
+
 
 ## Useful Resource
 Here are some helpful links that the [ICAPS DC 2022](https://icaps22.icaps-conference.org/dc-2022) Organizers compiled
