@@ -565,21 +565,21 @@ Location: Forum 1<br/>
 <div class="session-header">Non-Deterministic Planning I</div>
 <div class="session-info">Location: Forum 2 | Session Chair: Sasha Rubin</div>
 
-**L10 (13:30 - 13:50)** - Observation Adaptation via Annealed Importance Resampling for Partially Observable Markov Decision Processes  
-*Yunuo Zhang, Baiting Luo, Ayan Mukhopadhyay, Abhishek Dubey*  
-[View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36132)
-
-**L12 (13:50 - 14:10)** - Partially Observable Monte-Carlo Graph Search  
+**L10 (13:30 - 13:50)** - Partially Observable Monte-Carlo Graph Search  
 *YANG YOU, Vincent Thomas, Alex Schutz, Robert Skilton, Nick Hawes, Olivier Buffet*  
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36129)
 
-**L14 (14:10 - 14:30)** - Landmark-Assisted Monte Carlo Planning  
+**L12 (13:50 - 14:10)** - Landmark-Assisted Monte Carlo Planning  
 *David H. Chan, Mark Roberts, Dana S. Nau*  
 [Previously Published Papers Track]
 
-**L16 (14:30 - 14:50)** - Cost-Optimal FOND Planning as Bi-Objective Best-First Search  
+**L14 (14:10 - 14:30)** - Cost-Optimal FOND Planning as Bi-Objective Best-First Search  
 *Diego Aineto, Enrico Scala*  
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36110) | **[Best Paper Award]**
+
+**L16 (14:30 - 14:50)** - Observation Adaptation via Annealed Importance Resampling for Partially Observable Markov Decision Processes  
+*Yunuo Zhang, Baiting Luo, Ayan Mukhopadhyay, Abhishek Dubey*  
+[View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36132)
 
 </div>
 </div>
