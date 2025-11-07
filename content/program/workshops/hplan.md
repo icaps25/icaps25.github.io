@@ -44,7 +44,7 @@ The talk illustrates a journey from plan validation to plan correction, advocati
 <div style="display: inline-block; width: 68%; padding: 1%; vertical-align: middle;">
 <div style="margin:0; padding: 0; padding-left: 2%">
 <p>
-Roman Barták is a professor of computer science at Charles University, Prague. He works mainly in areas of automated planning and scheduling, with an emphasis on model-based approaches to problem-solving as a means to achieve trustworthy and explainable AI. Recently, his research has focused on two areas: multi-agent path finding and hierarchical planning.
+Roman Barták is a professor of computer science at Charles University, Prague. He works in the area of Artificial Intelligence with particular emphasis on automated planning and scheduling, constraint satisfaction, and knowledge representation. His research goal is to design intelligent autonomous agents (e.g. robots) that can plan their activities, do decisions, and act in real environment. He put strong emphasis on model-based approaches to problem-solving as a means to achieve trustworthy and explainable AI. Recently, his research has focused on two areas: multi-agent path finding and hierarchical planning.
 </p>
 </div>
 </div>
