@@ -87,13 +87,7 @@ ICAPS will be **in-person** this year. Authors of accepted workshop papers are e
 
 ## Keynotes 
 
-### Marcus Hutter - Title tba
-
-<div style="text-align: center;">
-<img style="border-radius: 50%;overflow: hidden;background-color:#373737;height: 200px;object-fit: cover;" width="200px"  src="./marcus.jpg">
-<h3><a target="blank" href="https://www.hutter1.net/">Marcus Hutter </a></h3>
- <h6> Senior Researcher, DeepMind and Professor, Australian National University</h6>
-</div> 
+### Marcus Hutter - Universal AI = General Planning + Reinforcement Learning
 
 
 ##### Biography
@@ -104,15 +98,18 @@ Since 2000, his research at [IDSIA](http://www.idsia.ch/"), [ANU](http://www.anu
      
 
 #### Abstract
-tba
+Classical Automated Planning considers deterministic, static, observable, known-world problems.
+Classical Statistical Machine Learning primarily deals with i.i.d. classification, regression, and clustering.
+Classical Reinforcement Learning aims at lifting many assumptions of both fields,
+but makes its own assumptions such as on-policy learning in finite-state episodic/ergodic/stationary fully-observable MDPs.
+Of course, all three fields have significantly broadened their reach to solve more general problems,
+which naturally led to some convergence and increasing overlap. 
+In this talk I will present, Universal Artificial Intelligence, a theory which unifies all three fields, lifting all assumptions mentioned above.
+UAI well-defines optimal sequential decision-making in arbitrary unknown environments, which can serve as a gold-standard for more practical but limited approaches to aim at.
+
 
 ### Charles Gretton - How I Learned to Stop Worrying and Trust the ML
 
-<div style="text-align: center;">
-<img style="border-radius: 50%;overflow: hidden;background-color:#373737;height: 200px;object-fit: cover;" width="200px"  src="./charles-gretton.jpg">
-<h3><a target="blank" href="https://comp.anu.edu.au/people/charles-gretton/">Charles Gretton </a></h3>
- <h6> Associate Professor, Australian National University</h6>
-</div> 
 
 #### Biography 
 
