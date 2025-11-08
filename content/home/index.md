@@ -28,6 +28,12 @@ Planning and Scheduling are optimisation problems which require finding a set of
 - [CPAIOR-2025](https://sites.google.com/view/cpaior2025): The 22nd International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research.
 - [Planning and Optimisation Summer School 2025](https://opss25.pathfinding.ai/), unlock the potential of planning and optimisation with us on 3-7th November in Melbourne, Australia.
 
+<div style="text-align: center; font-size: 1.5em; margin: 20px 0;">
+ <strong><a href="https://join.slack.com/t/icaps2025/shared_invite/zt-3gpj9v601-yZBmxBuD5Hn4V1S0aFReWw">Join the ICAPS 2025 Slack Community!</a></strong>
+</div>
+
+
+
 <!-- The organisers of ICAPS 2025 invite [technical paper
 submissions](/calls/main_track) from
 researchers and industrial practitioners, on all aspects of automated planning
