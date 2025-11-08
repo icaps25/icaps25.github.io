@@ -22,6 +22,9 @@ draft: false
 | 3:00 - 3:30    | Break                       |
 | 3:30 - 4:15    | Student Presentation        |
 | 4:15 - 5:30    | Poster Session              |
+| 6:00- 22:00    | Dinner with Mentors         |
+
+
 
 ## Student Presentation Schedule
 | Time        | Presenter                |
@@ -38,6 +41,8 @@ draft: false
 | 3:30–3:45    | Yifan Zhang              |
 | 3:45–4:00    | Anil B Murthy            |
 | 4:00–4:15    | Jiajia Song              |
+
+
 
 ## Keynote Talks
 **Title: Universal Algorithmic Intelligence**
@@ -67,8 +72,22 @@ Speaker: [Dr. Pulkit Verma](https://pulkitverma.net/)
 
 Abstract: Taskable AI systems are increasingly expected to operate in diverse, user-specific environments and perform tasks tailored to individual needs, all while improving over time. A critical challenge is determining whether these AI systems can safely and effectively fulfill the specific tasks users have in mind. In this talk, I will present my work on addressing this challenge, including methods for conducting independent, post-deployment differential assessments of AI systems. I will discuss the necessary requirements these systems must meet to enable such assessments. A key aspect of my approach involves a personalized AI assessment module that allows the AI to execute instruction sequences in simulators and respond to user queries about these executions. Finally, I will share our findings demonstrating that even a basic query-response interface can efficiently produce a user-interpretable model of an AI system's capabilities.
 
+## Doctoral Consortium and Launchpad Dinner
 
-## Useful Resource
+Join us for an evening of networking and celebration!
+
+**Venue:** [The Builder's Arms Hotel](https://www.buildersarmshotel.com.au/)  
+**Address:** [211 Gertrude Street, Fitzroy VIC 3065](https://maps.app.goo.gl/gqk2EQo85n7JxYsQA)
+
+**Schedule:**
+- **6:00 PM** - Guests arrive – drinks and canapé service commence
+- **10:00 PM** - Event concludes
+
+
+**Walking distance:** Approximately 30 minutes from The University of Melbourne.
+
+
+## Useful Resources
 Here are some helpful links that the [ICAPS DC 2022](https://icaps22.icaps-conference.org/dc-2022) Organizers compiled
 
 - **Invited talk by Subbarao (Rao) Kambhampati** from *ICAPS DC 2020* on **Planning in the Age of Deep Learning**.  

@@ -24,6 +24,8 @@ draft: false
 | 3:00 - 3:30    | Break                              |
 | 3:30 - 4:15    | Participating in DC Presentation (in Meeting Room 1&2)  |
 | 4:15 - 5:30    | Poster Session                     |
+| 6:00- 22:00    | Dinner with Mentors         |
+
 
 ## Keynote Talks
 **Title: Planning Your Path Through Academia**
@@ -39,5 +41,19 @@ Speaker: [Dr. Stylianos Vasileiou](https://thestlucas.com/)
 Abstract: Doing a PhD can be intimidating and challenging. However, when done right, it can be a momentous and transformative experience. In this talk, I will draw from my personal PhD endeavor and present a few friendly suggestions that I believe can lead to an enjoyable and fulfilling PhD experience. A PhD can be hard, but that does not mean that you cannot (or should not) have fun along the way.
 
 Bio: Stylianos (Stelios) Vasileiou is an Assistant Professor of AI at New Mexico State University. His main research interest lies in developing human-aware AI systems that can effectively interact and collaborate with human users. His research draws and combines ideas and techniques from several fields, including knowledge representation and reasoning, planning, machine learning, as well as philosophy and cognitive psychology. His work has been featured in leading conferences and journals such as AAAI, KR, NeurIPS, and JAIR. Prior to joining NMSU, he earned his PhD from the McKelvey School of Engineering at Washington University in St. Louis (2025), an MSc in Artificial Intelligence from the University of Southampton (2017), an MSc in Applied Mathematics from the University of Glasgow (2016), and finally a BSc in Statistics and Actuarial-Financial Mathematics from the University of the Aegean (2014).
+
+## Doctoral Consortium and Launchpad Dinner
+
+Join us for an evening of networking and celebration!
+
+**Venue:** [The Builder's Arms Hotel](https://www.buildersarmshotel.com.au/)  
+**Address:** [211 Gertrude Street, Fitzroy VIC 3065](https://maps.app.goo.gl/gqk2EQo85n7JxYsQA)
+
+**Schedule:**
+- **6:00 PM** - Guests arrive – drinks and canapé service commence
+- **10:00 PM** - Event concludes
+
+
+**Walking distance:** Approximately 30 minutes from The University of Melbourne.
 
 
