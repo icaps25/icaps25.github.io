@@ -62,6 +62,10 @@ He also runs the <a href="prize/index.htm">Human Knowledge Compression Contest</
 (500'000€ <a href="prize/index.htm">H-prize</a>).
 See <a target="_blank" href="http://www.hutter1.net/">http://www.hutter1.net/</a> for further information.
 
+**Title: Learning Interpretable Models for Autonomous Assessment of Taskable AI Systems**
+Speaker: [Dr. Pulkit Verma](https://pulkitverma.net/)
+
+Abstract: Taskable AI systems are increasingly expected to operate in diverse, user-specific environments and perform tasks tailored to individual needs, all while improving over time. A critical challenge is determining whether these AI systems can safely and effectively fulfill the specific tasks users have in mind. In this talk, I will present my work on addressing this challenge, including methods for conducting independent, post-deployment differential assessments of AI systems. I will discuss the necessary requirements these systems must meet to enable such assessments. A key aspect of my approach involves a personalized AI assessment module that allows the AI to execute instruction sequences in simulators and respond to user queries about these executions. Finally, I will share our findings demonstrating that even a basic query-response interface can efficiently produce a user-interpretable model of an AI system's capabilities.
 
 
 ## Useful Resource

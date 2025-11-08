@@ -17,7 +17,7 @@ draft: false
 </div>
 
 - November 3-7, 2025	[Summer School](https://icaps25.icaps-conference.org/summerschool/)
-- November 9, 2025		[Doctoral Consortium](https://icaps25.icaps-conference.org/calls/dc/)
+- November 9, 2025		[Doctoral Consortium](https://icaps25.icaps-conference.org/dc/) and [Launchpad](https://icaps25.icaps-conference.org/launchpad/)
 - Novmeber 10-11, 2025	[Workshops](https://icaps25.icaps-conference.org/program/ws_overview/) and [Tutorials](https://icaps25.icaps-conference.org/program/tutorial_overview/)
 - November 12-14, 2025	[ICAPS Main Conference](https://icaps25.icaps-conference.org/program/schedule/)
 
