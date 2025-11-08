@@ -77,3 +77,10 @@ Here are some helpful links that the [ICAPS DC 2022](https://icaps22.icaps-confe
 
 - **[Reviewing](https://sites.umiacs.umd.edu/elm/2016/02/01/mistakes-reviewers-make/)**
 
+Some additional helpful resources shared with us by Dr. Marcus Hutter:
+- [LaTeX Tips & Template & Writing Advice](http://www.hutter1.net/lattt.pdf) (33 pages accumulated over 25 years of supervising graduate students)
+
+- [Graduate & Undergraduate AI Book & Course Recommendations](http://www.hutter1.net/ai/introref.htm)
+
+- [AGI Jobs](http://www.hutter1.net/ai/agiroles.htm)
+
