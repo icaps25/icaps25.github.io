@@ -65,6 +65,10 @@ draft: false
 </thead>
 <tbody>
 <tr>
+<td style="text-align: center;"><strong>7:30</strong></td>
+<td colspan="6" style="text-align: center; background-color: #e6f3ff;"><strong>Registration Opens</strong></td>
+</tr>
+<tr>
 <td><strong>8:30 - 10:00</strong></td>
 <td style="background-color: #e6f7ff;"><strong>[W]</strong> <a href="/program/workshops/prl">PRL</a></td>
 <td style="background-color: #fff7e6;"><strong>[W]</strong> <a href="/program/workshops/industry_optima">OPTIMA</a></td>
@@ -153,6 +157,10 @@ draft: false
 </tr>
 </thead>
 <tbody>
+<tr>
+<td style="text-align: center;"><strong>7:30</strong></td>
+<td colspan="6" style="text-align: center; background-color: #e6f3ff;"><strong>Registration Opens</strong></td>
+</tr>
 <tr>
 <td><strong>8:30 - 10:00</strong></td>
 <td style="background-color: #e6f0ff;"><strong>[W]</strong> <a href="/program/workshops/lm4plan">LM4Plan</a></td>
@@ -248,6 +256,10 @@ draft: false
 </tr>
 </thead>
 <tbody>
+<tr>
+<td style="text-align: center;"><strong>7:30</strong></td>
+<td colspan="3" style="text-align: center; background-color: #e6f3ff;"><strong>Registration Opens</strong></td>
+</tr>
 <tr>
 <td><strong>8:40 - 9:00</strong></td>
 <td colspan="3" style="text-align: center; background-color: #e8f4f8;"><strong>Opening Remarks</strong></td>

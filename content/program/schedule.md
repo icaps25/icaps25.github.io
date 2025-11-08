@@ -89,6 +89,8 @@ draft: false
 <a href="#top" style="color: white; text-decoration: none; font-size: 0.6em; margin-left: 10px; opacity: 0.8;">↑ Back to Navigation</a></h2>
 </div>
 
+<div class="special-event">Registration Opens (7:30)</div>
+
 ### Session 1 (8:30 - 10:00)
 
 <div class="parallel-sessions">
@@ -253,6 +255,8 @@ draft: false
 <h2 style="margin: 0; font-size: 1.8em;">Tuesday, November 11, 2025 - Workshops and Tutorials 
 <a href="#top" style="color: white; text-decoration: none; font-size: 0.6em; margin-left: 10px; opacity: 0.8;">↑ Back to Navigation</a></h2>
 </div>
+
+<div class="special-event">Registration Opens (7:30)</div>
 
 ### Session 1 (8:30 - 10:00)
 
@@ -458,6 +462,8 @@ draft: false
 <h2 style="margin: 0; font-size: 1.8em;">Wednesday, November 12, 2025 - Main Conference Day 1 
 <a href="#top" style="color: white; text-decoration: none; font-size: 0.6em; margin-left: 10px; opacity: 0.8;">↑ Back to Navigation</a></h2>
 </div>
+
+<div class="special-event">Registration Opens (7:30)</div>
 
 <div class="special-event">Opening Remarks (8:40 - 9:00) - Forum 1</div>
 
