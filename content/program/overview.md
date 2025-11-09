@@ -224,7 +224,6 @@ draft: false
 <li><strong><a href="../workshops/lm4plan">LM4Plan</a></strong> - Planning in the Era of LLMs</li>
 <li><strong><a href="../workshops/hsdip">HSDIP</a></strong> - Heuristics and Search for Domain-Independent Planning</li>
 <li><strong><a href="../workshops/ripl">RIPL</a></strong> - Reliability In Planning and Learning</li>
-<li><s><strong><a href="../workshops/women_computing">WiC</a></strong> - Women in ICAPS</s> <b>Cancelled</b></li>
 <li><strong><a href="../workshops/casp_er">CASP:ER</a></strong> - Constraint And Satisfiability-based Planning: an Exploratory Research Workshop</li>
 <li><strong><a href="../workshops/krplan/">KRPlan</a></strong> - Knowledge Representation Meets Automated Planning (located at KR venue)</li>
 </ul>
