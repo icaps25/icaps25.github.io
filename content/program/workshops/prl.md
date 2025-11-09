@@ -57,10 +57,9 @@ ICAPS will be **in-person** this year. Authors of accepted workshop papers are e
 
 | Time (Melbourne) | Title |
 |:------------:|:-----------|
-| 8:30 am |**Opening Remarks** |
-| 8:30 - 09:30 am| **Keynote Marcus Hutter**      |
-| 09:30 - 10:00 am | **Session I**|
-|              | Srinivas Nedunuri - Synthesis of Shields for Safe Reinforcement Learning in Discrete and Continuous State and Action Spaces  |
+| 8:35 am |**Opening Remarks** |
+| 8:35 - 09:35 am| **Keynote Marcus Hutter**      |
+| 09:35 - 10:00 am | **Session I**|
 |              | Sukai Huang, Shu-Wei Liu, Nir Lipovetzky, Trevor Cohn - The Dark Side of Rich Rewards: Understanding and Mitigating Noise in VLM Rewards |
 | 10:00 - 10:30 am | *Coffee Break*    |
 | 10:30 am - 11:15 am | **Session II** |
@@ -142,7 +141,6 @@ The program includes a poster sessions. All accepted papers must present a poste
 * [poster] Multi-Agent Deep Reinforcement Learning for UAV Flocking and Collision Avoidance in Challenging Environments, *Mohammad Reza Rezaee, Nor Asilah Wati Abdul Hamid*
 * [talk+poster] Using Gradient-based Optimization for Planning with Deep Q-Networks in Parametrized Action Spaces, *Jonas Ehrhardt, Johannes Schmidt, René Heesch, Oliver Niggemann*
 * [talk+poster] Learning to Learn from Search, *Forest Agostinelli, Shahaf S. Shperberg*
-* [talk+poster] Synthesis of Shields for Safe Reinforcement Learning in Discrete and Continuous State and Action Spaces, *Srinivas Nedunuri*
 
 ## Submission Details
 
