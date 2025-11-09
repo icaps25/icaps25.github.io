@@ -43,11 +43,11 @@ Topics of interest include (but are not limited to):
 | 8:40 - 09:05 am|  Björn Döschl and Jane Jean Kiam, [Making Unified Planning Dynamic by Incorporating World State Updates via Feedback Loops](planRob-papers/PlanRob25_paper_3.pdf)     |
 | 09:05 - 09:30 am | William Jones, Hanna Kurniawati, Patrik Haslum and Ian Manchester; [Integrated Task and Motion Planning for Keel Block Optimisation at Captain Cook Graving Dock](planRob-papers/PlanRob25_paper_2.pdf) |
 | 09:30 - 09:55 am | Andy Li, Zhe Chen, Mor Vered and Daniel Harabor; [Revisiting Conflict Based Search with Continuous-Time](planRob-papers/PlanRob25_paper_3.pdf)    |
-| 10:00 am - 10:30 am | Coffee Break |
-| 10:30 am - 10:55 am| Alessandro Umbrico, Francesca Fracasso and Andrea Orlandini; Towards Knowledge-Driven Task Planning for Contextual Autonomy in Rescue Scenarios |
-| 10:55 am - 11:55 am | **Invited Talk** Rahul Shome; The 'and' of it all: Sampling-based Task and Motion Planning and Execution and Beyond |
+| 10:00 - 10:30 am | Coffee Break |
+| 10:30 - 10:55 am| Alessandro Umbrico, Francesca Fracasso and Andrea Orlandini; Towards Knowledge-Driven Task Planning for Contextual Autonomy in Rescue Scenarios |
+| 10:55 - 11:55 am | **Invited Talk** Rahul Shome; The 'and' of it all: Sampling-based Task and Motion Planning and Execution and Beyond |
 | 11:55 - 12:00 pm  | **Closing Remarks** |
-|    12:00  - 13:30 pm  | *Lunch Break*    |
+| 12:00  - 13:30 pm  | *Lunch Break*    |
 
 ## Invited Talk by [RAHUL SHOME](https://rahulsho.me) 
 
