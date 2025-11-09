@@ -411,12 +411,12 @@ languageCode = 'en_AU'
     parent = "ws"
     url = "/program/workshops/ripl"
     weight = 100
-  [[menu.main]]
-    identifier = "women_computing"
-    name = "Women in Computing"
-    parent = "ws"
-    url = "/program/workshops/women_computing"
-    weight = 100
+ # [[menu.main]]
+ #   identifier = "women_computing"
+ #   name = "Women in Computing"
+ #   parent = "ws"
+ #   url = "/program/workshops/women_computing"
+ #   weight = 100
   [[menu.main]]
     identifier = "optima_workshop"
     name = "Industry - OPTIMA"
