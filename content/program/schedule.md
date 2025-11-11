@@ -631,17 +631,17 @@ Location: Forum 1<br/>
 <div class="session-header">Search in Planning and Scheduling I</div>
 <div class="session-info">Location: Forum 2 | Session Chair: Roman Barták</div>
 
-**L18 (15:30 - 15:50)** - Rack Position Optimization in Large-Scale Heterogeneous Data Centers  
-*Chang-Lin Chen, Jiayu Chen, Tian Lan, Zhaoxia Zhao, Hongbo Dong, Vaneet Aggarwal*  
-[View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36133)
-
-**L20 (15:50 - 16:10)** - Quality Diversity for Variational Quantum Circuit Optimization  
+**L18 (15:30 - 15:50)** - Quality Diversity for Variational Quantum Circuit Optimization  
 *Maximilian Zorn, Jonas Stein, Maximilian Balthasar Mansky, Philipp Altmann, Michael Kölle, Claudia Linnhoff-Popien*  
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36139)
 
-**L22 (16:10 - 16:30)** - New Exact Methods for Solving Quadratic Traveling Salesman Problem  
+**L20 (15:50 - 16:10)** - New Exact Methods for Solving Quadratic Traveling Salesman Problem  
 *Yuxiao Chen, Anubhav Singh, Ryo Kuroiwa, Chris Beck*  
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36134)
+
+**L22 (16:10 - 16:30)** - Rack Position Optimization in Large-Scale Heterogeneous Data Centers  
+*Chang-Lin Chen, Jiayu Chen, Tian Lan, Zhaoxia Zhao, Hongbo Dong, Vaneet Aggarwal*  
+[View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36133)
 
 </div>
 </div>
