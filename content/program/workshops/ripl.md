@@ -27,22 +27,22 @@ RIPL will take place on Tuesday, November 11, 2025 in Room 3
 
 - **8:30 - 10:00** -- Session 1 (Learning and Planning):
     - Welcome and Open Remarks
-    - **Effective Data Generation and Feature Selection in Learning for Planning** <br>*Mingyu Hao, Dillon Chen, Felipe Trevizan and Sylvie Thiebaux*
-    - **Learning Lifted Action Models from Unsupervised Visual Traces** <br>*Kai Xi, Stephen Gould and Sylvie Thiebaux*
-    - **Using Action-Policy Testing in RL to Reduce the Number of Bugs** <br>*Hasan Ferit Eniser, Songtuan Lin, Nicola Müller, Anastasia Isychev, Valentin Wüstholz, Isabel Valera, Jörg Hoffmann and Maria Christakis*
-    - **Option Invention for Continual Hierarchical Reinforcement Learning and Planning** <br>*Rashmeet Kaur Nayyar and Siddharth Srivastava*
+    - **[Effective Data Generation and Feature Selection in Learning for Planning](../ripl-papers/RIPL_2025_paper_10.pdf)** <br>*Mingyu Hao, Dillon Chen, Felipe Trevizan and Sylvie Thiebaux*
+    - **[Towards Learning Lifted Action Models from Unsupervised Visual Traces](../ripl-papers/RIPL_2025_paper_11.pdf)** <br>*Kai Xi, Stephen Gould and Sylvie Thiebaux*
+    - **[Using Action-Policy Testing in RL to Reduce the Number of Bugs](../ripl-papers/RIPL_2025_paper_5.pdf)** <br>*Hasan Ferit Eniser, Songtuan Lin, Nicola Müller, Anastasia Isychev, Valentin Wüstholz, Isabel Valera, Jörg Hoffmann and Maria Christakis*
+    - **[Autonomous Option Invention for Continual Hierarchical Reinforcement Learning and Planning](../ripl-papers/RIPL_2025_paper_4.pdf)** <br>*Rashmeet Kaur Nayyar and Siddharth Srivastava*
 - **10:00 -- 10:30** -- Coffee Break
 - **10:30 -- 12:00** -- Session 2 (Classical Planning and Action Policy Safety Analysis):
-    - **Is This a Good Decision? Action Optimality Checking in Classical Planning**  <br>*Jan Eisenhut, Daniel Fišer, Wheeler Ruml and Jörg Hoffmann*
-    - **Probabilistic Safety Verification of Neural Policies via Predicate Abstraction**  <br>*Marcel Vinzent, Holger Hermanns and Joerg Hoffmann*
+    - **[Is This a Good Decision? Action Optimality Checking in Classical Planning](../ripl-papers/RIPL_2025_paper_9.pdf)**  <br>*Jan Eisenhut, Daniel Fišer, Wheeler Ruml and Jörg Hoffmann*
+    - **[Probabilistic Safety Verification of Neural Policies via Predicate Abstraction](../ripl-papers/RIPL_2025_paper_1.pdf)**  <br>*Marcel Vinzent, Holger Hermanns and Joerg Hoffmann*
     - Combined talk:
-        - **Policy Safety Testing in Non-Deterministic Planning: Fuzzing, Test Oracles, Fault Analysis** <br>*Chaahat Jain, Daniel Sherbakov, Marcel Vinzent, Marcel Steinmetz, Jesse Davis and Joerg Hoffmann*
-        - **Safety Debugging of Tree-Ensemble Action Policies in AI Planning: From Fault Detection to Fault Fixing** <br>*Lorenzo Cascioli, Chaahat Jain, Marcel Steinmetz, Jesse Davis and Joerg Hoffmann*
+        - **[Policy Safety Testing in Non-Deterministic Planning: Fuzzing, Test Oracles, Fault Analysis](../ripl-papers/RIPL_2025_paper_2.pdf)** <br>*Chaahat Jain, Daniel Sherbakov, Marcel Vinzent, Marcel Steinmetz, Jesse Davis and Joerg Hoffmann*
+        - **[Safety Debugging of Tree-Ensemble Action Policies in AI Planning: From Fault Detection to Fault Fixing](../ripl-papers/RIPL_2025_paper_8.pdf)** <br>*Lorenzo Cascioli, Chaahat Jain, Marcel Steinmetz, Jesse Davis and Joerg Hoffmann*
 - **12:00 -- 13:30** -- Lunch Break
 - **13:30 -- 15:00** -- Session 3 (GPT for Planning and Numerical Planning):
-    - **Enhancing GPT-based Planning Policies by Model-based Plan Validation** <br>*Nicholas Rossetti, Massimiliano Tummolo, Alfonso Emilio Gerevini, Matteo Olivato, Luca Putelli and Ivan Serina*
-    - **Integrating Classical Planners with GPT-based Planning Policies** <br>*Massimiliano Tummolo, Nicholas Rossetti, Alfonso Emilio Gerevini, Matteo Olivato, Luca Putelli and Ivan Serina*
-    - **Adapting to Novelties in Numeric Planning** <br>*Nir Aharoni, Yarin Benyamin, Shiwali Mohan and Roni Stern*
+    - **[Enhancing GPT-based Planning Policies by Model-based Plan Validation](../ripl-papers/RIPL_2025_paper_6.pdf)** <br>*Nicholas Rossetti, Massimiliano Tummolo, Alfonso Emilio Gerevini, Matteo Olivato, Luca Putelli and Ivan Serina*
+    - **[Integrating Classical Planners with GPT-based Planning Policies](../ripl-papers/RIPL_2025_paper_7.pdf)** <br>*Massimiliano Tummolo, Nicholas Rossetti, Alfonso Emilio Gerevini, Matteo Olivato, Luca Putelli and Ivan Serina*
+    - **[Adapting to Novelties in Numeric Planning](../ripl-papers/RIPL_2025_paper_12.pdf)** <br>*Nir Aharoni, Yarin Benyamin, Shiwali Mohan and Roni Stern*
     - Open discussion
 
 
