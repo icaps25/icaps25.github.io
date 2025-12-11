@@ -31,7 +31,7 @@ Topics of interests include but are not limited to:
 ## Invited Talk
 
 <div style="width: 100%; margin: -2; padding: 0%;">
-<h3 style="color:orange;"><strong>Roman Bartak</strong></h3>
+<h3 style="color:orange;"><strong>Roman Barták</strong></h3>
 <h6>From Validation to Correction: Towards Autonomous Agents Based on Hierarchical Planning</h6>
 <p>
 Hierarchical plan validation gets a sequence of actions and determines if it is a valid hierarchical plan, that is, it is executable and can be obtained by decomposing some task. If the plan is valid, then a proof in the form of the task decomposition structure can be released. However, if the plan is not valid, plan validators simply state this. This is where plan correction may help by suggesting modifications to invalid plans, such as inserting or deleting actions, to make them valid hierarchical plans. Although the original motivation for plan correction was to enhance plan validation, the concept proved to apply to various other problems, including plan recognition, plan repair, and even planning itself.
@@ -56,13 +56,13 @@ Roman Barták is a professor of computer science at Charles University, Prague. 
 
 The workshop takes place on Monday morning, November 10th, from 8:30 am to 12:00 pm.
 
-- &nbsp;&nbsp;8:30 -- &nbsp;&nbsp;9:30 &nbsp; &nbsp; &nbsp;  ***Invited Talk*** by **Roman Bartak**
+- &nbsp;&nbsp;8:30 -- &nbsp;&nbsp;9:30 &nbsp; &nbsp; &nbsp;  ***Invited Talk*** by **Roman Barták**
 - &nbsp;&nbsp;9:30 -- &nbsp;&nbsp;10:00 &nbsp; &nbsp; Poster teaser talks, 3--4 minutes each:
   * **David Chan**: Hierarchical Goal Networks for Probabilistic Planning: Preliminary Results
   * **Michael Staud** A Formal Analysis of Hierarchical Planning with Multi-Level Abstraction
   * **Israel Puerta-Merino**: Towards a General Framework for HTN Modeling with LLMs
   * **Pascal Lauer**: PSPACE Planning With Expressivity Beyond STRIPS: Plan Constraints via Unordered HTNs, ILPs, Numerical Goals, and More
-  * **Roman Bartak**: Parsing-based Planner for Totally Ordered HTN Planning with Task Insertion
+  * **Roman Barták**: Parsing-based Planner for Totally Ordered HTN Planning with Task Insertion
   * **Daniel Hoeller**, from PRL workshop: Learning Heuristic Functions for HTN Planning 
 - 10:00 -- 10:30 &nbsp; &nbsp; &nbsp;  ***coffee break! :)***
 - 10:30 -- 12:00 &nbsp; &nbsp; &nbsp;  poster session for the above six talks/papers
