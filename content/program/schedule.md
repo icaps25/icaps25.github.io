@@ -85,7 +85,7 @@ draft: false
 ---
 
 <div id="monday" style="text-align: center; background-color: #f5821f; color: white; padding: 15px; margin: 20px 0; border-radius: 8px;">
-<h2 style="margin: 0; font-size: 1.8em;">Monday, November 10, 2025 - Workshops and Tutorials 
+<h2 style="margin: 0; font-size: 1.8em;">Monday, November 10, 2025 - Workshops and Tutorials
 <a href="#top" style="color: white; text-decoration: none; font-size: 0.6em; margin-left: 10px; opacity: 0.8;">↑ Back to Navigation</a></h2>
 </div>
 
@@ -96,13 +96,13 @@ draft: false
 <div class="parallel-sessions">
 <div class="parallel-session">
 
-**Forum 1**  
+**Forum 1**
 [PRL](/program/workshops/prl) -  Bridging the Gap Between AI Planning and Reinforcement Learning
 
 </div>
 <div class="parallel-session">
 
-**Forum 2**  
+**Forum 2**
 [OPTIMA](/program/workshops/industry_optima) - Industry Workshop: Smarter Decision-Making in Action
 
 </div>
@@ -111,19 +111,19 @@ draft: false
 <div class="parallel-sessions">
 <div class="parallel-session">
 
-**Launchpad**  
+**Launchpad**
 [HPlan](/program/workshops/hplan) - Hierarchical Planning
 
 </div>
 <div class="parallel-session">
 
-**Studio**  
+**Studio**
 [PlanRob](/program/workshops/planrob) - Planning and Robotics
 
 </div>
 </div>
 
-**Meeting Room 1 & 2**  
+**Meeting Room 1 & 2**
 [HAXP](/program/workshops/haxp) - Human-Aware and Explainable Planning
 
 <div class="break-slot">Coffee Break (10:00 - 10:30)</div>
@@ -133,13 +133,13 @@ draft: false
 <div class="parallel-sessions">
 <div class="parallel-session">
 
-**Forum 1**  
+**Forum 1**
 [PRL](/program/workshops/prl) -  Bridging the Gap Between AI Planning and Reinforcement Learning
 
 </div>
 <div class="parallel-session">
 
-**Forum 2**  
+**Forum 2**
 [OPTIMA](/program/workshops/industry_optima) - Industry Workshop: Smarter Decision-Making in Action
 
 </div>
@@ -148,19 +148,19 @@ draft: false
 <div class="parallel-sessions">
 <div class="parallel-session">
 
-**Launchpad**  
+**Launchpad**
 [HPlan](/program/workshops/hplan) - Hierarchical Planning
 
 </div>
 <div class="parallel-session">
 
-**Studio**  
+**Studio**
 [PlanRob](/program/workshops/planrob) - Planning and Robotics
 
 </div>
 </div>
 
-**Meeting Rooms 1 & 2**  
+**Meeting Rooms 1 & 2**
 [HAXP](/program/workshops/haxp) - Human-Aware and Explainable Planning
 
 <div class="break-slot">Lunch Break (12:00 - 13:30)</div>
@@ -170,13 +170,13 @@ draft: false
 <div class="parallel-sessions">
 <div class="parallel-session">
 
-**Forum 1**  
+**Forum 1**
 [PRL](/program/workshops/prl) - Bridging the Gap Between AI Planning and Reinforcement Learning
 
 </div>
 <div class="parallel-session">
 
-**Forum 2**  
+**Forum 2**
 [Tutorial: Learning for Planning](/program/tutorials/learn_plan)
 
 </div>
@@ -185,13 +185,13 @@ draft: false
 <div class="parallel-sessions">
 <div class="parallel-session">
 
-**Launchpad**  
+**Launchpad**
 [KEPS](/program/workshops/keps) - Knowledge Engineering for Planning and Scheduling
 
 </div>
 <div class="parallel-session">
 
-**Studio**  
+**Studio**
 [PlanRob](/program/workshops/planrob) - Planning and Robotics
 
 </div>
@@ -200,13 +200,13 @@ draft: false
 <div class="parallel-sessions">
 <div class="parallel-session">
 
-**Level 2 - Room 2508**  
+**Level 2 - Room 2508**
 [Tutorial: MiniZinc](/program/tutorials/minizinc) - Constraint Programming for Planning
 
 </div>
 <div class="parallel-session">
 
-**Meeting Rooms 1 & 2**  
+**Meeting Rooms 1 & 2**
 [HAXP](/program/workshops/haxp) - Human-Aware and Explainable Planning
 
 </div>
@@ -219,13 +219,13 @@ draft: false
 <div class="parallel-sessions">
 <div class="parallel-session">
 
-**Forum 1**  
+**Forum 1**
 [PRL](/program/workshops/prl) - Bridging the Gap Between AI Planning and Reinforcement Learning
 
 </div>
 <div class="parallel-session">
 
-**Forum 2**  
+**Forum 2**
 [Tutorial: Learning for Planning](/program/tutorials/learn_plan)
 
 </div>
@@ -234,25 +234,25 @@ draft: false
 <div class="parallel-sessions">
 <div class="parallel-session">
 
-**Launchpad**  
+**Launchpad**
 [KEPS](/program/workshops/keps) - Knowledge Engineering for Planning and Scheduling
 
 </div>
 <div class="parallel-session">
 
-**Level 2 - Room 2508**  
+**Level 2 - Room 2508**
 [Tutorial: MiniZinc](/program/tutorials/minizinc) - Constraint Programming for Planning
 
 </div>
 </div>
 
-**Meeting Rooms 1 & 2**  
+**Meeting Rooms 1 & 2**
 [HAXP](/program/workshops/haxp) - Human-Aware and Explainable Planning
 
 ---
 
 <div id="tuesday" style="text-align: center; background-color: #f5821f; color: white; padding: 15px; margin: 20px 0; border-radius: 8px;">
-<h2 style="margin: 0; font-size: 1.8em;">Tuesday, November 11, 2025 - Workshops and Tutorials 
+<h2 style="margin: 0; font-size: 1.8em;">Tuesday, November 11, 2025 - Workshops and Tutorials
 <a href="#top" style="color: white; text-decoration: none; font-size: 0.6em; margin-left: 10px; opacity: 0.8;">↑ Back to Navigation</a></h2>
 </div>
 
@@ -263,13 +263,13 @@ draft: false
 <div class="parallel-sessions">
 <div class="parallel-session">
 
-**Forum 1**  
+**Forum 1**
 [LM4Plan](/program/workshops/lm4plan) - Planning in the Era of LLMs
 
 </div>
 <div class="parallel-session">
 
-**Forum 2**  
+**Forum 2**
 [HSDIP](/program/workshops/hsdip) - Heuristics and Search for Domain-Independent Planning
 
 </div>
@@ -278,13 +278,13 @@ draft: false
 <div class="parallel-sessions">
 <div class="parallel-session">
 
-**Launchpad**  
+**Launchpad**
 [RIPL](/program/workshops/ripl) - Reliability In Planning and Learning
 
 </div>
 <div class="parallel-session">
 
-**Studio**  
+**Studio**
 [Tutorial: Planning as SAT / Integrating ML and Planning in SAT](/program/tutorials/plan_sat) (Joint Session)
 
 </div>
@@ -293,13 +293,13 @@ draft: false
 <div class="parallel-sessions">
 <div class="parallel-session">
 
-**Meeting Rooms 1 & 2**  
+**Meeting Rooms 1 & 2**
 [Tutorial: LTLf Synthesis](/program/tutorials/ltlf)
 
 </div>
 <div class="parallel-session">
 
-**KR Venue**  
+**KR Venue**
 [KRPlan](https://icaps25.icaps-conference.org/program/workshops/krplan/) - Knowledge Representation Meets Automated Planning<br/>
 <em>See details in <a href="https://kr.org/KR2025/schedule.html">KR program</a></em>
 
@@ -313,13 +313,13 @@ draft: false
 <div class="parallel-sessions">
 <div class="parallel-session">
 
-**Forum 1**  
+**Forum 1**
 [LM4Plan](/program/workshops/lm4plan) - Planning in the Era of LLMs
 
 </div>
 <div class="parallel-session">
 
-**Forum 2**  
+**Forum 2**
 [HSDIP](/program/workshops/hsdip) - Heuristics and Search for Domain-Independent Planning
 
 </div>
@@ -328,13 +328,13 @@ draft: false
 <div class="parallel-sessions">
 <div class="parallel-session">
 
-**Launchpad**  
+**Launchpad**
 [RIPL](/program/workshops/ripl) - Reliability In Planning and Learning
 
 </div>
 <div class="parallel-session">
 
-**Studio**  
+**Studio**
 [Tutorial: Planning as SAT](/program/tutorials/plan_sat)
 
 </div>
@@ -343,13 +343,13 @@ draft: false
 <div class="parallel-sessions">
 <div class="parallel-session">
 
-**Meeting Rooms 1 & 2**  
+**Meeting Rooms 1 & 2**
 [Tutorial: Integrating ML and Planning in SAT](/program/tutorials/ml_plan_sat)
 
 </div>
 <div class="parallel-session">
 
-**KR Venue**  
+**KR Venue**
 [KRPlan](https://icaps25.icaps-conference.org/program/workshops/krplan/) - Knowledge Representation Meets Automated Planning<br/>
 <em>See details in <a href="https://kr.org/KR2025/schedule.html">KR program</a></em>
 
@@ -363,13 +363,13 @@ draft: false
 <div class="parallel-sessions">
 <div class="parallel-session">
 
-**Forum 1**  
+**Forum 1**
 [LM4Plan](/program/workshops/lm4plan) - Planning in the Era of LLMs
 
 </div>
 <div class="parallel-session">
 
-**Forum 2**  
+**Forum 2**
 [CASP:ER](/program/workshops/casp_er) - Constraint And Satisfiability-based Planning: an Exploratory Research Workshop
 
 </div>
@@ -379,13 +379,13 @@ draft: false
 <div class="parallel-session">
 
 
-**Launchpad**  
+**Launchpad**
 [RIPL](/program/workshops/ripl) - Reliability In Planning and Learning
 
 </div>
 <div class="parallel-session">
 
-**Meeting Rooms 1 & 2**  
+**Meeting Rooms 1 & 2**
 [Tutorial: Domain-Independent Dynamic Programming](/program/tutorials/domain_ind_dp)
 
 </div>
@@ -394,13 +394,13 @@ draft: false
 <div class="parallel-sessions">
 <div class="parallel-session">
 
-**Studio**  
+**Studio**
 [Tutorial: Suboptimal Best-First Search](/program/tutorials/bfs_no_reopen)
 
 </div>
 <div class="parallel-session">
 
-**KR Venue**  
+**KR Venue**
 [KRPlan](https://icaps25.icaps-conference.org/program/workshops/krplan/) - Knowledge Representation Meets Automated Planning<br/>
 <em>See details in <a href="https://kr.org/KR2025/schedule.html">KR program</a></em>
 
@@ -414,13 +414,13 @@ draft: false
 <div class="parallel-sessions">
 <div class="parallel-session">
 
-**Forum 1**  
+**Forum 1**
 [LM4Plan](/program/workshops/lm4plan) - Planning in the Era of LLMs
 
 </div>
 <div class="parallel-session">
 
-**Forum 2**  
+**Forum 2**
 [CASP:ER](/program/workshops/casp_er) - Constraint And Satisfiability-based Planning: an Exploratory Research Workshop
 
 </div>
@@ -429,13 +429,13 @@ draft: false
 <div class="parallel-sessions">
 <div class="parallel-session">
 
-**Meeting Rooms 1 & 2**  
+**Meeting Rooms 1 & 2**
 [Tutorial: Epistemic Planning](/program/tutorials/ep)
 
 </div>
 <div class="parallel-session">
 
-**Studio**  
+**Studio**
 [Tutorial: Suboptimal Best-First Search](/program/tutorials/bfs_no_reopen)
 
 </div>
@@ -447,7 +447,7 @@ draft: false
 </div>
 <div class="parallel-session">
 
-**KR Venue**  
+**KR Venue**
 [KRPlan](https://icaps25.icaps-conference.org/program/workshops/krplan/) - Knowledge Representation Meets Automated Planning<br/>
 <em>See details in <a href="https://kr.org/KR2025/schedule.html">KR program</a></em>
 
@@ -459,7 +459,7 @@ draft: false
 ---
 
 <div id="wednesday" style="text-align: center; background-color: #f5821f; color: white; padding: 15px; margin: 20px 0; border-radius: 8px;">
-<h2 style="margin: 0; font-size: 1.8em;">Wednesday, November 12, 2025 - Main Conference Day 1 
+<h2 style="margin: 0; font-size: 1.8em;">Wednesday, November 12, 2025 - Main Conference Day 1
 <a href="#top" style="color: white; text-decoration: none; font-size: 0.6em; margin-left: 10px; opacity: 0.8;">↑ Back to Navigation</a></h2>
 </div>
 
@@ -468,9 +468,11 @@ draft: false
 <div class="special-event">Opening Remarks (8:40 - 9:00) - Forum 1</div>
 
 <div class="keynote-slot">
-<strong>Keynote (9:00 - 10:00)</strong><br/>
+<strong>Keynote (9:00 - 10:00) - Colocated with CPAIOR</strong><br/>
 Location: Forum 1<br/>
-<em>Hanna Kurniawati (Colocated with CPAIOR)</em>
+Sequential Decision-Making for Robots Operating in Non Deterministic and Partially Observable Worlds<br/>
+<em>Hanna Kurniawati</em> <br/>
+<a href="/program/tutorials/keynotes">View abstract & bio</a>
 </div>
 
 <div class="break-slot">Coffee Break (10:00 - 10:30)</div>
@@ -483,20 +485,20 @@ Location: Forum 1<br/>
 <div class="session-header">Numeric and Temporal Planning I</div>
 <div class="session-info">Location: Forum 1 | Session Chair: Miquel Ramirez</div>
 
-**L1 (10:30 - 10:50)** - Platform-Aware Mission Planning  
-*Stefan Panjkovic, Alessandro Cimatti, Andrea Micheli, Stefano Tonetta*  
+**L1 (10:30 - 10:50)** - Platform-Aware Mission Planning
+*Stefan Panjkovic, Alessandro Cimatti, Andrea Micheli, Stefano Tonetta*
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36105)
 
-**L3 (10:50 - 11:10)** - Temporal Numeric Planning with Patterns  
-*Matteo Cardellini, Enrico Giunchiglia*  
+**L3 (10:50 - 11:10)** - Temporal Numeric Planning with Patterns
+*Matteo Cardellini, Enrico Giunchiglia*
 [Previously Published Papers Track]
 
-**L5 (11:10 - 11:30)** - A Flow Based Planning Method for Multi-Agent Progression with Deployable Agents and Communication Constraints  
-*Emile Siboulet, Roland Godet, Arthur Bit-Monnot, Marc-Emmanuel Coupvent des Graviers, Christophe GUETTIER, Simon Lacroix*  
+**L5 (11:10 - 11:30)** - A Flow Based Planning Method for Multi-Agent Progression with Deployable Agents and Communication Constraints
+*Emile Siboulet, Roland Godet, Arthur Bit-Monnot, Marc-Emmanuel Coupvent des Graviers, Christophe GUETTIER, Simon Lacroix*
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36137)
 
-**L7 (11:30 - 11:50)** - Analyzing Launch Operations using the Spaceport Throughput Analysis Resource (STAR)  
-*Jeremy Frank, Richard Levinson, Vijayakumar Baskaran, Jeffrey S Brink*  
+**L7 (11:30 - 11:50)** - Analyzing Launch Operations using the Spaceport Throughput Analysis Resource (STAR)
+*Jeremy Frank, Richard Levinson, Vijayakumar Baskaran, Jeffrey S Brink*
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36144)
 
 </div>
@@ -507,20 +509,20 @@ Location: Forum 1<br/>
 <div class="session-header">Classical Planning I</div>
 <div class="session-info">Location: Forum 2 | Session Chair: Patrik Haslum</div>
 
-**L2 (10:30 - 10:50)** - A Formalism for Optimal Search with Dynamic Heuristics  
-*Remo Christen, Florian Pommerening, Clemens Büchner, Malte Helmert*  
+**L2 (10:30 - 10:50)** - A Formalism for Optimal Search with Dynamic Heuristics
+*Remo Christen, Florian Pommerening, Clemens Büchner, Malte Helmert*
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36098)
 
-**L4 (10:50 - 11:10)** - Pseudo-Boolean Proof Logging for Optimal Classical Planning  
-*Simon Dold, Malte Helmert, Jakob Nordström, Gabriele Röger, Tanja Schindler*  
+**L4 (10:50 - 11:10)** - Pseudo-Boolean Proof Logging for Optimal Classical Planning
+*Simon Dold, Malte Helmert, Jakob Nordström, Gabriele Röger, Tanja Schindler*
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36101)
 
-**L6 (11:10 - 11:30)** - Delete-Free Planning with Object Creation is Undecidable  
-*Augusto B. Corrêa*  
+**L6 (11:10 - 11:30)** - Delete-Free Planning with Object Creation is Undecidable
+*Augusto B. Corrêa*
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36099)
 
-**L8 (11:30 - 11:50)** - Alternation-Based Novelty Search  
-*Augusto B. Corrêa, Jendrik Seipp*  
+**L8 (11:30 - 11:50)** - Alternation-Based Novelty Search
+*Augusto B. Corrêa, Jendrik Seipp*
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36115)
 
 </div>
@@ -547,20 +549,20 @@ Location: Forum 1<br/>
 <div class="session-header">Alternative Formulations of Classical Planning</div>
 <div class="session-info">Location: Forum 1 | Session Chair: AndreA Orlandini</div>
 
-**L9 (13:30 - 13:50)** - On the Gains from Using Action Observations in Domain Repair  
-*Alba Gragera, Raquel Fuentetaja, Angel Garcia Olaya, Fernando Fernández*  
+**L9 (13:30 - 13:50)** - On the Gains from Using Action Observations in Domain Repair
+*Alba Gragera, Raquel Fuentetaja, Angel Garcia Olaya, Fernando Fernández*
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36136)
 
-**L11 (13:50 - 14:10)** - Strategies to Improve Goal Selection in Satisficing Oversubscription Planning  
-*Angel Garcia Olaya, Patricia J. Riddle, Mike Barley*  
+**L11 (13:50 - 14:10)** - Strategies to Improve Goal Selection in Satisficing Oversubscription Planning
+*Angel Garcia Olaya, Patricia J. Riddle, Mike Barley*
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36122)
 
-**L13 (14:10 - 14:30)** - On Generating Robust Plans and Linear Execution Strategies in Planning Against Nature  
-*Lukas Chrpa, Erez Karpas*  
+**L13 (14:10 - 14:30)** - On Generating Robust Plans and Linear Execution Strategies in Planning Against Nature
+*Lukas Chrpa, Erez Karpas*
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36114)
 
-**L15 (14:30 - 14:50)** - Speed vs Accuracy in Goal Recognition for Time-Sensitive Applications: a Game-Theoretic Approach  
-*Sara Bernardini, Fabio Fagnani, Santiago Franco*  
+**L15 (14:30 - 14:50)** - Speed vs Accuracy in Goal Recognition for Time-Sensitive Applications: a Game-Theoretic Approach
+*Sara Bernardini, Fabio Fagnani, Santiago Franco*
 [Previously Published Papers Track]
 
 </div>
@@ -571,20 +573,20 @@ Location: Forum 1<br/>
 <div class="session-header">Non-Deterministic Planning I</div>
 <div class="session-info">Location: Forum 2 | Session Chair: Sasha Rubin</div>
 
-**L10 (13:30 - 13:50)** - Partially Observable Monte-Carlo Graph Search  
-*YANG YOU, Vincent Thomas, Alex Schutz, Robert Skilton, Nick Hawes, Olivier Buffet*  
+**L10 (13:30 - 13:50)** - Partially Observable Monte-Carlo Graph Search
+*YANG YOU, Vincent Thomas, Alex Schutz, Robert Skilton, Nick Hawes, Olivier Buffet*
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36129)
 
-**L12 (13:50 - 14:10)** - Landmark-Assisted Monte Carlo Planning  
-*David H. Chan, Mark Roberts, Dana S. Nau*  
+**L12 (13:50 - 14:10)** - Landmark-Assisted Monte Carlo Planning
+*David H. Chan, Mark Roberts, Dana S. Nau*
 [Previously Published Papers Track]
 
-**L14 (14:10 - 14:30)** - Cost-Optimal FOND Planning as Bi-Objective Best-First Search  
-*Diego Aineto, Enrico Scala*  
+**L14 (14:10 - 14:30)** - Cost-Optimal FOND Planning as Bi-Objective Best-First Search
+*Diego Aineto, Enrico Scala*
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36110) | **[Best Paper Award]**
 
-**L16 (14:30 - 14:50)** - Observation Adaptation via Annealed Importance Resampling for Partially Observable Markov Decision Processes  
-*Yunuo Zhang, Baiting Luo, Ayan Mukhopadhyay, Abhishek Dubey*  
+**L16 (14:30 - 14:50)** - Observation Adaptation via Annealed Importance Resampling for Partially Observable Markov Decision Processes
+*Yunuo Zhang, Baiting Luo, Ayan Mukhopadhyay, Abhishek Dubey*
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36132)
 
 </div>
@@ -611,16 +613,16 @@ Location: Forum 1<br/>
 <div class="session-header">Machine Learning in Planning and Scheduling I</div>
 <div class="session-info">Location: Forum 1 | Session Chair: Felipe Trevizan</div>
 
-**L17 (15:30 - 15:50)** - Per-Domain Generalizing Policies: On Validation Instances and Scaling Behavior  
-*Timo P. Gros, Nicola J. Müller, Daniel Fišer, Isabel Valera, Verena Wolf, Jörg Hoffmann*  
+**L17 (15:30 - 15:50)** - Per-Domain Generalizing Policies: On Validation Instances and Scaling Behavior
+*Timo P. Gros, Nicola J. Müller, Daniel Fišer, Isabel Valera, Verena Wolf, Jörg Hoffmann*
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36118)
 
-**L19 (15:50 - 16:10)** - Learning Efficiency Meets Symmetry Breaking  
-*Yingbin Bai, Sylvie Thiebaux, Felipe Trevizan*  
+**L19 (15:50 - 16:10)** - Learning Efficiency Meets Symmetry Breaking
+*Yingbin Bai, Sylvie Thiebaux, Felipe Trevizan*
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36112)
 
-**L21 (16:10 - 16:30)** - On Picking Good Policies: Leveraging Action-Policy Testing in Policy Training  
-*Jan Eisenhut, Daniel Fišer, Isabel Valera, Jörg Hoffmann*  
+**L21 (16:10 - 16:30)** - On Picking Good Policies: Leveraging Action-Policy Testing in Policy Training
+*Jan Eisenhut, Daniel Fišer, Isabel Valera, Jörg Hoffmann*
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36116)
 
 </div>
@@ -631,16 +633,16 @@ Location: Forum 1<br/>
 <div class="session-header">Search in Planning and Scheduling I</div>
 <div class="session-info">Location: Forum 2 | Session Chair: Roman Barták</div>
 
-**L18 (15:30 - 15:50)** - Quality Diversity for Variational Quantum Circuit Optimization  
-*Maximilian Zorn, Jonas Stein, Maximilian Balthasar Mansky, Philipp Altmann, Michael Kölle, Claudia Linnhoff-Popien*  
+**L18 (15:30 - 15:50)** - Quality Diversity for Variational Quantum Circuit Optimization
+*Maximilian Zorn, Jonas Stein, Maximilian Balthasar Mansky, Philipp Altmann, Michael Kölle, Claudia Linnhoff-Popien*
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36139)
 
-**L20 (15:50 - 16:10)** - New Exact Methods for Solving Quadratic Traveling Salesman Problem  
-*Yuxiao Chen, Anubhav Singh, Ryo Kuroiwa, Chris Beck*  
+**L20 (15:50 - 16:10)** - New Exact Methods for Solving Quadratic Traveling Salesman Problem
+*Yuxiao Chen, Anubhav Singh, Ryo Kuroiwa, Chris Beck*
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36134)
 
-**L22 (16:10 - 16:30)** - Rack Position Optimization in Large-Scale Heterogeneous Data Centers  
-*Chang-Lin Chen, Jiayu Chen, Tian Lan, Zhaoxia Zhao, Hongbo Dong, Vaneet Aggarwal*  
+**L22 (16:10 - 16:30)** - Rack Position Optimization in Large-Scale Heterogeneous Data Centers
+*Chang-Lin Chen, Jiayu Chen, Tian Lan, Zhaoxia Zhao, Hongbo Dong, Vaneet Aggarwal*
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36133)
 
 </div>
@@ -663,14 +665,15 @@ Location: Forum 1<br/>
 ---
 
 <div id="thursday" style="text-align: center; background-color: #f5821f; color: white; padding: 15px; margin: 20px 0; border-radius: 8px;">
-<h2 style="margin: 0; font-size: 1.8em;">Thursday, November 13, 2025 - Main Conference Day 2 
+<h2 style="margin: 0; font-size: 1.8em;">Thursday, November 13, 2025 - Main Conference Day 2
 <a href="#top" style="color: white; text-decoration: none; font-size: 0.6em; margin-left: 10px; opacity: 0.8;">↑ Back to Navigation</a></h2>
 </div>
 
 <div class="keynote-slot">
-<strong>Keynote (9:00 - 10:00)</strong><br/>
+<strong>Keynote (9:00 - 10:00) - Colocated with CPAIOR</strong><br/>
 Location: Forum 1<br/>
-<em>Bistra Dilkina (Colocated with CPAIOR)</em>
+<em>Bistra Dilkina</em><br/>
+<a href="/program/tutorials/keynotes">View abstract & bio</a>
 </div>
 
 <div class="break-slot">Coffee Break (10:00 - 10:30)</div>
@@ -683,20 +686,20 @@ Location: Forum 1<br/>
 <div class="session-header">LLMs in Planning and Scheduling I</div>
 <div class="session-info">Location: Forum 1 | Session Chair: Tim Niemueller</div>
 
-**L23 (10:30 - 10:50)** - Knowledge Engineering for Planning and Scheduling in the LLM Era  
-*Mauro Vallati, Roman Barták, Lukas Chrpa, Thomas Leo McCluskey, Ron Petrick*  
+**L23 (10:30 - 10:50)** - Knowledge Engineering for Planning and Scheduling in the LLM Era
+*Mauro Vallati, Roman Barták, Lukas Chrpa, Thomas Leo McCluskey, Ron Petrick*
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36142)
 
-**L25 (10:50 - 11:10)** - Revisiting LLMs in Planning from Literature Review: a Semi-Automated Analysis Approach and Evolving Categories Representing Shifting Perspectives  
-*Vishal Pallagani, Nitin Gupta, Bharath Chandra Muppasani, Biplav Srivastava*  
+**L25 (10:50 - 11:10)** - Revisiting LLMs in Planning from Literature Review: a Semi-Automated Analysis Approach and Evolving Categories Representing Shifting Perspectives
+*Vishal Pallagani, Nitin Gupta, Bharath Chandra Muppasani, Biplav Srivastava*
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36141)
 
-**L27 (11:10 - 11:30)** - On Planning Through LLMs  
-*Mattia Chiari, Luca Putelli, Nicholas Rossetti, Ivan Serina, Alfonso Gerevini*  
+**L27 (11:10 - 11:30)** - On Planning Through LLMs
+*Mattia Chiari, Luca Putelli, Nicholas Rossetti, Ivan Serina, Alfonso Gerevini*
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36140)
 
-**L29 (11:30 - 11:50)** - Chasing Progress, Not Perfection: Revisiting Strategies for End-to-End LLM Plan Generation  
-*Sukai Huang, Trevor Cohn, Nir Lipovetzky*  
+**L29 (11:30 - 11:50)** - Chasing Progress, Not Perfection: Revisiting Strategies for End-to-End LLM Plan Generation
+*Sukai Huang, Trevor Cohn, Nir Lipovetzky*
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36119)
 
 </div>
@@ -707,20 +710,20 @@ Location: Forum 1<br/>
 <div class="session-header">Numeric and Temporal Planning II</div>
 <div class="session-info">Location: Forum 2 | Session Chair: Nicola Gigante</div>
 
-**L24 (10:30 - 10:50)** - A Sampling Approach to Planning with Infinite Domain Control Variables  
-*Ángel Aso-Mollar, Diego Aineto, Enrico Scala, Eva Onaindia*  
+**L24 (10:30 - 10:50)** - A Sampling Approach to Planning with Infinite Domain Control Variables
+*Ángel Aso-Mollar, Diego Aineto, Enrico Scala, Eva Onaindia*
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36111)
 
-**L26 (10:50 - 11:10)** - Initial Condition Retrieving for Hybrid and Numeric Planning Problems  
-*Matteo Cardellini, Francesco Percassi, Marco Maratea, Mauro Vallati*  
+**L26 (10:50 - 11:10)** - Initial Condition Retrieving for Hybrid and Numeric Planning Problems
+*Matteo Cardellini, Francesco Percassi, Marco Maratea, Mauro Vallati*
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36097)
 
-**L28 (11:10 - 11:30)** - On the Notion of Plan Quality for PDDL+  
-*Francesco Percassi, Enrico Scala, Mauro Vallati*  
+**L28 (11:10 - 11:30)** - On the Notion of Plan Quality for PDDL+
+*Francesco Percassi, Enrico Scala, Mauro Vallati*
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36106)
 
-**L30 (11:30 - 11:50)** - A Lazy Approach to Neural Numerical Planning with Control Parameters  
-*René Heescha, Alessandro Cimatti, Jonas Ehrhardta, Alexander Diedricha, Oliver Niggemanna*  
+**L30 (11:30 - 11:50)** - A Lazy Approach to Neural Numerical Planning with Control Parameters
+*René Heescha, Alessandro Cimatti, Jonas Ehrhardta, Alexander Diedricha, Oliver Niggemanna*
 [Previously Published Papers Track]
 
 </div>
@@ -747,20 +750,20 @@ Location: Forum 1<br/>
 <div class="session-header">Numeric and Temporal Planning III</div>
 <div class="session-info">Location: Forum 1 | Session Chair: Andrea Micheli</div>
 
-**L31 (13:30 - 13:50)** - On Using Lazy Greedy Best-First Search with Subgoaling Relaxation in Numeric Planning Problems  
-*Enrico Scala, Luigi Bonassi*  
+**L31 (13:30 - 13:50)** - On Using Lazy Greedy Best-First Search with Subgoaling Relaxation in Numeric Planning Problems
+*Enrico Scala, Luigi Bonassi*
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36125)
 
-**L33 (13:50 - 14:10)** - A* for Bounding Shortest Paths in the Graphs of Convex Sets  
-*Kaarthik Sundar, Sivakumar Rathinam*  
+**L33 (13:50 - 14:10)** - A* for Bounding Shortest Paths in the Graphs of Convex Sets
+*Kaarthik Sundar, Sivakumar Rathinam*
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36127)
 
-**L35 (14:10 - 14:30)** - Safe Interval Randomized Path Planning For Manipulators  
-*Nuraddin Kerimov, Aleksandr Onegin, Konstantin Yakovlev*  
+**L35 (14:10 - 14:30)** - Safe Interval Randomized Path Planning For Manipulators
+*Nuraddin Kerimov, Aleksandr Onegin, Konstantin Yakovlev*
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36120)  | **[Best Student Paper Award]**
 
-**L37 (14:30 - 14:50)** - State-Based Disassembly Planning  
-*Chao Lei, Nir Lipovetzky, Krista A. Ehinger*  
+**L37 (14:30 - 14:50)** - State-Based Disassembly Planning
+*Chao Lei, Nir Lipovetzky, Krista A. Ehinger*
 [Previously Published Papers Track]
 
 </div>
@@ -771,20 +774,20 @@ Location: Forum 1<br/>
 <div class="session-header">Hierarchical Task Networks I & Non-Deterministic Planning II</div>
 <div class="session-info">Location: Forum 2 | Session Chair: Pascal Bercher</div>
 
-**L32 (13:30 - 13:50)** - Hardness of Chosen Length Planning Games and Regular Fixed Methods FOND HTN Planning  
-*P. Maurice Dekker, Gregor Behnke*  
+**L32 (13:30 - 13:50)** - Hardness of Chosen Length Planning Games and Regular Fixed Methods FOND HTN Planning
+*P. Maurice Dekker, Gregor Behnke*
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36100)
 
-**L34 (13:50 - 14:10)** - HTN Plan Repair Algorithms Compared: Strengths and Weaknesses of Different Methods  
-*Paul Zaidins, Robert P. Goldman, Ugur Kuter, Dana S. Nau, Mark Roberts*  
+**L34 (13:50 - 14:10)** - HTN Plan Repair Algorithms Compared: Strengths and Weaknesses of Different Methods
+*Paul Zaidins, Robert P. Goldman, Ugur Kuter, Dana S. Nau, Mark Roberts*
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36131)  | **[Best Paper Award (Honourable Mention)]**
 
-**L36 (14:10 - 14:30)** - Agent Planning Programs as Non-deterministic Planning under Fairness  
-*Nitin Yadav, Sebastian Sardina, Hector Geffner*  
+**L36 (14:10 - 14:30)** - Agent Planning Programs as Non-deterministic Planning under Fairness
+*Nitin Yadav, Sebastian Sardina, Hector Geffner*
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36138)
 
-**L38 (14:30 - 14:50)** - LTLf Adaptive Synthesis for Multi-Tier Goals in Nondeterministic Domains  
-*Giuseppe De Giacomo, Gianmarco Parretti, Shufang Zhu*  
+**L38 (14:30 - 14:50)** - LTLf Adaptive Synthesis for Multi-Tier Goals in Nondeterministic Domains
+*Giuseppe De Giacomo, Gianmarco Parretti, Shufang Zhu*
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36135)
 
 </div>
@@ -810,14 +813,15 @@ Location: Forum 1<br/>
 ---
 
 <div id="friday" style="text-align: center; background-color: #f5821f; color: white; padding: 15px; margin: 20px 0; border-radius: 8px;">
-<h2 style="margin: 0; font-size: 1.8em;">Friday, November 14, 2025 - Main Conference Day 3 (Joint ICAPS & KR) 
+<h2 style="margin: 0; font-size: 1.8em;">Friday, November 14, 2025 - Main Conference Day 3 (Joint ICAPS & KR)
 <a href="#top" style="color: white; text-decoration: none; font-size: 0.6em; margin-left: 10px; opacity: 0.8;">↑ Back to Navigation</a></h2>
 </div>
 
 <div class="keynote-slot">
-<strong>Keynote (9:30 - 10:30)</strong><br/>
+<strong>Keynote (9:30 - 10:30) - Colocated with KR</strong><br/>
 Location: Forum 1<br/>
-<em>Son Tran (Colocated with KR)</em>
+<em>Son Tran</em> <br/>
+<a href="/program/tutorials/keynotes">View abstract & bio</a>
 </div>
 
 <div class="break-slot">Coffee Break (10:30 - 11:00)</div>
@@ -830,20 +834,20 @@ Location: Forum 1<br/>
 <div class="session-header">Search in Planning and Scheduling II</div>
 <div class="session-info">Location: Forum 1 (ICAPS) | Session Chair: Malte Helmert</div>
 
-**L39 (11:00 - 11:20)** - Parallelizing Multi-objective A* Search  
-*Saman Ahmadi, Nathan R. Sturtevant, Andrea Raith, Daniel Harabor, Mahdi Jalili*  
+**L39 (11:00 - 11:20)** - Parallelizing Multi-objective A* Search
+*Saman Ahmadi, Nathan R. Sturtevant, Andrea Raith, Daniel Harabor, Mahdi Jalili*
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36109)  | **[Best Paper Award]**
 
-**L41 (11:20 - 11:40)** - Parallel Greedy Best-First Search with a Bound on Expansions Relative to Sequential Search  
-*Takumi Shimoda, Alex Fukunaga*  
+**L41 (11:20 - 11:40)** - Parallel Greedy Best-First Search with a Bound on Expansions Relative to Sequential Search
+*Takumi Shimoda, Alex Fukunaga*
 [Previously Published Papers Track]
 
-**L43 (11:40 - 12:00)** - Instance-based Approximation Guarantees for Graph-based Nearest Neighbor Search  
-*Yannick Bosch, Sabine Storandt*  
+**L43 (11:40 - 12:00)** - Instance-based Approximation Guarantees for Graph-based Nearest Neighbor Search
+*Yannick Bosch, Sabine Storandt*
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36113)
 
-**L45 (12:00 - 12:20)** - Posthoc: The Visualisation Platform for Search  
-*Kevin Zheng, Daniel Harabor, Michael Wybrow*  
+**L45 (12:00 - 12:20)** - Posthoc: The Visualisation Platform for Search
+*Kevin Zheng, Daniel Harabor, Michael Wybrow*
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36145)
 
 </div>
@@ -854,20 +858,20 @@ Location: Forum 1<br/>
 <div class="session-header">Machine Learning in Planning and Scheduling II</div>
 <div class="session-info">Location: Forum 2 (ICAPS) | Session Chair: Hector Geffner</div>
 
-**L40 (11:00 - 11:20)** - Leveraging Action Relational Structures for Integrated Learning and Planning  
-*Ryan Xiao Wang, Felipe Trevizan*  
+**L40 (11:00 - 11:20)** - Leveraging Action Relational Structures for Integrated Learning and Planning
+*Ryan Xiao Wang, Felipe Trevizan*
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36128)
 
-**L42 (11:20 - 11:40)** - Is This Plan Necessarily Redundant? On the Computational Complexity of Unobserved Domain Learning  
-*Pascal Bachor, P. Maurice Dekker, Gregor Behnke*  
+**L42 (11:20 - 11:40)** - Is This Plan Necessarily Redundant? On the Computational Complexity of Unobserved Domain Learning
+*Pascal Bachor, P. Maurice Dekker, Gregor Behnke*
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36096)
 
-**L44 (11:40 - 12:00)** - Learning Lifted STRIPS Models from Action Traces alone: A Simple, General, and Scalable Solution  
-*Jonas Gösgens, Niklas Jansen, Hector Geffner*  
+**L44 (11:40 - 12:00)** - Learning Lifted STRIPS Models from Action Traces alone: A Simple, General, and Scalable Solution
+*Jonas Gösgens, Niklas Jansen, Hector Geffner*
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36117)
 
-**L46 (12:00 - 12:20)** - Lifted action models learning from partial traces  
-*Leonardo Lamanna, Luciano Serafini, Alessandro Saetti, Alfonso Emilio Gerevini, Paolo Traverso*  
+**L46 (12:00 - 12:20)** - Lifted action models learning from partial traces
+*Leonardo Lamanna, Luciano Serafini, Alessandro Saetti, Alfonso Emilio Gerevini, Paolo Traverso*
 [Previously Published Papers Track]
 
 </div>
@@ -894,20 +898,20 @@ Location: Forum 1<br/>
 <div class="session-header">Hierarchical Task Networks II</div>
 <div class="session-info">Location: Forum 1 (ICAPS) | Session Chair: Daniel Höller</div>
 
-**L47 (13:30 - 13:50)** - How Good is Perfect? On the Incompleteness of A* for Total-Order HTN Planning  
-*Mohammad Yousefi, Mario Schmautz, Patrik Haslum, Pascal Tobias Bercher*  
+**L47 (13:30 - 13:50)** - How Good is Perfect? On the Incompleteness of A* for Total-Order HTN Planning
+*Mohammad Yousefi, Mario Schmautz, Patrik Haslum, Pascal Tobias Bercher*
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36107)
 
-**L49 (13:50 - 14:10)** - Tight Bounds for Lifted HTN Plan Verification and Bounded Plan Existence  
-*Pascal Lauer, S.T. Lin, Pascal Tobias Bercher*  
+**L49 (13:50 - 14:10)** - Tight Bounds for Lifted HTN Plan Verification and Bounded Plan Existence
+*Pascal Lauer, S.T. Lin, Pascal Tobias Bercher*
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36102)
 
-**L51 (14:10 - 14:30)** - Landmark Generation in HTN Planning Revisited  
-*Victor Scherer Putrich, Felipe Meneguzzi, André Grahl Pereira*  
+**L51 (14:10 - 14:30)** - Landmark Generation in HTN Planning Revisited
+*Victor Scherer Putrich, Felipe Meneguzzi, André Grahl Pereira*
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36123)
 
-**L53 (14:30 - 14:50)** -  SibylSatOpt: a MaxSAT-based Greedy Optimal Search for TOHTN Planning  
-*Gaspard Quenard, Damien Pellier, Humbert FIORINO*  
+**L53 (14:30 - 14:50)** -  SibylSatOpt: a MaxSAT-based Greedy Optimal Search for TOHTN Planning
+*Gaspard Quenard, Damien Pellier, Humbert FIORINO*
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36124)
 
 </div>
@@ -918,20 +922,20 @@ Location: Forum 1<br/>
 <div class="session-header">Non-Deterministic Planning III</div>
 <div class="session-info">Location: Forum 2 (ICAPS) | Session Chair: Enrico Scala</div>
 
-**L48 (13:30 - 13:50)** - Going Topological in Multi-risk Extended Markov Ratio Decision Processes  
-*Alexander Zadorojniy, Orit Davidovich, Takayuki Osogami*  
+**L48 (13:30 - 13:50)** - Going Topological in Multi-risk Extended Markov Ratio Decision Processes
+*Alexander Zadorojniy, Orit Davidovich, Takayuki Osogami*
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36108)
 
-**L50 (13:50 - 14:10)** - Howard's Policy Iteration is Subexponential for Deterministic Markov Decision Problems with Rewards of Fixed Bit-size and Arbitrary Discount Factor  
-*Dibyangshu Mukherjee, Shivaram Kalyanakrishnan*  
+**L50 (13:50 - 14:10)** - Howard's Policy Iteration is Subexponential for Deterministic Markov Decision Problems with Rewards of Fixed Bit-size and Arbitrary Discount Factor
+*Dibyangshu Mukherjee, Shivaram Kalyanakrishnan*
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36104)
 
-**L52 (14:10 - 14:30)** - An Improved Lower Bound on the Length of Locally-Improving Policy Sequences in MDPs with Large Action Sets  
-*Pratyush Agarwal, Mulinti Shaik Wajid, Shivaram Kalyanakrishnan*  
+**L52 (14:10 - 14:30)** - An Improved Lower Bound on the Length of Locally-Improving Policy Sequences in MDPs with Large Action Sets
+*Pratyush Agarwal, Mulinti Shaik Wajid, Shivaram Kalyanakrishnan*
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36095)
 
-**L54 (14:30 - 14:50)** - HDDLGym: A Tool for Studying Multi-Agent Hierarchical Problems Defined in HDDL with OpenAI Gym  
-*Ngoc La, Ruaridh Mon-Williams, Julie Shah*  
+**L54 (14:30 - 14:50)** - HDDLGym: A Tool for Studying Multi-Agent Hierarchical Problems Defined in HDDL with OpenAI Gym
+*Ngoc La, Ruaridh Mon-Williams, Julie Shah*
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36143)
 
 </div>
@@ -958,16 +962,16 @@ Location: Forum 1<br/>
 <div class="session-header">Classical Planning II</div>
 <div class="session-info">Location: Forum 1 (ICAPS) | Session Chair: Florian Pommerening</div>
 
-**L55 (15:30 - 15:50)** - Potential Heuristics: Weakening Consistency Constraints  
-*Pascal Lauer, Daniel Fišer*  
+**L55 (15:30 - 15:50)** - Potential Heuristics: Weakening Consistency Constraints
+*Pascal Lauer, Daniel Fišer*
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36121)
 
-**L57 (15:50 - 16:10)** - Continuing the Quest for Polynomial Time Heuristics in PDDL Input Size: Tractable Cases for Lifted h^{add}  
-*Pascal Lauer, Alvaro Torralba, Daniel Höller, Jörg Hoffmann*  
+**L57 (15:50 - 16:10)** - Continuing the Quest for Polynomial Time Heuristics in PDDL Input Size: Tractable Cases for Lifted h^{add}
+*Pascal Lauer, Alvaro Torralba, Daniel Höller, Jörg Hoffmann*
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36103)
 
-**L59 (16:10 - 16:30)** - Count-Based Novelty Exploration in Classical Planning  
-*Giacomo Rosa, Nir Lipovetzky*  
+**L59 (16:10 - 16:30)** - Count-Based Novelty Exploration in Classical Planning
+*Giacomo Rosa, Nir Lipovetzky*
 [Previously Published Papers Track]
 
 </div>
@@ -978,12 +982,12 @@ Location: Forum 1<br/>
 <div class="session-header">LLMs in Automated Planning & Scheduling II</div>
 <div class="session-info">Location: Forum 2 (ICAPS) | Session Chair: Charles Gretton</div>
 
-**L56 (15:30 - 15:50)** - Automating the Generation of Prompts for LLM-based Action Choice in PDDL Planning  
-*Katharina Stein, Daniel Fišer, Jörg Hoffmann, Alexander Koller*  
+**L56 (15:30 - 15:50)** - Automating the Generation of Prompts for LLM-based Action Choice in PDDL Planning
+*Katharina Stein, Daniel Fišer, Jörg Hoffmann, Alexander Koller*
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36126)
 
-**L58 (15:50 - 16:10)** - DynTaskMAS: A Dynamic Task Graph-driven Framework for Asynchronous and Parallel LLM-based Multi-Agent Systems  
-*Junwei Yu, Yepeng Ding, Hiroyuki Sato*  
+**L58 (15:50 - 16:10)** - DynTaskMAS: A Dynamic Task Graph-driven Framework for Asynchronous and Parallel LLM-based Multi-Agent Systems
+*Junwei Yu, Yepeng Ding, Hiroyuki Sato*
 [View Paper](https://ojs.aaai.org/index.php/ICAPS/article/view/36130)
 
 </div>
