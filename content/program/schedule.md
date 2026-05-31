@@ -472,7 +472,7 @@ draft: false
 Location: Forum 1<br/>
 Sequential Decision-Making for Robots Operating in Non Deterministic and Partially Observable Worlds<br/>
 <em>Hanna Kurniawati</em> <br/>
-<a href="/program/tutorials/keynotes">View abstract & bio</a>
+<a href="/program/keynotes">View abstract & bio</a>
 </div>
 
 <div class="break-slot">Coffee Break (10:00 - 10:30)</div>
@@ -673,7 +673,7 @@ Sequential Decision-Making for Robots Operating in Non Deterministic and Partial
 <strong>Keynote (9:00 - 10:00) - Colocated with CPAIOR</strong><br/>
 Location: Forum 1<br/>
 <em>Bistra Dilkina</em><br/>
-<a href="/program/tutorials/keynotes">View abstract & bio</a>
+<a href="/program/keynotes">View abstract & bio</a>
 </div>
 
 <div class="break-slot">Coffee Break (10:00 - 10:30)</div>
@@ -821,7 +821,7 @@ Location: Forum 1<br/>
 <strong>Keynote (9:30 - 10:30) - Colocated with KR</strong><br/>
 Location: Forum 1<br/>
 <em>Son Tran</em> <br/>
-<a href="/program/tutorials/keynotes">View abstract & bio</a>
+<a href="/program/keynotes">View abstract & bio</a>
 </div>
 
 <div class="break-slot">Coffee Break (10:30 - 11:00)</div>
